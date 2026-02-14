@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-14T16:49:34.652436+08:00",
-  "total_titles_processed": 1159,
+  "generated_at": "2026-02-14T17:25:15.704992+08:00",
+  "total_titles_processed": 1195,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 52,
+      "match_count": 54,
       "titles": [
         {
           "title": "特朗普：泽连斯基必须行动起来，否则将错失好机会",
@@ -18,6 +18,31 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[04时49分 ~ 13时52分]"
+        },
+        {
+          "title": "特朗普证实美军将向中东派第二艘航母",
+          "url": "https://news.ifeng.com/c/8qj2ZhXi0EY",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[10时38分 ~ 17时25分]"
+        },
+        {
+          "title": "特朗普称美国将向中东增派第二艘航母 施压伊朗达成协议",
+          "url": "https://www.cls.cn/detail/2290097",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9,
+            10,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[10时38分 ~ 17时25分]"
         },
         {
           "title": "中方回应特朗普或将4月访华",
@@ -40,6 +65,18 @@
           "time_info": "[00时57分 ~ 15时39分]"
         },
         {
+          "title": "美军被曝正做准备：一旦特朗普下令攻击伊朗 行动或持续数周！",
+          "url": "https://www.cls.cn/detail/2290201",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时47分 ~ 17时25分]"
+        },
+        {
           "title": "特朗普将访问委内瑞拉",
           "url": "https://news.ifeng.com/c/8qitxi0GRdt",
           "source": "凤凰网",
@@ -51,42 +88,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[04时49分 ~ 14时56分]"
-        },
-        {
-          "title": "特朗普证实美军将向中东派第二艘航母",
-          "url": "https://news.ifeng.com/c/8qj2ZhXi0EY",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时38分 ~ 16时49分]"
-        },
-        {
-          "title": "特朗普称美国将向中东增派第二艘航母 施压伊朗达成协议",
-          "url": "https://www.cls.cn/detail/2290097",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时38分 ~ 16时49分]"
-        },
-        {
-          "title": "美军被曝正做准备：一旦特朗普下令攻击伊朗 行动或持续数周！",
-          "url": "https://www.cls.cn/detail/2290201",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时47分 ~ 16时49分]"
         },
         {
           "title": "因刺杀特朗普未遂被判终身监禁的枪手提起上诉",
@@ -154,6 +155,17 @@
           "time_info": "[03时50分 ~ 10时38分]"
         },
         {
+          "title": "美国国务卿鲁比奥：美国特使维特科夫和特朗普女婿库什纳很快就会安排一些会晤。",
+          "url": "https://flash.jin10.com/detail/20260214165909253800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
+        },
+        {
           "title": "美军将向中东派出第二艘航母 特朗普称将访问委内瑞拉 | 环球市场",
           "url": "https://www.cls.cn/detail/2290112",
           "source": "财联社热门",
@@ -164,6 +176,28 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[10时38分 ~ 15时39分]"
+        },
+        {
+          "title": "美国国务卿鲁比奥：美国总统特朗普表示他更倾向于与伊朗达成协议，但要做到这一点非常困难。",
+          "url": "https://flash.jin10.com/detail/20260214165831489800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
+        },
+        {
+          "title": "加州州长回应特朗普为其起外号：快80岁的人干8岁的事",
+          "url": "https://news.ifeng.com/c/8qjoPYjzxHm",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时39分 ~ 17时25分]"
         },
         {
           "title": "美国总统特朗普宣扬股市表现和通胀数据。",
@@ -230,6 +264,19 @@
           "time_info": "[03时50分 ~ 07时38分]"
         },
         {
+          "title": "加州州长慕安会痛批特朗普：让美国倒退回19世纪！",
+          "url": "https://wallstreetcn.com/livenews/3055491",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            7,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时38分 ~ 17时25分]"
+        },
+        {
           "title": "美国总统特朗普：我认为伊朗谈判将取得成功。",
           "url": "https://wallstreetcn.com/livenews/3055318",
           "source": "华尔街见闻-快讯",
@@ -267,18 +314,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时43分 ~ 07时38分]"
-        },
-        {
-          "title": "加州州长慕安会痛批特朗普：让美国倒退回19世纪！",
-          "url": "https://wallstreetcn.com/livenews/3055491",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时38分 ~ 16时49分]"
         },
         {
           "title": "美国总统特朗普：考虑为伊拉克挑选一位总理。",
@@ -326,17 +361,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时47分 ~ 14时56分]"
-        },
-        {
-          "title": "加州州长回应特朗普为其起外号：快80岁的人干8岁的事",
-          "url": "https://news.ifeng.com/c/8qjoPYjzxHm",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时39分 ~ 16时49分]"
         },
         {
           "title": "特朗普称将访问委内瑞拉",
@@ -647,8 +671,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时47分 ~ 16时49分]"
+          "appearance_count": 9,
+          "time_info": "[12时47分 ~ 17时25分]"
         },
         {
           "title": "13F报告显示：Maverick Capital Ltd.四季度建仓做多谷歌C、应用材料、波士顿科学、Visa、以及Camden Property。 增持台积电、英伟达、GFL Environment、Carvana。 清仓Kenvue、美国银行、AMD、Danaher、以及Insmed。 减持Nubank、迪士尼、Merit Medical、Acadia Health、Sherwin-Williams。 重仓英伟达、微软、亚马逊、台积电、谷歌C。",
@@ -679,11 +703,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            8
+            8,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时38分 ~ 16时49分]"
+          "appearance_count": 3,
+          "time_info": "[16时38分 ~ 17时25分]"
         },
         {
           "title": "谷歌 Gemini 3 Deep Think 深度思考大模型升级，相比前代有哪些提升？",
@@ -769,8 +794,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时38分 ~ 16时49分]"
+          "appearance_count": 10,
+          "time_info": "[10时38分 ~ 17时25分]"
         },
         {
           "title": "伊朗流亡王储：我没有个人野心，愿领导国家走向公投",
@@ -781,8 +806,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时56分 ~ 16时49分]"
+          "appearance_count": 6,
+          "time_info": "[14时56分 ~ 17时25分]"
         },
         {
           "title": "乌克兰总统泽连斯基：会见了伊朗反对派人物巴列维。",
@@ -849,6 +874,19 @@
           "time_info": "[12时47分 ~ 14时56分]"
         },
         {
+          "title": "OpenAI：已停止使用五款旧版ChatGPT模型",
+          "url": "https://flash.jin10.com/detail/20260214160547731800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            11,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时38分 ~ 17时25分]"
+        },
+        {
           "title": "OpenAI的模型被纳入美国无人机群竞赛（drone swarm contest）名单。",
           "url": "https://wallstreetcn.com/livenews/3055377",
           "source": "华尔街见闻-快讯",
@@ -860,18 +898,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时43分 ~ 07时38分]"
-        },
-        {
-          "title": "OpenAI：已停止使用五款旧版ChatGPT模型",
-          "url": "https://flash.jin10.com/detail/20260214160547731800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时38分 ~ 16时49分]"
         },
         {
           "title": "报道：OpenAI参与美国“无人机群”竞赛，提供语音控制技术",
@@ -900,38 +926,36 @@
       ]
     },
     {
-      "keyword_group": "徒步 登山 探险 旅游",
+      "keyword_group": "阿里",
       "match_count": 2,
       "titles": [
         {
-          "title": "四部门：因地制宜打造休闲农业、乡村旅游、民宿经济、电商直播等新产业、新业态金融服务模式",
-          "url": "https://wallstreetcn.com/livenews/3055458",
+          "title": "纳斯达克金龙中国指数收跌0.10%，报7591.86点，本周累计下跌2.77%，周一至周三高位持稳，周四美股盘初显著下跌，后续低位震荡，整体形成Z形走势。 热门中概股里，新东方初步收跌2.3%，阿里巴巴跌2.1%，小马智行跌2%，理想、京东、比亚迪、百度至多跌1.8%，蔚来大致收平，腾讯涨0.9%，小鹏、文远知行、网易至多涨1.8%，小米涨2.1%，百胜中国涨3.3%。 ETF中，中概互联网指数ETF（KWEB）收平，本周累跌4.44%，延续此前两周先后跌1.44%和3.02%的表现； 中国科技指数ETF（CQQQ）收1.06%，本周累跌1.19%，此前两周先后跌3.39%和3.58%。",
+          "url": "https://wallstreetcn.com/livenews/3055365",
           "source": "华尔街见闻-快讯",
           "ranks": [
             9,
-            17,
-            23,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时47分 ~ 15时39分]"
-        },
-        {
-          "title": "5年存百万外卖员徒步从上海回福建",
-          "url": "https://www.toutiao.com/trending/7606545314073722921/",
-          "source": "今日头条",
-          "ranks": [
-            8
+            22
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时38分 ~ 16时49分]"
+          "time_info": "[05时43分 ~ 06时41分]"
+        },
+        {
+          "title": "中概指数收跌0.1%，CQQQ涨超1%，阿里跌约1.9%",
+          "url": "https://wallstreetcn.com/livenews/3055365",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时38分"
         }
       ]
     },
     {
-      "keyword_group": "深圳天气 汽车租赁 二手车",
+      "keyword_group": "二手车",
       "match_count": 1,
       "titles": [
         {
@@ -984,6 +1008,80 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时49分 ~ 05时43分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "徒步",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "5年存百万外卖员徒步从上海回福建",
+          "url": "https://www.toutiao.com/trending/7606545314073722921/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时38分 ~ 17时25分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "旅游",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "四部门：因地制宜打造休闲农业、乡村旅游、民宿经济、电商直播等新产业、新业态金融服务模式",
+          "url": "https://wallstreetcn.com/livenews/3055458",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            17,
+            23,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时47分 ~ 15时39分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "宁德时代",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "宁德时代、奇瑞汽车合资公司成立，注册资本20亿元",
+          "url": "https://wallstreetcn.com/livenews/3055428",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时38分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "房价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "2026年开年70城房价降幅总体收窄，扬州和湛江二手房价环比上涨",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32600631",
+          "source": "澎湃新闻",
+          "ranks": [
+            5,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[03时50分 ~ 13时52分]"
         }
       ]
     }
