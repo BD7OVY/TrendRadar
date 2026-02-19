@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-19T20:46:04.793253+08:00",
-  "total_titles_processed": 1646,
+  "generated_at": "2026-02-19T22:06:06.661886+08:00",
+  "total_titles_processed": 1735,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时14分 ~ 20时46分]"
+          "appearance_count": 14,
+          "time_info": "[12时14分 ~ 22时06分]"
         },
         {
           "title": "这一次不一样？美军做好“最早本周末打击伊朗”准备，油价会如何？",
@@ -34,8 +34,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时14分 ~ 20时46分]"
+          "appearance_count": 14,
+          "time_info": "[12时14分 ~ 22时06分]"
         },
         {
           "title": "美媒：对伊朗开展军事行动“迫在眉睫”",
@@ -90,8 +90,81 @@
             15
           ],
           "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[15时45分 ~ 22时06分]"
+        },
+        {
+          "title": "俄外长：美国若打击伊朗后果严重",
+          "url": "https://www.douyin.com/hot/2405736",
+          "source": "抖音",
+          "ranks": [
+            18,
+            17,
+            24,
+            25,
+            27,
+            29,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[15时45分 ~ 22时06分]"
+        },
+        {
+          "title": "原油贵金属大幅收涨 消息称美以或将联合袭击伊朗 | 环球市场",
+          "url": "https://www.cls.cn/detail/2291663",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时36分 ~ 22时06分]"
+        },
+        {
+          "title": "美设定“3月中旬”期限：对伊朗兵力将部署到位，战云逼近？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32632034",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            15,
+            14,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时36分 ~ 22时06分]"
+        },
+        {
+          "title": "美媒称美军方已准备好“最早本周末”打击伊朗",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32632095",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            16,
+            15,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时36分 ~ 22时06分]"
+        },
+        {
+          "title": "伊朗：已进入全面战备状态",
+          "url": "https://www.douyin.com/hot/2405773",
+          "source": "抖音",
+          "ranks": [
+            17,
+            16,
+            11,
+            23,
+            22
+          ],
+          "is_new": false,
           "appearance_count": 8,
-          "time_info": "[15时45分 ~ 20时46分]"
+          "time_info": "[17时38分 ~ 22时06分]"
         },
         {
           "title": "伊朗：已进入全面战备状态",
@@ -106,77 +179,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[13时55分 ~ 18时37分]"
-        },
-        {
-          "title": "俄外长：美国若打击伊朗后果严重",
-          "url": "https://www.douyin.com/hot/2405736",
-          "source": "抖音",
-          "ranks": [
-            18,
-            17,
-            24,
-            25,
-            27,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时45分 ~ 20时46分]"
-        },
-        {
-          "title": "原油贵金属大幅收涨 消息称美以或将联合袭击伊朗 | 环球市场",
-          "url": "https://www.cls.cn/detail/2291663",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时36分 ~ 20时46分]"
-        },
-        {
-          "title": "美设定“3月中旬”期限：对伊朗兵力将部署到位，战云逼近？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32632034",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            15,
-            14,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时36分 ~ 20时46分]"
-        },
-        {
-          "title": "美媒称美军方已准备好“最早本周末”打击伊朗",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32632095",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            16,
-            15,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时36分 ~ 20时46分]"
-        },
-        {
-          "title": "伊朗：已进入全面战备状态",
-          "url": "https://www.douyin.com/hot/2405773",
-          "source": "抖音",
-          "ranks": [
-            17,
-            16,
-            11,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时38分 ~ 20时46分]"
         },
         {
           "title": "美国国务院：美国国务卿鲁比奥正采取措施，对18名伊朗政权官员和电信行业领导人实施签证限制。",
@@ -216,6 +218,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[13时55分 ~ 16时36分]"
+        },
+        {
+          "title": "伊朗",
+          "url": "https://s.weibo.com/weibo?q=%E4%BC%8A%E6%9C%97&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时34分 ~ 22时06分]"
         },
         {
           "title": "据华尔街日报：官员称，美国正从叙利亚撤出所有部队，部队将在未来两个月内从剩余地点撤军。消息人士称，撤军与为可能袭击伊朗而部署部队无关。",
@@ -266,6 +280,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[14时52分 ~ 16时36分]"
+        },
+        {
+          "title": "波兰总理呼吁在伊朗的波兰公民尽快离境",
+          "url": "https://wallstreetcn.com/livenews/3056625",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            15,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时34分 ~ 22时06分]"
         },
         {
           "title": "消息人士称美军已做好“最早本周末打击伊朗”准备",
@@ -319,30 +346,6 @@
           "time_info": "[03时44分 ~ 05时30分]"
         },
         {
-          "title": "伊朗",
-          "url": "https://s.weibo.com/weibo?q=%E4%BC%8A%E6%9C%97&t=31&band_rank=12&Refer=top",
-          "source": "微博",
-          "ranks": [
-            12,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时34分 ~ 20时46分]"
-        },
-        {
-          "title": "波兰总理呼吁在伊朗的波兰公民尽快离境",
-          "url": "https://wallstreetcn.com/livenews/3056625",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时34分 ~ 20时46分]"
-        },
-        {
           "title": "伊朗外长称就伊美谈判“指导原则”达成一致，布油一度跌近3%",
           "url": "https://wallstreetcn.com/articles/3765814",
           "source": "华尔街见闻",
@@ -393,7 +396,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时46分"
         },
@@ -602,7 +605,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时46分"
         }
@@ -685,7 +688,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时46分"
         },
@@ -1262,6 +1265,18 @@
       "match_count": 7,
       "titles": [
         {
+          "title": "为AI交易“背书”！OpenAI正敲定新一轮融资：以8300亿美元估值募资高达1000亿美元",
+          "url": "https://wallstreetcn.com/articles/3765864",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时34分 ~ 22时06分]"
+        },
+        {
           "title": "OpenAI最新一轮融资进展顺利，融资总额有望突破1000亿美元，首轮融资将于本月完成。（The Information）",
           "url": "https://wallstreetcn.com/livenews/3056559",
           "source": "华尔街见闻-快讯",
@@ -1287,17 +1302,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[16时36分 ~ 18时37分]"
-        },
-        {
-          "title": "为AI交易“背书”！OpenAI正敲定新一轮融资：以8300亿美元估值募资高达1000亿美元",
-          "url": "https://wallstreetcn.com/articles/3765864",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时34分 ~ 20时46分]"
         },
         {
           "title": "OpenAI聘请Instagram高管Charles Porch。 Porch将担任OpenAI的全球创新合作伙伴关系副总裁。（Vanity Fair）",
@@ -1365,11 +1369,12 @@
             19,
             20,
             21,
-            22
+            22,
+            23
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时56分 ~ 20时46分]"
+          "appearance_count": 25,
+          "time_info": "[00时56分 ~ 22时06分]"
         },
         {
           "title": "纳斯达克金龙中国指数初步收跌0.1%。 热门中概股里，拼多多初步收涨超1%，美团、百胜中国、新东方、腾讯、比亚迪、百度、阿里至多涨超0.9%，理想跌0.3%，小马智行跌0.9%，文远知行跌3.8%。",
