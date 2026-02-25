@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-25T18:45:38.289425+08:00",
-  "total_titles_processed": 1549,
+  "generated_at": "2026-02-25T19:36:47.797459+08:00",
+  "total_titles_processed": 1613,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 72,
+      "match_count": 74,
       "titles": [
         {
           "title": "特朗普称将会在3月31日访问中国，外交部回应",
@@ -53,8 +53,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[01时00分 ~ 18时45分]"
+          "appearance_count": 23,
+          "time_info": "[01时00分 ~ 19时36分]"
         },
         {
           "title": "特朗普：100%错误",
@@ -123,8 +123,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时46分 ~ 18时45分]"
+          "appearance_count": 3,
+          "time_info": "[17时46分 ~ 19时36分]"
         },
         {
           "title": "特朗普声称争取到18万亿美元投资承诺，美媒打脸：纯属虚构",
@@ -134,8 +134,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时46分 ~ 18时45分]"
+          "appearance_count": 3,
+          "time_info": "[17时46分 ~ 19时36分]"
         },
         {
           "title": "特朗普打还是不打，只是时间问题了",
@@ -183,6 +183,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时15分"
+        },
+        {
+          "title": "市场消息：特朗普政府已下令美国外交官游说反对监管美国科技公司处理外国人数据的行为。",
+          "url": "https://flash.jin10.com/detail/20260225190515560800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时36分"
         },
         {
           "title": "特朗普：首选通过外交手段解决伊朗核问题",
@@ -311,6 +322,19 @@
           "time_info": "[13时57分 ~ 17时46分]"
         },
         {
+          "title": "解读特朗普2.0首份国情咨文：过去一年美国经济到底赢没赢？",
+          "url": "https://www.cls.cn/detail/2294552",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时41分 ~ 19时36分]"
+        },
+        {
           "title": "特朗普政府被1000多家企业起诉",
           "url": "https://www.toutiao.com/trending/7609548645095964718/",
           "source": "今日头条",
@@ -336,17 +360,17 @@
           "time_info": "[05时28分 ~ 07时27分]"
         },
         {
-          "title": "解读特朗普2.0首份国情咨文：过去一年美国经济到底赢没赢？",
-          "url": "https://www.cls.cn/detail/2294552",
-          "source": "财联社热门",
+          "title": "特朗普国情咨文：“关税提振了股市”，大型科技公司需自建电厂，应立法禁议员炒股",
+          "url": "https://wallstreetcn.com/articles/3766126",
+          "source": "华尔街见闻",
           "ranks": [
-            12,
-            8,
+            9,
+            7,
             6
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[16时41分 ~ 18时45分]"
+          "time_info": "[17时46分 ~ 19时36分]"
         },
         {
           "title": "多数美国人称特朗普愈发反复无常",
@@ -372,18 +396,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时28分 ~ 06时27分]"
-        },
-        {
-          "title": "特朗普国情咨文：“关税提振了股市”，大型科技公司需自建电厂，应立法禁议员炒股",
-          "url": "https://wallstreetcn.com/articles/3766126",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时46分 ~ 18时45分]"
         },
         {
           "title": "美国民主党指责司法部为特朗普“打掩护” 关键证据或遭扣押",
@@ -589,6 +601,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时57分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-25）",
+          "url": "https://flash.jin10.com/detail/20260225184821744800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时36分"
         },
         {
           "title": "特朗普：美关税将依据其他法律条款继续维持有效",
@@ -866,6 +889,19 @@
           "time_info": "[01时00分 ~ 09时27分]"
         },
         {
+          "title": "伊朗大规模军演 试射多种导弹",
+          "url": "https://www.douyin.com/hot/2410859",
+          "source": "抖音",
+          "ranks": [
+            2,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时57分 ~ 19时36分]"
+        },
+        {
           "title": "媒体：伊朗即将购入中国超音速反舰导弹",
           "url": "https://news.ifeng.com/c/8r1iOMfEAgf",
           "source": "凤凰网",
@@ -883,24 +919,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时57分 ~ 18时45分]"
-        },
-        {
-          "title": "伊朗大规模军演 试射多种导弹",
-          "url": "https://www.douyin.com/hot/2410859",
-          "source": "抖音",
-          "ranks": [
             2,
-            5,
-            4
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时57分 ~ 18时45分]"
+          "appearance_count": 7,
+          "time_info": "[13时57分 ~ 19时36分]"
         },
         {
           "title": "美军参联会主席警告：对伊朗动武可能带来重大风险",
@@ -961,6 +985,18 @@
           "time_info": "15时55分"
         },
         {
+          "title": "两个因素决定美国是否会攻打伊朗，何时攻打伊朗",
+          "url": "https://news.ifeng.com/c/8r29cDgfx2m",
+          "source": "凤凰网",
+          "ranks": [
+            3,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时46分 ~ 19时36分]"
+        },
+        {
           "title": "在伊朗中国人：华联会已准备撤离方案",
           "url": "https://www.baidu.com/s?wd=%E5%9C%A8%E4%BC%8A%E6%9C%97%E4%B8%AD%E5%9B%BD%E4%BA%BA%EF%BC%9A%E5%8D%8E%E8%81%94%E4%BC%9A%E5%B7%B2%E5%87%86%E5%A4%87%E6%92%A4%E7%A6%BB%E6%96%B9%E6%A1%88",
           "source": "百度热搜",
@@ -997,18 +1033,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时28分 ~ 03时48分]"
-        },
-        {
-          "title": "两个因素决定美国是否会攻打伊朗，何时攻打伊朗",
-          "url": "https://news.ifeng.com/c/8r29cDgfx2m",
-          "source": "凤凰网",
-          "ranks": [
-            3,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时46分 ~ 18时45分]"
         },
         {
           "title": "据知情人士透露，美国中情局局长拉特克利夫将同国务卿鲁比奥一道，参加美东时间15:00“八人小组”进行的伊朗问题简报会。（Axios）",
@@ -1160,7 +1184,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时45分"
         },
@@ -1304,48 +1328,8 @@
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "文件显示：美国法官驳回xAI针对OpenAI的商业机密诉讼。",
-          "url": "https://flash.jin10.com/detail/20260225040115362800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时28分"
-        },
-        {
-          "title": "韩女子用ChatGPT策划连环杀人案",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%A5%B3%E5%AD%90%E7%94%A8ChatGPT%E7%AD%96%E5%88%92%E8%BF%9E%E7%8E%AF%E6%9D%80%E4%BA%BA%E6%A1%88%23&t=31&band_rank=17&Refer=top",
-          "source": "微博",
-          "ranks": [
-            17,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时46分 ~ 18时45分]"
-        },
-        {
-          "title": "OpenAI：欢迎美国法院针对x.AI官司的决定。",
-          "url": "https://wallstreetcn.com/livenews/3058374",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时27分"
-        }
-      ]
-    },
-    {
       "keyword_group": "徒步",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "女生徒步失联被找到：用牛粪保温",
@@ -1384,6 +1368,57 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时27分 ~ 07时27分]"
+        },
+        {
+          "title": "女生西藏徒步时失联，用牛粪保温在牛棚被找到，为啥牛粪能帮助维持体温？这种情况还能做哪些保护措施？",
+          "url": "https://www.zhihu.com/question/2009627038022066688",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时36分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "文件显示：美国法官驳回xAI针对OpenAI的商业机密诉讼。",
+          "url": "https://flash.jin10.com/detail/20260225040115362800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时28分"
+        },
+        {
+          "title": "韩女子用ChatGPT策划连环杀人案",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%A5%B3%E5%AD%90%E7%94%A8ChatGPT%E7%AD%96%E5%88%92%E8%BF%9E%E7%8E%AF%E6%9D%80%E4%BA%BA%E6%A1%88%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时46分 ~ 19时36分]"
+        },
+        {
+          "title": "OpenAI：欢迎美国法院针对x.AI官司的决定。",
+          "url": "https://wallstreetcn.com/livenews/3058374",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时27分"
         }
       ]
     },
@@ -1391,6 +1426,18 @@
       "keyword_group": "旅游",
       "match_count": 3,
       "titles": [
+        {
+          "title": "3口10天4万5,春节旅游找罪受",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350978&amp;topic_name=3%E5%8F%A310%E5%A4%A94%E4%B8%875%2C%E6%98%A5%E8%8A%82%E6%97%85%E6%B8%B8%E6%89%BE%E7%BD%AA%E5%8F%97",
+          "source": "贴吧",
+          "ranks": [
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时45分 ~ 19时36分]"
+        },
         {
           "title": "UP主春节带着蜜蜂去旅游",
           "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E6%98%A5%E8%8A%82%E5%B8%A6%E7%9D%80%E8%9C%9C%E8%9C%82%E5%8E%BB%E6%97%85%E6%B8%B8",
@@ -1402,17 +1449,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时55分 ~ 16时41分]"
-        },
-        {
-          "title": "3口10天4万5,春节旅游找罪受",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350978&amp;topic_name=3%E5%8F%A310%E5%A4%A94%E4%B8%875%2C%E6%98%A5%E8%8A%82%E6%97%85%E6%B8%B8%E6%89%BE%E7%BD%AA%E5%8F%97",
-          "source": "贴吧",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时45分"
         },
         {
           "title": "陈茂波：香港将拨款16.6亿港元发展旅游业。 香港计划拨款12亿港元推动体育发展。",
