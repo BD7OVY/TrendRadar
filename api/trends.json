@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-27T16:34:39.785235+08:00",
-  "total_titles_processed": 1371,
+  "generated_at": "2026-02-27T17:34:55.894125+08:00",
+  "total_titles_processed": 1487,
   "failed_sources": [],
   "trends": [
     {
@@ -39,8 +39,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时20分 ~ 16时34分]"
+          "appearance_count": 10,
+          "time_info": "[09时20分 ~ 17时34分]"
         },
         {
           "title": "中方正密切关注伊朗局势发展",
@@ -108,6 +108,20 @@
           "time_info": "03时40分"
         },
         {
+          "title": "伊朗外交部发言人：本轮伊美谈判非常深入",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32661028",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19,
+            18,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时43分 ~ 17时34分]"
+        },
+        {
           "title": "据福克斯新闻：美国众议员Fallon表示，如果伊朗政权不停止铀浓缩及对恐怖主义的国家支持，所有选项都在考虑之中。",
           "url": "https://flash.jin10.com/detail/20260227012422570800",
           "source": "金十数据",
@@ -117,19 +131,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时54分"
-        },
-        {
-          "title": "伊朗外交部发言人：本轮伊美谈判非常深入",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32661028",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时43分 ~ 16时34分]"
         },
         {
           "title": "中长期美债收益率跌超3个基点，投资者关注英伟达财报和伊朗谈判",
@@ -319,7 +320,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时34分"
         },
@@ -569,7 +570,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 33,
+      "match_count": 34,
       "titles": [
         {
           "title": "特朗普和泽连斯基通话30分钟，谈及俄乌冲突结束时间",
@@ -598,6 +599,21 @@
           "time_info": "[00时51分 ~ 13时47分]"
         },
         {
+          "title": "AI挤崩电网、引爆电费？特朗普要求科技巨头自建电厂压电价",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32660479",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            15,
+            19,
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时20分 ~ 17时34分]"
+        },
+        {
           "title": "美向以部署 11 架 F-22 战斗机，并在伊周边集结航母，特朗普发出最后通牒，伊朗为何「还不屈服」？",
           "url": "https://www.zhihu.com/question/2009941400440025198",
           "source": "知乎",
@@ -611,20 +627,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时51分 ~ 07时23分]"
-        },
-        {
-          "title": "AI挤崩电网、引爆电费？特朗普要求科技巨头自建电厂压电价",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32660479",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            15,
-            19,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时20分 ~ 16时34分]"
         },
         {
           "title": "白宫：特朗普愿在无前提条件下与金正恩对话",
@@ -659,6 +661,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时08分"
+        },
+        {
+          "title": "史无前例！联合国宣布特朗普夫人将主持安理会会议",
+          "url": "https://news.ifeng.com/c/8r5F4LVejaT",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时41分 ~ 17时34分]"
         },
         {
           "title": "特朗普旨在引导古巴加大对美依赖",
@@ -748,15 +761,16 @@
           "time_info": "[12时08分 ~ 13时47分]"
         },
         {
-          "title": "史无前例！联合国宣布特朗普夫人将主持安理会会议",
-          "url": "https://news.ifeng.com/c/8r5F4LVejaT",
-          "source": "凤凰网",
+          "title": "美军中东最高指挥官向特朗普汇报",
+          "url": "https://www.toutiao.com/trending/7611361368545280036/",
+          "source": "今日头条",
           "ranks": [
-            7
+            17,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时41分 ~ 16时34分]"
+          "appearance_count": 2,
+          "time_info": "[16时34分 ~ 17时34分]"
         },
         {
           "title": "特朗普2026国会演讲全解析",
@@ -838,6 +852,17 @@
           "time_info": "00时51分"
         },
         {
+          "title": "爱泼斯坦案风波延烧，希拉里一句话把矛头指向特朗普",
+          "url": "https://news.ifeng.com/c/8r5SIs2UIPN",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时34分"
+        },
+        {
           "title": "美国众议院监督委员会主席Comer：在爱泼斯坦问题上，我们对克林顿夫妇有疑问，将适时对外披露相关信息。 总统特朗普的商务部长卢特尼克可能也会被传唤出席听证会。",
           "url": "https://wallstreetcn.com/livenews/3059674",
           "source": "华尔街见闻-快讯",
@@ -880,17 +905,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时54分"
-        },
-        {
-          "title": "美军中东最高指挥官向特朗普汇报",
-          "url": "https://www.toutiao.com/trending/7611361368545280036/",
-          "source": "今日头条",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时34分"
         },
         {
           "title": "专家：不排除特朗普赶在国会授权前发动攻击的可能",
@@ -1150,11 +1164,12 @@
           "ranks": [
             20,
             5,
-            26
+            26,
+            13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时46分 ~ 16时34分]"
+          "appearance_count": 8,
+          "time_info": "[13时46分 ~ 17时34分]"
         },
         {
           "title": "OpenAI向加拿大官员作出多项承诺，将加强安全机制",
@@ -1255,6 +1270,45 @@
       ]
     },
     {
+      "keyword_group": "阿里",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "AI编程迎来热潮！华为、阿里加码，未来人人可成为开发者",
+          "url": "https://www.cls.cn/detail/2296230",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时51分 ~ 07时23分]"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收跌1.78%，报7411.36点。 热门中概股里，百度初步收跌5.6%，比亚迪跌4.2%，美团跌3.2%，理想跌3%，阿里巴巴跌2.8%，小米、小鹏、文远知行、蔚来跌超2%，小马智行涨4.7%。 ETF中，中概互联网指数ETF（KWEB）收跌2.42%，中国科技指数ETF（CQQQ）收跌1.91%。 德银嘉实沪深300指数ETF（ASHR）收跌1.16%，XtrackersHarvest中证50（ASHS）收跌0.46%。",
+          "url": "https://wallstreetcn.com/livenews/3059763",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时27分"
+        },
+        {
+          "title": "阿里回应：夸克AI眼镜和千问AI眼镜是同一个团队推出的不同系列",
+          "url": "https://wallstreetcn.com/livenews/3060005",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时34分"
+        }
+      ]
+    },
+    {
       "keyword_group": "旅游",
       "match_count": 2,
       "titles": [
@@ -1294,34 +1348,6 @@
       ]
     },
     {
-      "keyword_group": "阿里",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "AI编程迎来热潮！华为、阿里加码，未来人人可成为开发者",
-          "url": "https://www.cls.cn/detail/2296230",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时51分 ~ 07时23分]"
-        },
-        {
-          "title": "纳斯达克金龙中国指数收跌1.78%，报7411.36点。 热门中概股里，百度初步收跌5.6%，比亚迪跌4.2%，美团跌3.2%，理想跌3%，阿里巴巴跌2.8%，小米、小鹏、文远知行、蔚来跌超2%，小马智行涨4.7%。 ETF中，中概互联网指数ETF（KWEB）收跌2.42%，中国科技指数ETF（CQQQ）收跌1.91%。 德银嘉实沪深300指数ETF（ASHR）收跌1.16%，XtrackersHarvest中证50（ASHS）收跌0.46%。",
-          "url": "https://wallstreetcn.com/livenews/3059763",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时27分"
-        }
-      ]
-    },
-    {
       "keyword_group": "金价",
       "match_count": 1,
       "titles": [
@@ -1354,7 +1380,24 @@
           "time_info": "09时20分"
         }
       ]
+    },
+    {
+      "keyword_group": "房价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "韩国总统李在明将出售私人公寓 彰显稳房价决心",
+          "url": "https://wallstreetcn.com/livenews/3060140",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时34分"
+        }
+      ]
     }
   ],
-  "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
+  "report_image_url": "https://cbh1987.github.io/TrendRadar/img/news.jpg"
 }
