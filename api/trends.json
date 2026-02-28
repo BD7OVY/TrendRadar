@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-28T21:33:18.487958+08:00",
-  "total_titles_processed": 2009,
+  "generated_at": "2026-02-28T22:17:05.982901+08:00",
+  "total_titles_processed": 2092,
   "failed_sources": [],
   "trends": [
     {
@@ -19,8 +19,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[05时23分 ~ 21时33分]"
+          "appearance_count": 19,
+          "time_info": "[05时23分 ~ 22时17分]"
         },
         {
           "title": "亚马逊、英伟达和软银豪掷1100亿美元 OpenAI估值冲至7300亿美元",
@@ -37,6 +37,22 @@
           "time_info": "[01时29分 ~ 16时21分]"
         },
         {
+          "title": "解读OpenAI获千亿美元投资背后",
+          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BBOpenAI%E8%8E%B7%E5%8D%83%E4%BA%BF%E7%BE%8E%E5%85%83%E6%8A%95%E8%B5%84%E8%83%8C%E5%90%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8,
+            16,
+            13,
+            17,
+            28,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[14时29分 ~ 22时17分]"
+        },
+        {
           "title": "OpenAI获1100亿美元投资",
           "url": "https://www.baidu.com/s?wd=OpenAI%E8%8E%B71100%E4%BA%BF%E7%BE%8E%E5%85%83%E6%8A%95%E8%B5%84",
           "source": "百度热搜",
@@ -47,21 +63,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时33分 ~ 07时19分]"
-        },
-        {
-          "title": "解读OpenAI获千亿美元投资背后",
-          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BBOpenAI%E8%8E%B7%E5%8D%83%E4%BA%BF%E7%BE%8E%E5%85%83%E6%8A%95%E8%B5%84%E8%83%8C%E5%90%8E",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8,
-            16,
-            13,
-            17,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时29分 ~ 21时33分]"
         },
         {
           "title": "消息人士称，英伟达正准备推出一款专用芯片，以撼动人工智能计算领域的竞争格局。OpenAI即将成为英伟达新款处理器的最大客户之一。",
@@ -165,6 +166,18 @@
           "time_info": "[19时14分 ~ 21时33分]"
         },
         {
+          "title": "Claude 遭特朗普封杀，亚马逊、英伟达等联手助 OpenAI 完成 1100 亿美元融资，对此你怎么看？",
+          "url": "https://www.zhihu.com/question/2011023228328510169",
+          "source": "知乎",
+          "ranks": [
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时33分 ~ 22时17分]"
+        },
+        {
           "title": "OpenAI创始人奥尔特曼：我们也会构建技术安全措施，以确保我们的模型按预期运行，美国国防部也希望如此。",
           "url": "https://flash.jin10.com/detail/20260228105824885800",
           "source": "金十数据",
@@ -210,17 +223,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时29分"
-        },
-        {
-          "title": "Claude 遭特朗普封杀，亚马逊、英伟达等联手助 OpenAI 完成 1100 亿美元融资，对此你怎么看？",
-          "url": "https://www.zhihu.com/question/2011023228328510169",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时33分"
         },
         {
           "title": "（对于此前宣布的OpenAI已完成的融资轮）亚马逊对OpenAI的500亿美元投资为现金。 OpenAI料将在3月底之前融资大约100亿美元。（彭博）",
@@ -529,8 +531,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时22分 ~ 21时33分]"
+          "appearance_count": 10,
+          "time_info": "[15时22分 ~ 22时17分]"
         },
         {
           "title": "伊朗局势如何影响金价 专家称未来48小时决定金价走势",
@@ -542,6 +544,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时14分"
+        },
+        {
+          "title": "“中东火药桶”炸了！美以对伊朗发起袭击，金价油价或继续飙涨",
+          "url": "https://finance.ifeng.com/c/8r7FgvfAN7q",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时31分 ~ 22时17分]"
         },
         {
           "title": "以色列伊朗 金价",
@@ -568,17 +581,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[18时17分 ~ 20时31分]"
-        },
-        {
-          "title": "“中东火药桶”炸了！美以对伊朗发起袭击，金价油价或继续飙涨",
-          "url": "https://finance.ifeng.com/c/8r7FgvfAN7q",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时31分 ~ 21时33分]"
         },
         {
           "title": "金价波动",
@@ -637,8 +639,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时21分 ~ 21时33分]"
+          "appearance_count": 9,
+          "time_info": "[16时21分 ~ 22时17分]"
         },
         {
           "title": "俄罗斯统计局：俄罗斯2月24日当周消费者价格环比上涨0.19%。",
