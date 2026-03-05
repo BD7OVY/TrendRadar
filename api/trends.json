@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-05T14:42:45.740896+08:00",
-  "total_titles_processed": 1246,
+  "generated_at": "2026-03-05T15:38:42.036664+08:00",
+  "total_titles_processed": 1360,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 180,
+      "match_count": 198,
       "titles": [
         {
           "title": "两会日报 | 全国人大首场新闻发布会举行，回应中美关系、伊朗局势、机器人等热点问题",
@@ -85,8 +85,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时35分 ~ 14时42分]"
+          "appearance_count": 15,
+          "time_info": "[00时35分 ~ 15时38分]"
         },
         {
           "title": "凤凰独家丨伊朗反击包括美国本土吗？驻华大使回应",
@@ -133,8 +133,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时35分 ~ 14时42分]"
+          "appearance_count": 15,
+          "time_info": "[00时35分 ~ 15时38分]"
         },
         {
           "title": "伊朗军舰遭美潜艇袭击 至少80人死亡",
@@ -196,11 +196,12 @@
             9,
             17,
             19,
-            20
+            20,
+            23
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时35分 ~ 14时42分]"
+          "appearance_count": 15,
+          "time_info": "[00时35分 ~ 15时38分]"
         },
         {
           "title": "立陶宛蹚浑水：想帮美国打伊朗",
@@ -525,6 +526,30 @@
           "time_info": "[01时34分 ~ 07时24分]"
         },
         {
+          "title": "特朗普打伊朗，美国国会管不了？参议院未通过叫停特朗普打击伊朗的投票",
+          "url": "https://wallstreetcn.com/articles/3766752",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时23分 ~ 15时38分]"
+        },
+        {
+          "title": "这就是美国的“地面部队”？库尔德武装开始在伊朗境内开展地面活动",
+          "url": "https://wallstreetcn.com/articles/3766761",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时43分 ~ 15时38分]"
+        },
+        {
           "title": "美以伊战争最新动态｜美防长：伊朗海空军“无了”",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
@@ -536,28 +561,57 @@
           "time_info": "[13时43分 ~ 14时42分]"
         },
         {
-          "title": "特朗普打伊朗，美国国会管不了？参议院未通过叫停特朗普打击伊朗的投票",
-          "url": "https://wallstreetcn.com/articles/3766752",
-          "source": "华尔街见闻",
+          "title": "美以袭击伊朗进入第 6 天了，它会像俄乌战争一样变成持久战吗？从各方的军事储备来看，还能打多久？",
+          "url": "https://www.zhihu.com/question/2012655278726800479",
+          "source": "知乎",
           "ranks": [
-            10,
-            4,
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时23分 ~ 14时42分]"
+          "appearance_count": 6,
+          "time_info": "[09时23分 ~ 15时38分]"
         },
         {
-          "title": "这就是美国的“地面部队”？库尔德武装开始在伊朗境内开展地面活动",
-          "url": "https://wallstreetcn.com/articles/3766761",
-          "source": "华尔街见闻",
+          "title": "伊朗袭击以国防部大楼",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E8%A2%AD%E5%87%BB%E4%BB%A5%E5%9B%BD%E9%98%B2%E9%83%A8%E5%A4%A7%E6%A5%BC%23&t=31&band_rank=6&Refer=top",
+          "source": "微博",
           "ranks": [
-            4
+            6,
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时43分 ~ 14时42分]"
+          "appearance_count": 6,
+          "time_info": "[09时23分 ~ 15时38分]"
+        },
+        {
+          "title": "美军潜艇击沉伊朗军舰已致87死",
+          "url": "https://www.toutiao.com/trending/7613306683124829732/",
+          "source": "今日头条",
+          "ranks": [
+            6,
+            22,
+            23,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时23分 ~ 15时38分]"
+        },
+        {
+          "title": "伊朗突破“萨德”袭击以国防部大楼",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E7%AA%81%E7%A0%B4%E2%80%9C%E8%90%A8%E5%BE%B7%E2%80%9D%E8%A2%AD%E5%87%BB%E4%BB%A5%E5%9B%BD%E9%98%B2%E9%83%A8%E5%A4%A7%E6%A5%BC",
+          "source": "百度热搜",
+          "ranks": [
+            6,
+            12,
+            11,
+            23,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时23分 ~ 15时38分]"
         },
         {
           "title": "白宫新闻秘书莱维特：与以色列总理内塔尼亚胡的电话会谈在伊朗袭击的时间安排方面十分重要。",
@@ -577,9 +631,34 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时42分"
+        },
+        {
+          "title": "伊朗外长与土耳其外长通话",
+          "url": "https://wallstreetcn.com/livenews/3064328",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时38分"
+        },
+        {
+          "title": "伊朗威胁打击以色列核设施",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%A8%81%E8%83%81%E6%89%93%E5%87%BB%E4%BB%A5%E8%89%B2%E5%88%97%E6%A0%B8%E8%AE%BE%E6%96%BD",
+          "source": "百度热搜",
+          "ranks": [
+            13,
+            21,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时23分 ~ 15时38分]"
         },
         {
           "title": "伊朗恢复对以色列导弹攻击",
@@ -617,17 +696,6 @@
           "time_info": "04时26分"
         },
         {
-          "title": "美以袭击伊朗进入第 6 天了，它会像俄乌战争一样变成持久战吗？从各方的军事储备来看，还能打多久？",
-          "url": "https://www.zhihu.com/question/2012655278726800479",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时23分 ~ 14时42分]"
-        },
-        {
           "title": "美众议院议否认美国与伊朗“处于战争状态”",
           "url": "https://flash.jin10.com/detail/20260305012921422800",
           "source": "金十数据",
@@ -661,6 +729,28 @@
           "time_info": "04时26分"
         },
         {
+          "title": "北约首次击落伊朗导弹，土耳其卷入冲突，英国变脸",
+          "url": "https://news.ifeng.com/c/8rF871AcFcy",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时06分 ~ 15时38分]"
+        },
+        {
+          "title": "美防长：伊朗空军已不复存在，海军已安息于波斯湾海底",
+          "url": "https://news.ifeng.com/c/8rFAS9sLRAM",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时38分"
+        },
+        {
           "title": "斯里兰卡外长：已打捞出87具伊朗遇袭军舰人员遗体",
           "url": "https://flash.jin10.com/detail/20260305002901814800",
           "source": "金十数据",
@@ -672,16 +762,29 @@
           "time_info": "00时35分"
         },
         {
-          "title": "伊朗袭击以国防部大楼",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E8%A2%AD%E5%87%BB%E4%BB%A5%E5%9B%BD%E9%98%B2%E9%83%A8%E5%A4%A7%E6%A5%BC%23&t=31&band_rank=6&Refer=top",
-          "source": "微博",
+          "title": "伊朗伊斯兰革命卫队：美国、以色列以及欧洲国家及其支持者所属的军用和商用船只，均严禁在霍尔木兹海域通行，一旦被发现，将遭到打击。",
+          "url": "https://flash.jin10.com/detail/20260305152718197800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时38分"
+        },
+        {
+          "title": "手绘骗导弹,伊朗戏耍以军",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351388&amp;topic_name=%E6%89%8B%E7%BB%98%E9%AA%97%E5%AF%BC%E5%BC%B9%2C%E4%BC%8A%E6%9C%97%E6%88%8F%E8%80%8D%E4%BB%A5%E5%86%9B",
+          "source": "贴吧",
           "ranks": [
             6,
+            8,
+            9,
             12
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[09时23分 ~ 14时42分]"
+          "time_info": "[12时06分 ~ 15时38分]"
         },
         {
           "title": "伊朗革命卫队海军司令：伊朗在当前冲突中已袭击超过10艘船只和油轮。",
@@ -728,44 +831,93 @@
           "time_info": "05时28分"
         },
         {
-          "title": "美军潜艇击沉伊朗军舰已致87死",
-          "url": "https://www.toutiao.com/trending/7613306683124829732/",
-          "source": "今日头条",
+          "title": "伊朗袭击以国防部大楼",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E6%9C%97%E8%A2%AD%E5%87%BB%E4%BB%A5%E5%9B%BD%E9%98%B2%E9%83%A8%E5%A4%A7%E6%A5%BC",
+          "source": "bilibili 热搜",
           "ranks": [
-            6,
-            22,
-            23
+            12,
+            7
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[09时23分 ~ 14时42分]"
+          "time_info": "[12时06分 ~ 15时38分]"
+        },
+        {
+          "title": "新民调显示，大多数美国人对袭击伊朗并不买账",
+          "url": "https://news.ifeng.com/c/8rF6Z1Os5Oq",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时06分 ~ 15时38分]"
+        },
+        {
+          "title": "美军潜艇在印度洋袭击一艘伊朗军舰致至少 87 人死亡，具体什么情况？为什么会在印度洋进行袭击？",
+          "url": "https://www.zhihu.com/question/2012584634194608806",
+          "source": "知乎",
+          "ranks": [
+            11,
+            12,
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时06分 ~ 15时38分]"
+        },
+        {
+          "title": "美以袭击伊朗或令日本经济增长停滞，东京股市显著下跌，为何战争让日本先撑不住了？",
+          "url": "https://www.zhihu.com/question/2011868258307941835",
+          "source": "知乎",
+          "ranks": [
+            13,
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时06分 ~ 15时38分]"
+        },
+        {
+          "title": "伊朗确定几位最高领袖候选人，即将从中选出最高领袖，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2012585099250594697",
+          "source": "知乎",
+          "ranks": [
+            16,
+            17,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时06分 ~ 15时38分]"
+        },
+        {
+          "title": "伊朗威胁将打击以色列迪莫纳核反应堆",
+          "url": "https://www.toutiao.com/trending/7613022260353990692/",
+          "source": "今日头条",
+          "ranks": [
+            16,
+            15,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时06分 ~ 15时38分]"
         },
         {
           "title": "伊朗突破“萨德”袭击以国防部大楼",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E7%AA%81%E7%A0%B4%E2%80%9C%E8%90%A8%E5%BE%B7%E2%80%9D%E8%A2%AD%E5%87%BB%E4%BB%A5%E5%9B%BD%E9%98%B2%E9%83%A8%E5%A4%A7%E6%A5%BC",
-          "source": "百度热搜",
+          "url": "https://www.toutiao.com/trending/7613538077671476786/",
+          "source": "今日头条",
           "ranks": [
-            6,
-            12,
-            11,
-            23
+            19,
+            18,
+            17
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[09时23分 ~ 14时42分]"
-        },
-        {
-          "title": "伊朗威胁打击以色列核设施",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%A8%81%E8%83%81%E6%89%93%E5%87%BB%E4%BB%A5%E8%89%B2%E5%88%97%E6%A0%B8%E8%AE%BE%E6%96%BD",
-          "source": "百度热搜",
-          "ranks": [
-            13,
-            21,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时23分 ~ 14时42分]"
+          "time_info": "[12时06分 ~ 15时38分]"
         },
         {
           "title": "伊朗击毁6架入侵无人机并对美军基地及以境内目标实施打击",
@@ -805,17 +957,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时39分 ~ 04时26分]"
-        },
-        {
-          "title": "北约首次击落伊朗导弹，土耳其卷入冲突，英国变脸",
-          "url": "https://news.ifeng.com/c/8rF871AcFcy",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时06分 ~ 14时42分]"
         },
         {
           "title": "伊朗外长与俄罗斯外长通电话，讨论地区冲突",
@@ -880,19 +1021,6 @@
           "time_info": "[06时25分 ~ 07时24分]"
         },
         {
-          "title": "手绘骗导弹,伊朗戏耍以军",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351388&amp;topic_name=%E6%89%8B%E7%BB%98%E9%AA%97%E5%AF%BC%E5%BC%B9%2C%E4%BC%8A%E6%9C%97%E6%88%8F%E8%80%8D%E4%BB%A5%E5%86%9B",
-          "source": "贴吧",
-          "ranks": [
-            6,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时06分 ~ 14时42分]"
-        },
-        {
           "title": "白宫称美军已打击逾2000个伊朗目标，暂无派遣地面部队计划",
           "url": "https://wallstreetcn.com/livenews/3063830",
           "source": "华尔街见闻-快讯",
@@ -903,29 +1031,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时34分 ~ 04时26分]"
-        },
-        {
-          "title": "伊朗袭击以国防部大楼",
-          "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E6%9C%97%E8%A2%AD%E5%87%BB%E4%BB%A5%E5%9B%BD%E9%98%B2%E9%83%A8%E5%A4%A7%E6%A5%BC",
-          "source": "bilibili 热搜",
-          "ranks": [
-            12,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时06分 ~ 14时42分]"
-        },
-        {
-          "title": "新民调显示，大多数美国人对袭击伊朗并不买账",
-          "url": "https://news.ifeng.com/c/8rF6Z1Os5Oq",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时06分 ~ 14时42分]"
         },
         {
           "title": "美国参议院未通过叫停特朗普打击伊朗的投票",
@@ -952,45 +1057,6 @@
           "time_info": "[00时35分 ~ 01时34分]"
         },
         {
-          "title": "美军潜艇在印度洋袭击一艘伊朗军舰致至少 87 人死亡，具体什么情况？为什么会在印度洋进行袭击？",
-          "url": "https://www.zhihu.com/question/2012584634194608806",
-          "source": "知乎",
-          "ranks": [
-            11,
-            12,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时06分 ~ 14时42分]"
-        },
-        {
-          "title": "美以袭击伊朗或令日本经济增长停滞，东京股市显著下跌，为何战争让日本先撑不住了？",
-          "url": "https://www.zhihu.com/question/2011868258307941835",
-          "source": "知乎",
-          "ranks": [
-            13,
-            16,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时06分 ~ 14时42分]"
-        },
-        {
-          "title": "伊朗确定几位最高领袖候选人，即将从中选出最高领袖，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2012585099250594697",
-          "source": "知乎",
-          "ranks": [
-            16,
-            17,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时06分 ~ 14时42分]"
-        },
-        {
           "title": "伊朗媒体：美以袭击致伊朗1045人丧生",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%AA%92%E4%BD%93%EF%BC%9A%E7%BE%8E%E4%BB%A5%E8%A2%AD%E5%87%BB%E8%87%B4%E4%BC%8A%E6%9C%971045%E4%BA%BA%E4%B8%A7%E7%94%9F",
           "source": "百度热搜",
@@ -1002,30 +1068,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时23分 ~ 13时43分]"
-        },
-        {
-          "title": "伊朗威胁将打击以色列迪莫纳核反应堆",
-          "url": "https://www.toutiao.com/trending/7613022260353990692/",
-          "source": "今日头条",
-          "ranks": [
-            16,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时06分 ~ 14时42分]"
-        },
-        {
-          "title": "伊朗突破“萨德”袭击以国防部大楼",
-          "url": "https://www.toutiao.com/trending/7613538077671476786/",
-          "source": "今日头条",
-          "ranks": [
-            19,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时06分 ~ 14时42分]"
         },
         {
           "title": "伊朗称袭击印度洋上美军舰艇",
@@ -1042,6 +1084,30 @@
           "time_info": "[05时28分 ~ 09时23分]"
         },
         {
+          "title": "伊朗首次使用最快自杀式无人机",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E9%A6%96%E6%AC%A1%E4%BD%BF%E7%94%A8%E6%9C%80%E5%BF%AB%E8%87%AA%E6%9D%80%E5%BC%8F%E6%97%A0%E4%BA%BA%E6%9C%BA%23&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时43分 ~ 15时38分]"
+        },
+        {
+          "title": "伊朗：第十九轮行动已开始",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%EF%BC%9A%E7%AC%AC%E5%8D%81%E4%B9%9D%E8%BD%AE%E8%A1%8C%E5%8A%A8%E5%B7%B2%E5%BC%80%E5%A7%8B",
+          "source": "百度热搜",
+          "ranks": [
+            13,
+            15,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时43分 ~ 15时38分]"
+        },
+        {
           "title": "伊朗总统强调尊重邻国主权",
           "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%E5%BC%BA%E8%B0%83%E5%B0%8A%E9%87%8D%E9%82%BB%E5%9B%BD%E4%B8%BB%E6%9D%83%23&t=31&band_rank=16&Refer=top",
           "source": "微博",
@@ -1052,17 +1118,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时06分 ~ 13时43分]"
-        },
-        {
-          "title": "伊朗首次使用最快自杀式无人机",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E9%A6%96%E6%AC%A1%E4%BD%BF%E7%94%A8%E6%9C%80%E5%BF%AB%E8%87%AA%E6%9D%80%E5%BC%8F%E6%97%A0%E4%BA%BA%E6%9C%BA%23&t=31&band_rank=6&Refer=top",
-          "source": "微博",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时43分 ~ 14时42分]"
         },
         {
           "title": "美军称已袭击伊朗20多艘舰船",
@@ -1149,18 +1204,6 @@
           "time_info": "[05时28分 ~ 06时25分]"
         },
         {
-          "title": "伊朗：第十九轮行动已开始",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%EF%BC%9A%E7%AC%AC%E5%8D%81%E4%B9%9D%E8%BD%AE%E8%A1%8C%E5%8A%A8%E5%B7%B2%E5%BC%80%E5%A7%8B",
-          "source": "百度热搜",
-          "ranks": [
-            13,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时43分 ~ 14时42分]"
-        },
-        {
           "title": "据AXIOS网站报道，一名美国官员和另一名消息人士表示，伊朗方面在过去几天里向美国发出消息呼吁进行对话，但美国未作出回应。",
           "url": "https://flash.jin10.com/detail/20260305052145788800",
           "source": "金十数据",
@@ -1207,6 +1250,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时25分 ~ 07时24分]"
+        },
+        {
+          "title": "伊朗高官让特朗普想想美以谁优先",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E9%AB%98%E5%AE%98%E8%AE%A9%E7%89%B9%E6%9C%97%E6%99%AE%E6%83%B3%E6%83%B3%E7%BE%8E%E4%BB%A5%E8%B0%81%E4%BC%98%E5%85%88%23&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时42分 ~ 15时38分]"
         },
         {
           "title": "伊朗：未向美国发送任何信息",
@@ -1287,6 +1342,39 @@
           "time_info": "13时43分"
         },
         {
+          "title": "伊朗伊斯兰革命卫队：战时霍尔木兹海峡的通行权将掌握在伊朗手中。",
+          "url": "https://flash.jin10.com/detail/20260305152513386800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时38分"
+        },
+        {
+          "title": "伊朗伊斯兰革命卫队称用导弹击中一艘美国油轮",
+          "url": "https://wallstreetcn.com/livenews/3064320",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时38分"
+        },
+        {
+          "title": "美国袭击伊朗动用了哪些武器",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E8%A2%AD%E5%87%BB%E4%BC%8A%E6%9C%97%E5%8A%A8%E7%94%A8%E4%BA%86%E5%93%AA%E4%BA%9B%E6%AD%A6%E5%99%A8",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时38分"
+        },
+        {
           "title": "卡塔尔外交部：卡塔尔总理兼外交部长周三与伊朗外长阿拉格齐通电话，拒绝了伊朗关于最近导弹袭击并非针对卡塔尔的说法，称地面证据显示情况并非如此。",
           "url": "https://flash.jin10.com/detail/20260305002505904800",
           "source": "金十数据",
@@ -1320,6 +1408,17 @@
           "time_info": "07时24分"
         },
         {
+          "title": "伊朗伊斯兰革命卫队称，已在海湾北部击中一艘美国油轮，该船目前正着火。",
+          "url": "https://flash.jin10.com/detail/20260305152359662800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时38分"
+        },
+        {
           "title": "白宫新闻秘书莱维特：预计很快将完全控制伊朗空域。",
           "url": "https://flash.jin10.com/detail/20260305022438790800",
           "source": "金十数据",
@@ -1340,6 +1439,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时26分"
+        },
+        {
+          "title": "英国国防部（MoD）确认，于3月2日袭击了塞浦路斯阿克罗蒂里皇家空军基地的那架无人机并非从伊朗发射的。",
+          "url": "https://flash.jin10.com/detail/20260305152312444800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时38分"
         },
         {
           "title": "白宫新闻秘书莱维特：美国军队已在伊朗打击超过2000个目标。",
@@ -1373,6 +1483,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
+        },
+        {
+          "title": "伊朗情报部称，分裂主义恐怖组织计划利用战时条件，从西部边境潜入伊朗，在城镇和边境地区发动袭击。",
+          "url": "https://flash.jin10.com/detail/20260305152109424800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时38分"
         },
         {
           "title": "加拿大央行行长麦克勒姆：在针对伊朗的袭击发生后，市场并未出现任何失灵。",
@@ -1469,7 +1590,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时42分"
         },
@@ -1524,7 +1645,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时42分"
         },
@@ -1557,7 +1678,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时42分"
         },
@@ -1628,6 +1749,17 @@
           "time_info": "13时43分"
         },
         {
+          "title": "伊朗革命卫队顾问：美国、以色列对伊朗的军事行动和韧性感到惊讶。",
+          "url": "https://flash.jin10.com/detail/20260305151751910800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时38分"
+        },
+        {
           "title": "高盛CEO苏德巍对市场对伊朗战争的\"温和\"反应感到惊讶",
           "url": "https://wallstreetcn.com/livenews/3063759",
           "source": "华尔街见闻-快讯",
@@ -1672,6 +1804,17 @@
           "time_info": "06时25分"
         },
         {
+          "title": "伊朗国家媒体报道，伊朗伊斯兰革命卫队称，已用三枚导弹袭击了伊拉克库尔德斯坦地区的库尔德武装基地。",
+          "url": "https://flash.jin10.com/detail/20260305151721625800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时38分"
+        },
+        {
           "title": "【伊朗军方称对阿联酋境内目标打击造成至少100美军死亡】总台记者获悉，当地时间3月4日，伊朗哈塔姆·安比亚中央司令部表示，在针对阿联酋迪拜境内美军目标的精确打击行动中，已造成至少100名美国海军陆战队成员死亡。美方对此暂无回应。（央视）",
           "url": "https://wallstreetcn.com/livenews/3063758",
           "source": "华尔街见闻-快讯",
@@ -1692,6 +1835,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时25分"
+        },
+        {
+          "title": "据伊朗伊斯兰共和国广播电视台（IRIB）：美国油轮在波斯湾北部触礁沉没。",
+          "url": "https://flash.jin10.com/detail/20260305151636825800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时38分"
         },
         {
           "title": "市场消息：伊朗方面称，在过去几个小时内，6架敌方入侵无人机，主要是赫尔墨斯类型，在伊斯法罕、库尔德斯坦和德黑兰地区被本土地面部队、空中防御和警察指挥部的系统摧毁。",
@@ -1771,24 +1925,24 @@
           "time_info": "03时34分"
         },
         {
+          "title": "伊朗陆军中将基奥马尔斯·海达里：我们正在海上、空中和太空与奉行全球主义的美国展开一场激烈的战斗。",
+          "url": "https://flash.jin10.com/detail/20260305151601753800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时38分"
+        },
+        {
           "title": "伊朗否认向土耳其发射导弹",
           "url": "https://wallstreetcn.com/livenews/3064242",
           "source": "华尔街见闻-快讯",
           "ranks": [
             21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时42分"
-        },
-        {
-          "title": "伊朗高官让特朗普想想美以谁优先",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E9%AB%98%E5%AE%98%E8%AE%A9%E7%89%B9%E6%9C%97%E6%99%AE%E6%83%B3%E6%83%B3%E7%BE%8E%E4%BB%A5%E8%B0%81%E4%BC%98%E5%85%88%23&t=31&band_rank=21&Refer=top",
-          "source": "微博",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时42分"
         },
@@ -1802,6 +1956,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时28分"
+        },
+        {
+          "title": "斯里兰卡内阁发言人表示，斯里兰卡正试图保护其海岸附近另一艘伊朗船只上的船员生命安全。",
+          "url": "https://flash.jin10.com/detail/20260305151428395800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时38分"
         },
         {
           "title": "伊拉克库区政府称没有伊拉克库尔德人越境进攻伊朗",
@@ -1870,6 +2035,17 @@
           "time_info": "05时28分"
         },
         {
+          "title": "红新月会称，美以联军已对伊朗105个平民目标发动攻击。",
+          "url": "https://flash.jin10.com/detail/20260305151054274800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时38分"
+        },
+        {
           "title": "美国总统特朗普：我们在伊朗问题上处于非常有利的地位。",
           "url": "https://flash.jin10.com/detail/20260305041920558800",
           "source": "金十数据",
@@ -1925,6 +2101,17 @@
           "time_info": "02时39分"
         },
         {
+          "title": "泽连斯基：伊朗战争致俄乌和谈无限期推迟",
+          "url": "https://flash.jin10.com/detail/20260305151010215800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时38分"
+        },
+        {
           "title": "以色列国防军：完成了一次大规模打击，目标是位于德黑兰东部的一个伊朗军事基地，该基地包含多个指挥中心和内部安全人员。",
           "url": "https://flash.jin10.com/detail/20260305000123836800",
           "source": "金十数据",
@@ -1978,6 +2165,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时23分"
+        },
+        {
+          "title": "伊朗的反击愈发猛烈",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E7%9A%84%E5%8F%8D%E5%87%BB%E6%84%88%E5%8F%91%E7%8C%9B%E7%83%88%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时38分"
         },
         {
           "title": "伊朗的导弹能用多久",
@@ -2121,6 +2319,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时43分"
+        },
+        {
+          "title": "伊朗军方高官称未封锁霍尔木兹海峡",
+          "url": "https://wallstreetcn.com/livenews/3064281",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时38分"
         }
       ]
     },
@@ -2136,8 +2345,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时24分 ~ 14时42分]"
+          "appearance_count": 7,
+          "time_info": "[07时24分 ~ 15时38分]"
         },
         {
           "title": "首场“委员通道”聚焦什么？“苏超”、量子科技和硅基生产力",
@@ -2149,8 +2358,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时23分 ~ 14时42分]"
+          "appearance_count": 6,
+          "time_info": "[09时23分 ~ 15时38分]"
         },
         {
           "title": "美股收盘：通胀担忧暂缓、油价持稳 科技股带动大盘重拾升势",
@@ -2162,8 +2371,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时24分 ~ 14时42分]"
+          "appearance_count": 7,
+          "time_info": "[07时24分 ~ 15时38分]"
         },
         {
           "title": "恒生科技指数转为涨跌持平，此前一度涨1.8%。",
@@ -2190,6 +2399,19 @@
           "time_info": "[03时34分 ~ 05时28分]"
         },
         {
+          "title": "科技部部长：中国芯片攻关取得新突破",
+          "url": "https://www.baidu.com/s?wd=%E7%A7%91%E6%8A%80%E9%83%A8%E9%83%A8%E9%95%BF%EF%BC%9A%E4%B8%AD%E5%9B%BD%E8%8A%AF%E7%89%87%E6%94%BB%E5%85%B3%E5%8F%96%E5%BE%97%E6%96%B0%E7%AA%81%E7%A0%B4",
+          "source": "百度热搜",
+          "ranks": [
+            7,
+            20,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时43分 ~ 15时38分]"
+        },
+        {
           "title": "科技部部长点赞人形机器人",
           "url": "https://www.toutiao.com/trending/7613552782146158611/",
           "source": "今日头条",
@@ -2199,18 +2421,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时06分 ~ 12时07分]"
-        },
-        {
-          "title": "科技部部长：中国芯片攻关取得新突破",
-          "url": "https://www.baidu.com/s?wd=%E7%A7%91%E6%8A%80%E9%83%A8%E9%83%A8%E9%95%BF%EF%BC%9A%E4%B8%AD%E5%9B%BD%E8%8A%AF%E7%89%87%E6%94%BB%E5%85%B3%E5%8F%96%E5%BE%97%E6%96%B0%E7%AA%81%E7%A0%B4",
-          "source": "百度热搜",
-          "ranks": [
-            7,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时43分 ~ 14时42分]"
         },
         {
           "title": "欧盟已经对来自法国、瑞典、英国的公司清单进行精简，用于管理其既定的Scaleup Europe Fund计划。 欧盟委员会将是该项目的创始投资者之一，私人投资者、养老基金也将参与其中。 该项目的融资目标为250亿欧元，将侧重于战略性科技与公司。",
@@ -2253,7 +2463,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时42分"
         },
@@ -2305,7 +2515,7 @@
     },
     {
       "keyword_group": "金融",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "全国政协委员、香港上海汇丰银行主席王冬胜：建议推出大湾区“新股通” 深化金融市场互联互通。（上证报）",
@@ -2330,6 +2540,18 @@
           "time_info": "09时23分"
         },
         {
+          "title": "两会重磅数据公布，今年新增政府债务温和扩张，8000亿新型政策性金融工具成亮点",
+          "url": "https://www.cls.cn/detail/2303564",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时42分 ~ 15时38分]"
+        },
+        {
           "title": "据英国金融时报：据乌克兰业内消息人士透露，五角大楼以及至少一个海湾国家政府正在商讨购买乌克兰制造的拦截器，以抵御伊朗无人机的攻击。",
           "url": "https://flash.jin10.com/detail/20260305130749053800",
           "source": "金十数据",
@@ -2339,17 +2561,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时43分"
-        },
-        {
-          "title": "两会重磅数据公布，今年新增政府债务温和扩张，8000亿新型政策性金融工具成亮点",
-          "url": "https://www.cls.cn/detail/2303564",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时42分"
         },
         {
           "title": "英伟达已将台积电部分H200芯片产能重新分配，转向Vera Rubin硬件。（英国金融时报）",
@@ -2402,9 +2613,20 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时42分"
+        },
+        {
+          "title": "欧洲央行管委兼法国央行行长Villeroy：正密切关注能源价格及市场走势。 美元走强重返避险地位。 伊朗冲突持续时间将影响价格走势。 金融稳定没有受到威胁。 没有加息的必要。",
+          "url": "https://wallstreetcn.com/livenews/3064283",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时38分"
         }
       ]
     },
@@ -2534,11 +2756,12 @@
           "source": "澎湃新闻",
           "ranks": [
             19,
-            17
+            17,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时23分 ~ 14时42分]"
+          "appearance_count": 4,
+          "time_info": "[09时23分 ~ 15时38分]"
         },
         {
           "title": "中国拥有全球门类最齐全制造业体系",
@@ -2587,59 +2810,8 @@
       ]
     },
     {
-      "keyword_group": "消费",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "代表：房地产有望成为消费新动能",
-          "url": "https://www.baidu.com/s?wd=%E4%BB%A3%E8%A1%A8%EF%BC%9A%E6%88%BF%E5%9C%B0%E4%BA%A7%E6%9C%89%E6%9C%9B%E6%88%90%E4%B8%BA%E6%B6%88%E8%B4%B9%E6%96%B0%E5%8A%A8%E8%83%BD",
-          "source": "百度热搜",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时43分 ~ 14时42分]"
-        },
-        {
-          "title": "金十图示：2026年03月05日（周四）富时中国A50指数成分股午盘收盘行情一览：银行、保险、证券、消费电子等板块上攻，炼化贸易、煤炭板块回调。",
-          "url": "https://flash.jin10.com/detail/20260305113343667800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时07分"
-        },
-        {
-          "title": "政府工作报告提出，2026 年将安排超长期特别国债 2500 亿元支持消费品以旧换新，将带来哪些影响？",
-          "url": "https://www.zhihu.com/question/2012832253936432138",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时42分"
-        },
-        {
-          "title": "刘永好建议全民发500元通用消费券",
-          "url": "https://www.douyin.com/hot/2418499",
-          "source": "抖音",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时34分"
-        }
-      ]
-    },
-    {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "谷歌公司与Epic达成和解协议之后，将在全区范围内下调APP开发者费用。",
@@ -2677,6 +2849,17 @@
           "time_info": "05时28分"
         },
         {
+          "title": "谷歌DeepMind向千问团队抛橄榄枝",
+          "url": "https://wallstreetcn.com/livenews/3064303",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时38分"
+        },
+        {
           "title": "市场消息：谷歌公司与Epic达成和解协议之后，将在全区范围内下调APP开发者费用。",
           "url": "https://flash.jin10.com/detail/20260305021016525800",
           "source": "金十数据",
@@ -2691,7 +2874,7 @@
     },
     {
       "keyword_group": "资源",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "政协委员建议逐步将高中纳入义务教育，扩大教育资源缓解中考压力，还能带来哪些利好？可能面临哪些难点？",
@@ -2725,15 +2908,78 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时42分"
+        },
+        {
+          "title": "陈昌盛：要加快空域资源的开放和低空经济飞行审批程序的优化简化",
+          "url": "https://wallstreetcn.com/livenews/3064317",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时38分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "消费",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "代表：房地产有望成为消费新动能",
+          "url": "https://www.baidu.com/s?wd=%E4%BB%A3%E8%A1%A8%EF%BC%9A%E6%88%BF%E5%9C%B0%E4%BA%A7%E6%9C%89%E6%9C%9B%E6%88%90%E4%B8%BA%E6%B6%88%E8%B4%B9%E6%96%B0%E5%8A%A8%E8%83%BD",
+          "source": "百度热搜",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时43分 ~ 15时38分]"
+        },
+        {
+          "title": "金十图示：2026年03月05日（周四）富时中国A50指数成分股午盘收盘行情一览：银行、保险、证券、消费电子等板块上攻，炼化贸易、煤炭板块回调。",
+          "url": "https://flash.jin10.com/detail/20260305113343667800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时07分"
+        },
+        {
+          "title": "政府工作报告提出，2026 年将安排超长期特别国债 2500 亿元支持消费品以旧换新，将带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2012832253936432138",
+          "source": "知乎",
+          "ranks": [
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时42分 ~ 15时38分]"
+        },
+        {
+          "title": "刘永好建议全民发500元通用消费券",
+          "url": "https://www.douyin.com/hot/2418499",
+          "source": "抖音",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时34分"
         }
       ]
     },
     {
       "keyword_group": "美元",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "美元指数4日下跌",
@@ -2756,6 +3002,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时28分"
+        },
+        {
+          "title": "上期所原油主力合约直线下挫，现打开涨停板，涨幅收窄至5.74%，报659.8元/桶。 集运指数欧线短线大幅波动，盘中一度转跌，此前涨超18%。 美、布两油短线走低逾1美元。",
+          "url": "https://wallstreetcn.com/livenews/3064287",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时38分"
         }
       ]
     },
@@ -2771,11 +3028,12 @@
             19,
             23,
             20,
-            22
+            22,
+            17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时23分 ~ 14时42分]"
+          "appearance_count": 6,
+          "time_info": "[09时23分 ~ 15时38分]"
         }
       ]
     },
