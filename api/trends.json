@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-13T15:41:01.562471+08:00",
-  "total_titles_processed": 1319,
+  "generated_at": "2026-03-13T16:33:03.345149+08:00",
+  "total_titles_processed": 1411,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 160,
+      "match_count": 163,
       "titles": [
         {
           "title": "特朗普称对伊朗军事行动“即将结束”，暗示或打击更多目标，伊方警告美或陷入长期耗损战",
@@ -50,8 +50,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时28分 ~ 15时41分]"
+          "appearance_count": 14,
+          "time_info": "[07时28分 ~ 16时33分]"
         },
         {
           "title": "伊朗新领袖首份声明：不会放弃复仇，霍尔木兹海峡将继续关闭，必要时开辟新战线",
@@ -62,8 +62,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时54分 ~ 15时41分]"
+          "appearance_count": 27,
+          "time_info": "[00时54分 ~ 16时33分]"
         },
         {
           "title": "伊朗“开绿灯”，允许印度油轮通过海峡？伊朗人士否认",
@@ -121,8 +121,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[06时19分 ~ 15时41分]"
+          "appearance_count": 16,
+          "time_info": "[06时19分 ~ 16时33分]"
+        },
+        {
+          "title": "事关霍尔木兹！伊朗革命卫队称继续封锁 副外长则表示允许部分国家船只通过",
+          "url": "https://www.cls.cn/detail/2311531",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时06分 ~ 16时33分]"
         },
         {
           "title": "伊朗称允许部分国家船只通过霍尔木兹海峡 美军加油机在伊拉克坠毁 | 环球市场",
@@ -133,8 +145,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时28分 ~ 15时41分]"
+          "appearance_count": 14,
+          "time_info": "[07时28分 ~ 16时33分]"
         },
         {
           "title": "联合国谴责伊朗:别打海湾国家",
@@ -145,11 +157,12 @@
             5,
             6,
             7,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时54分 ~ 15时41分]"
+          "appearance_count": 27,
+          "time_info": "[00时54分 ~ 16时33分]"
         },
         {
           "title": "伊朗最高领袖穆杰塔巴：不会放弃复仇，霍尔木兹海峡将继续关闭",
@@ -163,8 +176,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时54分 ~ 15时41分]"
+          "appearance_count": 27,
+          "time_info": "[00时54分 ~ 16时33分]"
         },
         {
           "title": "导弹对准伊朗孩童,美方称误击",
@@ -175,11 +188,12 @@
             8,
             9,
             10,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时54分 ~ 15时41分]"
+          "appearance_count": 27,
+          "time_info": "[00时54分 ~ 16时33分]"
         },
         {
           "title": "欧洲议会议员怒斥：你们敢面对被导弹炸死的伊朗女孩吗？",
@@ -193,18 +207,6 @@
           "time_info": "[00时54分 ~ 09时23分]"
         },
         {
-          "title": "事关霍尔木兹！伊朗革命卫队称继续封锁 副外长则表示允许部分国家船只通过",
-          "url": "https://www.cls.cn/detail/2311531",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时06分 ~ 15时41分]"
-        },
-        {
           "title": "参与对伊朗行动的美军最大航母“福特”号发生火灾，军方称起火与战事无关",
           "url": "https://wallstreetcn.com/articles/3767375",
           "source": "华尔街见闻",
@@ -215,8 +217,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时22分 ~ 15时41分]"
+          "appearance_count": 12,
+          "time_info": "[09时22分 ~ 16时33分]"
         },
         {
           "title": "伊朗伊斯兰革命卫队空军指挥官遇袭身亡",
@@ -251,8 +253,20 @@
             6
           ],
           "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[09时22分 ~ 16时33分]"
+        },
+        {
+          "title": "伊朗称一架美军加油机被击落，美方称并非由敌方火力或友军误击造成，具体是怎么回事？目前伊朗防空能力如何？",
+          "url": "https://www.zhihu.com/question/2015691380442232507",
+          "source": "知乎",
+          "ranks": [
+            11,
+            6
+          ],
+          "is_new": false,
           "appearance_count": 10,
-          "time_info": "[09时22分 ~ 15时41分]"
+          "time_info": "[12时06分 ~ 16时33分]"
         },
         {
           "title": "伊朗向以发射多型号导弹",
@@ -270,17 +284,17 @@
           "time_info": "[00时54分 ~ 07时29分]"
         },
         {
-          "title": "伊朗称击落美加油机 机组人员均死亡",
-          "url": "https://www.toutiao.com/trending/7615541706667687946/",
-          "source": "今日头条",
+          "title": "伊朗称精确打击美海军第五舰队总部",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E7%A7%B0%E7%B2%BE%E7%A1%AE%E6%89%93%E5%87%BB%E7%BE%8E%E6%B5%B7%E5%86%9B%E7%AC%AC%E4%BA%94%E8%88%B0%E9%98%9F%E6%80%BB%E9%83%A8",
+          "source": "百度热搜",
           "ranks": [
-            6,
-            15,
-            16
+            14,
+            20,
+            6
           ],
           "is_new": false,
           "appearance_count": 10,
-          "time_info": "[09时22分 ~ 15时41分]"
+          "time_info": "[09时22分 ~ 16时33分]"
         },
         {
           "title": "伊朗新任最高领袖发表首次声明 国际油价飙升再次突破100美元",
@@ -297,6 +311,20 @@
           "is_new": false,
           "appearance_count": 16,
           "time_info": "[04时27分 ~ 14时43分]"
+        },
+        {
+          "title": "伊朗称击落美加油机 机组人员均死亡",
+          "url": "https://www.toutiao.com/trending/7615541706667687946/",
+          "source": "今日头条",
+          "ranks": [
+            6,
+            15,
+            16,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[09时22分 ~ 16时33分]"
         },
         {
           "title": "伊朗总统提出结束战争三大必要条件，要求美以赔偿",
@@ -342,11 +370,12 @@
             10,
             11,
             12,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时54分 ~ 15时41分]"
+          "appearance_count": 27,
+          "time_info": "[00时54分 ~ 16时33分]"
         },
         {
           "title": "伊朗新任最高领袖发表声明",
@@ -355,11 +384,12 @@
           "ranks": [
             11,
             16,
-            12
+            12,
+            10
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时54分 ~ 15时41分]"
+          "appearance_count": 27,
+          "time_info": "[00时54分 ~ 16时33分]"
         },
         {
           "title": "伊朗最高领袖公开声明",
@@ -375,30 +405,6 @@
           "time_info": "[00时54分 ~ 09时23分]"
         },
         {
-          "title": "伊朗最高领袖发表首份声明",
-          "url": "https://www.toutiao.com/trending/7616323272438746660/",
-          "source": "今日头条",
-          "ranks": [
-            11,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时54分 ~ 07时29分]"
-        },
-        {
-          "title": "伊朗总统提出结束战争需满足承认其合法权利、支付战争赔款等三大条件，如何解读？美以接受可能性大吗？",
-          "url": "https://www.zhihu.com/question/2015333212675597375",
-          "source": "知乎",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时54分 ~ 07时29分]"
-        },
-        {
           "title": "伊朗最高领袖穆杰塔巴·哈梅内伊发表首次声明",
           "url": "https://m.thepaper.cn/newsDetail_forward_32755606",
           "source": "澎湃新闻",
@@ -410,8 +416,20 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[06时19分 ~ 15时41分]"
+          "appearance_count": 16,
+          "time_info": "[06时19分 ~ 16时33分]"
+        },
+        {
+          "title": "伊朗最高领袖发表首份声明",
+          "url": "https://www.toutiao.com/trending/7616323272438746660/",
+          "source": "今日头条",
+          "ranks": [
+            11,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[00时54分 ~ 07时29分]"
         },
         {
           "title": "伊朗新任最高领袖发表声明",
@@ -427,8 +445,20 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时54分 ~ 15时41分]"
+          "appearance_count": 15,
+          "time_info": "[00时54分 ~ 16时33分]"
+        },
+        {
+          "title": "伊朗总统提出结束战争需满足承认其合法权利、支付战争赔款等三大条件，如何解读？美以接受可能性大吗？",
+          "url": "https://www.zhihu.com/question/2015333212675597375",
+          "source": "知乎",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[00时54分 ~ 07时29分]"
         },
         {
           "title": "打不动也赢不了：美以与伊朗冲突或将重回混沌状态",
@@ -454,6 +484,20 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[07时28分 ~ 15时41分]"
+        },
+        {
+          "title": "美军向接近林肯号航母的伊朗船只开火",
+          "url": "https://www.toutiao.com/trending/7615507046503252022/",
+          "source": "今日头条",
+          "ranks": [
+            22,
+            12,
+            13,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时06分 ~ 16时33分]"
         },
         {
           "title": "伊朗最高领袖穆杰塔巴发表首份声明",
@@ -508,8 +552,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时22分 ~ 15时41分]"
+          "appearance_count": 12,
+          "time_info": "[09时22分 ~ 16时33分]"
         },
         {
           "title": "伊朗最高领袖要求地区美军基地关闭",
@@ -589,11 +633,12 @@
             16,
             23,
             30,
-            27
+            27,
+            28
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时22分 ~ 15时41分]"
+          "appearance_count": 12,
+          "time_info": "[09时22分 ~ 16时33分]"
         },
         {
           "title": "伊朗总统提出结束战争必要条件",
@@ -699,6 +744,17 @@
           "time_info": "[00时54分 ~ 09时23分]"
         },
         {
+          "title": "美以伊战争｜伊朗向俄罗斯提出援助请求，俄方回应",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时40分 ~ 16时33分]"
+        },
+        {
           "title": "伊朗伊斯兰革命卫队称袭击美油轮",
           "url": "https://www.douyin.com/hot/2428446",
           "source": "抖音",
@@ -711,42 +767,63 @@
           "time_info": "[00时54分 ~ 06时20分]"
         },
         {
-          "title": "伊朗称一架美军加油机被击落，美方称并非由敌方火力或友军误击造成，具体是怎么回事？目前伊朗防空能力如何？",
-          "url": "https://www.zhihu.com/question/2015691380442232507",
-          "source": "知乎",
-          "ranks": [
-            11,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时06分 ~ 15时41分]"
-        },
-        {
-          "title": "伊朗称精确打击美海军第五舰队总部",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E7%A7%B0%E7%B2%BE%E7%A1%AE%E6%89%93%E5%87%BB%E7%BE%8E%E6%B5%B7%E5%86%9B%E7%AC%AC%E4%BA%94%E8%88%B0%E9%98%9F%E6%80%BB%E9%83%A8",
-          "source": "百度热搜",
-          "ranks": [
-            14,
-            20,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时22分 ~ 15时41分]"
-        },
-        {
-          "title": "美军向接近林肯号航母的伊朗船只开火",
-          "url": "https://www.toutiao.com/trending/7615507046503252022/",
+          "title": "伊朗称“林肯”号航母失去作战能力",
+          "url": "https://www.toutiao.com/trending/7616589787511672330/",
           "source": "今日头条",
           "ranks": [
-            22,
-            12,
-            13
+            6
           ],
           "is_new": false,
           "appearance_count": 8,
-          "time_info": "[12时06分 ~ 15时41分]"
+          "time_info": "[13时43分 ~ 16时33分]"
+        },
+        {
+          "title": "内塔尼亚胡“神秘露面”，威胁刺杀伊朗新最高领袖",
+          "url": "https://news.ifeng.com/c/8rSPHcIQeqk",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时43分 ~ 16时33分]"
+        },
+        {
+          "title": "美财长：打伊朗，不用怕花钱",
+          "url": "https://news.ifeng.com/c/8rSUQCfBRXt",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时40分 ~ 16时33分]"
+        },
+        {
+          "title": "伊朗称袭击“林肯”号航母致其撤走",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E7%A7%B0%E8%A2%AD%E5%87%BB%E2%80%9C%E6%9E%97%E8%82%AF%E2%80%9D%E5%8F%B7%E8%88%AA%E6%AF%8D%E8%87%B4%E5%85%B6%E6%92%A4%E8%B5%B0",
+          "source": "百度热搜",
+          "ranks": [
+            6,
+            14,
+            13,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时43分 ~ 16时33分]"
+        },
+        {
+          "title": "伊朗副外长称允许部分国家船只通过霍尔木兹海峡，并未在该水域布雷，这对全球能源市场有哪些利好？",
+          "url": "https://www.zhihu.com/question/2015702712000410278",
+          "source": "知乎",
+          "ranks": [
+            14,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时06分 ~ 16时33分]"
         },
         {
           "title": "袭击伊朗小学的导弹为美国制造",
@@ -774,17 +851,6 @@
           "time_info": "[14时42分 ~ 14时43分]"
         },
         {
-          "title": "美以伊战争｜伊朗向俄罗斯提出援助请求，俄方回应",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时40分 ~ 15时41分]"
-        },
-        {
           "title": "伊朗称袭击以色列空军基地及安全总局",
           "url": "https://www.toutiao.com/trending/7615457309925556243/",
           "source": "今日头条",
@@ -796,52 +862,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时54分 ~ 05时27分]"
-        },
-        {
-          "title": "伊朗称“林肯”号航母失去作战能力",
-          "url": "https://www.toutiao.com/trending/7616589787511672330/",
-          "source": "今日头条",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时43分 ~ 15时41分]"
-        },
-        {
-          "title": "内塔尼亚胡“神秘露面”，威胁刺杀伊朗新最高领袖",
-          "url": "https://news.ifeng.com/c/8rSPHcIQeqk",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时43分 ~ 15时41分]"
-        },
-        {
-          "title": "美财长：打伊朗，不用怕花钱",
-          "url": "https://news.ifeng.com/c/8rSUQCfBRXt",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时40分 ~ 15时41分]"
-        },
-        {
-          "title": "伊朗称袭击“林肯”号航母致其撤走",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E7%A7%B0%E8%A2%AD%E5%87%BB%E2%80%9C%E6%9E%97%E8%82%AF%E2%80%9D%E5%8F%B7%E8%88%AA%E6%AF%8D%E8%87%B4%E5%85%B6%E6%92%A4%E8%B5%B0",
-          "source": "百度热搜",
-          "ranks": [
-            6,
-            14,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时43分 ~ 15时41分]"
         },
         {
           "title": "伊朗：抵抗组织击落美军加油机",
@@ -867,16 +887,18 @@
           "time_info": "[12时06分 ~ 14时43分]"
         },
         {
-          "title": "伊朗副外长称允许部分国家船只通过霍尔木兹海峡，并未在该水域布雷，这对全球能源市场有哪些利好？",
-          "url": "https://www.zhihu.com/question/2015702712000410278",
-          "source": "知乎",
+          "title": "伊朗称对林肯号航母发动袭击",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E7%A7%B0%E5%AF%B9%E6%9E%97%E8%82%AF%E5%8F%B7%E8%88%AA%E6%AF%8D%E5%8F%91%E5%8A%A8%E8%A2%AD%E5%87%BB%23&t=31&band_rank=15&Refer=top",
+          "source": "微博",
           "ranks": [
+            15,
             14,
-            17
+            13,
+            19
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[12时06分 ~ 15时41分]"
+          "time_info": "[14时42分 ~ 16时33分]"
         },
         {
           "title": "伊朗发起“真实承诺4”第44轮行动",
@@ -890,6 +912,19 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[12时06分 ~ 14时43分]"
+        },
+        {
+          "title": "伊朗伊斯兰革命卫队空军指挥官遇袭身亡",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32754559",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时42分 ~ 16时33分]"
         },
         {
           "title": "伊朗总统提结束战争三大条件",
@@ -951,6 +986,17 @@
           "time_info": "12时07分"
         },
         {
+          "title": "以色列安全官员：伊朗仍有150个导弹发射平台，我们将继续对其进行打击。",
+          "url": "https://flash.jin10.com/detail/20260313161402059800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
+        },
+        {
           "title": "美政府被指低估伊朗封锁霍尔木兹海峡的可能性",
           "url": "https://wallstreetcn.com/livenews/3069258",
           "source": "华尔街见闻-快讯",
@@ -960,6 +1006,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时23分"
+        },
+        {
+          "title": "伊朗最高领袖称不会放弃复仇",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E6%9C%97%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E7%A7%B0%E4%B8%8D%E4%BC%9A%E6%94%BE%E5%BC%83%E5%A4%8D%E4%BB%87",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时40分 ~ 16时33分]"
         },
         {
           "title": "伊朗外交部发言人：美军基地已成地区不稳定因素",
@@ -986,6 +1043,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时27分 ~ 07时29分]"
+        },
+        {
+          "title": "伊朗：已摧毁中东地区70%美军基地",
+          "url": "https://news.ifeng.com/c/8rSarHDniGH",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时40分 ~ 16时33分]"
         },
         {
           "title": "以军称打击伊朗巴斯基民兵目标",
@@ -1073,19 +1141,6 @@
           "time_info": "[09时22分 ~ 12时07分]"
         },
         {
-          "title": "伊朗称对林肯号航母发动袭击",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E7%A7%B0%E5%AF%B9%E6%9E%97%E8%82%AF%E5%8F%B7%E8%88%AA%E6%AF%8D%E5%8F%91%E5%8A%A8%E8%A2%AD%E5%87%BB%23&t=31&band_rank=15&Refer=top",
-          "source": "微博",
-          "ranks": [
-            15,
-            14,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时42分 ~ 15时41分]"
-        },
-        {
           "title": "伊朗已有约320万人因冲突流离失所",
           "url": "https://www.toutiao.com/trending/7615805602698166281/",
           "source": "今日头条",
@@ -1096,18 +1151,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时22分 ~ 12时07分]"
-        },
-        {
-          "title": "伊朗伊斯兰革命卫队空军指挥官遇袭身亡",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32754559",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时42分 ~ 15时41分]"
         },
         {
           "title": "伊朗和黎巴嫩真主党展开联合行动",
@@ -1146,17 +1189,6 @@
           "time_info": "[07时28分 ~ 07时29分]"
         },
         {
-          "title": "伊朗最高领袖称不会放弃复仇",
-          "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E6%9C%97%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E7%A7%B0%E4%B8%8D%E4%BC%9A%E6%94%BE%E5%BC%83%E5%A4%8D%E4%BB%87",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时40分 ~ 15时41分]"
-        },
-        {
           "title": "伊朗称若电力遭袭整个地区将陷黑暗",
           "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E7%A7%B0%E8%8B%A5%E7%94%B5%E5%8A%9B%E9%81%AD%E8%A2%AD%E6%95%B4%E4%B8%AA%E5%9C%B0%E5%8C%BA%E5%B0%86%E9%99%B7%E9%BB%91%E6%9A%97%23&t=31&band_rank=6&Refer=top",
           "source": "微博",
@@ -1166,17 +1198,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时22分 ~ 09时23分]"
-        },
-        {
-          "title": "伊朗：已摧毁中东地区70%美军基地",
-          "url": "https://news.ifeng.com/c/8rSarHDniGH",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时40分 ~ 15时41分]"
         },
         {
           "title": "以色列总理威胁刺杀伊朗新最高领袖",
@@ -1413,6 +1434,17 @@
           "time_info": "[09时22分 ~ 09时23分]"
         },
         {
+          "title": "伊朗被曝研究开辟新战场",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E8%A2%AB%E6%9B%9D%E7%A0%94%E7%A9%B6%E5%BC%80%E8%BE%9F%E6%96%B0%E6%88%98%E5%9C%BA%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时32分 ~ 16时33分]"
+        },
+        {
           "title": "伊朗称特朗普几条推文结束不了战争",
           "url": "https://flash.jin10.com/detail/20260313004520116800",
           "source": "金十数据",
@@ -1430,7 +1462,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时41分"
         },
@@ -1688,6 +1720,17 @@
           "time_info": "05时27分"
         },
         {
+          "title": "以军称空袭伊朗德黑兰、设拉子等地 打击多处基础设施",
+          "url": "https://wallstreetcn.com/livenews/3069539",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
+        },
+        {
           "title": "伊朗最高安全官员对特朗普表示：除非你承认错误并付出代价，否则我们不会放你走。",
           "url": "https://flash.jin10.com/detail/20260313002535367800",
           "source": "金十数据",
@@ -1738,7 +1781,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时41分"
         },
@@ -1804,7 +1847,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时41分"
         },
@@ -1944,7 +1987,7 @@
     },
     {
       "keyword_group": "科技",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "【数据看盘】量化资金、一线游资联手抢筹汉缆股份，多路资金激烈博弈宏景科技",
@@ -2030,6 +2073,17 @@
           "time_info": "14时43分"
         },
         {
+          "title": "港股收盘：恒生指数收跌0.98%，恒生科技指数收跌0.99%。百度涨1.5%，阿里巴巴涨0.7%，老铺黄金跌近4%，安踏体育跌超2%。",
+          "url": "https://wallstreetcn.com/livenews/3069542",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
+        },
+        {
           "title": "A股PCB概念股震荡回升，亨通股份触及涨停，中英科技涨超10%，南亚新材、沪电股份、金安国纪涨超5%。",
           "url": "https://wallstreetcn.com/livenews/3069405",
           "source": "华尔街见闻-快讯",
@@ -2041,13 +2095,24 @@
           "time_info": "14时43分"
         },
         {
+          "title": "宇树科技四足机器人新专利获授权",
+          "url": "https://wallstreetcn.com/livenews/3069537",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
+        },
+        {
           "title": "时的科技E20 eVTOL获旋翼纪元100架订单",
           "url": "https://wallstreetcn.com/livenews/3069480",
           "source": "华尔街见闻-快讯",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时41分"
         },
@@ -2088,7 +2153,7 @@
     },
     {
       "keyword_group": "金融",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "明晟公司MSCI北欧国家指数大致持平，报376.20点。 在十个板块中，北欧金融板块跌幅最大。 Svenska Handelsbanken AB跌2.4%，在一众北欧个股里表现最差。",
@@ -2139,6 +2204,28 @@
           "time_info": "13时44分"
         },
         {
+          "title": "炒股“小龙虾”来了？3家金融数据终端大厂官宣“养虾”",
+          "url": "https://wallstreetcn.com/livenews/3069538",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
+        },
+        {
+          "title": "中国央行：2025年4季度末金融业机构总资产538.9万亿元",
+          "url": "https://wallstreetcn.com/livenews/3069533",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
+        },
+        {
           "title": "日本财务大臣片山皋月：能源价格的投机性波动已有所消退。 尽管如此，能源价格依然高于此前的水平。 油价上涨必然会对日本经济造成影响。 包括外汇市场在内的金融市场出现了大幅波动。 需要尽可能减轻油价波动带来的影响。 将根据需要针对汇率采取一切可能的措施。 正密切关注汇率波动对民众生活造成的影响。",
           "url": "https://wallstreetcn.com/livenews/3069321",
           "source": "华尔街见闻-快讯",
@@ -2159,6 +2246,72 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时07分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "消费",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "演员炼梗成魔,消费亡父编段子",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351712&amp;topic_name=%E6%BC%94%E5%91%98%E7%82%BC%E6%A2%97%E6%88%90%E9%AD%94%2C%E6%B6%88%E8%B4%B9%E4%BA%A1%E7%88%B6%E7%BC%96%E6%AE%B5%E5%AD%90",
+          "source": "贴吧",
+          "ranks": [
+            13,
+            16,
+            17,
+            18,
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 27,
+          "time_info": "[00时54分 ~ 16时33分]"
+        },
+        {
+          "title": "日本首相高市早苗：目前暂无提高消费税的计划。",
+          "url": "https://wallstreetcn.com/livenews/3069555",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
+        },
+        {
+          "title": "调查显示，阿根廷2月份消费者价格较上月上涨2.9%。",
+          "url": "https://flash.jin10.com/detail/20260313030101512800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时39分"
+        },
+        {
+          "title": "澳大利亚竞争与消费者委员会：呼吁行业对燃油价格的大幅波动作出解释，澳大利亚精炼国际汽油和柴油基准价格上涨幅度超过国际油价涨幅。",
+          "url": "https://flash.jin10.com/detail/20260313111325573800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时07分"
+        },
+        {
+          "title": "中信证券：2026年将是消费行业景气拐点确立的关键之年",
+          "url": "https://wallstreetcn.com/livenews/3069232",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时23分"
         }
       ]
     },
@@ -2209,7 +2362,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时41分"
         },
@@ -2220,63 +2373,9 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时41分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "消费",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "演员炼梗成魔,消费亡父编段子",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351712&amp;topic_name=%E6%BC%94%E5%91%98%E7%82%BC%E6%A2%97%E6%88%90%E9%AD%94%2C%E6%B6%88%E8%B4%B9%E4%BA%A1%E7%88%B6%E7%BC%96%E6%AE%B5%E5%AD%90",
-          "source": "贴吧",
-          "ranks": [
-            13,
-            16,
-            17,
-            18,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时54分 ~ 15时41分]"
-        },
-        {
-          "title": "调查显示，阿根廷2月份消费者价格较上月上涨2.9%。",
-          "url": "https://flash.jin10.com/detail/20260313030101512800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时39分"
-        },
-        {
-          "title": "澳大利亚竞争与消费者委员会：呼吁行业对燃油价格的大幅波动作出解释，澳大利亚精炼国际汽油和柴油基准价格上涨幅度超过国际油价涨幅。",
-          "url": "https://flash.jin10.com/detail/20260313111325573800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时07分"
-        },
-        {
-          "title": "中信证券：2026年将是消费行业景气拐点确立的关键之年",
-          "url": "https://wallstreetcn.com/livenews/3069232",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时23分"
         }
       ]
     },
@@ -2291,7 +2390,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时41分"
         },
@@ -2319,7 +2418,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时41分"
         }
