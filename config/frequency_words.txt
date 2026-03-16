@@ -26,6 +26,8 @@ gemini
 chatgpt
 openai
 
+openclaw
+
 金价
 
 黄金
