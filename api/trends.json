@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-17T13:55:13.437370+08:00",
-  "total_titles_processed": 1114,
+  "generated_at": "2026-03-17T14:56:19.972385+08:00",
+  "total_titles_processed": 1211,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 82,
+      "match_count": 88,
       "titles": [
         {
           "title": "6问美以伊战事走向：美国如何停战？伊朗是否会恋战？",
@@ -41,8 +41,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时03分 ~ 13时55分]"
+          "appearance_count": 15,
+          "time_info": "[01时03分 ~ 14时56分]"
         },
         {
           "title": "伊朗最高领袖任命军事顾问",
@@ -107,8 +107,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时03分 ~ 13时55分]"
+          "appearance_count": 15,
+          "time_info": "[01时03分 ~ 14时56分]"
         },
         {
           "title": "伊朗黑客出手！美国遭遇最严重的战时网络攻击",
@@ -230,6 +230,18 @@
           "time_info": "[01时03分 ~ 07时26分]"
         },
         {
+          "title": "知情人士：美军对伊朗冲突作战规划已包含“退出选项”",
+          "url": "https://news.ifeng.com/c/8rYlyOSbbo5",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时25分 ~ 14时56分]"
+        },
+        {
           "title": "伊朗动用“泥石”导弹 释放哪些信号",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%8A%A8%E7%94%A8%E2%80%9C%E6%B3%A5%E7%9F%B3%E2%80%9D%E5%AF%BC%E5%BC%B9+%E9%87%8A%E6%94%BE%E5%93%AA%E4%BA%9B%E4%BF%A1%E5%8F%B7",
           "source": "百度热搜",
@@ -246,16 +258,16 @@
           "time_info": "[01时03分 ~ 07时26分]"
         },
         {
-          "title": "知情人士：美军对伊朗冲突作战规划已包含“退出选项”",
-          "url": "https://news.ifeng.com/c/8rYlyOSbbo5",
+          "title": "伊朗战争：从闪电战到消耗战，暴露了什么？",
+          "url": "https://news.ifeng.com/c/8rYotfj2nUW",
           "source": "凤凰网",
           "ranks": [
-            2,
+            4,
             3
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[09时25分 ~ 13时55分]"
+          "time_info": "[12时12分 ~ 14时56分]"
         },
         {
           "title": "伊朗称目前发射导弹多为10年前生产",
@@ -297,15 +309,16 @@
           "time_info": "[01时03分 ~ 07时26分]"
         },
         {
-          "title": "伊朗战争：从闪电战到消耗战，暴露了什么？",
-          "url": "https://news.ifeng.com/c/8rYotfj2nUW",
-          "source": "凤凰网",
+          "title": "伊朗动用泥石导弹释放了哪些信号",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E6%9C%97%E5%8A%A8%E7%94%A8%E6%B3%A5%E7%9F%B3%E5%AF%BC%E5%BC%B9%E9%87%8A%E6%94%BE%E4%BA%86%E5%93%AA%E4%BA%9B%E4%BF%A1%E5%8F%B7",
+          "source": "bilibili 热搜",
           "ranks": [
-            4
+            2,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时12分 ~ 13时55分]"
+          "appearance_count": 4,
+          "time_info": "[12时12分 ~ 14时56分]"
         },
         {
           "title": "伊朗称逮捕500名间谍",
@@ -394,16 +407,15 @@
           "time_info": "09时25分"
         },
         {
-          "title": "伊朗动用泥石导弹释放了哪些信号",
-          "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E6%9C%97%E5%8A%A8%E7%94%A8%E6%B3%A5%E7%9F%B3%E5%AF%BC%E5%BC%B9%E9%87%8A%E6%94%BE%E4%BA%86%E5%93%AA%E4%BA%9B%E4%BF%A1%E5%8F%B7",
-          "source": "bilibili 热搜",
+          "title": "美以袭击伊朗进入第 18 天，当前局势如何？有哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2017137168443727970",
+          "source": "知乎",
           "ranks": [
-            2,
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时12分 ~ 13时55分]"
+          "appearance_count": 5,
+          "time_info": "[09时25分 ~ 14时56分]"
         },
         {
           "title": "据NBC：特朗普每日都会收到结束伊朗冲突的方案选项。",
@@ -415,6 +427,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时50分"
+        },
+        {
+          "title": "“交通管制”太狠了！传统航线成禁区，油轮只能贴着伊朗海岸走？",
+          "url": "https://flash.jin10.com/detail/20260317143611494800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时56分"
         },
         {
           "title": "白宫官员：特朗普拒绝重启与伊朗谈判",
@@ -434,9 +457,32 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时55分"
+        },
+        {
+          "title": "伊朗称逮捕了 500 名涉嫌为敌方和反伊朗媒体传递情报的间谍，对伊朗国内稳定和战争进展有哪些影响？",
+          "url": "https://www.zhihu.com/question/2016956453940848482",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时25分 ~ 14时56分]"
+        },
+        {
+          "title": "伊朗称逮捕500名间谍",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32777714",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时25分 ~ 14时56分]"
         },
         {
           "title": "中国援助伊朗人道主义物资完成交接",
@@ -451,17 +497,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时32分 ~ 07时26分]"
-        },
-        {
-          "title": "美以袭击伊朗进入第 18 天，当前局势如何？有哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2017137168443727970",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时25分 ~ 13时55分]"
         },
         {
           "title": "“只是为了误导石油交易员和公众” 伊朗外长否认近期与美方接触",
@@ -500,15 +535,15 @@
           "time_info": "[03时50分 ~ 04时32分]"
         },
         {
-          "title": "伊朗称逮捕了 500 名涉嫌为敌方和反伊朗媒体传递情报的间谍，对伊朗国内稳定和战争进展有哪些影响？",
-          "url": "https://www.zhihu.com/question/2016956453940848482",
-          "source": "知乎",
+          "title": "伊朗警告日本",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E8%AD%A6%E5%91%8A%E6%97%A5%E6%9C%AC%23&t=31&band_rank=11&Refer=top",
+          "source": "微博",
           "ranks": [
             11
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[09时25分 ~ 13时55分]"
+          "time_info": "[12时12分 ~ 14时56分]"
         },
         {
           "title": "全球前瞻｜特朗普称将继续“猛烈空袭”伊朗，中美正探讨建立全新机制",
@@ -523,26 +558,16 @@
           "time_info": "[09时25分 ~ 13时55分]"
         },
         {
-          "title": "伊朗称逮捕500名间谍",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32777714",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时25分 ~ 13时55分]"
-        },
-        {
-          "title": "伊朗警告日本",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E8%AD%A6%E5%91%8A%E6%97%A5%E6%9C%AC%23&t=31&band_rank=11&Refer=top",
+          "title": "伊朗对以色列心脏地带展开袭击",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%AF%B9%E4%BB%A5%E8%89%B2%E5%88%97%E5%BF%83%E8%84%8F%E5%9C%B0%E5%B8%A6%E5%B1%95%E5%BC%80%E8%A2%AD%E5%87%BB%23&t=31&band_rank=7&Refer=top",
           "source": "微博",
           "ranks": [
-            11
+            7,
+            25
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[12时12分 ~ 13时55分]"
+          "time_info": "[13时54分 ~ 14时56分]"
         },
         {
           "title": "伊朗称打击阿布扎比美军基地",
@@ -567,17 +592,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时25分 ~ 12时12分]"
-        },
-        {
-          "title": "伊朗对以色列心脏地带展开袭击",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%AF%B9%E4%BB%A5%E8%89%B2%E5%88%97%E5%BF%83%E8%84%8F%E5%9C%B0%E5%B8%A6%E5%B1%95%E5%BC%80%E8%A2%AD%E5%87%BB%23&t=31&band_rank=7&Refer=top",
-          "source": "微博",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时54分 ~ 13时55分]"
         },
         {
           "title": "伊总统：在确保伊朗不再遭受攻击之前谈论结束战争毫无意义",
@@ -649,6 +663,17 @@
           "time_info": "04时32分"
         },
         {
+          "title": "伊朗外长重申霍尔木兹只对敌人封锁",
+          "url": "https://wallstreetcn.com/livenews/3071444",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时56分"
+        },
+        {
           "title": "知情人士称美军对伊朗冲突作战规划已包含“退出选项”",
           "url": "https://flash.jin10.com/detail/20260317065109972800",
           "source": "金十数据",
@@ -666,7 +691,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时55分"
         },
@@ -680,6 +705,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时12分"
+        },
+        {
+          "title": "伊朗发射带有特定字样导弹系谣言",
+          "url": "https://www.douyin.com/hot/2433157",
+          "source": "抖音",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时56分"
         },
         {
           "title": "以色列方面称，袭击并摧毁了伊朗伊斯兰革命卫队的海军总部。",
@@ -858,6 +894,17 @@
           "time_info": "07时26分"
         },
         {
+          "title": "伊朗副外长说权力让美国昏了头",
+          "url": "https://wallstreetcn.com/livenews/3071423",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时56分"
+        },
+        {
           "title": "南非拒绝美方施压：不会因压力疏远伊朗",
           "url": "https://wallstreetcn.com/livenews/3071085",
           "source": "华尔街见闻-快讯",
@@ -902,6 +949,17 @@
           "time_info": "03时02分"
         },
         {
+          "title": "惠誉：随着伊朗冲突持续、卡塔尔天然气供应中断仍在延续，亚洲半导体供应链面临日益增大的氦气短缺尾部风险。",
+          "url": "https://flash.jin10.com/detail/20260317141615964800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时56分"
+        },
+        {
           "title": "美以袭击已致伊朗200多名未成年人遇难",
           "url": "https://wallstreetcn.com/livenews/3071084",
           "source": "华尔街见闻-快讯",
@@ -911,6 +969,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时02分"
+        },
+        {
+          "title": "伊朗抓捕10名外国间谍",
+          "url": "https://wallstreetcn.com/livenews/3071421",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时56分"
         },
         {
           "title": "以色列中部遭伊朗导弹袭击，拦截碎片坠落在总理办公室附近",
@@ -982,7 +1051,7 @@
     },
     {
       "keyword_group": "科技",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
         {
           "title": "【焦点复盘】科技成长赛道强势做多，沪指60日线失而复得，绿电概念现深幅回调",
@@ -1002,22 +1071,12 @@
           "source": "贴吧",
           "ranks": [
             8,
-            17
+            17,
+            19
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时03分 ~ 13时55分]"
-        },
-        {
-          "title": "北京：开展赋予科研人员职务科技成果所有权或长期使用权改革",
-          "url": "https://wallstreetcn.com/livenews/3071411",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时55分"
+          "appearance_count": 15,
+          "time_info": "[01时03分 ~ 14时56分]"
         },
         {
           "title": "美光科技生产与英伟达Vera Rubin相关的HBM4。",
@@ -1029,6 +1088,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时33分"
+        },
+        {
+          "title": "北京：开展赋予科研人员职务科技成果所有权或长期使用权改革",
+          "url": "https://wallstreetcn.com/livenews/3071411",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时55分 ~ 14时56分]"
         },
         {
           "title": "戴尔科技率先出货搭载英伟达GB300的桌面平台",
@@ -1083,7 +1154,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时55分"
         },
@@ -1132,6 +1203,17 @@
           "time_info": "06时26分"
         },
         {
+          "title": "恒生科技指数转跌，此前涨超2％，恒生指数涨幅收窄至0.15％。",
+          "url": "https://wallstreetcn.com/livenews/3071424",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时56分"
+        },
+        {
           "title": "纳斯达克金龙中国指数收涨0.95%，报7215.84点，早盘涨至7323.32点刷新日高，随后逐步回吐涨幅。 热门中概股里，比亚迪初步收涨8.2%，小米涨5.4%，理想涨5.3%，蔚来涨3.1%，美团、网易、百胜中国、腾讯、拼多多、阿里巴巴至多涨约2.9%。 ETF中，MSCI新兴市场ex中国ETF（EMXC）收涨3.24%，中国科技指数ETF（CQQQ）收涨1.62%，中概互联网指数ETF（KWEB）收涨1.59%， 德银嘉实沪深300指数ETF（ASHR）收涨0.33%，XtrackersHarvest中证50（ASHS）收跌1.09%。",
           "url": "https://wallstreetcn.com/livenews/3071140",
           "source": "华尔街见闻-快讯",
@@ -1152,6 +1234,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时33分"
+        },
+        {
+          "title": "恒生科技指数转跌，芯片、核电、电力设备等概念股跌幅居前。",
+          "url": "https://flash.jin10.com/detail/20260317140633920800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时56分"
         }
       ]
     },
@@ -1213,7 +1306,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时55分"
         },
@@ -1235,9 +1328,75 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时55分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "消费",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "鹿哈毛肚事件获商家退款消费者发声",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%B9%BF%E5%93%88%E6%AF%9B%E8%82%9A%E4%BA%8B%E4%BB%B6%E8%8E%B7%E5%95%86%E5%AE%B6%E9%80%80%E6%AC%BE%E6%B6%88%E8%B4%B9%E8%80%85%E5%8F%91%E5%A3%B0%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18,
+            9,
+            13,
+            10,
+            17,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[01时03分 ~ 09时25分]"
+        },
+        {
+          "title": "我国消费有望持续稳定增长",
+          "url": "https://www.toutiao.com/trending/7617680960423329855/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时54分 ~ 14时56分]"
+        },
+        {
+          "title": "日本首相高市早苗：不考虑进一步提高消费税。",
+          "url": "https://wallstreetcn.com/livenews/3071431",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时56分"
+        },
+        {
+          "title": "澳洲联储主席布洛克：需要看到总需求回落，其中一部分将是消费者支出。",
+          "url": "https://flash.jin10.com/detail/20260317130955259800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时55分"
+        },
+        {
+          "title": "鹿哈毛肚事件获商家退款消费者发声",
+          "url": "https://www.baidu.com/s?wd=%E9%B9%BF%E5%93%88%E6%AF%9B%E8%82%9A%E4%BA%8B%E4%BB%B6%E8%8E%B7%E5%95%86%E5%AE%B6%E9%80%80%E6%AC%BE%E6%B6%88%E8%B4%B9%E8%80%85%E5%8F%91%E5%A3%B0",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时12分"
         }
       ]
     },
@@ -1303,63 +1462,70 @@
       ]
     },
     {
-      "keyword_group": "消费",
-      "match_count": 4,
+      "keyword_group": "美元",
+      "match_count": 5,
       "titles": [
         {
-          "title": "鹿哈毛肚事件获商家退款消费者发声",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%B9%BF%E5%93%88%E6%AF%9B%E8%82%9A%E4%BA%8B%E4%BB%B6%E8%8E%B7%E5%95%86%E5%AE%B6%E9%80%80%E6%AC%BE%E6%B6%88%E8%B4%B9%E8%80%85%E5%8F%91%E5%A3%B0%23&t=31&band_rank=18&Refer=top",
-          "source": "微博",
+          "title": "美元指数跌0.7%",
+          "url": "https://wallstreetcn.com/livenews/3071122",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            18,
             9,
-            13,
-            10,
-            17,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时03分 ~ 09时25分]"
-        },
-        {
-          "title": "我国消费有望持续稳定增长",
-          "url": "https://www.toutiao.com/trending/7617680960423329855/",
-          "source": "今日头条",
-          "ranks": [
-            3
+            20
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时54分 ~ 13时55分]"
+          "time_info": "[03时50分 ~ 04时32分]"
         },
         {
-          "title": "澳洲联储主席布洛克：需要看到总需求回落，其中一部分将是消费者支出。",
-          "url": "https://flash.jin10.com/detail/20260317130955259800",
+          "title": "布油期货涨幅扩大至2.6%，报每桶102.85美元。 美股期货小幅走低，标普500指数期货跌0.3%。",
+          "url": "https://wallstreetcn.com/livenews/3071267",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时25分"
+        },
+        {
+          "title": "美元指数16日下跌",
+          "url": "https://flash.jin10.com/detail/20260317044815242800",
           "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时33分"
+        },
+        {
+          "title": "国际原油快速拉升，WTI原油期货涨幅扩大至5%，突破97美元/桶关口，报97.113美元/桶。 美股股指期货短线跳水，纳指期货日内跌0.59%，标普500指数期货跌0.57%。 现货黄金持续下挫，日内涨幅收窄至0.1%，报5012美元/盎司；现货白银日内一度转跌，现涨0.09%。",
+          "url": "https://wallstreetcn.com/livenews/3071417",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时56分"
+        },
+        {
+          "title": "美元指数向上触及100，日内涨0.19%。",
+          "url": "https://wallstreetcn.com/livenews/3071415",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             24
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时55分"
-        },
-        {
-          "title": "鹿哈毛肚事件获商家退款消费者发声",
-          "url": "https://www.baidu.com/s?wd=%E9%B9%BF%E5%93%88%E6%AF%9B%E8%82%9A%E4%BA%8B%E4%BB%B6%E8%8E%B7%E5%95%86%E5%AE%B6%E9%80%80%E6%AC%BE%E6%B6%88%E8%B4%B9%E8%80%85%E5%8F%91%E5%A3%B0",
-          "source": "百度热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时12分"
+          "time_info": "14时56分"
         }
       ]
     },
     {
       "keyword_group": "资源",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "新的土地资源优化政策来了",
@@ -1392,8 +1558,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时12分 ~ 13时55分]"
+          "appearance_count": 4,
+          "time_info": "[12时12分 ~ 14时56分]"
+        },
+        {
+          "title": "香炉山钨业新增钨资源配套选矿厂技术改造项目单机试车成功",
+          "url": "https://flash.jin10.com/detail/20260317143324008800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时56分"
         }
       ]
     },
@@ -1443,6 +1620,18 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "金价下跌却买不进",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E4%B8%8B%E8%B7%8C%E5%8D%B4%E4%B9%B0%E4%B8%8D%E8%BF%9B%23&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时54分 ~ 14时56分]"
+        },
+        {
           "title": "金价持稳于5000美元整数位心理关口附近，铂金、钯金涨约4%",
           "url": "https://wallstreetcn.com/livenews/3071167",
           "source": "华尔街见闻-快讯",
@@ -1455,17 +1644,6 @@
           "time_info": "[05时33分 ~ 06时26分]"
         },
         {
-          "title": "金价下跌却买不进",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E4%B8%8B%E8%B7%8C%E5%8D%B4%E4%B9%B0%E4%B8%8D%E8%BF%9B%23&t=31&band_rank=24&Refer=top",
-          "source": "微博",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时54分 ~ 13时55分]"
-        },
-        {
           "title": "周一油价从高位回撤5%，为何金价没有轻松起飞？",
           "url": "https://flash.jin10.com/detail/20260317115509143800",
           "source": "金十数据",
@@ -1475,46 +1653,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时12分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "美元指数跌0.7%",
-          "url": "https://wallstreetcn.com/livenews/3071122",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时50分 ~ 04时32分]"
-        },
-        {
-          "title": "布油期货涨幅扩大至2.6%，报每桶102.85美元。 美股期货小幅走低，标普500指数期货跌0.3%。",
-          "url": "https://wallstreetcn.com/livenews/3071267",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时25分"
-        },
-        {
-          "title": "美元指数16日下跌",
-          "url": "https://flash.jin10.com/detail/20260317044815242800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时33分"
         }
       ]
     },
