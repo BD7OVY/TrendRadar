@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-17T12:12:54.699318+08:00",
-  "total_titles_processed": 992,
+  "generated_at": "2026-03-17T13:55:13.437370+08:00",
+  "total_titles_processed": 1114,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 79,
+      "match_count": 82,
       "titles": [
         {
           "title": "6问美以伊战事走向：美国如何停战？伊朗是否会恋战？",
@@ -41,8 +41,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时03分 ~ 12时12分]"
+          "appearance_count": 14,
+          "time_info": "[01时03分 ~ 13时55分]"
         },
         {
           "title": "伊朗最高领袖任命军事顾问",
@@ -107,8 +107,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时03分 ~ 12时12分]"
+          "appearance_count": 14,
+          "time_info": "[01时03分 ~ 13时55分]"
         },
         {
           "title": "伊朗黑客出手！美国遭遇最严重的战时网络攻击",
@@ -246,6 +246,18 @@
           "time_info": "[01时03分 ~ 07时26分]"
         },
         {
+          "title": "知情人士：美军对伊朗冲突作战规划已包含“退出选项”",
+          "url": "https://news.ifeng.com/c/8rYlyOSbbo5",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时25分 ~ 13时55分]"
+        },
+        {
           "title": "伊朗称目前发射导弹多为10年前生产",
           "url": "https://m.thepaper.cn/newsDetail_forward_32774677",
           "source": "澎湃新闻",
@@ -285,16 +297,15 @@
           "time_info": "[01时03分 ~ 07时26分]"
         },
         {
-          "title": "知情人士：美军对伊朗冲突作战规划已包含“退出选项”",
-          "url": "https://news.ifeng.com/c/8rYlyOSbbo5",
+          "title": "伊朗战争：从闪电战到消耗战，暴露了什么？",
+          "url": "https://news.ifeng.com/c/8rYotfj2nUW",
           "source": "凤凰网",
           "ranks": [
-            2,
-            3
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时25分 ~ 12时12分]"
+          "appearance_count": 3,
+          "time_info": "[12时12分 ~ 13时55分]"
         },
         {
           "title": "伊朗称逮捕500名间谍",
@@ -372,17 +383,6 @@
           "time_info": "[01时03分 ~ 06时26分]"
         },
         {
-          "title": "伊朗动用泥石导弹释放了哪些信号",
-          "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E6%9C%97%E5%8A%A8%E7%94%A8%E6%B3%A5%E7%9F%B3%E5%AF%BC%E5%BC%B9%E9%87%8A%E6%94%BE%E4%BA%86%E5%93%AA%E4%BA%9B%E4%BF%A1%E5%8F%B7",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时12分"
-        },
-        {
           "title": "欧盟宣布制裁多名伊朗官员和实体",
           "url": "https://wallstreetcn.com/livenews/3071283",
           "source": "华尔街见闻-快讯",
@@ -392,6 +392,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时25分"
+        },
+        {
+          "title": "伊朗动用泥石导弹释放了哪些信号",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E6%9C%97%E5%8A%A8%E7%94%A8%E6%B3%A5%E7%9F%B3%E5%AF%BC%E5%BC%B9%E9%87%8A%E6%94%BE%E4%BA%86%E5%93%AA%E4%BA%9B%E4%BF%A1%E5%8F%B7",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时12分 ~ 13时55分]"
         },
         {
           "title": "据NBC：特朗普每日都会收到结束伊朗冲突的方案选项。",
@@ -416,15 +428,15 @@
           "time_info": "09时25分"
         },
         {
-          "title": "伊朗战争：从闪电战到消耗战，暴露了什么？",
-          "url": "https://news.ifeng.com/c/8rYotfj2nUW",
-          "source": "凤凰网",
+          "title": "据塔斯尼姆通讯社：伊朗伊斯兰革命卫队情报机构在东北部逮捕10名涉嫌从事间谍活动的外国人员。",
+          "url": "https://flash.jin10.com/detail/20260317134252720800",
+          "source": "金十数据",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时12分"
+          "time_info": "13时55分"
         },
         {
           "title": "中国援助伊朗人道主义物资完成交接",
@@ -439,6 +451,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时32分 ~ 07时26分]"
+        },
+        {
+          "title": "美以袭击伊朗进入第 18 天，当前局势如何？有哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2017137168443727970",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时25分 ~ 13时55分]"
         },
         {
           "title": "“只是为了误导石油交易员和公众” 伊朗外长否认近期与美方接触",
@@ -477,6 +500,51 @@
           "time_info": "[03时50分 ~ 04时32分]"
         },
         {
+          "title": "伊朗称逮捕了 500 名涉嫌为敌方和反伊朗媒体传递情报的间谍，对伊朗国内稳定和战争进展有哪些影响？",
+          "url": "https://www.zhihu.com/question/2016956453940848482",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时25分 ~ 13时55分]"
+        },
+        {
+          "title": "全球前瞻｜特朗普称将继续“猛烈空袭”伊朗，中美正探讨建立全新机制",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32776082",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时25分 ~ 13时55分]"
+        },
+        {
+          "title": "伊朗称逮捕500名间谍",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32777714",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时25分 ~ 13时55分]"
+        },
+        {
+          "title": "伊朗警告日本",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E8%AD%A6%E5%91%8A%E6%97%A5%E6%9C%AC%23&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时12分 ~ 13时55分]"
+        },
+        {
           "title": "伊朗称打击阿布扎比美军基地",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E7%A7%B0%E6%89%93%E5%87%BB%E9%98%BF%E5%B8%83%E6%89%8E%E6%AF%94%E7%BE%8E%E5%86%9B%E5%9F%BA%E5%9C%B0",
           "source": "百度热搜",
@@ -487,17 +555,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时03分 ~ 06时26分]"
-        },
-        {
-          "title": "美以袭击伊朗进入第 18 天，当前局势如何？有哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2017137168443727970",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时25分 ~ 12时12分]"
         },
         {
           "title": "美军被曝对伊朗退出选项",
@@ -512,6 +569,17 @@
           "time_info": "[09时25分 ~ 12时12分]"
         },
         {
+          "title": "伊朗对以色列心脏地带展开袭击",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%AF%B9%E4%BB%A5%E8%89%B2%E5%88%97%E5%BF%83%E8%84%8F%E5%9C%B0%E5%B8%A6%E5%B1%95%E5%BC%80%E8%A2%AD%E5%87%BB%23&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时54分 ~ 13时55分]"
+        },
+        {
           "title": "伊总统：在确保伊朗不再遭受攻击之前谈论结束战争毫无意义",
           "url": "https://wallstreetcn.com/livenews/3071123",
           "source": "华尔街见闻-快讯",
@@ -522,17 +590,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时50分 ~ 04时32分]"
-        },
-        {
-          "title": "伊朗称逮捕了 500 名涉嫌为敌方和反伊朗媒体传递情报的间谍，对伊朗国内稳定和战争进展有哪些影响？",
-          "url": "https://www.zhihu.com/question/2016956453940848482",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时25分 ~ 12时12分]"
         },
         {
           "title": "特朗普承认伊朗报复范围超出预期",
@@ -553,28 +610,6 @@
           "ranks": [
             12,
             22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时25分 ~ 12时12分]"
-        },
-        {
-          "title": "全球前瞻｜特朗普称将继续“猛烈空袭”伊朗，中美正探讨建立全新机制",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32776082",
-          "source": "澎湃新闻",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时25分 ~ 12时12分]"
-        },
-        {
-          "title": "伊朗称逮捕500名间谍",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32777714",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -625,13 +660,24 @@
           "time_info": "07时26分"
         },
         {
+          "title": "误判局势还是刻意无视？特朗普坚称“没人料到”伊朗报复",
+          "url": "https://flash.jin10.com/detail/20260317133835693800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时55分"
+        },
+        {
           "title": "阿联酋发布安全警报 称正应对伊朗导弹与无人机",
           "url": "https://flash.jin10.com/detail/20260317120116230800",
           "source": "金十数据",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时12分"
         },
@@ -667,17 +713,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时25分"
-        },
-        {
-          "title": "伊朗警告日本",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E8%AD%A6%E5%91%8A%E6%97%A5%E6%9C%AC%23&t=31&band_rank=11&Refer=top",
-          "source": "微博",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时12分"
         },
         {
           "title": "据以色列N12新闻：知情人士表示，伊朗外长阿拉格齐与美国特使威特科夫最近通过短信保持联系。",
@@ -939,7 +974,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时12分"
         }
@@ -947,7 +982,7 @@
     },
     {
       "keyword_group": "科技",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
           "title": "【焦点复盘】科技成长赛道强势做多，沪指60日线失而复得，绿电概念现深幅回调",
@@ -970,8 +1005,19 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时03分 ~ 12时12分]"
+          "appearance_count": 14,
+          "time_info": "[01时03分 ~ 13时55分]"
+        },
+        {
+          "title": "北京：开展赋予科研人员职务科技成果所有权或长期使用权改革",
+          "url": "https://wallstreetcn.com/livenews/3071411",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时55分"
         },
         {
           "title": "美光科技生产与英伟达Vera Rubin相关的HBM4。",
@@ -1029,6 +1075,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时25分"
+        },
+        {
+          "title": "A股贵金属板块午后走强，招金黄金涨超3%，赤峰黄金、湖南白银、盛达资源、山东黄金、晓程科技等个股跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3071400",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时55分"
         },
         {
           "title": "港股开盘，恒生指数开涨0.4%，恒生科技指数开涨0.5%；OpenClaw、芯片、新能源车企、锂电池等概念走强；耀才证券金融(01428.HK)涨64%，蚂蚁集团的要约收购已获批准。",
@@ -1100,19 +1157,8 @@
     },
     {
       "keyword_group": "金融",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
-        {
-          "title": "港股耀才证券金融早盘收涨65%，盘中涨幅一度达82.1%。蚂蚁集团周一表示，在满足所有条件后，预计将于本月底前完成以28.1亿港元收购耀才证券控股股权的交易。",
-          "url": "https://wallstreetcn.com/livenews/3071377",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时12分"
-        },
         {
           "title": "明晟公司MSCI北欧国家指数涨0.8%，报375.97点。 在十个板块中，北欧金融板块涨幅最大。 Aker BP ASA收涨5.1%，在一众北欧个股里领跑。",
           "url": "https://wallstreetcn.com/livenews/3071061",
@@ -1123,6 +1169,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时04分"
+        },
+        {
+          "title": "港股耀才证券金融早盘收涨65%，盘中涨幅一度达82.1%。蚂蚁集团周一表示，在满足所有条件后，预计将于本月底前完成以28.1亿港元收购耀才证券控股股权的交易。",
+          "url": "https://wallstreetcn.com/livenews/3071377",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时12分 ~ 13时55分]"
         },
         {
           "title": "据英国金融时报：美国证实其部署在海湾地区的三艘扫雷舰中有两艘目前位于马来西亚。",
@@ -1149,15 +1207,37 @@
           "time_info": "[03时50分 ~ 04时32分]"
         },
         {
+          "title": "澳洲联储主席Bullock：尚不确定金融环境有多紧缩。",
+          "url": "https://wallstreetcn.com/livenews/3071401",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时55分"
+        },
+        {
           "title": "大金融集体拉升 两大利好，集中驱动！",
           "url": "https://flash.jin10.com/detail/20260317115744985800",
           "source": "金十数据",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时12分"
+        },
+        {
+          "title": "澳洲联储主席布洛克：不确定金融状况的收紧程度。",
+          "url": "https://flash.jin10.com/detail/20260317130654026800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时55分"
         }
       ]
     },
@@ -1223,6 +1303,61 @@
       ]
     },
     {
+      "keyword_group": "消费",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "鹿哈毛肚事件获商家退款消费者发声",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%B9%BF%E5%93%88%E6%AF%9B%E8%82%9A%E4%BA%8B%E4%BB%B6%E8%8E%B7%E5%95%86%E5%AE%B6%E9%80%80%E6%AC%BE%E6%B6%88%E8%B4%B9%E8%80%85%E5%8F%91%E5%A3%B0%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18,
+            9,
+            13,
+            10,
+            17,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[01时03分 ~ 09时25分]"
+        },
+        {
+          "title": "我国消费有望持续稳定增长",
+          "url": "https://www.toutiao.com/trending/7617680960423329855/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时54分 ~ 13时55分]"
+        },
+        {
+          "title": "澳洲联储主席布洛克：需要看到总需求回落，其中一部分将是消费者支出。",
+          "url": "https://flash.jin10.com/detail/20260317130955259800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时55分"
+        },
+        {
+          "title": "鹿哈毛肚事件获商家退款消费者发声",
+          "url": "https://www.baidu.com/s?wd=%E9%B9%BF%E5%93%88%E6%AF%9B%E8%82%9A%E4%BA%8B%E4%BB%B6%E8%8E%B7%E5%95%86%E5%AE%B6%E9%80%80%E6%AC%BE%E6%B6%88%E8%B4%B9%E8%80%85%E5%8F%91%E5%A3%B0",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时12分"
+        }
+      ]
+    },
+    {
       "keyword_group": "资源",
       "match_count": 3,
       "titles": [
@@ -1253,11 +1388,12 @@
           "url": "https://www.douyin.com/hot/2432198",
           "source": "抖音",
           "ranks": [
-            6
+            6,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时12分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时12分 ~ 13时55分]"
         }
       ]
     },
@@ -1303,6 +1439,46 @@
       ]
     },
     {
+      "keyword_group": "金价",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "金价持稳于5000美元整数位心理关口附近，铂金、钯金涨约4%",
+          "url": "https://wallstreetcn.com/livenews/3071167",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时33分 ~ 06时26分]"
+        },
+        {
+          "title": "金价下跌却买不进",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E4%B8%8B%E8%B7%8C%E5%8D%B4%E4%B9%B0%E4%B8%8D%E8%BF%9B%23&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时54分 ~ 13时55分]"
+        },
+        {
+          "title": "周一油价从高位回撤5%，为何金价没有轻松起飞？",
+          "url": "https://flash.jin10.com/detail/20260317115509143800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时12分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美元",
       "match_count": 3,
       "titles": [
@@ -1339,68 +1515,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时33分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "消费",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "鹿哈毛肚事件获商家退款消费者发声",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%B9%BF%E5%93%88%E6%AF%9B%E8%82%9A%E4%BA%8B%E4%BB%B6%E8%8E%B7%E5%95%86%E5%AE%B6%E9%80%80%E6%AC%BE%E6%B6%88%E8%B4%B9%E8%80%85%E5%8F%91%E5%A3%B0%23&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18,
-            9,
-            13,
-            10,
-            17,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时03分 ~ 09时25分]"
-        },
-        {
-          "title": "鹿哈毛肚事件获商家退款消费者发声",
-          "url": "https://www.baidu.com/s?wd=%E9%B9%BF%E5%93%88%E6%AF%9B%E8%82%9A%E4%BA%8B%E4%BB%B6%E8%8E%B7%E5%95%86%E5%AE%B6%E9%80%80%E6%AC%BE%E6%B6%88%E8%B4%B9%E8%80%85%E5%8F%91%E5%A3%B0",
-          "source": "百度热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时12分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "金价持稳于5000美元整数位心理关口附近，铂金、钯金涨约4%",
-          "url": "https://wallstreetcn.com/livenews/3071167",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时33分 ~ 06时26分]"
-        },
-        {
-          "title": "周一油价从高位回撤5%，为何金价没有轻松起飞？",
-          "url": "https://flash.jin10.com/detail/20260317115509143800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时12分"
         }
       ]
     },
@@ -1450,7 +1564,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时12分"
         }
