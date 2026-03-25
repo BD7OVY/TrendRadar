@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-03-25T15:53:18.189008+08:00",
-  "total_titles_processed": 1421,
+  "generated_at": "2026-03-25T16:42:22.584499+08:00",
+  "total_titles_processed": 1525,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 132,
+      "match_count": 143,
       "titles": [
+        {
+          "title": "特朗普称美伊谈判“可能已相当接近达成协议”、伊朗同意永不拥有核武，报道称美国有意停火一个月、提15条和谈方案",
+          "url": "https://wallstreetcn.com/articles/3768302",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[07时26分 ~ 16时42分]"
+        },
         {
           "title": "王毅同伊朗外长阿拉格齐通电话",
           "url": "https://www.cls.cn/detail/2323476",
@@ -57,18 +70,6 @@
           "time_info": "[07时26分 ~ 15时53分]"
         },
         {
-          "title": "特朗普称美伊谈判“可能已相当接近达成协议”、伊朗同意永不拥有核武，报道称美国有意停火一个月、提15条和谈方案",
-          "url": "https://wallstreetcn.com/articles/3768302",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时26分 ~ 15时53分]"
-        },
-        {
           "title": "伊朗称收到美国信息，“正予以审视”！美国被曝向多国索要保护费：花2.5万亿美元结束战争！",
           "url": "https://wallstreetcn.com/articles/3768257",
           "source": "华尔街见闻",
@@ -89,11 +90,25 @@
             6,
             4,
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时26分 ~ 15时53分]"
+          "appearance_count": 9,
+          "time_info": "[09时26分 ~ 16时42分]"
+        },
+        {
+          "title": "力促周四前，等待伊朗回应！巴基斯坦总理：已准备好主持美伊会谈",
+          "url": "https://wallstreetcn.com/articles/3768300",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时26分 ~ 16时42分]"
         },
         {
           "title": "美伊和谈信号？中东多国积极行动、巴基斯坦斡旋停火，伊朗称收到美国信息",
@@ -110,16 +125,17 @@
           "time_info": "[00时01分 ~ 15时53分]"
         },
         {
-          "title": "力促周四前，等待伊朗回应！巴基斯坦总理：已准备好主持美伊会谈",
-          "url": "https://wallstreetcn.com/articles/3768300",
-          "source": "华尔街见闻",
+          "title": "霍尔木兹航运追踪：多艘船只成功穿行 伊朗开始执行新策略？",
+          "url": "https://www.cls.cn/detail/2323788",
+          "source": "财联社热门",
           "ranks": [
             6,
-            5
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时26分 ~ 15时53分]"
+          "appearance_count": 7,
+          "time_info": "[12时13分 ~ 16时42分]"
         },
         {
           "title": "王毅同伊朗外长阿拉格齐通电话",
@@ -153,8 +169,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时01分 ~ 15时53分]"
+          "appearance_count": 19,
+          "time_info": "[00时01分 ~ 16时42分]"
         },
         {
           "title": "伊朗称已开展「真实承诺 -4」第 78 轮军事行动，称或将进一步扩大行动规模，未来冲突格局将如何变化？",
@@ -196,6 +212,30 @@
           "time_info": "[00时01分 ~ 09时27分]"
         },
         {
+          "title": "伊朗喊话美国：别把失败说成协议",
+          "url": "https://news.ifeng.com/c/8rmLCWmLk9j",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时57分 ~ 16时42分]"
+        },
+        {
+          "title": "美以袭击伊朗进入第 26 天，当前局势如何？哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2019771481580648323",
+          "source": "知乎",
+          "ranks": [
+            6,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时26分 ~ 16时42分]"
+        },
+        {
           "title": "美以袭击伊朗进入第 25 天，当前局势如何？哪些信息值得关注？",
           "url": "https://www.zhihu.com/question/2019540758806357531",
           "source": "知乎",
@@ -205,6 +245,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时01分 ~ 06时24分]"
+        },
+        {
+          "title": "美CIA前局长：比起特朗普，更相信伊朗",
+          "url": "https://news.ifeng.com/c/8rm8Wgr5b4i",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时57分 ~ 16时42分]"
         },
         {
           "title": "王毅同伊朗外长阿拉格齐通电话",
@@ -218,52 +269,6 @@
           "time_info": "[00时01分 ~ 06时24分]"
         },
         {
-          "title": "伊朗喊话美国：别把失败说成协议",
-          "url": "https://news.ifeng.com/c/8rmLCWmLk9j",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时57分 ~ 15时53分]"
-        },
-        {
-          "title": "美以袭击伊朗进入第 26 天，当前局势如何？哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2019771481580648323",
-          "source": "知乎",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时26分 ~ 15时53分]"
-        },
-        {
-          "title": "霍尔木兹航运追踪：多艘船只成功穿行 伊朗开始执行新策略？",
-          "url": "https://www.cls.cn/detail/2323788",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时13分 ~ 15时53分]"
-        },
-        {
-          "title": "美CIA前局长：比起特朗普，更相信伊朗",
-          "url": "https://news.ifeng.com/c/8rm8Wgr5b4i",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时57分 ~ 15时53分]"
-        },
-        {
           "title": "霍尔木兹航运追踪：多艘船只成功穿行，伊朗开始执行新策略？",
           "url": "https://news.ifeng.com/c/8rmK7tZVqrd",
           "source": "凤凰网",
@@ -271,8 +276,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时57分 ~ 15时53分]"
+          "appearance_count": 5,
+          "time_info": "[13时57分 ~ 16时42分]"
         },
         {
           "title": "王毅同伊朗外长阿拉格齐通电话：谈起来总比打下去好",
@@ -282,11 +287,12 @@
             16,
             10,
             9,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时26分 ~ 15时53分]"
+          "appearance_count": 9,
+          "time_info": "[09时26分 ~ 16时42分]"
         },
         {
           "title": "美以伊战争丨伊朗停火条件曝光，美官员：荒谬",
@@ -296,8 +302,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时58分 ~ 15时53分]"
+          "appearance_count": 4,
+          "time_info": "[14时58分 ~ 16时42分]"
         },
         {
           "title": "美方向伊朗提出含“15项条件”的和谈方案",
@@ -307,11 +313,12 @@
             20,
             15,
             12,
-            11
+            11,
+            7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时26分 ~ 15时53分]"
+          "appearance_count": 9,
+          "time_info": "[09时26分 ~ 16时42分]"
         },
         {
           "title": "伊朗责令擅自通过霍尔木兹海峡船返航",
@@ -321,11 +328,12 @@
             13,
             26,
             18,
-            20
+            20,
+            29
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时26分 ~ 15时53分]"
+          "appearance_count": 9,
+          "time_info": "[09时26分 ~ 16时42分]"
         },
         {
           "title": "特朗普：同伊朗对话“完美”、已形成协议要点，正就达成更广泛协议与伊磋商",
@@ -364,6 +372,33 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[02时53分 ~ 07时26分]"
+        },
+        {
+          "title": "美国说愿停火一个月与伊朗讨论 15 点结束冲突方案，又继续向中东增兵，是什么套路？美国真的想和谈吗？",
+          "url": "https://www.zhihu.com/question/2020038671991091750",
+          "source": "知乎",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时13分 ~ 16时42分]"
+        },
+        {
+          "title": "伊朗发动“真实承诺4”第80轮行动",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%8F%91%E5%8A%A8%E2%80%9C%E7%9C%9F%E5%AE%9E%E6%89%BF%E8%AF%BA4%E2%80%9D%E7%AC%AC80%E8%BD%AE%E8%A1%8C%E5%8A%A8",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            25,
+            22,
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时13分 ~ 16时42分]"
         },
         {
           "title": "美军将继续对伊朗实施打击 “暂停打击”仅适用于对伊朗能源设施的攻击",
@@ -416,7 +451,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时53分"
         },
@@ -441,32 +476,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时27分"
-        },
-        {
-          "title": "美国说愿停火一个月与伊朗讨论 15 点结束冲突方案，又继续向中东增兵，是什么套路？美国真的想和谈吗？",
-          "url": "https://www.zhihu.com/question/2020038671991091750",
-          "source": "知乎",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时13分 ~ 15时53分]"
-        },
-        {
-          "title": "伊朗发动“真实承诺4”第80轮行动",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%8F%91%E5%8A%A8%E2%80%9C%E7%9C%9F%E5%AE%9E%E6%89%BF%E8%AF%BA4%E2%80%9D%E7%AC%AC80%E8%BD%AE%E8%A1%8C%E5%8A%A8",
-          "source": "百度热搜",
-          "ranks": [
-            27,
-            25,
-            22,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时13分 ~ 15时53分]"
         },
         {
           "title": "伊朗公布美军基地遭袭前后对比照",
@@ -526,9 +535,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时53分"
+        },
+        {
+          "title": "伊朗被曝拒绝与威特科夫和库什纳谈判，指责两人“背信弃义”",
+          "url": "https://news.ifeng.com/c/8rmJurGjm7i",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时57分 ~ 16时42分]"
         },
         {
           "title": "据伊朗伊斯兰共和国（IRNA）通讯社：美国和以色列周二袭击了布什尔核电站周边地区。",
@@ -551,17 +571,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时24分"
-        },
-        {
-          "title": "英国2月通胀率维持在3% 当时尚无伊朗冲突影响",
-          "url": "https://wallstreetcn.com/livenews/3076515",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时53分"
         },
         {
           "title": "伊朗外长：霍尔木兹海峡并没有关闭 航运中断源于保险因战争恐惧而撤离",
@@ -625,7 +634,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时53分"
         },
@@ -643,15 +652,41 @@
           "time_info": "[07时26分 ~ 12时14分]"
         },
         {
-          "title": "伊朗被曝拒绝与威特科夫和库什纳谈判，指责两人“背信弃义”",
-          "url": "https://news.ifeng.com/c/8rmJurGjm7i",
-          "source": "凤凰网",
+          "title": "伊朗喊话美国：别把你们失败称为协议",
+          "url": "https://www.toutiao.com/trending/7620849647006826546/",
+          "source": "今日头条",
           "ranks": [
-            6
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时57分 ~ 15时53分]"
+          "appearance_count": 5,
+          "time_info": "[13时57分 ~ 16时42分]"
+        },
+        {
+          "title": "伊朗军方强硬喊话美国",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%86%9B%E6%96%B9%E5%BC%BA%E7%A1%AC%E5%96%8A%E8%AF%9D%E7%BE%8E%E5%9B%BD",
+          "source": "百度热搜",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时57分 ~ 16时42分]"
+        },
+        {
+          "title": "伊朗被曝拒绝与威特科夫和库什纳谈判",
+          "url": "https://www.toutiao.com/trending/7620940390632620095/",
+          "source": "今日头条",
+          "ranks": [
+            15,
+            23,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时57分 ~ 16时42分]"
         },
         {
           "title": "伊朗打击伊拉克库区埃尔比勒机场美军驻地，称其为“分裂势力据点”",
@@ -750,6 +785,18 @@
           "time_info": "[06时24分 ~ 07时26分]"
         },
         {
+          "title": "英国2月通胀率维持在3% 当时尚无伊朗冲突影响",
+          "url": "https://wallstreetcn.com/livenews/3076515",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时53分 ~ 16时42分]"
+        },
+        {
           "title": "美媒：美国已向伊朗传递结束战争的15点计划",
           "url": "https://flash.jin10.com/detail/20260325045725521800",
           "source": "金十数据",
@@ -760,29 +807,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时32分 ~ 06时24分]"
-        },
-        {
-          "title": "伊朗喊话美国：别把你们失败称为协议",
-          "url": "https://www.toutiao.com/trending/7620849647006826546/",
-          "source": "今日头条",
-          "ranks": [
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时57分 ~ 15时53分]"
-        },
-        {
-          "title": "伊朗军方强硬喊话美国",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%86%9B%E6%96%B9%E5%BC%BA%E7%A1%AC%E5%96%8A%E8%AF%9D%E7%BE%8E%E5%9B%BD",
-          "source": "百度热搜",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时57分 ~ 15时53分]"
         },
         {
           "title": "美向伊朗提出“15项条件”和谈方案",
@@ -797,18 +821,6 @@
           "time_info": "[09时26分 ~ 12时14分]"
         },
         {
-          "title": "伊朗被曝拒绝与威特科夫和库什纳谈判",
-          "url": "https://www.toutiao.com/trending/7620940390632620095/",
-          "source": "今日头条",
-          "ranks": [
-            15,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时57分 ~ 15时53分]"
-        },
-        {
           "title": "美军错误情报叠加 AI 决策致使「战斧」导弹误击伊朗小学，如何看待战争中使用 AI？AI 决策的边界在哪里？",
           "url": "https://www.zhihu.com/question/2019437515753398973",
           "source": "知乎",
@@ -817,8 +829,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时58分 ~ 15时53分]"
+          "appearance_count": 4,
+          "time_info": "[14时58分 ~ 16时42分]"
         },
         {
           "title": "伊朗任命新任最高国家安全委员会秘书",
@@ -843,6 +855,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时01分 ~ 01时05分]"
+        },
+        {
+          "title": "伊朗：没人能相信美国的外交",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%EF%BC%9A%E6%B2%A1%E4%BA%BA%E8%83%BD%E7%9B%B8%E4%BF%A1%E7%BE%8E%E5%9B%BD%E7%9A%84%E5%A4%96%E4%BA%A4",
+          "source": "百度热搜",
+          "ranks": [
+            30,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时53分 ~ 16时42分]"
         },
         {
           "title": "安哥拉在美元债市场融资25亿美元，押注伊朗战争带来的油价上涨行情将刺激投资者对这个产油国债务的需求。",
@@ -1008,6 +1032,17 @@
           "time_info": "06时24分"
         },
         {
+          "title": "特朗普称已向伊朗提出和平方案，中方回应",
+          "url": "https://www.cls.cn/detail/2324238",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时42分"
+        },
+        {
           "title": "美国总统特朗普：在伊朗取得了巨大成功。",
           "url": "https://flash.jin10.com/detail/20260325022128210800",
           "source": "金十数据",
@@ -1036,9 +1071,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时53分"
+        },
+        {
+          "title": "澳大利亚不再允许持旅游签证的伊朗人入境",
+          "url": "https://flash.jin10.com/detail/20260325162939619800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时42分"
         },
         {
           "title": "美国有意停火一个月以与伊朗讨论15点协议，美方支持其发展民用核项目",
@@ -1074,6 +1120,17 @@
           "time_info": "02时53分"
         },
         {
+          "title": "伊朗大使：未与美国直接或间接谈判",
+          "url": "https://news.ifeng.com/c/8rmc4sy9a8S",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时42分"
+        },
+        {
           "title": "特朗普：伊朗送了一份“巨额礼物”！美国15项停火条件曝光",
           "url": "https://flash.jin10.com/detail/20260325065512314800",
           "source": "金十数据",
@@ -1105,6 +1162,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时27分"
+        },
+        {
+          "title": "伊朗：满足条件的非敌对船只可通行霍尔木兹海峡",
+          "url": "https://wallstreetcn.com/livenews/3076537",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时42分"
         },
         {
           "title": "消息人士：一枚伊朗导弹首次在黎巴嫩领空被拦截。此次拦截行动是由外国海军舰艇实施的。",
@@ -1173,6 +1241,17 @@
           "time_info": "07时26分"
         },
         {
+          "title": "日本外相：今天将前往法国出席G7外长会议。将在G7会议中认真讨论以期尽早平息伊朗局势。同时，我们将就确保霍尔木兹海峡航行安全及能源安全保障等问题，确认各方合作意向。",
+          "url": "https://flash.jin10.com/detail/20260325161851394800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时42分"
+        },
+        {
           "title": "澳大利亚内政部长：澳大利亚政府将暂时限制目前身处澳大利亚境外的伊朗访客签证持有人前往澳大利亚。伊朗冲突已提高部分临时签证持有人在签证到期后可能无法或不太可能离开澳大利亚的风险。",
           "url": "https://flash.jin10.com/detail/20260325141926863800",
           "source": "金十数据",
@@ -1190,7 +1269,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时53分"
         },
@@ -1204,6 +1283,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时14分"
+        },
+        {
+          "title": "伊朗任命新任最高国家安全委员会秘书，接替拉里贾尼",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32821445",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时42分"
         },
         {
           "title": "特朗普：伊朗方面想达成协议 且已同意永不拥核",
@@ -1223,7 +1313,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时53分"
         },
@@ -1237,6 +1327,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时14分"
+        },
+        {
+          "title": "伊朗被曝拒绝与威特科夫和库什纳谈判，更倾向于万斯作为代表",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32827530",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时42分"
         },
         {
           "title": "瑞银：伊朗战争下的亚洲股市，“黄金交易窗口”只有开盘那几分钟",
@@ -1259,6 +1360,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时26分"
+        },
+        {
+          "title": "又赢了？特朗普声称已实现伊朗的政权更迭，“他们还同意放弃拥核”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32827122",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时42分"
         },
         {
           "title": "美国前中情局局长：比起特朗普我更信伊朗",
@@ -1377,7 +1489,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时53分"
         },
@@ -1437,6 +1549,17 @@
           "time_info": "13时57分"
         },
         {
+          "title": "1900万桶俄油被“疯抢”，伊朗原油反遭冷落",
+          "url": "https://flash.jin10.com/detail/20260325161307340800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时42分"
+        },
+        {
           "title": "伊朗伊斯兰革命卫队：将“毫不留情”对以军予以猛烈打击",
           "url": "https://wallstreetcn.com/livenews/3076406",
           "source": "华尔街见闻-快讯",
@@ -1459,6 +1582,17 @@
           "time_info": "07时26分"
         },
         {
+          "title": "伊驻巴大使：友好国家在与各方沟通 但伊朗未与美国展开谈判",
+          "url": "https://wallstreetcn.com/livenews/3076519",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时42分"
+        },
+        {
           "title": "周三亚太盘初，WTI原油日内跌幅达4.0%，报88.57美元/桶。 标普500股指期货、道指期货涨超0.7%，纳斯达克100指数涨超0.9%，罗素2000股指期货涨1.1%。 现货黄金5分钟内下跌8.64美元/盎司，报4470.96美元/盎司。 纽约金5分钟内下跌7.09美元/盎司，报4505.6美元/盎司。 据央视报道，美国有意停火一个月以与伊朗讨论15点协议，包括美方支持其发展民用核项目。",
           "url": "https://wallstreetcn.com/livenews/3076221",
           "source": "华尔街见闻-快讯",
@@ -1468,6 +1602,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时26分"
+        },
+        {
+          "title": "特朗普称已向伊朗提出和平方案，外交部回应",
+          "url": "https://wallstreetcn.com/livenews/3076518",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时42分"
         },
         {
           "title": "据半岛电视台：以色列军方发言人埃菲·德夫林准将表示，尽管有在谈判，以色列在伊朗和黎巴嫩的军事行动将“按照不变的计划”进行。",
@@ -1501,17 +1646,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时40分"
-        },
-        {
-          "title": "伊朗：没人能相信美国的外交",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%EF%BC%9A%E6%B2%A1%E4%BA%BA%E8%83%BD%E7%9B%B8%E4%BF%A1%E7%BE%8E%E5%9B%BD%E7%9A%84%E5%A4%96%E4%BA%A4",
-          "source": "百度热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时53分"
         },
         {
           "title": "雪佛龙警告：除非伊朗战争缓和，否则加州将面临燃料危机",
@@ -1551,8 +1685,36 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时13分 ~ 15时53分]"
+          "appearance_count": 7,
+          "time_info": "[12时13分 ~ 16时42分]"
+        },
+        {
+          "title": "什么情况？OpenAI 重大逆转：旗下Sora AI视频应用将终止服务",
+          "url": "https://www.cls.cn/detail/2323711",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时13分 ~ 16时42分]"
+        },
+        {
+          "title": "OpenAI宣布关停Sora",
+          "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%AE%A3%E5%B8%83%E5%85%B3%E5%81%9CSora",
+          "source": "bilibili 热搜",
+          "ranks": [
+            18,
+            19,
+            22,
+            20,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时13分 ~ 16时42分]"
         },
         {
           "title": "OpenAI为何关停Sora",
@@ -1566,19 +1728,6 @@
           "time_info": "[12时13分 ~ 12时14分]"
         },
         {
-          "title": "什么情况？OpenAI 重大逆转：旗下Sora AI视频应用将终止服务",
-          "url": "https://www.cls.cn/detail/2323711",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时13分 ~ 15时53分]"
-        },
-        {
           "title": "消息人士称，OpenAI将终止与迪士尼的合作。",
           "url": "https://flash.jin10.com/detail/20260325043011532800",
           "source": "金十数据",
@@ -1588,20 +1737,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时40分"
-        },
-        {
-          "title": "OpenAI宣布关停Sora",
-          "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%AE%A3%E5%B8%83%E5%85%B3%E5%81%9CSora",
-          "source": "bilibili 热搜",
-          "ranks": [
-            18,
-            19,
-            22,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时13分 ~ 15时53分]"
         },
         {
           "title": "OpenAI旗下文生视频Sora确认，该部门将不会再得到公司的支持。（彭博）",
@@ -1856,7 +1991,7 @@
     },
     {
       "keyword_group": "科技",
-      "match_count": 21,
+      "match_count": 24,
       "titles": [
         {
           "title": "伊朗战火与信贷危机双重夹击，美股盘初走低，科技股下跌，现货黄金跌幅收窄，布油涨约2%",
@@ -2020,6 +2155,17 @@
           "time_info": "13时57分"
         },
         {
+          "title": "港股科技股尾盘持续拉升，美团涨超15%，京东、阿里巴巴涨超4%。",
+          "url": "https://wallstreetcn.com/livenews/3076523",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时42分"
+        },
+        {
           "title": "伊朗冲突或将进一步拉大亚洲科技股和消费股之间的差距",
           "url": "https://flash.jin10.com/detail/20260325113725677800",
           "source": "金十数据",
@@ -2075,6 +2221,17 @@
           "time_info": "05时32分"
         },
         {
+          "title": "香港恒生指数3月25日（周三）收盘上涨272.24点，涨幅1.09%，报25335.95点；<br/>香港恒生科技指数3月25日（周三）收盘上涨92.05点，涨幅1.91%，报4922.94点；<br/>国企指数3月25日（周三）收盘上涨83.21点，涨幅0.98%，报8582.74点；<br/>红筹指数3月25日（周三）收盘上涨1.74点，涨幅0.04%，报4211.82点。",
+          "url": "https://flash.jin10.com/detail/20260325161124638800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时42分"
+        },
+        {
           "title": "美国白宫AI事务主管David Sacks在华盛顿特区科技论坛上讲话，为总统特朗普“允许向海湾地区多个国家出口销售芯片”的计划辩解。",
           "url": "https://wallstreetcn.com/livenews/3076046",
           "source": "华尔街见闻-快讯",
@@ -2095,6 +2252,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时32分"
+        },
+        {
+          "title": "欧洲斯托克600指数科技板块盘初上涨1.2%。",
+          "url": "https://flash.jin10.com/detail/20260325161029723800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时42分"
         }
       ]
     },
@@ -2125,11 +2293,12 @@
             26,
             20,
             23,
-            21
+            21,
+            17
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时01分 ~ 15时53分]"
+          "appearance_count": 19,
+          "time_info": "[00时01分 ~ 16时42分]"
         },
         {
           "title": "金融监管总局：坚决拥护党中央决定",
@@ -2221,7 +2390,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时53分"
         },
@@ -2260,7 +2429,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时53分"
         },
@@ -2350,9 +2519,83 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时53分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "消费",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "激活10万亿公积金提振住房消费 超30城密集优化相关政策",
+          "url": "https://www.cls.cn/detail/2322979",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时01分 ~ 01时05分]"
+        },
+        {
+          "title": "存储芯片超级景气周期延续，涨价潮席卷消费电子全产业链",
+          "url": "https://wallstreetcn.com/livenews/3076244",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时26分"
+        },
+        {
+          "title": "美国芝加哥联储主席Goolsbee：可能会目睹消费者信心下滑。 FOMC利率前景取决于（伊朗）战争持续的时间。",
+          "url": "https://wallstreetcn.com/livenews/3076243",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时26分"
+        },
+        {
+          "title": "韩国3月消费者信心指数 107，前值112.1。",
+          "url": "https://flash.jin10.com/detail/20260325050002497800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时32分 ~ 06时24分]"
+        },
+        {
+          "title": "消费者维权遇“连环局”：网课退费被拒，找律所维权又遭“套娃式”收费",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32819117",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时53分 ~ 16时42分]"
+        },
+        {
+          "title": "美方禁止进口所有外国制造的消费级路由器 中方：一贯反对美方泛化国家安全概念",
+          "url": "https://flash.jin10.com/detail/20260325161159563800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时42分"
         }
       ]
     },
@@ -2430,94 +2673,34 @@
       ]
     },
     {
-      "keyword_group": "消费",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "激活10万亿公积金提振住房消费 超30城密集优化相关政策",
-          "url": "https://www.cls.cn/detail/2322979",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时01分 ~ 01时05分]"
-        },
-        {
-          "title": "存储芯片超级景气周期延续，涨价潮席卷消费电子全产业链",
-          "url": "https://wallstreetcn.com/livenews/3076244",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时26分"
-        },
-        {
-          "title": "美国芝加哥联储主席Goolsbee：可能会目睹消费者信心下滑。 FOMC利率前景取决于（伊朗）战争持续的时间。",
-          "url": "https://wallstreetcn.com/livenews/3076243",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时26分"
-        },
-        {
-          "title": "韩国3月消费者信心指数 107，前值112.1。",
-          "url": "https://flash.jin10.com/detail/20260325050002497800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时32分 ~ 06时24分]"
-        },
-        {
-          "title": "消费者维权遇“连环局”：网课退费被拒，找律所维权又遭“套娃式”收费",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32819117",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时53分"
-        }
-      ]
-    },
-    {
       "keyword_group": "深圳",
       "match_count": 5,
       "titles": [
-        {
-          "title": "老外逛深圳,感叹空气香甜",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352317&amp;topic_name=%E8%80%81%E5%A4%96%E9%80%9B%E6%B7%B1%E5%9C%B3%2C%E6%84%9F%E5%8F%B9%E7%A9%BA%E6%B0%94%E9%A6%99%E7%94%9C",
-          "source": "贴吧",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时13分 ~ 15时53分]"
-        },
         {
           "title": "深圳：支持国产GPU、NPU、CPU、DPU等核心芯片产品加快应用和迭代",
           "url": "https://www.cls.cn/detail/2323710",
           "source": "财联社热门",
           "ranks": [
             7,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时13分 ~ 15时53分]"
+          "appearance_count": 7,
+          "time_info": "[12时13分 ~ 16时42分]"
+        },
+        {
+          "title": "老外逛深圳,感叹空气香甜",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352317&amp;topic_name=%E8%80%81%E5%A4%96%E9%80%9B%E6%B7%B1%E5%9C%B3%2C%E6%84%9F%E5%8F%B9%E7%A9%BA%E6%B0%94%E9%A6%99%E7%94%9C",
+          "source": "贴吧",
+          "ranks": [
+            5,
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时13分 ~ 16时42分]"
         },
         {
           "title": "光模块获点名！深圳部署AI高质量发展：服务器全链条出货要跨越式增长",
@@ -2526,11 +2709,12 @@
           "ranks": [
             12,
             11,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时57分 ~ 15时53分]"
+          "appearance_count": 5,
+          "time_info": "[13时57分 ~ 16时42分]"
         },
         {
           "title": "深圳：推动光模块从800G向1.6T/3.2T代际升级 支持800G及以上光模块量产项目落地",
@@ -2617,11 +2801,12 @@
           "ranks": [
             9,
             7,
-            8
+            8,
+            5
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[02时53分 ~ 15时53分]"
+          "appearance_count": 16,
+          "time_info": "[02时53分 ~ 16时42分]"
         },
         {
           "title": "OpenClaw 重大升级遇挫，激进重构导致大量用户插件瘫痪、功能失效，影响有多大？你的龙虾还好吗？",
@@ -2699,11 +2884,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时13分 ~ 15时53分]"
+          "appearance_count": 7,
+          "time_info": "[12时13分 ~ 16时42分]"
         }
       ]
     }
