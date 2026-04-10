@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-10T20:54:27.962822+08:00",
-  "total_titles_processed": 1752,
+  "generated_at": "2026-04-10T22:14:48.350935+08:00",
+  "total_titles_processed": 1870,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 161,
+      "match_count": 170,
       "titles": [
         {
           "title": "特朗普：10项停战条款是“假新闻”，美军将“继续驻扎在伊朗境内及其周边”",
@@ -30,8 +30,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时51分 ~ 20时54分]"
+          "appearance_count": 10,
+          "time_info": "[09时51分 ~ 22时14分]"
         },
         {
           "title": "伊朗副外长：只有美国真正停止在中东地区的“侵略”行为，霍尔木兹海峡才会重新开放",
@@ -100,8 +100,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时33分 ~ 20时54分]"
+          "appearance_count": 11,
+          "time_info": "[07时33分 ~ 22时14分]"
         },
         {
           "title": "伊朗副外长：霍尔木兹海峡保持开放",
@@ -111,11 +111,12 @@
             12,
             15,
             14,
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[01时01分 ~ 20时54分]"
+          "appearance_count": 17,
+          "time_info": "[01时01分 ~ 22时14分]"
         },
         {
           "title": "伊朗每天限15艘船通过霍尔木兹海峡",
@@ -222,6 +223,19 @@
           "time_info": "[01时01分 ~ 09时51分]"
         },
         {
+          "title": "伊朗最高领袖对和谈提出三点主张，包括将对霍尔木兹海峡的管理推进到「一个新阶段」，新阶段可能指什么？",
+          "url": "https://www.zhihu.com/question/2025840148768712276",
+          "source": "知乎",
+          "ranks": [
+            11,
+            12,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时42分 ~ 22时14分]"
+        },
+        {
           "title": "伊朗总统：伊朗绝不会抛弃黎巴嫩",
           "url": "https://www.toutiao.com/trending/7625866062126530614/",
           "source": "今日头条",
@@ -317,18 +331,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时01分 ~ 07时33分]"
-        },
-        {
-          "title": "伊朗最高领袖对和谈提出三点主张，包括将对霍尔木兹海峡的管理推进到「一个新阶段」，新阶段可能指什么？",
-          "url": "https://www.zhihu.com/question/2025840148768712276",
-          "source": "知乎",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时42分 ~ 20时54分]"
         },
         {
           "title": "穆杰塔巴发文纪念伊朗已故最高领袖",
@@ -581,9 +583,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时54分"
+        },
+        {
+          "title": "伊朗战争丨万斯：相信与伊朗的谈判将取得积极成果",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时14分"
         },
         {
           "title": "伊朗最高领袖穆杰塔巴·哈梅内伊：霍尔木兹海峡管控将进入新阶段。",
@@ -606,6 +619,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时01分 ~ 05时41分]"
+        },
+        {
+          "title": "伊朗副外长：各方已达成共识，伊方十点计划将作为谈判基础",
+          "url": "https://news.ifeng.com/c/8sDPw4YiPBl",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时14分"
         },
         {
           "title": "伊朗最高领袖穆杰塔巴·哈梅内伊：我们的南方邻居们，你们正在见证一个奇迹——要正确看待它，站在正确的位置上。要对魔鬼的虚假承诺保持警惕。",
@@ -636,7 +660,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时54分"
         },
@@ -650,6 +674,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
+        },
+        {
+          "title": "美媒曝光多起疑似涉伊朗战事“内幕交易”",
+          "url": "https://news.ifeng.com/c/8sD9ENlQ29B",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时03分 ~ 22时14分]"
         },
         {
           "title": "伊朗最高领袖穆杰塔巴·哈梅内伊：我们将要求赔偿每一项损失，并索取烈士的血债。",
@@ -713,7 +749,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时54分"
         },
@@ -763,6 +799,17 @@
           "time_info": "01时01分"
         },
         {
+          "title": "疑似涉伊朗战事内幕交易被曝",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%96%91%E4%BC%BC%E6%B6%89%E4%BC%8A%E6%9C%97%E6%88%98%E4%BA%8B%E5%86%85%E5%B9%95%E4%BA%A4%E6%98%93%E8%A2%AB%E6%9B%9D%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时14分"
+        },
+        {
           "title": "美媒曝光多起疑涉伊朗战事内幕交易",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%AA%92%E6%9B%9D%E5%85%89%E5%A4%9A%E8%B5%B7%E7%96%91%E6%B6%89%E4%BC%8A%E6%9C%97%E6%88%98%E4%BA%8B%E5%86%85%E5%B9%95%E4%BA%A4%E6%98%93",
           "source": "百度热搜",
@@ -789,18 +836,6 @@
           "time_info": "[12时42分 ~ 18时03分]"
         },
         {
-          "title": "美媒曝光多起疑似涉伊朗战事“内幕交易”",
-          "url": "https://news.ifeng.com/c/8sD9ENlQ29B",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时03分 ~ 20时54分]"
-        },
-        {
           "title": "俄方希望伊朗与美国谈判进程取得成功",
           "url": "https://wallstreetcn.com/livenews/3085353",
           "source": "华尔街见闻-快讯",
@@ -824,6 +859,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时51分 ~ 14时29分]"
+        },
+        {
+          "title": "系好安全带！伊朗冲突点燃油价，今晚美国CPI或创四年最大环比涨幅",
+          "url": "https://wallstreetcn.com/articles/3769663",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时42分 ~ 22时14分]"
         },
         {
           "title": "美国总统特朗普：无论有没有伊朗的帮助，（来自波斯湾的）石油都会开始流动。",
@@ -960,6 +1008,19 @@
           "time_info": "[04时56分 ~ 05时41分]"
         },
         {
+          "title": "美伊谈判在即！伊斯兰堡封锁核心区严阵以待，万斯领衔美方代表团11日对阵伊朗",
+          "url": "https://wallstreetcn.com/articles/3769660",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时42分 ~ 22时14分]"
+        },
+        {
           "title": "伊朗最高领袖提出三点主张",
           "url": "https://wallstreetcn.com/livenews/3085349",
           "source": "华尔街见闻-快讯",
@@ -984,6 +1045,18 @@
           "time_info": "[09时51分 ~ 14时29分]"
         },
         {
+          "title": "伊朗议长将率团与美国谈判，美方由副总统万斯率团，谈判主要有哪些议题？最终决定权是否仍在最高领袖手中？",
+          "url": "https://www.zhihu.com/question/2025233700363727989",
+          "source": "知乎",
+          "ranks": [
+            15,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时42分 ~ 22时14分]"
+        },
+        {
           "title": "以军战机轰炸黎巴嫩，伊朗方面称其违反停火协议，再次关闭霍尔木兹海峡，停火还能维持吗？各方还有哪些分歧？",
           "url": "https://www.zhihu.com/question/2025471469275144593",
           "source": "知乎",
@@ -993,30 +1066,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时01分 ~ 04时01分]"
-        },
-        {
-          "title": "系好安全带！伊朗冲突点燃油价，今晚美国CPI或创四年最大环比涨幅",
-          "url": "https://wallstreetcn.com/articles/3769663",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时42分 ~ 20时54分]"
-        },
-        {
-          "title": "美伊谈判在即！伊斯兰堡封锁核心区严阵以待，万斯领衔美方代表团11日对阵伊朗",
-          "url": "https://wallstreetcn.com/articles/3769660",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时42分 ~ 20时54分]"
         },
         {
           "title": "美联储会议纪要：伊朗战争带来双重风险，许多官员担心通胀加剧或有加息可能",
@@ -1064,17 +1113,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时01分 ~ 02时02分]"
-        },
-        {
-          "title": "伊朗议长将率团与美国谈判，美方由副总统万斯率团，谈判主要有哪些议题？最终决定权是否仍在最高领袖手中？",
-          "url": "https://www.zhihu.com/question/2025233700363727989",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时42分 ~ 20时54分]"
         },
         {
           "title": "打击伊朗期间美军消耗约760万杯咖啡",
@@ -1243,6 +1281,17 @@
           "time_info": "[04时01分 ~ 05时41分]"
         },
         {
+          "title": "美国代表团启程，万斯：相信谈判将取得积极成果！伊朗副外长：伊方十点计划将作为谈判基础",
+          "url": "https://wallstreetcn.com/articles/3769693",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时14分"
+        },
+        {
           "title": "伊朗最高领袖穆杰塔巴·哈梅内伊：（向伊朗人民）你们在这场神圣的防御中是明确的胜利者。",
           "url": "https://flash.jin10.com/detail/20260410013951433800",
           "source": "金十数据",
@@ -1260,7 +1309,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时54分"
         },
@@ -1348,7 +1397,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时54分"
         },
@@ -1370,7 +1419,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时54分"
         },
@@ -1518,6 +1567,17 @@
           "time_info": "18时03分"
         },
         {
+          "title": "伊朗武装部队称随时准备开火",
+          "url": "https://flash.jin10.com/detail/20260410215711117800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时14分"
+        },
+        {
           "title": "MarineTraffic的监测显示，停火以来首艘非伊朗籍油轮通过霍尔木兹海峡。",
           "url": "https://wallstreetcn.com/livenews/3085257",
           "source": "华尔街见闻-快讯",
@@ -1661,6 +1721,17 @@
           "time_info": "19时43分"
         },
         {
+          "title": "伊朗武装部队称随时准备开火",
+          "url": "https://wallstreetcn.com/livenews/3085951",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时14分"
+        },
+        {
           "title": "伊朗称国内总体已恢复正常秩序",
           "url": "https://www.toutiao.com/trending/7626017343296569353/",
           "source": "今日头条",
@@ -1670,6 +1741,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时01分"
+        },
+        {
+          "title": "据华盛顿邮报：美国谈判代表将要求伊朗释放被扣押的美国公民。",
+          "url": "https://flash.jin10.com/detail/20260410215310488800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时14分"
+        },
+        {
+          "title": "美国谈判代表将要求伊朗释放被拘留的美国公民。（华盛顿邮报）",
+          "url": "https://wallstreetcn.com/livenews/3085949",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时14分"
         },
         {
           "title": "美国总统特朗普：石油很快就会开始流动，无论有没有伊朗的帮助。",
@@ -1692,6 +1785,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时19分"
+        },
+        {
+          "title": "伊朗：美国不能放任以色列对黎杀戮",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%EF%BC%9A%E7%BE%8E%E5%9B%BD%E4%B8%8D%E8%83%BD%E6%94%BE%E4%BB%BB%E4%BB%A5%E8%89%B2%E5%88%97%E5%AF%B9%E9%BB%8E%E6%9D%80%E6%88%AE",
+          "source": "百度热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时14分"
         },
         {
           "title": "据NBC新闻：特朗普表示，在会议场合，伊朗领导人的言辞与他们面对媒体时的言论大不相同。他们在会议中的态度要更加理性。",
@@ -1722,7 +1826,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时54分"
         },
@@ -1884,7 +1988,7 @@
     },
     {
       "keyword_group": "科技",
-      "match_count": 25,
+      "match_count": 28,
       "titles": [
         {
           "title": "【数据看盘】光迅科技龙虎榜现10亿抢筹大战 “北向+游资+机构” 涌入东山精密",
@@ -2102,6 +2206,28 @@
           "time_info": "09时51分"
         },
         {
+          "title": "上交所对容百科技及有关责任人予以公开谴责",
+          "url": "https://flash.jin10.com/detail/20260410215305164800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时14分"
+        },
+        {
+          "title": "容百科技：2025年营收122.67亿元，同比下降18.69%；归属于上市公司股东的净利润亏损1.87亿元，上年同期盈利2.96亿元。",
+          "url": "https://wallstreetcn.com/livenews/3085948",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时14分"
+        },
+        {
           "title": "A股星闪概念板块盘初拉升，欣旺达涨超7%，恒玄科技涨超6%，星寰科技、乐鑫科技、华测检测等均涨4%。",
           "url": "https://flash.jin10.com/detail/20260410093245969800",
           "source": "金十数据",
@@ -2133,6 +2259,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
+        },
+        {
+          "title": "【容百科技：在与宁德时代签署的重大合同公告中关于销售金额、采购量及供货期限等披露存在误导性陈述 ，公司及高管合计被罚950万元】公司收到中国证监会宁波监管局下发的《行政处罚决定书》。经查，公司在与宁德时代签署的重大合同公告中，关于销售金额、采购量及供货期限等披露存在误导性陈述。宁波证监局决定对公司给予警告，并处以450万元罚款；对董事长白厚善给予警告，并处以300万元罚款；对董事会秘书俞济芸给予警告，并处以200万元罚款。",
+          "url": "https://wallstreetcn.com/livenews/3085945",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时14分"
         },
         {
           "title": "A股CPO、光模块等算力硬件股午后短线拉升，源杰科技涨超10%，永鼎股份、东山精密、长光华芯、生益电子纷纷拉升。",
@@ -2180,11 +2317,12 @@
           "ranks": [
             7,
             4,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时51分 ~ 20时54分]"
+          "appearance_count": 10,
+          "time_info": "[09时51分 ~ 22时14分]"
         },
         {
           "title": "东盟财长及央行行长联合声明：为缓解全球及区域发展态势、包括中东局势带来的影响，我们重申致力于深化区域金融一体化。",
@@ -2356,8 +2494,19 @@
     },
     {
       "keyword_group": "消费",
-      "match_count": 7,
+      "match_count": 13,
       "titles": [
+        {
+          "title": "美国4月密歇根大学消费者信心指数初值跌至纪录低点47.6，预期为51.5。",
+          "url": "https://flash.jin10.com/detail/20260410220037131800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时14分"
+        },
         {
           "title": "集邦咨询：预估2026年第二季度消费型DRAM合约价格将持续季增45-50%",
           "url": "https://flash.jin10.com/detail/20260410121545001800",
@@ -2392,6 +2541,28 @@
           "time_info": "04时56分"
         },
         {
+          "title": "美国4月密歇根大学消费者信心指数初值 47.6，预期52，前值53.3。",
+          "url": "https://flash.jin10.com/detail/20260410220002327800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时14分"
+        },
+        {
+          "title": "美国4月密歇根大学消费者预期指数初值 46.1，预期 50.2，前值 51.7。",
+          "url": "https://wallstreetcn.com/livenews/3085955",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时14分"
+        },
+        {
           "title": "中东冲突或影响高端消费，宝马印度负责人担心豪车需求降温",
           "url": "https://wallstreetcn.com/livenews/3085754",
           "source": "华尔街见闻-快讯",
@@ -2403,6 +2574,28 @@
           "time_info": "18时03分"
         },
         {
+          "title": "美国4月密歇根大学消费者信心指数初值 47.6，预期 51.5，前值 53.3。",
+          "url": "https://wallstreetcn.com/livenews/3085953",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时14分"
+        },
+        {
+          "title": "美国4月密歇根大学消费者现况指数初值 50.1，预期 53.4，前值 55.8。",
+          "url": "https://wallstreetcn.com/livenews/3085952",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时14分"
+        },
+        {
           "title": "沙特国家通讯社：沙特能源部一名官员表示，此类袭击的持续导致供应减少、复苏放缓，影响消费国的能源供应安全，并加剧石油市场的波动性。",
           "url": "https://flash.jin10.com/detail/20260410023246620800",
           "source": "金十数据",
@@ -2412,6 +2605,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时01分"
+        },
+        {
+          "title": "美国2月工厂订单月率、4月密歇根大学消费者信心指数初值、一年期通胀率预期初值将于十分钟后公布。",
+          "url": "https://flash.jin10.com/detail/20260410215000001800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时14分"
         },
         {
           "title": "国家统计局：2026年3月份居民消费价格同比上涨1.0%",
@@ -2566,7 +2770,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时54分"
         },
@@ -2708,8 +2912,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时03分 ~ 20时54分]"
+          "appearance_count": 5,
+          "time_info": "[18时03分 ~ 22时14分]"
         }
       ]
     },
@@ -2735,7 +2939,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时54分"
         }
