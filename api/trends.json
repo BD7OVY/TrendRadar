@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-10T16:19:20.011551+08:00",
-  "total_titles_processed": 1344,
+  "generated_at": "2026-04-10T18:03:50.716050+08:00",
+  "total_titles_processed": 1494,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 143,
+      "match_count": 146,
       "titles": [
         {
           "title": "特朗普：10项停战条款是“假新闻”，美军将“继续驻扎在伊朗境内及其周边”",
@@ -80,16 +80,29 @@
           "time_info": "[01时01分 ~ 07时33分]"
         },
         {
+          "title": "以总理指示尽快启动与黎巴嫩直接谈判，特朗普要求以减少袭黎，伊朗称为再发生冲突做好准备",
+          "url": "https://wallstreetcn.com/articles/3769619",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时51分 ~ 18时03分]"
+        },
+        {
           "title": "伊朗副外长：霍尔木兹海峡保持开放",
           "url": "https://www.toutiao.com/trending/7626336339914477097/",
           "source": "今日头条",
           "ranks": [
             12,
-            15
+            15,
+            14
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时01分 ~ 16时19分]"
+          "appearance_count": 13,
+          "time_info": "[01时01分 ~ 18时03分]"
         },
         {
           "title": "伊朗每天限15艘船通过霍尔木兹海峡",
@@ -100,11 +113,12 @@
             21,
             18,
             22,
-            27
+            27,
+            28
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时01分 ~ 14时29分]"
+          "appearance_count": 12,
+          "time_info": "[01时01分 ~ 18时03分]"
         },
         {
           "title": "美伊“火药味”又浓了？关于霍尔木兹，特朗普和伊朗最高领袖分别说……",
@@ -154,18 +168,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时01分 ~ 09时51分]"
-        },
-        {
-          "title": "以总理指示尽快启动与黎巴嫩直接谈判，特朗普要求以减少袭黎，伊朗称为再发生冲突做好准备",
-          "url": "https://wallstreetcn.com/articles/3769619",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时51分 ~ 16时19分]"
         },
         {
           "title": "西班牙宣布重开驻伊朗使馆，以色列竟批评：恬不知耻",
@@ -239,6 +241,17 @@
           "time_info": "[01时01分 ~ 07时33分]"
         },
         {
+          "title": "伊朗战争丨谈判前夕，伊斯兰堡已进入“红色警戒”",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时29分 ~ 18时03分]"
+        },
+        {
           "title": "穆杰塔巴·哈梅内伊发文纪念伊朗已故最高领袖",
           "url": "https://www.cls.cn/detail/2339689",
           "source": "财联社热门",
@@ -303,6 +316,18 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时01分 ~ 07时33分]"
+        },
+        {
+          "title": "美以袭击伊朗进入第 42 天，当前局势如何？哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2025706275451795397",
+          "source": "知乎",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时33分 ~ 18时03分]"
         },
         {
           "title": "【早报】伊朗最高领袖：霍尔木兹海峡管理将进入新阶段；电池行业，重要座谈会召开",
@@ -378,17 +403,6 @@
           "time_info": "[12时42分 ~ 12时43分]"
         },
         {
-          "title": "伊朗战争丨谈判前夕，伊斯兰堡已进入“红色警戒”",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时29分 ~ 16时19分]"
-        },
-        {
           "title": "伊军高官：伊朗地形将成入侵者的监狱",
           "url": "https://www.toutiao.com/trending/7625954913289945094/",
           "source": "今日头条",
@@ -416,16 +430,17 @@
           "time_info": "[01时01分 ~ 06时35分]"
         },
         {
-          "title": "美以袭击伊朗进入第 42 天，当前局势如何？哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2025706275451795397",
-          "source": "知乎",
+          "title": "伊朗最高领袖：伊朗不寻求战争也不会放弃权利，霍尔木兹海峡的管理将进入新阶段",
+          "url": "https://wallstreetcn.com/articles/3769620",
+          "source": "华尔街见闻",
           "ranks": [
+            9,
             7,
-            6
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时33分 ~ 16时19分]"
+          "appearance_count": 5,
+          "time_info": "[12时42分 ~ 18时03分]"
         },
         {
           "title": "伊朗最高领袖外交政策顾问伤重不治",
@@ -543,6 +558,17 @@
           "time_info": "[01时01分 ~ 05时41分]"
         },
         {
+          "title": "美媒曝光多起疑似涉伊朗战事“内幕交易”",
+          "url": "https://news.ifeng.com/c/8sD9ENlQ29B",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时03分"
+        },
+        {
           "title": "伊朗最高领袖穆杰塔巴·哈梅内伊：我们的南方邻居们，你们正在见证一个奇迹——要正确看待它，站在正确的位置上。要对魔鬼的虚假承诺保持警惕。",
           "url": "https://flash.jin10.com/detail/20260410014137549800",
           "source": "金十数据",
@@ -587,19 +613,6 @@
           "time_info": "02时02分"
         },
         {
-          "title": "伊朗最高领袖：伊朗不寻求战争也不会放弃权利，霍尔木兹海峡的管理将进入新阶段",
-          "url": "https://wallstreetcn.com/articles/3769620",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时42分 ~ 16时19分]"
-        },
-        {
           "title": "伊朗最高领袖穆杰塔巴·哈梅内伊：我们仍在等待南部邻国作出恰当回应，以便我们能够“向你们展现我们的兄弟情谊”。",
           "url": "https://flash.jin10.com/detail/20260410014043492800",
           "source": "金十数据",
@@ -617,7 +630,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时19分"
         },
@@ -631,6 +644,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时35分"
+        },
+        {
+          "title": "美伊谈判谁握有主动权？李绍先：美国要零核，伊朗要赔偿",
+          "url": "https://news.ifeng.com/c/8sDDtzEmihG",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时03分"
         },
         {
           "title": "伊朗最高领袖穆杰塔巴·哈梅内伊：我们绝不会放过那些袭击我们国家的罪恶侵略者。",
@@ -664,6 +688,32 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时01分"
+        },
+        {
+          "title": "伊朗最高领袖对和谈提出三点主张，包括将对霍尔木兹海峡的管理推进到「一个新阶段」，新阶段可能指什么？",
+          "url": "https://www.zhihu.com/question/2025840148768712276",
+          "source": "知乎",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时42分 ~ 18时03分]"
+        },
+        {
+          "title": "在世界上伊朗的导弹水平如何？为何伊朗导弹能突破爱国者的拦截，摧毁萨德？",
+          "url": "https://www.zhihu.com/question/2022275543672833940",
+          "source": "知乎",
+          "ranks": [
+            20,
+            19,
+            17,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时42分 ~ 18时03分]"
         },
         {
           "title": "俄方希望伊朗与美国谈判进程取得成功",
@@ -837,18 +887,6 @@
           "time_info": "[05时41分 ~ 06时35分]"
         },
         {
-          "title": "伊朗最高领袖对和谈提出三点主张，包括将对霍尔木兹海峡的管理推进到「一个新阶段」，新阶段可能指什么？",
-          "url": "https://www.zhihu.com/question/2025840148768712276",
-          "source": "知乎",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时42分 ~ 16时19分]"
-        },
-        {
           "title": "特朗普警告伊朗不要收霍尔木兹海峡通行费 | 环球市场",
           "url": "https://www.cls.cn/detail/2339829",
           "source": "财联社热门",
@@ -859,19 +897,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时51分 ~ 14时29分]"
-        },
-        {
-          "title": "在世界上伊朗的导弹水平如何？为何伊朗导弹能突破爱国者的拦截，摧毁萨德？",
-          "url": "https://www.zhihu.com/question/2022275543672833940",
-          "source": "知乎",
-          "ranks": [
-            20,
-            19,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时42分 ~ 16时19分]"
         },
         {
           "title": "以军战机轰炸黎巴嫩，伊朗方面称其违反停火协议，再次关闭霍尔木兹海峡，停火还能维持吗？各方还有哪些分歧？",
@@ -885,6 +910,19 @@
           "time_info": "[01时01分 ~ 04时01分]"
         },
         {
+          "title": "伊朗欲在霍尔木兹收“过路费” 能赚多少钱、能否行得通？一文读懂",
+          "url": "https://www.cls.cn/detail/2340145",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时29分 ~ 18时03分]"
+        },
+        {
           "title": "美联储会议纪要：伊朗战争带来双重风险，许多官员担心通胀加剧或有加息可能",
           "url": "https://wallstreetcn.com/articles/3769516",
           "source": "华尔街见闻",
@@ -894,6 +932,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时01分 ~ 02时02分]"
+        },
+        {
+          "title": "伊朗最高领袖发表最新声明",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E5%8F%91%E8%A1%A8%E6%9C%80%E6%96%B0%E5%A3%B0%E6%98%8E%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时29分 ~ 18时03分]"
         },
         {
           "title": "伊朗最高领袖提出三点主张",
@@ -944,6 +994,18 @@
           "time_info": "[12时42分 ~ 12时43分]"
         },
         {
+          "title": "报道：伊朗每天允许不超过15艘船只通过霍尔木兹海峡",
+          "url": "https://wallstreetcn.com/articles/3769603",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时19分 ~ 18时03分]"
+        },
+        {
           "title": "伊朗外交关系战略委员会主席去世",
           "url": "https://flash.jin10.com/detail/20260410051928012800",
           "source": "金十数据",
@@ -980,6 +1042,18 @@
           "time_info": "[06时35分 ~ 07时33分]"
         },
         {
+          "title": "美媒曝光多起疑涉伊朗战事内幕交易",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%AA%92%E6%9B%9D%E5%85%89%E5%A4%9A%E8%B5%B7%E7%96%91%E6%B6%89%E4%BC%8A%E6%9C%97%E6%88%98%E4%BA%8B%E5%86%85%E5%B9%95%E4%BA%A4%E6%98%93",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时19分 ~ 18时03分]"
+        },
+        {
           "title": "伊朗媒体：伊朗最高领袖外交政策顾问、前伊朗外交部长卡迈勒·哈拉齐(Kamal Kharazi)因此前在美以联合空袭中所受的伤势不治身亡。",
           "url": "https://flash.jin10.com/detail/20260410051812374800",
           "source": "金十数据",
@@ -1004,18 +1078,6 @@
           "time_info": "[05时41分 ~ 06时35分]"
         },
         {
-          "title": "伊朗欲在霍尔木兹收“过路费” 能赚多少钱、能否行得通？一文读懂",
-          "url": "https://www.cls.cn/detail/2340145",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时29分 ~ 16时19分]"
-        },
-        {
           "title": "伊朗称黎巴嫩停火等停战条款被违反、破坏“谈判基础”，特朗普称停火不含黎，万斯称从未承诺包括",
           "url": "https://wallstreetcn.com/articles/3769515",
           "source": "华尔街见闻",
@@ -1025,17 +1087,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时01分 ~ 04时56分]"
-        },
-        {
-          "title": "伊朗最高领袖发表最新声明",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E5%8F%91%E8%A1%A8%E6%9C%80%E6%96%B0%E5%A3%B0%E6%98%8E%23&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时29分 ~ 16时19分]"
         },
         {
           "title": "据了解，Kamal Kharazi已经在美国和以色列发动的袭击中受伤。（伊朗媒体Irna）",
@@ -1095,17 +1146,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
-        },
-        {
-          "title": "报道：伊朗每天允许不超过15艘船只通过霍尔木兹海峡",
-          "url": "https://wallstreetcn.com/articles/3769603",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时19分"
         },
         {
           "title": "伊朗外长阿拉格齐：内塔尼亚胡的刑事审判将于本周日继续进行。若能达成全地区范围的停火协议（包括在黎巴嫩），则将加速其入狱的命运。如果美国真想通过让内塔尼亚胡破坏外交手段来破坏本国经济，那这将是美国自己的选择。我们认为这样做很愚蠢，但我们对此已做好了准备。",
@@ -1317,6 +1357,17 @@
           "time_info": "07时33分"
         },
         {
+          "title": "伊朗副外长：美国不能放任以色列对黎杀戮",
+          "url": "https://flash.jin10.com/detail/20260410173743877800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时03分"
+        },
+        {
           "title": "MarineTraffic的监测显示，停火以来首艘非伊朗籍油轮通过霍尔木兹海峡。",
           "url": "https://wallstreetcn.com/livenews/3085257",
           "source": "华尔街见闻-快讯",
@@ -1411,7 +1462,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时19分"
         },
@@ -1477,7 +1528,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时19分"
         },
@@ -1581,17 +1632,6 @@
           "time_info": "09时51分"
         },
         {
-          "title": "美媒曝光多起疑涉伊朗战事内幕交易",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%AA%92%E6%9B%9D%E5%85%89%E5%A4%9A%E8%B5%B7%E7%96%91%E6%B6%89%E4%BC%8A%E6%9C%97%E6%88%98%E4%BA%8B%E5%86%85%E5%B9%95%E4%BA%A4%E6%98%93",
-          "source": "百度热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时19分"
-        },
-        {
           "title": "伊朗外交部发言人：进行停战谈判的前提是美国在所有战线，特别是在黎巴嫩，遵守停火承诺。",
           "url": "https://flash.jin10.com/detail/20260410000929852800",
           "source": "金十数据",
@@ -1672,7 +1712,7 @@
     },
     {
       "keyword_group": "科技",
-      "match_count": 20,
+      "match_count": 24,
       "titles": [
         {
           "title": "【数据看盘】光迅科技龙虎榜现10亿抢筹大战 “北向+游资+机构” 涌入东山精密",
@@ -1699,6 +1739,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
+        },
+        {
+          "title": "华软科技：关停武穴奥得赛部分生产线",
+          "url": "https://flash.jin10.com/detail/20260410174815862800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时03分"
+        },
+        {
+          "title": "云锋基金、高瓴资本等据悉计划以基石投资者参与胜宏科技的香港上市。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3085779",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时03分"
         },
         {
           "title": "A股液冷服务器概念反复活跃，新朋股份两连板，英维克、飞龙股份、宁波精达、淳中科技等跟涨。",
@@ -1742,7 +1804,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时19分"
         },
@@ -1764,7 +1826,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时19分"
         },
@@ -1813,6 +1875,17 @@
           "time_info": "09时51分"
         },
         {
+          "title": "华懋科技：不存在应披露而未披露的重大事项",
+          "url": "https://flash.jin10.com/detail/20260410173822400800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时03分"
+        },
+        {
           "title": "险资最新投资策略曝光：高股息压舱，科技成长伺机",
           "url": "https://wallstreetcn.com/livenews/3085369",
           "source": "华尔街见闻-快讯",
@@ -1822,6 +1895,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时33分"
+        },
+        {
+          "title": "剑桥科技：控股股东及其一致行动人拟合计减持不超2.69%股份",
+          "url": "https://wallstreetcn.com/livenews/3085758",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时03分"
         },
         {
           "title": "港股恒生科技指数盘初涨超1%，存储概念、中资券商、芯片股等涨幅居前。",
@@ -1904,7 +1988,7 @@
     },
     {
       "keyword_group": "金融",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "贝森特与鲍威尔召集华尔街紧急开会：Claude新模型对金融业有巨大风险",
@@ -1916,8 +2000,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时51分 ~ 16时19分]"
+          "appearance_count": 6,
+          "time_info": "[09时51分 ~ 18时03分]"
         },
         {
           "title": "周四（4月9日），美股降息赢家指数涨1.10%，报91.25点。 “特朗普关税输家”指数涨1.50%，“特朗普金融指数”涨0.95%。 散户抱团概念股指数/迷因股（meme stock）指数跌0.44%。",
@@ -1952,6 +2036,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时43分"
+        },
+        {
+          "title": "汇丰：欢迎香港金融管理局颁发稳定币发行牌照。 计划2026年下半年推出港币计价稳定币。",
+          "url": "https://wallstreetcn.com/livenews/3085765",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时03分"
         },
         {
           "title": "据英国金融时报：加拿大正寻求加入由英国、意大利和日本联合开展的“全球作战航空计划”。",
@@ -2044,6 +2139,89 @@
       ]
     },
     {
+      "keyword_group": "消费",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "集邦咨询：预估2026年第二季度消费型DRAM合约价格将持续季增45-50%",
+          "url": "https://flash.jin10.com/detail/20260410121545001800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时43分"
+        },
+        {
+          "title": "内存涨价终端承压，消费电子产业链差异化应对",
+          "url": "https://wallstreetcn.com/livenews/3085372",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时33分"
+        },
+        {
+          "title": "标普500指数初步收涨0.6%，可选消费板块涨2.4%，能源板块跌1.1%。 纳斯达克100指数初步收涨0.7%，成分股中，亚马逊涨5.3%，英特尔涨4.9%，拉姆研究涨4.8%，美光涨3.6%，科磊涨3.2%，Palantir跌7.2%，CrowdStrike跌7.3%，Axon跌10.8%，Zscaler跌11.5%。 亚马逊领跑道指成分股，卡特彼勒、耐克、安进、沃尔玛等涨超1%，思科跌0.6%，雪佛龙跌1.4%，IBM跌2%，Salesforce跌3%。 费城半导体指数初步收涨2%，继续创收盘历史新高。",
+          "url": "https://wallstreetcn.com/livenews/3085314",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时56分"
+        },
+        {
+          "title": "中东冲突或影响高端消费，宝马印度负责人担心豪车需求降温",
+          "url": "https://wallstreetcn.com/livenews/3085754",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时03分"
+        },
+        {
+          "title": "沙特国家通讯社：沙特能源部一名官员表示，此类袭击的持续导致供应减少、复苏放缓，影响消费国的能源供应安全，并加剧石油市场的波动性。",
+          "url": "https://flash.jin10.com/detail/20260410023246620800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时01分"
+        },
+        {
+          "title": "国家统计局：2026年3月份居民消费价格同比上涨1.0%",
+          "url": "https://flash.jin10.com/detail/20260410093148515800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时51分"
+        },
+        {
+          "title": "商务部等5部门关于开展2026年“健康消费月”活动的通知",
+          "url": "https://flash.jin10.com/detail/20260410172355564800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时03分"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
       "match_count": 7,
       "titles": [
@@ -2124,67 +2302,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时41分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "消费",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "集邦咨询：预估2026年第二季度消费型DRAM合约价格将持续季增45-50%",
-          "url": "https://flash.jin10.com/detail/20260410121545001800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时43分"
-        },
-        {
-          "title": "内存涨价终端承压，消费电子产业链差异化应对",
-          "url": "https://wallstreetcn.com/livenews/3085372",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时33分"
-        },
-        {
-          "title": "标普500指数初步收涨0.6%，可选消费板块涨2.4%，能源板块跌1.1%。 纳斯达克100指数初步收涨0.7%，成分股中，亚马逊涨5.3%，英特尔涨4.9%，拉姆研究涨4.8%，美光涨3.6%，科磊涨3.2%，Palantir跌7.2%，CrowdStrike跌7.3%，Axon跌10.8%，Zscaler跌11.5%。 亚马逊领跑道指成分股，卡特彼勒、耐克、安进、沃尔玛等涨超1%，思科跌0.6%，雪佛龙跌1.4%，IBM跌2%，Salesforce跌3%。 费城半导体指数初步收涨2%，继续创收盘历史新高。",
-          "url": "https://wallstreetcn.com/livenews/3085314",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时56分"
-        },
-        {
-          "title": "沙特国家通讯社：沙特能源部一名官员表示，此类袭击的持续导致供应减少、复苏放缓，影响消费国的能源供应安全，并加剧石油市场的波动性。",
-          "url": "https://flash.jin10.com/detail/20260410023246620800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时01分"
-        },
-        {
-          "title": "国家统计局：2026年3月份居民消费价格同比上涨1.0%",
-          "url": "https://flash.jin10.com/detail/20260410093148515800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时51分"
         }
       ]
     },
@@ -2280,6 +2397,49 @@
       ]
     },
     {
+      "keyword_group": "深圳",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "救护车“截单”延误抢救致患者死亡？深圳通报涉事医院受罚",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32930765",
+          "source": "澎湃新闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时01分 ~ 07时33分]"
+        },
+        {
+          "title": "深圳救护车截单延误抢救致死，官方通报已处罚，暴露了急救体系的什么漏洞？普通患者遇到这种情况该怎么办？",
+          "url": "https://www.zhihu.com/question/2025507998328514557",
+          "source": "知乎",
+          "ranks": [
+            3,
+            4,
+            18,
+            19,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时01分 ~ 07时33分]"
+        },
+        {
+          "title": "深圳一医院救护车违令“截单”：120的指令，救护车可以不听吗？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32938818",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时03分"
+        }
+      ]
+    },
+    {
       "keyword_group": "医药",
       "match_count": 2,
       "titles": [
@@ -2315,38 +2475,6 @@
       ]
     },
     {
-      "keyword_group": "深圳",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "救护车“截单”延误抢救致患者死亡？深圳通报涉事医院受罚",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32930765",
-          "source": "澎湃新闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时01分 ~ 07时33分]"
-        },
-        {
-          "title": "深圳救护车截单延误抢救致死，官方通报已处罚，暴露了急救体系的什么漏洞？普通患者遇到这种情况该怎么办？",
-          "url": "https://www.zhihu.com/question/2025507998328514557",
-          "source": "知乎",
-          "ranks": [
-            3,
-            4,
-            18,
-            19,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时01分 ~ 07时33分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "openclaw",
       "match_count": 2,
       "titles": [
@@ -2357,7 +2485,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时19分"
         },
@@ -2368,7 +2496,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时19分"
         }
