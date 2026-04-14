@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-14T19:54:57.904077+08:00",
-  "total_titles_processed": 1593,
+  "generated_at": "2026-04-14T21:10:03.812870+08:00",
+  "total_titles_processed": 1705,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 148,
+      "match_count": 151,
       "titles": [
         {
           "title": "美军称“自4月13日起封锁伊朗港口海上交通”，报道称英国不参与，伊朗称“荒唐可笑”",
@@ -41,8 +41,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时57分 ~ 19时54分]"
+          "appearance_count": 18,
+          "time_info": "[00时57分 ~ 21时10分]"
         },
         {
           "title": "美媒刊文：打来打去，美国盟友成伊朗战争的“输家”",
@@ -81,6 +81,18 @@
           "time_info": "[00时57分 ~ 09时54分]"
         },
         {
+          "title": "美对伊港口“封锁令”生效，特朗普称伊朗致电美方说希望达成协议，威胁消灭伊快速攻击舰",
+          "url": "https://wallstreetcn.com/articles/3769872",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时54分 ~ 21时10分]"
+        },
+        {
           "title": "特朗普警告伊朗攻击艇勿靠近封锁线",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%AD%A6%E5%91%8A%E4%BC%8A%E6%9C%97%E6%94%BB%E5%87%BB%E8%89%87%E5%8B%BF%E9%9D%A0%E8%BF%91%E5%B0%81%E9%94%81%E7%BA%BF%23&t=31&band_rank=26&Refer=top",
           "source": "微博",
@@ -94,18 +106,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时57分 ~ 07时37分]"
-        },
-        {
-          "title": "美对伊港口“封锁令”生效，特朗普称伊朗致电美方说希望达成协议，威胁消灭伊快速攻击舰",
-          "url": "https://wallstreetcn.com/articles/3769872",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时54分 ~ 19时54分]"
         },
         {
           "title": "“立即转向，否则开火”伊朗披露驱退美军舰视频",
@@ -318,6 +318,66 @@
           "time_info": "[00时57分 ~ 03时10分]"
         },
         {
+          "title": "伊朗官员：美伊下一轮谈判可能于本周或下周初举行",
+          "url": "https://news.ifeng.com/c/8sJrPgVPB89",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时10分 ~ 21时10分]"
+        },
+        {
+          "title": "美军已开始对进出霍尔木兹海峡的船只进行阻截，封锁所有伊朗港口的船只，此举将带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2027155979582666052",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时54分 ~ 21时10分]"
+        },
+        {
+          "title": "美方封锁进出伊朗港口船只，外交部表态",
+          "url": "https://news.ifeng.com/c/8sJn2rNlH2T",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时10分 ~ 21时10分]"
+        },
+        {
+          "title": "外交部：美方若以涉伊朗为借口对华加征关税，中方必将坚决反制",
+          "url": "https://www.cls.cn/detail/2343446",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时24分 ~ 21时10分]"
+        },
+        {
+          "title": "美以袭击伊朗进入第 46 天，当前局势如何？哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2027200224586720879",
+          "source": "知乎",
+          "ranks": [
+            18,
+            16,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时54分 ~ 21时10分]"
+        },
+        {
           "title": "【早报】中办、国办：推动行业协会商会深化改革；特朗普：已对所有进出伊朗港口船只实施封锁",
           "url": "https://www.cls.cn/detail/2342892",
           "source": "财联社热门",
@@ -369,38 +429,58 @@
           "time_info": "[03时10分 ~ 07时37分]"
         },
         {
-          "title": "伊朗官员：美伊下一轮谈判可能于本周或下周初举行",
-          "url": "https://news.ifeng.com/c/8sJrPgVPB89",
+          "title": "伊朗战争丨希拉里批评特朗普",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
           "ranks": [
-            2,
-            3
+            1
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时10分 ~ 19时54分]"
+          "time_info": "[21时09分 ~ 21时10分]"
         },
         {
-          "title": "美军已开始对进出霍尔木兹海峡的船只进行阻截，封锁所有伊朗港口的船只，此举将带来哪些影响？",
-          "url": "https://www.zhihu.com/question/2027155979582666052",
-          "source": "知乎",
+          "title": "伊朗要求五个中东国家赔偿战争损失",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32964584",
+          "source": "澎湃新闻",
           "ranks": [
+            16,
+            14,
+            11,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时41分 ~ 21时10分]"
+        },
+        {
+          "title": "曝伊朗称暂停铀浓缩5年 特朗普拒绝",
+          "url": "https://www.toutiao.com/trending/7628414997059784242/",
+          "source": "今日头条",
+          "ranks": [
+            11,
+            16,
+            13,
+            17,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时41分 ~ 21时10分]"
+        },
+        {
+          "title": "万斯：球到了“伊朗一方”，伊朗总统：愿意继续谈判",
+          "url": "https://wallstreetcn.com/articles/3769898",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
             6
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[09时54分 ~ 19时54分]"
-        },
-        {
-          "title": "美方封锁进出伊朗港口船只，外交部表态",
-          "url": "https://news.ifeng.com/c/8sJn2rNlH2T",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时10分 ~ 19时54分]"
+          "time_info": "[14时47分 ~ 21时10分]"
         },
         {
           "title": "伊朗战争丨万斯：与伊朗的谈判取得很大进展",
@@ -475,7 +555,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时54分"
         },
@@ -489,19 +569,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时54分"
-        },
-        {
-          "title": "美以袭击伊朗进入第 46 天，当前局势如何？哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2027200224586720879",
-          "source": "知乎",
-          "ranks": [
-            18,
-            16,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时54分 ~ 19时54分]"
         },
         {
           "title": "伊朗曾准备稀释450公斤浓缩铀表善意",
@@ -523,9 +590,21 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时54分"
+        },
+        {
+          "title": "美封锁伊朗海上交通影响几何",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%B0%81%E9%94%81%E4%BC%8A%E6%9C%97%E6%B5%B7%E4%B8%8A%E4%BA%A4%E9%80%9A%E5%BD%B1%E5%93%8D%E5%87%A0%E4%BD%95",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时24分 ~ 21时10分]"
         },
         {
           "title": "伊朗伊斯兰革命卫队：若冲突继续将启用新作战方法",
@@ -559,18 +638,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时24分"
-        },
-        {
-          "title": "外交部：美方若以涉伊朗为借口对华加征关税，中方必将坚决反制",
-          "url": "https://www.cls.cn/detail/2343446",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时24分 ~ 19时54分]"
         },
         {
           "title": "伊朗要求巴林、沙特阿拉伯等五个中东国家赔偿战争损失",
@@ -607,21 +674,6 @@
           "time_info": "[00时57分 ~ 05时42分]"
         },
         {
-          "title": "伊朗要求五个中东国家赔偿战争损失",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32964584",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            14,
-            11,
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时41分 ~ 19时54分]"
-        },
-        {
           "title": "伊朗总统称准备达成平衡公平协议",
           "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%E7%A7%B0%E5%87%86%E5%A4%87%E8%BE%BE%E6%88%90%E5%B9%B3%E8%A1%A1%E5%85%AC%E5%B9%B3%E5%8D%8F%E8%AE%AE%23&t=31&band_rank=16&Refer=top",
           "source": "微博",
@@ -633,33 +685,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时45分 ~ 06时38分]"
-        },
-        {
-          "title": "曝伊朗称暂停铀浓缩5年 特朗普拒绝",
-          "url": "https://www.toutiao.com/trending/7628414997059784242/",
-          "source": "今日头条",
-          "ranks": [
-            11,
-            16,
-            13,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时41分 ~ 19时54分]"
-        },
-        {
-          "title": "万斯：球到了“伊朗一方”，伊朗总统：愿意继续谈判",
-          "url": "https://wallstreetcn.com/articles/3769898",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时47分 ~ 19时54分]"
         },
         {
           "title": "美国与伊朗现在继续沟通。 在试图达成协议方面，两国取得进展。（Axios）",
@@ -746,6 +771,19 @@
           "time_info": "[05时42分 ~ 06时38分]"
         },
         {
+          "title": "美方封锁进出伊朗港口船只 外交部回应",
+          "url": "https://www.cls.cn/detail/2343442",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时10分 ~ 21时10分]"
+        },
+        {
           "title": "特朗普重申将封锁进出伊朗港口船只 中方回应",
           "url": "https://www.cls.cn/detail/2342207",
           "source": "财联社热门",
@@ -781,17 +819,6 @@
           "time_info": "[09时54分 ~ 16时24分]"
         },
         {
-          "title": "美封锁伊朗海上交通影响几何",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%B0%81%E9%94%81%E4%BC%8A%E6%9C%97%E6%B5%B7%E4%B8%8A%E4%BA%A4%E9%80%9A%E5%BD%B1%E5%93%8D%E5%87%A0%E4%BD%95",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时24分 ~ 19时54分]"
-        },
-        {
           "title": "特朗普威胁若中国向伊朗供武就加征关税，外交部：关税战没有赢家",
           "url": "https://www.cls.cn/detail/2342208",
           "source": "财联社热门",
@@ -802,6 +829,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时57分 ~ 01时58分]"
+        },
+        {
+          "title": "伊朗谈判现曙光，美股期指拉升，亚太股市集体大涨，油价下挫，金银反弹",
+          "url": "https://wallstreetcn.com/articles/3769897",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时54分 ~ 21时10分]"
         },
         {
           "title": "伊朗公布美以袭击造成的海上损失",
@@ -869,6 +908,18 @@
           "time_info": "[12时41分 ~ 16时24分]"
         },
         {
+          "title": "美以打击致伊朗损失2700亿美元",
+          "url": "https://www.douyin.com/hot/2465908",
+          "source": "抖音",
+          "ranks": [
+            13,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时54分 ~ 21时10分]"
+        },
+        {
           "title": "特朗普确认美军已开始封锁伊朗：美国不需要霍尔木兹海峡，是世界需要",
           "url": "https://m.thepaper.cn/newsDetail_forward_32964974",
           "source": "澎湃新闻",
@@ -931,18 +982,6 @@
           "time_info": "[14时47分 ~ 16时24分]"
         },
         {
-          "title": "美方封锁进出伊朗港口船只 外交部回应",
-          "url": "https://www.cls.cn/detail/2343442",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时10分 ~ 19时54分]"
-        },
-        {
           "title": "美国副总统万斯：预计伊朗将在开放海峡方面取得进展。",
           "url": "https://flash.jin10.com/detail/20260414061227197800",
           "source": "金十数据",
@@ -965,6 +1004,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时58分 ~ 03时10分]"
+        },
+        {
+          "title": "西方媒体：美伊本周开启新一轮谈判，伊朗火速辟谣：报道“毫无根据”！",
+          "url": "https://wallstreetcn.com/articles/3769921",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时09分 ~ 21时10分]"
         },
         {
           "title": "特朗普：伊朗致电美方说希望达成协议",
@@ -1078,7 +1128,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时54分"
         },
@@ -1114,17 +1164,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时38分"
-        },
-        {
-          "title": "伊朗谈判现曙光，美股期指拉升，亚太股市集体大涨，油价下挫，金银反弹",
-          "url": "https://wallstreetcn.com/articles/3769897",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时54分"
         },
         {
           "title": "美国副总统万斯：与伊朗的谈判取得了很大进展。",
@@ -1290,17 +1329,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时54分"
-        },
-        {
-          "title": "美以打击致伊朗损失2700亿美元",
-          "url": "https://www.douyin.com/hot/2465908",
-          "source": "抖音",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时54分"
         },
         {
           "title": "据美国海军学会新闻网（USNI News）援引两名美国国防官员称，随着伊朗封锁开始，“乔治·H·W·布什”号航空母舰及其护航舰队为避开曼德海峡及胡塞武装，正绕行非洲南部前往美国中央司令部辖区执行行动。",
@@ -1485,7 +1513,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时54分"
         },
@@ -1562,7 +1590,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时54分"
         },
@@ -1620,6 +1648,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时24分"
+        },
+        {
+          "title": "报道：伊朗考虑暂停其在霍尔木兹海峡的航运活动，以免破坏谈判",
+          "url": "https://wallstreetcn.com/livenews/3087705",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时10分"
         },
         {
           "title": "特朗普：不会接受任何允许伊朗拥有核武器的协议",
@@ -1799,8 +1838,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时47分 ~ 19时54分]"
+          "appearance_count": 6,
+          "time_info": "[14时47分 ~ 21时10分]"
         },
         {
           "title": "A股锂电池产业链再度拉升，海科新源涨超14%，维科技术此前涨停，鹏辉能源、时代万恒、派能科技、佳缘科技涨幅居前。",
@@ -1936,7 +1975,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时54分"
         },
@@ -1947,7 +1986,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时54分"
         },
@@ -2013,7 +2052,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时54分"
         },
@@ -2057,7 +2096,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时54分"
         }
@@ -2065,7 +2104,7 @@
     },
     {
       "keyword_group": "深圳",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "深圳整治电鸡乱象查处85人行拘62人",
@@ -2093,8 +2132,35 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时54分 ~ 19时54分]"
+          "appearance_count": 8,
+          "time_info": "[09时54分 ~ 21时10分]"
+        },
+        {
+          "title": "官方通报深圳比亚迪火灾",
+          "url": "https://www.toutiao.com/trending/7628416832629902875/",
+          "source": "今日头条",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时41分 ~ 21时10分]"
+        },
+        {
+          "title": "官方通报深圳比亚迪车库起火",
+          "url": "https://www.douyin.com/hot/2465381",
+          "source": "抖音",
+          "ranks": [
+            12,
+            16,
+            19,
+            18,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时41分 ~ 21时10分]"
         },
         {
           "title": "官方通报深圳比亚迪火灾",
@@ -2117,18 +2183,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时47分"
-        },
-        {
-          "title": "官方通报深圳比亚迪火灾",
-          "url": "https://www.toutiao.com/trending/7628416832629902875/",
-          "source": "今日头条",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时41分 ~ 19时54分]"
         },
         {
           "title": "深圳华强：预计2026年第一季度净利润同比增长80%-120%",
@@ -2167,19 +2221,17 @@
           "time_info": "12时41分"
         },
         {
-          "title": "官方通报深圳比亚迪车库起火",
-          "url": "https://www.douyin.com/hot/2465381",
-          "source": "抖音",
+          "title": "深圳比亚迪一立体车库发生火情，比亚迪称车库为试验及报废车辆专用，起火原因可能是什么？对比亚迪影响大吗？",
+          "url": "https://www.zhihu.com/question/2027305938130924161",
+          "source": "知乎",
           "ranks": [
-            12,
-            16,
-            19,
-            18,
-            20
+            7,
+            9,
+            15
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[12时41分 ~ 19时54分]"
+          "time_info": "[16时24分 ~ 21时10分]"
         },
         {
           "title": "深圳一家快闭店的面包店被善意留住",
@@ -2194,16 +2246,15 @@
           "time_info": "[12时41分 ~ 14时47分]"
         },
         {
-          "title": "深圳比亚迪一立体车库发生火情，比亚迪称车库为试验及报废车辆专用，起火原因可能是什么？对比亚迪影响大吗？",
-          "url": "https://www.zhihu.com/question/2027305938130924161",
-          "source": "知乎",
+          "title": "单价直降2万、千人排队抢房：深圳幸福城臻园“暴力促销” 开发商被约谈",
+          "url": "https://www.cls.cn/detail/2343912",
+          "source": "财联社热门",
           "ranks": [
-            7,
-            9
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时24分 ~ 19时54分]"
+          "appearance_count": 2,
+          "time_info": "[21时09分 ~ 21时10分]"
         },
         {
           "title": "比亚迪回应深圳坪山园区火情",
@@ -2286,6 +2337,101 @@
       ]
     },
     {
+      "keyword_group": "金融",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "美联储理事米兰将于十分钟后参加有关构建21世纪金融体系的讨论。",
+          "url": "https://flash.jin10.com/detail/20260414062000000800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时38分 ~ 07时37分]"
+        },
+        {
+          "title": "越南央行官员：将继续敦促金融机构下调利率。",
+          "url": "https://flash.jin10.com/detail/20260414160653915800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时24分"
+        },
+        {
+          "title": "随着OpenAI战略转型，投资者对其8520亿美元的估值提出质疑，部分投资者称，这些变化可能使OpenAI容易受到Anthropic和谷歌的冲击。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3087405",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时41分"
+        },
+        {
+          "title": "日本央行行长植田和男：将继续密切关注中东冲突对经济前景及金融状况的影响。",
+          "url": "https://flash.jin10.com/detail/20260414204154098800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时10分"
+        },
+        {
+          "title": "据英国金融时报：美国总统特朗普提名艾琳·布朗尼出任美国财政部国际事务主管。",
+          "url": "https://flash.jin10.com/detail/20260414041925108800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时42分"
+        },
+        {
+          "title": "日本央行行长植田和男：鉴于中东冲突已导致金融市场动荡，需谨慎应对。",
+          "url": "https://flash.jin10.com/detail/20260414203815412800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时10分"
+        },
+        {
+          "title": "中欧国际工商学院院长汪泓：跨境金融和离岸市场是企业高质量出海的关键基础设施",
+          "url": "https://wallstreetcn.com/livenews/3087579",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时10分"
+        },
+        {
+          "title": "上海市浦东新区副区长徐欣：加快把浦东打造成为跨境金融创新高地",
+          "url": "https://wallstreetcn.com/livenews/3087667",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时54分"
+        }
+      ]
+    },
+    {
       "keyword_group": "消费",
       "match_count": 7,
       "titles": [
@@ -2296,7 +2442,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时54分"
         },
@@ -2318,7 +2464,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时54分"
         },
@@ -2365,79 +2511,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时10分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金融",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "美联储理事米兰将于十分钟后参加有关构建21世纪金融体系的讨论。",
-          "url": "https://flash.jin10.com/detail/20260414062000000800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时38分 ~ 07时37分]"
-        },
-        {
-          "title": "越南央行官员：将继续敦促金融机构下调利率。",
-          "url": "https://flash.jin10.com/detail/20260414160653915800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时24分"
-        },
-        {
-          "title": "随着OpenAI战略转型，投资者对其8520亿美元的估值提出质疑，部分投资者称，这些变化可能使OpenAI容易受到Anthropic和谷歌的冲击。（英国金融时报）",
-          "url": "https://wallstreetcn.com/livenews/3087405",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时41分"
-        },
-        {
-          "title": "据英国金融时报：美国总统特朗普提名艾琳·布朗尼出任美国财政部国际事务主管。",
-          "url": "https://flash.jin10.com/detail/20260414041925108800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时42分"
-        },
-        {
-          "title": "中欧国际工商学院院长汪泓：跨境金融和离岸市场是企业高质量出海的关键基础设施",
-          "url": "https://wallstreetcn.com/livenews/3087579",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时10分"
-        },
-        {
-          "title": "上海市浦东新区副区长徐欣：加快把浦东打造成为跨境金融创新高地",
-          "url": "https://wallstreetcn.com/livenews/3087667",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时54分"
         }
       ]
     },
@@ -2492,37 +2565,8 @@
       ]
     },
     {
-      "keyword_group": "制造业",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "4月13日，欧盟围绕将钢铁进口压缩将近一半达成初步共识。 由于美国总统特朗普实施50%的进口关税、且欧洲进口增长，欧盟辖区内钢铁制造业运作率只有产能的65%。 最新措施有望让产能利用率达到80%。",
-          "url": "https://wallstreetcn.com/livenews/3087171",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时42分 ~ 06时38分]"
-        },
-        {
-          "title": "第二十届深圳金博会定档5月 聚焦AI时代制造业与服务业协同发展",
-          "url": "https://wallstreetcn.com/livenews/3087683",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时54分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美元",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨1.31%，暂报2504.25点，北京时间22:59涨至2524.74点。 MarketVectorTM数字资产100中盘指数涨0.46%，报2746.06点，23:01也曾涨至2773.61点。 MarketVector数字资产100指数涨1.85%，报14415.93点，逼近22:59达到达的14439.05点。 目前，Solana涨1.62%，狗狗币涨1.04%，XRP涨0.65%。 比特币涨1.66%，暂报72334美元；以太坊涨1.14%，暂报2227.30美元。",
@@ -2546,12 +2590,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时38分"
+        },
+        {
+          "title": "美国PPI数据公布后，美元指数DXY继续下跌，最新下跌0.4%，至98.02点。",
+          "url": "https://flash.jin10.com/detail/20260414203158813800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时10分"
         }
       ]
     },
     {
       "keyword_group": "资源",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "据北京市规划和自然资源委员会官网，丰台区太平桥城中村改造项目A区FT00-0608-0001地块（R2二类居住用地）正式启动预申请，起始价为36亿元。",
@@ -2563,6 +2618,63 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时47分"
+        },
+        {
+          "title": "绿色消费暨再生资源回收行业发展主题活动在海口成功举办",
+          "url": "https://wallstreetcn.com/livenews/3087704",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时10分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "制造业",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "4月13日，欧盟围绕将钢铁进口压缩将近一半达成初步共识。 由于美国总统特朗普实施50%的进口关税、且欧洲进口增长，欧盟辖区内钢铁制造业运作率只有产能的65%。 最新措施有望让产能利用率达到80%。",
+          "url": "https://wallstreetcn.com/livenews/3087171",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时42分 ~ 06时38分]"
+        },
+        {
+          "title": "第二十届深圳金博会定档5月 聚焦AI时代制造业与服务业协同发展",
+          "url": "https://wallstreetcn.com/livenews/3087683",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时54分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "房价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "一张图看清上海房价的“水位线”",
+          "url": "https://www.toutiao.com/trending/7627540251569881097/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时09分 ~ 21时10分]"
         }
       ]
     },
