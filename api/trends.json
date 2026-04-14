@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-14T09:54:23.515587+08:00",
-  "total_titles_processed": 852,
+  "generated_at": "2026-04-14T12:41:55.871728+08:00",
+  "total_titles_processed": 1034,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 102,
+      "match_count": 109,
       "titles": [
         {
           "title": "美军称“自4月13日起封锁伊朗港口海上交通”，报道称英国不参与，伊朗称“荒唐可笑”",
@@ -29,8 +29,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时57分 ~ 09时54分]"
+          "appearance_count": 12,
+          "time_info": "[00时57分 ~ 12时41分]"
         },
         {
           "title": "美媒刊文：打来打去，美国盟友成伊朗战争的“输家”",
@@ -41,8 +41,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时57分 ~ 09时54分]"
+          "appearance_count": 12,
+          "time_info": "[00时57分 ~ 12时41分]"
         },
         {
           "title": "美中央司令部：4月13日起封锁伊朗港口海上交通",
@@ -69,6 +69,18 @@
           "time_info": "[00时57分 ~ 09时54分]"
         },
         {
+          "title": "特朗普：伊朗致电美方说希望达成协议",
+          "url": "https://news.ifeng.com/c/8sIkl2LlAOK",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[04时45分 ~ 12时41分]"
+        },
+        {
           "title": "特朗普警告伊朗攻击艇勿靠近封锁线",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%AD%A6%E5%91%8A%E4%BC%8A%E6%9C%97%E6%94%BB%E5%87%BB%E8%89%87%E5%8B%BF%E9%9D%A0%E8%BF%91%E5%B0%81%E9%94%81%E7%BA%BF%23&t=31&band_rank=26&Refer=top",
           "source": "微博",
@@ -82,18 +94,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时57分 ~ 07时37分]"
-        },
-        {
-          "title": "特朗普：伊朗致电美方说希望达成协议",
-          "url": "https://news.ifeng.com/c/8sIkl2LlAOK",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[04时45分 ~ 09时54分]"
         },
         {
           "title": "“立即转向，否则开火”伊朗披露驱退美军舰视频",
@@ -130,6 +130,21 @@
           "time_info": "[00时57分 ~ 07时37分]"
         },
         {
+          "title": "中国正计划向伊朗提供武器？外交部：反对无根据的抹黑或恶意关联",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32959191",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            14,
+            13,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时57分 ~ 12时41分]"
+        },
+        {
           "title": "伊朗战争丨美伊下一轮谈判或于16日举行",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
@@ -139,20 +154,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时45分 ~ 06时38分]"
-        },
-        {
-          "title": "中国正计划向伊朗提供武器？外交部：反对无根据的抹黑或恶意关联",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32959191",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            14,
-            13,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时57分 ~ 09时54分]"
         },
         {
           "title": "中方回应特朗普重申将封锁伊朗港口",
@@ -331,6 +332,17 @@
           "time_info": "[03时10分 ~ 07时37分]"
         },
         {
+          "title": "美对伊港口“封锁令”生效，特朗普称伊朗致电美方说希望达成协议，威胁消灭伊快速攻击舰",
+          "url": "https://wallstreetcn.com/articles/3769872",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时54分 ~ 12时41分]"
+        },
+        {
           "title": "伊朗战争丨万斯：与伊朗的谈判取得很大进展",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
@@ -348,9 +360,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时54分"
+        },
+        {
+          "title": "伊朗战争丨英法反对美封锁霍尔木兹，拟商议军舰护航",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时41分"
         },
         {
           "title": "伊朗驻印度大使：途经霍尔木兹海峡的印度油轮未向伊朗缴纳过通行费",
@@ -359,7 +382,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时54分"
         },
@@ -377,15 +400,16 @@
           "time_info": "[00时57分 ~ 06时38分]"
         },
         {
-          "title": "美对伊港口“封锁令”生效，特朗普称伊朗致电美方说希望达成协议，威胁消灭伊快速攻击舰",
-          "url": "https://wallstreetcn.com/articles/3769872",
-          "source": "华尔街见闻",
+          "title": "【早报】中办、国办：推动行业协会商会深化改革；特朗普：已对所有进出伊朗港口船只实施封锁",
+          "url": "https://www.cls.cn/detail/2342892",
+          "source": "财联社热门",
           "ranks": [
-            3
+            9,
+            1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时54分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时37分 ~ 12时41分]"
         },
         {
           "title": "伊朗伊斯兰革命卫队：若冲突继续将启用新作战方法",
@@ -435,16 +459,16 @@
           "time_info": "[04时45分 ~ 06时38分]"
         },
         {
-          "title": "【早报】中办、国办：推动行业协会商会深化改革；特朗普：已对所有进出伊朗港口船只实施封锁",
-          "url": "https://www.cls.cn/detail/2342892",
+          "title": "伊朗要求五个中东国家赔偿战争损失",
+          "url": "https://www.cls.cn/detail/2342895",
           "source": "财联社热门",
           "ranks": [
-            9,
-            1
+            7,
+            3
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时37分 ~ 09时54分]"
+          "time_info": "[09时54分 ~ 12时41分]"
         },
         {
           "title": "美国与伊朗现在继续沟通。 在试图达成协议方面，两国取得进展。（Axios）",
@@ -543,6 +567,41 @@
           "time_info": "[00时57分 ~ 01时58分]"
         },
         {
+          "title": "美军已开始对进出霍尔木兹海峡的船只进行阻截，封锁所有伊朗港口的船只，此举将带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2027155979582666052",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时54分 ~ 12时41分]"
+        },
+        {
+          "title": "伊朗要求5个中东国家赔偿战争损失",
+          "url": "https://news.ifeng.com/c/8sJCH8ewfNf",
+          "source": "凤凰网",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时54分 ~ 12时41分]"
+        },
+        {
+          "title": "伊朗要求五个中东国家赔偿战争损失",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E8%A6%81%E6%B1%82%E4%BA%94%E4%B8%AA%E4%B8%AD%E4%B8%9C%E5%9B%BD%E5%AE%B6%E8%B5%94%E5%81%BF%E6%88%98%E4%BA%89%E6%8D%9F%E5%A4%B1",
+          "source": "百度热搜",
+          "ranks": [
+            6,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时54分 ~ 12时41分]"
+        },
+        {
           "title": "伊朗外交部强烈谴责以官员闯入阿克萨清真寺大院行为",
           "url": "https://flash.jin10.com/detail/20260414051218821800",
           "source": "金十数据",
@@ -579,6 +638,18 @@
           "time_info": "[01时58分 ~ 03时10分]"
         },
         {
+          "title": "伊朗男足主帅：是否参加世界杯将听从伊足协决定",
+          "url": "https://news.ifeng.com/c/8sJELruMtAL",
+          "source": "凤凰网",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时54分 ~ 12时41分]"
+        },
+        {
           "title": "特朗普：伊朗致电美方说希望达成协议",
           "url": "https://wallstreetcn.com/livenews/3087102",
           "source": "华尔街见闻-快讯",
@@ -603,6 +674,42 @@
           "time_info": "[01时58分 ~ 03时10分]"
         },
         {
+          "title": "伊朗要求五个中东国家赔偿战争损失",
+          "url": "https://www.toutiao.com/trending/7627648862622236735/",
+          "source": "今日头条",
+          "ranks": [
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时54分 ~ 12时41分]"
+        },
+        {
+          "title": "伊朗公布美以袭击造成的海上损失",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%85%AC%E5%B8%83%E7%BE%8E%E4%BB%A5%E8%A2%AD%E5%87%BB%E9%80%A0%E6%88%90%E7%9A%84%E6%B5%B7%E4%B8%8A%E6%8D%9F%E5%A4%B1",
+          "source": "百度热搜",
+          "ranks": [
+            14,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时54分 ~ 12时41分]"
+        },
+        {
+          "title": "特朗普：伊朗“合适的人”致电说“希望达成协议”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32963970",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时54分 ~ 12时41分]"
+        },
+        {
           "title": "标普500指数涨1%，有望收复美国和以色列发动伊朗战争以来的所有失地。",
           "url": "https://wallstreetcn.com/livenews/3087141",
           "source": "华尔街见闻-快讯",
@@ -613,6 +720,42 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时46分 ~ 05时42分]"
+        },
+        {
+          "title": "伊朗曝美方要均分霍尔木兹收益",
+          "url": "https://www.toutiao.com/trending/7627350219700699178/",
+          "source": "今日头条",
+          "ranks": [
+            16,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时54分 ~ 12时41分]"
+        },
+        {
+          "title": "伊朗官员称在谈判中抵制了美方三大「无理要求」，如何理解这些内容？反映出美方怎样的意图？",
+          "url": "https://www.zhihu.com/question/2026930324387489059",
+          "source": "知乎",
+          "ranks": [
+            16,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时54分 ~ 12时41分]"
+        },
+        {
+          "title": "美以袭击伊朗进入第 46 天，当前局势如何？哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2027200224586720879",
+          "source": "知乎",
+          "ranks": [
+            18,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时54分 ~ 12时41分]"
         },
         {
           "title": "国际能源署（IEA）署长Birol：油价并没有体现出（伊朗战争）问题的严峻程度。 希望无需再次释放石油储备，但“我们准备（再次采取这样的）行动”。 （美国和以色列挑起）伊朗战争以来，超过80处石油与天然气设施遭到破坏，其中包括输送枢纽与炼油厂。",
@@ -627,17 +770,6 @@
           "time_info": "[01时58分 ~ 03时10分]"
         },
         {
-          "title": "伊朗要求五个中东国家赔偿战争损失",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E8%A6%81%E6%B1%82%E4%BA%94%E4%B8%AA%E4%B8%AD%E4%B8%9C%E5%9B%BD%E5%AE%B6%E8%B5%94%E5%81%BF%E6%88%98%E4%BA%89%E6%8D%9F%E5%A4%B1",
-          "source": "百度热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时54分"
-        },
-        {
           "title": "马士基：（美国与伊朗）停火是积极的一步，但（局势）仍然脆弱不堪。 （中东局势的）可见度仍然偏低，局势仍然在不断变化。 还无法确定全面的海事确定性。",
           "url": "https://wallstreetcn.com/livenews/3087085",
           "source": "华尔街见闻-快讯",
@@ -649,28 +781,6 @@
           "time_info": "00时57分"
         },
         {
-          "title": "美军已开始对进出霍尔木兹海峡的船只进行阻截，封锁所有伊朗港口的船只，此举将带来哪些影响？",
-          "url": "https://www.zhihu.com/question/2027155979582666052",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时54分"
-        },
-        {
-          "title": "伊朗要求五个中东国家赔偿战争损失",
-          "url": "https://www.cls.cn/detail/2342895",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时54分"
-        },
-        {
           "title": "美国副总统万斯：与伊朗在磋商中取得了大量进展。 伊朗在朝着我们的方向靠拢，但力度还不够大。 （对于与伊朗的第二轮磋商）球在伊朗那边。 我们在谈判中明确表达了美方的红线。 重申美国想要伊朗的浓缩铀。 重申美方需要看到霍尔木兹海峡开放，若伊朗不开放海峡、这将改变谈判。 对他们（伊朗）石油设施的封锁增加了美方筹码。（福克斯新闻）",
           "url": "https://wallstreetcn.com/livenews/3087183",
           "source": "华尔街见闻-快讯",
@@ -680,17 +790,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时38分"
-        },
-        {
-          "title": "伊朗要求5个中东国家赔偿战争损失",
-          "url": "https://news.ifeng.com/c/8sJCH8ewfNf",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时54分"
         },
         {
           "title": "美国副总统万斯：（谈及潜在的第二轮会谈）现在球在伊朗一方。",
@@ -748,15 +847,26 @@
           "time_info": "04时46分"
         },
         {
-          "title": "伊朗男足主帅：是否参加世界杯将听从伊足协决定",
-          "url": "https://news.ifeng.com/c/8sJELruMtAL",
-          "source": "凤凰网",
+          "title": "曝伊朗称暂停铀浓缩5年 特朗普拒绝",
+          "url": "https://www.toutiao.com/trending/7628414997059784242/",
+          "source": "今日头条",
           "ranks": [
             11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时54分"
+          "time_info": "12时41分"
+        },
+        {
+          "title": "超5万美军登陆伊朗系谣言",
+          "url": "https://www.baidu.com/s?wd=%E8%B6%855%E4%B8%87%E7%BE%8E%E5%86%9B%E7%99%BB%E9%99%86%E4%BC%8A%E6%9C%97%E7%B3%BB%E8%B0%A3%E8%A8%80",
+          "source": "百度热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时41分"
         },
         {
           "title": "美国副总统万斯：我们需要看到霍尔木兹海峡完全开放，这是伊朗人在谈判中试图改变规则的事情之一，我们明确表示这是不可接受的。",
@@ -776,7 +886,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时54分"
         },
@@ -801,17 +911,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时38分"
-        },
-        {
-          "title": "伊朗要求五个中东国家赔偿战争损失",
-          "url": "https://www.toutiao.com/trending/7627648862622236735/",
-          "source": "今日头条",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时54分"
         },
         {
           "title": "伊朗总统与法国总统通电话 讨论近期地区局势",
@@ -842,18 +941,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时54分"
-        },
-        {
-          "title": "伊朗公布美以袭击造成的海上损失",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%85%AC%E5%B8%83%E7%BE%8E%E4%BB%A5%E8%A2%AD%E5%87%BB%E9%80%A0%E6%88%90%E7%9A%84%E6%B5%B7%E4%B8%8A%E6%8D%9F%E5%A4%B1",
-          "source": "百度热搜",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时54分"
         },
@@ -902,26 +990,26 @@
           "time_info": "06时38分"
         },
         {
-          "title": "伊朗曝美方要均分霍尔木兹收益",
-          "url": "https://www.toutiao.com/trending/7627350219700699178/",
-          "source": "今日头条",
+          "title": "美媒：美国海上封锁伊朗 超15艘美军舰已到位",
+          "url": "https://wallstreetcn.com/livenews/3087396",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            16
+            15
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时54分"
+          "time_info": "12时41分"
         },
         {
-          "title": "特朗普：伊朗“合适的人”致电说“希望达成协议”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32963970",
+          "title": "伊朗要求五个中东国家赔偿战争损失",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32964584",
           "source": "澎湃新闻",
           "ranks": [
             16
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时54分"
+          "time_info": "12时41分"
         },
         {
           "title": "美媒：美国要求伊朗暂停铀浓缩20年 伊朗希望暂停期限更短",
@@ -935,15 +1023,15 @@
           "time_info": "00时57分"
         },
         {
-          "title": "伊朗官员称在谈判中抵制了美方三大「无理要求」，如何理解这些内容？反映出美方怎样的意图？",
-          "url": "https://www.zhihu.com/question/2026930324387489059",
-          "source": "知乎",
+          "title": "伊朗硬刚美国军舰封锁还有哪些手段",
+          "url": "https://www.toutiao.com/trending/7628450600203750958/",
+          "source": "今日头条",
           "ranks": [
-            16
+            17
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时54分"
+          "time_info": "12时41分"
         },
         {
           "title": "伊朗总统与法国总统通电话，讨论近期地区局势",
@@ -963,18 +1051,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时54分"
-        },
-        {
-          "title": "美以袭击伊朗进入第 46 天，当前局势如何？哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2027200224586720879",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时54分"
         },
@@ -1007,7 +1084,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时54分"
         },
@@ -1106,7 +1183,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时54分"
         },
@@ -1166,6 +1243,17 @@
           "time_info": "01时58分"
         },
         {
+          "title": "贝莱德：伊朗战争对全球经济增长造成的损害可能会得到控制",
+          "url": "https://flash.jin10.com/detail/20260414115311014800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时41分"
+        },
+        {
           "title": "伊朗外交部：美方“不断变卦”，导致双方未能达成协议",
           "url": "https://wallstreetcn.com/livenews/3087063",
           "source": "华尔街见闻-快讯",
@@ -1194,7 +1282,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时54分"
         }
@@ -1251,7 +1339,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时54分"
         },
@@ -1323,7 +1411,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时54分"
         },
@@ -1334,7 +1422,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时54分"
         },
@@ -1356,7 +1444,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时54分"
         },
@@ -1386,7 +1474,7 @@
     },
     {
       "keyword_group": "深圳",
-      "match_count": 5,
+      "match_count": 14,
       "titles": [
         {
           "title": "深圳整治电鸡乱象查处85人行拘62人",
@@ -1409,9 +1497,76 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时54分"
+        },
+        {
+          "title": "恒大系列案在深圳开庭",
+          "url": "https://www.douyin.com/hot/2465572",
+          "source": "抖音",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时41分"
+        },
+        {
+          "title": "深圳市坪山区一立体车库发生火情，无人员伤亡，具体什么情况？起火原因可能是什么？",
+          "url": "https://www.zhihu.com/question/2027305938130924161",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时41分"
+        },
+        {
+          "title": "深圳龙华一楼盘大降价引发通宵排队：秩序混乱保安喷辣椒水，涉事房企遭住建局约谈",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32961078",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时54分 ~ 12时41分]"
+        },
+        {
+          "title": "官方通报深圳比亚迪火灾",
+          "url": "https://www.toutiao.com/trending/7628416832629902875/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时41分"
+        },
+        {
+          "title": "比亚迪回应深圳坪山园区火情",
+          "url": "https://www.toutiao.com/trending/7628206506252439076/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时41分"
+        },
+        {
+          "title": "官方通报深圳比亚迪车库起火",
+          "url": "https://www.douyin.com/hot/2465381",
+          "source": "抖音",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时41分"
         },
         {
           "title": "深圳破获7800万元特大走私黄金案",
@@ -1420,20 +1575,31 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时54分"
         },
         {
-          "title": "深圳龙华一楼盘大降价引发通宵排队：秩序混乱保安喷辣椒水，涉事房企遭住建局约谈",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32961078",
-          "source": "澎湃新闻",
+          "title": "深圳一家快闭店的面包店被善意留住",
+          "url": "https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E4%B8%80%E5%AE%B6%E5%BF%AB%E9%97%AD%E5%BA%97%E7%9A%84%E9%9D%A2%E5%8C%85%E5%BA%97%E8%A2%AB%E5%96%84%E6%84%8F%E7%95%99%E4%BD%8F",
+          "source": "百度热搜",
           "ranks": [
-            15
+            17
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时54分"
+          "time_info": "12时41分"
+        },
+        {
+          "title": "深圳海关破获7800万元走私黄金案",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B3%E6%B5%B7%E5%85%B3%E7%A0%B4%E8%8E%B77800%E4%B8%87%E5%85%83%E8%B5%B0%E7%A7%81%E9%BB%84%E9%87%91%E6%A1%88%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时41分"
         },
         {
           "title": "一楼盘大降价导致秩序混乱保安喷辣椒水，深圳龙华通报：涉事保安人员已被行政拘留",
@@ -1445,6 +1611,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时57分"
+        },
+        {
+          "title": "比亚迪回应深圳车库火灾",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%AF%94%E4%BA%9A%E8%BF%AA%E5%9B%9E%E5%BA%94%E6%B7%B1%E5%9C%B3%E8%BD%A6%E5%BA%93%E7%81%AB%E7%81%BE%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时41分"
+        },
+        {
+          "title": "深圳坪山比亚迪突发大火 消防通报",
+          "url": "https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E5%9D%AA%E5%B1%B1%E6%AF%94%E4%BA%9A%E8%BF%AA%E7%AA%81%E5%8F%91%E5%A4%A7%E7%81%AB+%E6%B6%88%E9%98%B2%E9%80%9A%E6%8A%A5",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时41分"
         }
       ]
     },
@@ -1500,7 +1688,7 @@
     },
     {
       "keyword_group": "金融",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "美联储理事米兰将于十分钟后参加有关构建21世纪金融体系的讨论。",
@@ -1515,11 +1703,61 @@
           "time_info": "[06时38分 ~ 07时37分]"
         },
         {
+          "title": "随着OpenAI战略转型，投资者对其8520亿美元的估值提出质疑，部分投资者称，这些变化可能使OpenAI容易受到Anthropic和谷歌的冲击。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3087405",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时41分"
+        },
+        {
           "title": "据英国金融时报：美国总统特朗普提名艾琳·布朗尼出任美国财政部国际事务主管。",
           "url": "https://flash.jin10.com/detail/20260414041925108800",
           "source": "金十数据",
           "ranks": [
             24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时42分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "OpenAI伦敦设立永久办公室",
+          "url": "https://search.bilibili.com/all?keyword=OpenAI%E4%BC%A6%E6%95%A6%E8%AE%BE%E7%AB%8B%E6%B0%B8%E4%B9%85%E5%8A%9E%E5%85%AC%E5%AE%A4",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时41分"
+        },
+        {
+          "title": "OpenAI 加速 GPT-6 研发，或主打「记忆」与「个性化」，这是否预示 AGI 即将到来？",
+          "url": "https://www.zhihu.com/question/2024505845799556342",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时41分"
+        },
+        {
+          "title": "美国FBI局长：今天早上，FBI及合作伙伴在得州开展了一项行动，拘留了一名与上周五早上袭击OpenAI首席执行官Sam Altman家有关的嫌疑人。",
+          "url": "https://flash.jin10.com/detail/20260414043421131800",
+          "source": "金十数据",
+          "ranks": [
+            23
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -1575,19 +1813,19 @@
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
+      "keyword_group": "谷歌 google gemini",
       "match_count": 1,
       "titles": [
         {
-          "title": "美国FBI局长：今天早上，FBI及合作伙伴在得州开展了一项行动，拘留了一名与上周五早上袭击OpenAI首席执行官Sam Altman家有关的嫌疑人。",
-          "url": "https://flash.jin10.com/detail/20260414043421131800",
+          "title": "OpenAI投资者质疑其8520亿美元估值，称其战略正在转变。一些OpenAI投资者表示，这些变化可能会使OpenAI容易受到Anthropic和谷歌的威胁。",
+          "url": "https://flash.jin10.com/detail/20260414120312885800",
           "source": "金十数据",
           "ranks": [
-            23
+            17
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时42分"
+          "time_info": "12时41分"
         }
       ]
     }
