@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-16T21:15:44.730323+08:00",
-  "total_titles_processed": 1688,
+  "generated_at": "2026-04-16T23:22:06.008384+08:00",
+  "total_titles_processed": 1826,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 142,
+      "match_count": 152,
       "titles": [
         {
           "title": "特朗普称“未来两天内”可能再与伊朗谈判，上轮谈判一度谈到80%仍破裂，伊外长：因为内塔尼亚胡给万斯打了电话",
@@ -77,6 +77,28 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[03时59分 ~ 07时37分]"
+        },
+        {
+          "title": "伊朗：将就官员被暗杀追究美以责任",
+          "url": "https://news.ifeng.com/c/8sNEWX5GhXC",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时10分 ~ 23时22分]"
+        },
+        {
+          "title": "美军喊话 ：要去伊朗的船立即掉头，否则我们就动武",
+          "url": "https://v.ifeng.com/c/8sN5mIzhL68",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时10分 ~ 23时22分]"
         },
         {
           "title": "伊朗将使用替代港口绕开美国封锁，有油轮已“成功闯关”霍尔木兹",
@@ -221,17 +243,6 @@
           "time_info": "[09时58分 ~ 21时15分]"
         },
         {
-          "title": "伊朗：将就官员被暗杀追究美以责任",
-          "url": "https://news.ifeng.com/c/8sNEWX5GhXC",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时10分 ~ 21时15分]"
-        },
-        {
           "title": "美以袭击伊朗进入第 48 天，当前局势如何？哪些信息值得关注？",
           "url": "https://www.zhihu.com/question/2027874423894533456",
           "source": "知乎",
@@ -242,17 +253,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[09时58分 ~ 19时55分]"
-        },
-        {
-          "title": "美军喊话 ：要去伊朗的船立即掉头，否则我们就动武",
-          "url": "https://v.ifeng.com/c/8sN5mIzhL68",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时10分 ~ 21时15分]"
         },
         {
           "title": "伊朗美制通信设备遇袭时集体失灵",
@@ -302,6 +302,30 @@
           "time_info": "[00时55分 ~ 02时02分]"
         },
         {
+          "title": "伊朗总统感谢中国",
+          "url": "https://www.toutiao.com/trending/7628829127155826738/",
+          "source": "今日头条",
+          "ranks": [
+            6,
+            8,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时25分 ~ 23时22分]"
+        },
+        {
+          "title": "伊朗战争丨美参联会主席：将全球追击挂伊朗国旗船只",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时21分 ~ 23时22分]"
+        },
+        {
           "title": "伊朗警告美持续封锁是破坏停火前奏",
           "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E8%AD%A6%E5%91%8A%E7%BE%8E%E6%8C%81%E7%BB%AD%E5%B0%81%E9%94%81%E6%98%AF%E7%A0%B4%E5%9D%8F%E5%81%9C%E7%81%AB%E5%89%8D%E5%A5%8F%23&t=31&band_rank=14&Refer=top",
           "source": "微博",
@@ -315,6 +339,30 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[03时59分 ~ 07时37分]"
+        },
+        {
+          "title": "美对伊启动代号为“经济狂怒”的行动，美防长：如伊朗拒绝协议，随时重启作战",
+          "url": "https://wallstreetcn.com/articles/3770156",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时21分 ~ 23时22分]"
+        },
+        {
+          "title": "特朗普：美国“很有可能”在4月下旬英国国王访美前与伊朗达成协议",
+          "url": "https://wallstreetcn.com/articles/3770081",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时10分 ~ 23时22分]"
         },
         {
           "title": "美伊“海上封锁战”白热化：伊朗威胁若美封锁持续将切断红海航道",
@@ -472,19 +520,6 @@
           "time_info": "07时37分"
         },
         {
-          "title": "伊朗总统感谢中国",
-          "url": "https://www.toutiao.com/trending/7628829127155826738/",
-          "source": "今日头条",
-          "ranks": [
-            6,
-            8,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时25分 ~ 21时15分]"
-        },
-        {
           "title": "伊朗称将全力推进战后重建 指美国已成以色列“第七个行政区”",
           "url": "https://flash.jin10.com/detail/20260416144751507800",
           "source": "金十数据",
@@ -513,9 +548,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时15分"
+        },
+        {
+          "title": "以色列国防部长：伊朗正处于十字路口，要么放弃恐怖主义和核计划，要么走向深渊。",
+          "url": "https://flash.jin10.com/detail/20260416230215110800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时22分"
         },
         {
           "title": "美军称拦截一艘试图突破封锁的伊朗货船",
@@ -638,19 +684,6 @@
           "time_info": "[03时59分 ~ 04时53分]"
         },
         {
-          "title": "特朗普：美国“很有可能”在4月下旬英国国王访美前与伊朗达成协议",
-          "url": "https://wallstreetcn.com/articles/3770081",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时10分 ~ 21时15分]"
-        },
-        {
           "title": "伊朗：美国已成以色列“第7个行政区”",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%EF%BC%9A%E7%BE%8E%E5%9B%BD%E5%B7%B2%E6%88%90%E4%BB%A5%E8%89%B2%E5%88%97%E2%80%9C%E7%AC%AC7%E4%B8%AA%E8%A1%8C%E6%94%BF%E5%8C%BA%E2%80%9D",
           "source": "百度热搜",
@@ -709,6 +742,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[18时10分 ~ 21时15分]"
+        },
+        {
+          "title": "伊朗称将就官员被暗杀追究美以责任",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E7%A7%B0%E5%B0%86%E5%B0%B1%E5%AE%98%E5%91%98%E8%A2%AB%E6%9A%97%E6%9D%80%E8%BF%BD%E7%A9%B6%E7%BE%8E%E4%BB%A5%E8%B4%A3%E4%BB%BB",
+          "source": "百度热搜",
+          "ranks": [
+            14,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时55分 ~ 23时22分]"
         },
         {
           "title": "伊朗总统N连问美国",
@@ -881,15 +926,15 @@
           "time_info": "[07时03分 ~ 07时37分]"
         },
         {
-          "title": "伊朗称将就官员被暗杀追究美以责任",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E7%A7%B0%E5%B0%86%E5%B0%B1%E5%AE%98%E5%91%98%E8%A2%AB%E6%9A%97%E6%9D%80%E8%BF%BD%E7%A9%B6%E7%BE%8E%E4%BB%A5%E8%B4%A3%E4%BB%BB",
-          "source": "百度热搜",
+          "title": "美称伊朗最高领袖已受伤但仍活着",
+          "url": "https://www.toutiao.com/trending/7628521830282592297/",
+          "source": "今日头条",
           "ranks": [
-            14
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时55分 ~ 21时15分]"
+          "time_info": "[23时21分 ~ 23时22分]"
         },
         {
           "title": "新西兰建筑公司警示：受伊朗战争引发的燃料相关影响",
@@ -928,6 +973,17 @@
           "time_info": "[03时59分 ~ 04时53分]"
         },
         {
+          "title": "美方对伊朗启动代号为“经济狂怒”的行动",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32986818",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时21分 ~ 23时22分]"
+        },
+        {
           "title": "伊朗议长卡利巴夫：黎巴嫩全面停火是抵抗阵线斗争的成果",
           "url": "https://flash.jin10.com/detail/20260416052231796800",
           "source": "金十数据",
@@ -949,6 +1005,39 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时10分 ~ 18时11分]"
+        },
+        {
+          "title": "巴基斯坦外交部称下一轮美伊会谈日期尚未确定，伊朗称伊斯兰堡是与美国进行谈判的唯一地点，为何是伊斯兰堡？",
+          "url": "https://www.zhihu.com/question/2028145295125430592",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时21分 ~ 23时22分]"
+        },
+        {
+          "title": "伊朗披露击落美C-130细节",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%8A%AB%E9%9C%B2%E5%87%BB%E8%90%BD%E7%BE%8EC-130%E7%BB%86%E8%8A%82",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时21分 ~ 23时22分]"
+        },
+        {
+          "title": "美对伊朗启动经济狂怒行动",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%AF%B9%E4%BC%8A%E6%9C%97%E5%90%AF%E5%8A%A8%E7%BB%8F%E6%B5%8E%E7%8B%82%E6%80%92%E8%A1%8C%E5%8A%A8%23&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时21分 ~ 23时22分]"
         },
         {
           "title": "白宫高级官员称美国可“无限期”封锁伊朗港口",
@@ -990,7 +1079,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时15分"
         },
@@ -1001,7 +1090,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时15分"
         },
@@ -1092,6 +1181,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时55分"
+        },
+        {
+          "title": "两艘与伊朗有关船只“迂回”通过霍尔木兹海峡",
+          "url": "https://wallstreetcn.com/livenews/3089446",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时22分"
         },
         {
           "title": "伊朗国家媒体援引该国石化下游产业发展负责人发布的声明称，伊朗已暂停所有石化产品出口，直至另行通知。伊朗方面于4月6日表示，位于南帕尔斯地区的两座石化工厂设施遭到敌方空袭打击。",
@@ -1314,6 +1414,17 @@
           "time_info": "18时11分"
         },
         {
+          "title": "伊朗武装部队：伊方军队已做好全面防御准备",
+          "url": "https://wallstreetcn.com/livenews/3089440",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时22分"
+        },
+        {
           "title": "西方国家加大对美国的施压力度：多国财长联合发声，警告伊朗战争拖累全球经济",
           "url": "https://wallstreetcn.com/livenews/3088662",
           "source": "华尔街见闻-快讯",
@@ -1430,7 +1541,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时15分"
         },
@@ -1485,7 +1596,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时15分"
         },
@@ -1606,7 +1717,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时15分"
         },
@@ -1647,7 +1758,7 @@
     },
     {
       "keyword_group": "科技",
-      "match_count": 36,
+      "match_count": 37,
       "titles": [
         {
           "title": "金十数据整理：每日科技要闻速递（4月16日）",
@@ -1670,6 +1781,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时59分"
+        },
+        {
+          "title": "【数据看盘】多家机构激烈博弈大族激光 量化联手游资抢筹长信科技",
+          "url": "https://www.cls.cn/detail/2346360",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时10分 ~ 23时22分]"
         },
         {
           "title": "金时科技：终止挂牌转让子公司湖南金时科技100%股权",
@@ -1731,19 +1855,6 @@
           "time_info": "[04时53分 ~ 07时03分]"
         },
         {
-          "title": "【数据看盘】多家机构激烈博弈大族激光 量化联手游资抢筹长信科技",
-          "url": "https://www.cls.cn/detail/2346360",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            9,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时10分 ~ 21时15分]"
-        },
-        {
           "title": "美股七巨头收盘播报｜周三（4月15日），美国科技股七巨头（Magnificent 7）指数涨2.22%，报207.20点，美股早盘持续上涨，大部分时间高位震荡于206点上方。 “超大”市值科技股指数涨2.54%，报401.85点。",
           "url": "https://wallstreetcn.com/livenews/3088772",
           "source": "华尔街见闻-快讯",
@@ -1801,6 +1912,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时37分"
+        },
+        {
+          "title": "群核科技香港公开发售获1591倍超额认购 暗盘大涨170%",
+          "url": "https://wallstreetcn.com/livenews/3089450",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时22分"
         },
         {
           "title": "A股猪肉股盘初下挫，天邦食品触及跌停，正虹科技、正邦科技、傲农生物、巨星农牧纷纷下挫。",
@@ -1952,7 +2074,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时15分"
         },
@@ -2059,7 +2181,7 @@
     },
     {
       "keyword_group": "金融",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "国家网信办持续整治网上金融信息乱象",
@@ -2071,8 +2193,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时10分 ~ 21时15分]"
+          "appearance_count": 6,
+          "time_info": "[18时10分 ~ 23时22分]"
         },
         {
           "title": "美国参议院民主党成员Warren询问美联储主席提名人凯文·沃什在2008年金融危机中扮演角色的记录。",
@@ -2092,7 +2214,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时15分"
         },
@@ -2187,7 +2309,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时15分"
         },
@@ -2225,6 +2347,17 @@
           "time_info": "18时11分"
         },
         {
+          "title": "据行业组织American Securities Association：Anthropic的Mythos模型对美国证券交易委员会（SEC）市场追踪数据库构成风险。 这款新型AI模型可能会让交易员和金融系统面临风险。",
+          "url": "https://wallstreetcn.com/livenews/3089434",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时22分"
+        },
+        {
           "title": "美联储理事鲍曼将于十分钟后在国际金融协会论坛上发表讲话。",
           "url": "https://flash.jin10.com/detail/20260416013000001800",
           "source": "金十数据",
@@ -2234,6 +2367,122 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "消费",
+      "match_count": 10,
+      "titles": [
+        {
+          "title": "精品消费在“生长”",
+          "url": "https://www.toutiao.com/trending/7628206506260991507/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时52分 ~ 14时54分]"
+        },
+        {
+          "title": "在消博会上触摸消费市场新风向",
+          "url": "https://www.baidu.com/s?wd=%E5%9C%A8%E6%B6%88%E5%8D%9A%E4%BC%9A%E4%B8%8A%E8%A7%A6%E6%91%B8%E6%B6%88%E8%B4%B9%E5%B8%82%E5%9C%BA%E6%96%B0%E9%A3%8E%E5%90%91",
+          "source": "百度热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时21分 ~ 23时22分]"
+        },
+        {
+          "title": "提醒：北京时间10:00，将公布中国一季度GDP，1-3月社会消费品零售总额、规模以上工业增加值、城镇固定资产投资、全国房地产开发投资等数据。",
+          "url": "https://wallstreetcn.com/livenews/3088905",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时59分"
+        },
+        {
+          "title": "国家统计局：一季度社会消费品零售总额127695亿元，同比增长2.4%",
+          "url": "https://www.cls.cn/detail/2345692",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时25分"
+        },
+        {
+          "title": "商务部：促进服务消费扩容升级，推动批发零售业创新提升",
+          "url": "https://wallstreetcn.com/livenews/3089130",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时25分"
+        },
+        {
+          "title": "美联储理事米兰：我倾向于支持美联储今年降息三次，（但FOMC）可能会降息四次。 目前来看，今年剩余时间可能只会看到三次降息。 甚至在战争爆发前，通胀的底层构成对美联储而言就已经变得更加棘手。 预计核心商品价格和住房通胀将继续下降，这仍是合理的。 从现在起一年后，12个月PCE（个人消费支出物价指数）可能会在2%的目标附近。 目前认为，与战前相比，能源冲击并未改变对12-18个月后通胀前景的预期。 没有证据表明出现了“工资-物价螺旋”上升；长期预期保持稳定（锚定）。 战争增加了围绕基准预测的风险分布。",
+          "url": "https://wallstreetcn.com/livenews/3089441",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时22分"
+        },
+        {
+          "title": "美联储理事米兰：尽管美国是能源出口国，由于能源价格的变化，消费者支出出现转变，这对增长造成了拖累。",
+          "url": "https://flash.jin10.com/detail/20260416225516624800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时22分"
+        },
+        {
+          "title": "商务部：截至4月12日消费品以旧换新销售额5029.4亿元，惠及6977.7万人次",
+          "url": "https://wallstreetcn.com/livenews/3089129",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时25分"
+        },
+        {
+          "title": "英特尔(INTC.O)：面向消费级和商用市场的英特尔酷睿系列3处理器系统将于2026年4月16日起通过我们的OEM合作伙伴全年供货。",
+          "url": "https://flash.jin10.com/detail/20260416210617302800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时15分"
+        },
+        {
+          "title": "美联储穆萨莱姆：目前尚未看到战争对消费产生明确影响。",
+          "url": "https://flash.jin10.com/detail/20260416030253269800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时59分"
         }
       ]
     },
@@ -2283,7 +2532,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时15分"
         },
@@ -2305,7 +2554,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时15分"
         },
@@ -2338,92 +2587,9 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时15分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "消费",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "精品消费在“生长”",
-          "url": "https://www.toutiao.com/trending/7628206506260991507/",
-          "source": "今日头条",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时52分 ~ 14时54分]"
-        },
-        {
-          "title": "提醒：北京时间10:00，将公布中国一季度GDP，1-3月社会消费品零售总额、规模以上工业增加值、城镇固定资产投资、全国房地产开发投资等数据。",
-          "url": "https://wallstreetcn.com/livenews/3088905",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时59分"
-        },
-        {
-          "title": "国家统计局：一季度社会消费品零售总额127695亿元，同比增长2.4%",
-          "url": "https://www.cls.cn/detail/2345692",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时25分"
-        },
-        {
-          "title": "商务部：促进服务消费扩容升级，推动批发零售业创新提升",
-          "url": "https://wallstreetcn.com/livenews/3089130",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时25分"
-        },
-        {
-          "title": "商务部：截至4月12日消费品以旧换新销售额5029.4亿元，惠及6977.7万人次",
-          "url": "https://wallstreetcn.com/livenews/3089129",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时25分"
-        },
-        {
-          "title": "英特尔(INTC.O)：面向消费级和商用市场的英特尔酷睿系列3处理器系统将于2026年4月16日起通过我们的OEM合作伙伴全年供货。",
-          "url": "https://flash.jin10.com/detail/20260416210617302800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时15分"
-        },
-        {
-          "title": "美联储穆萨莱姆：目前尚未看到战争对消费产生明确影响。",
-          "url": "https://flash.jin10.com/detail/20260416030253269800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时59分"
         }
       ]
     },
@@ -2450,22 +2616,24 @@
           "url": "https://www.cls.cn/detail/2345979",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时10分 ~ 19时55分]"
+          "appearance_count": 5,
+          "time_info": "[18时10分 ~ 23时22分]"
         },
         {
           "title": "3月70城房价：一线城市房价环比上涨，二三线城市环比降幅收窄或相同，上海新房同比涨3.7%",
           "url": "https://wallstreetcn.com/articles/3770097",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时15分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时15分 ~ 23时22分]"
         },
         {
           "title": "3月份房价涨了跌了？数据公布",
@@ -2504,8 +2672,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时54分 ~ 21时15分]"
+          "appearance_count": 8,
+          "time_info": "[14时54分 ~ 23时22分]"
         },
         {
           "title": "深圳一男子确诊罕见传染病",
@@ -2565,7 +2733,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时15分"
         },
@@ -2645,11 +2813,12 @@
             14,
             11,
             10,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时52分 ~ 21时15分]"
+          "appearance_count": 9,
+          "time_info": "[12时52分 ~ 23时22分]"
         },
         {
           "title": "网盘禁止传播海外影视资源",
