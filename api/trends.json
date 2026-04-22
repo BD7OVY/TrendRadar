@@ -1,12 +1,35 @@
 {
-  "generated_at": "2026-04-23T06:41:39.517675+08:00",
-  "total_titles_processed": 602,
+  "generated_at": "2026-04-23T07:41:24.312316+08:00",
+  "total_titles_processed": 669,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 56,
+      "match_count": 59,
       "titles": [
+        {
+          "title": "特朗普延长与伊朗停火，外交部回应",
+          "url": "https://news.ifeng.com/c/8sX5InWbAM4",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时52分 ~ 07时41分]"
+        },
+        {
+          "title": "据称特朗普将再给伊朗3至5天停火时间",
+          "url": "https://www.cls.cn/detail/2352682",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时52分 ~ 07时41分]"
+        },
         {
           "title": "伊朗停火谈判生变，美股收跌，芯片股指十五连涨，油价再涨，金银下挫",
           "url": "https://wallstreetcn.com/articles/3770463",
@@ -21,27 +44,18 @@
           "time_info": "[00时52分 ~ 06时41分]"
         },
         {
-          "title": "特朗普延长与伊朗停火，外交部回应",
-          "url": "https://news.ifeng.com/c/8sX5InWbAM4",
-          "source": "凤凰网",
+          "title": "拒绝谈判后，伊朗：收到“一些信号”暗示美国准备解除封锁",
+          "url": "https://wallstreetcn.com/articles/3770583",
+          "source": "华尔街见闻",
           "ranks": [
+            6,
+            5,
+            4,
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时52分 ~ 06时41分]"
-        },
-        {
-          "title": "据称特朗普将再给伊朗3至5天停火时间",
-          "url": "https://www.cls.cn/detail/2352682",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时52分 ~ 06时41分]"
+          "appearance_count": 9,
+          "time_info": "[00时52分 ~ 07时41分]"
         },
         {
           "title": "泽连斯基：在伊朗问题解决前，乌克兰谈判不会取得任何进展",
@@ -51,21 +65,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时16分 ~ 06时41分]"
-        },
-        {
-          "title": "拒绝谈判后，伊朗：收到“一些信号”暗示美国准备解除封锁",
-          "url": "https://wallstreetcn.com/articles/3770583",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
           "appearance_count": 8,
-          "time_info": "[00时52分 ~ 06时41分]"
+          "time_info": "[02时16分 ~ 07时41分]"
         },
         {
           "title": "最后时刻反转！伊朗拒绝谈判，特朗普宣布延长停火，维持海上封锁等待伊朗提交方案",
@@ -86,8 +87,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时03分 ~ 06时41分]"
+          "appearance_count": 6,
+          "time_info": "[03时03分 ~ 07时41分]"
         },
         {
           "title": "特朗普延长对伊朗停火 美股三大期指小幅上涨 | 今夜看点",
@@ -98,8 +99,56 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时52分 ~ 06时41分]"
+          "appearance_count": 9,
+          "time_info": "[00时52分 ~ 07时41分]"
+        },
+        {
+          "title": "伊朗拒谈判,美国延长停火",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353554&amp;topic_name=%E4%BC%8A%E6%9C%97%E6%8B%92%E8%B0%88%E5%88%A4%2C%E7%BE%8E%E5%9B%BD%E5%BB%B6%E9%95%BF%E5%81%9C%E7%81%AB",
+          "source": "贴吧",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时52分 ~ 07时41分]"
+        },
+        {
+          "title": "释新闻｜特朗普TACO实录：嘴硬说要打伊朗，身体又按了暂停键",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33025797",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时52分 ~ 07时41分]"
+        },
+        {
+          "title": "伊朗将恢复国内航班运营",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353546&amp;topic_name=%E4%BC%8A%E6%9C%97%E5%B0%86%E6%81%A2%E5%A4%8D%E5%9B%BD%E5%86%85%E8%88%AA%E7%8F%AD%E8%BF%90%E8%90%A5",
+          "source": "贴吧",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时52分 ~ 07时41分]"
+        },
+        {
+          "title": "特朗普称最快周五或重启美伊和谈，伊朗称他“又说谎”，以媒称停火期26日结束",
+          "url": "https://wallstreetcn.com/articles/3770634",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[03时03分 ~ 07时41分]"
         },
         {
           "title": "伊朗战争丨伊朗否认举行美伊新谈判：特朗普又说谎了",
@@ -123,40 +172,6 @@
             22,
             18,
             28
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时52分 ~ 06时41分]"
-        },
-        {
-          "title": "伊朗拒谈判,美国延长停火",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353554&amp;topic_name=%E4%BC%8A%E6%9C%97%E6%8B%92%E8%B0%88%E5%88%A4%2C%E7%BE%8E%E5%9B%BD%E5%BB%B6%E9%95%BF%E5%81%9C%E7%81%AB",
-          "source": "贴吧",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时52分 ~ 06时41分]"
-        },
-        {
-          "title": "释新闻｜特朗普TACO实录：嘴硬说要打伊朗，身体又按了暂停键",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33025797",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时52分 ~ 06时41分]"
-        },
-        {
-          "title": "伊朗将恢复国内航班运营",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353546&amp;topic_name=%E4%BC%8A%E6%9C%97%E5%B0%86%E6%81%A2%E5%A4%8D%E5%9B%BD%E5%86%85%E8%88%AA%E7%8F%AD%E8%BF%90%E8%90%A5",
-          "source": "贴吧",
-          "ranks": [
-            20
           ],
           "is_new": false,
           "appearance_count": 8,
@@ -197,6 +212,17 @@
           "time_info": "[04时45分 ~ 05时44分]"
         },
         {
+          "title": "伊朗战争丨特朗普：何时结束冲突，目前没有时间表",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时41分 ~ 07时41分]"
+        },
+        {
           "title": "伊朗基本物资供应为何不受封锁影响",
           "url": "https://www.toutiao.com/trending/7631057559575871515/",
           "source": "今日头条",
@@ -210,30 +236,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时52分 ~ 05时44分]"
-        },
-        {
-          "title": "特朗普称最快周五或重启美伊和谈，伊朗称他“又说谎”，以媒称停火期26日结束",
-          "url": "https://wallstreetcn.com/articles/3770634",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时03分 ~ 06时41分]"
-        },
-        {
-          "title": "伊朗战争丨特朗普：何时结束冲突，目前没有时间表",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时41分"
         },
         {
           "title": "伊朗议会议长卡利巴夫：全面停火只有在不被海上封锁和“挟持世界经济”的行为违反的情况下才有意义。",
@@ -404,11 +406,12 @@
           "ranks": [
             9,
             6,
-            22
+            22,
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时45分 ~ 06时41分]"
+          "appearance_count": 4,
+          "time_info": "[04时45分 ~ 07时41分]"
         },
         {
           "title": "伊朗总统：伊朗欢迎对话与协议，并将继续这样做。（但）违反承诺、封锁和威胁是进行真正谈判的主要障碍。",
@@ -494,6 +497,17 @@
           "time_info": "05时44分"
         },
         {
+          "title": "伊朗否认举行美伊新谈判：特朗普又说谎了",
+          "url": "https://news.ifeng.com/c/8sXbZA8ZMyL",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时41分"
+        },
+        {
           "title": "【以媒：特朗普设定对伊朗停火期限26日结束】以色列媒体22日报道说，以方已从美国方面获悉，美国总统特朗普就延长对伊朗停火所设定的期限将于26日到期。（新华社）",
           "url": "https://wallstreetcn.com/livenews/3092789",
           "source": "华尔街见闻-快讯",
@@ -514,6 +528,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时04分"
+        },
+        {
+          "title": "还有15天！伊朗石油业将被迫减产，随后全面停产",
+          "url": "https://wallstreetcn.com/articles/3770582",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时41分"
+        },
+        {
+          "title": "【早报】 白宫：特朗普未就与伊朗停火延长设最后期限；美股、油价、金价同步上涨",
+          "url": "https://www.cls.cn/detail/2352894",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时41分"
         },
         {
           "title": "伊朗议长称美公然违反停火协议 不可能重新开放霍尔木兹海峡",
@@ -662,7 +698,7 @@
     },
     {
       "keyword_group": "科技",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "【焦点复盘】创指、科创50双双涨超1.7%，资金持续热捧科技成长赛道，“易中天”总市值反超贵州茅台",
@@ -675,6 +711,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时52分 ~ 06时41分]"
+        },
+        {
+          "title": "金十数据整理：每日科技要闻速递（4月23日）",
+          "url": "https://flash.jin10.com/detail/20260423071123652800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时41分"
         },
         {
           "title": "周三（4月22日），美股行业ETF多数收涨，半导体ETF涨2.62%，全球科技股指数ETF、科技行业ETF至少涨2.20%，能源业ETF涨1.20%，银行业ETF跌0.59%，全球航空业ETF跌3.25%。",
@@ -738,7 +785,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "谷歌设立7.5亿美元基金，助力咨询公司应用AI",
@@ -774,6 +821,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时52分"
+        },
+        {
+          "title": "谷歌云年度Next大会：TPU打破“内存墙” OCS、液冷题材如期亮相",
+          "url": "https://www.cls.cn/detail/2352843",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时41分"
         },
         {
           "title": "谷歌云CEO：Gemini将帮助苹果在2026年推出个性化Siri。",
@@ -920,6 +978,36 @@
       ]
     },
     {
+      "keyword_group": "制造业",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "研究员：美国制造业再也回不去了",
+          "url": "https://www.toutiao.com/trending/7631576780972756526/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            29,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时52分 ~ 05时44分]"
+        },
+        {
+          "title": "澳大利亚4月标普全球制造业PMI初值 51，前值49.8。",
+          "url": "https://flash.jin10.com/detail/20260423070002368800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时41分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美元",
       "match_count": 2,
       "titles": [
@@ -945,25 +1033,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时45分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "制造业",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "研究员：美国制造业再也回不去了",
-          "url": "https://www.toutiao.com/trending/7631576780972756526/",
-          "source": "今日头条",
-          "ranks": [
-            8,
-            29,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时52分 ~ 05时44分]"
         }
       ]
     },
