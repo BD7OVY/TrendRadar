@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-23T16:53:43.062170+08:00",
-  "total_titles_processed": 1307,
+  "generated_at": "2026-04-23T18:18:47.436998+08:00",
+  "total_titles_processed": 1438,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 88,
+      "match_count": 90,
       "titles": [
         {
           "title": "据称特朗普将再给伊朗3至5天停火时间",
@@ -68,8 +68,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[03时03分 ~ 16时53分]"
+          "appearance_count": 12,
+          "time_info": "[03时03分 ~ 18时18分]"
         },
         {
           "title": "泽连斯基：在伊朗问题解决前，乌克兰谈判不会取得任何进展",
@@ -128,11 +128,12 @@
             15,
             16,
             19,
-            22
+            22,
+            24
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时52分 ~ 16时53分]"
+          "appearance_count": 15,
+          "time_info": "[00时52分 ~ 18时18分]"
         },
         {
           "title": "伊朗将恢复国内航班运营",
@@ -142,11 +143,12 @@
             20,
             21,
             24,
-            27
+            27,
+            29
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时52分 ~ 16时53分]"
+          "appearance_count": 15,
+          "time_info": "[00时52分 ~ 18时18分]"
         },
         {
           "title": "特朗普延长对伊朗停火 美股三大期指小幅上涨 | 今夜看点",
@@ -159,6 +161,30 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时52分 ~ 07时41分]"
+        },
+        {
+          "title": "伊朗：特朗普又说谎了",
+          "url": "https://news.ifeng.com/c/8sXbZA8ZMyL",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时58分 ~ 18时18分]"
+        },
+        {
+          "title": "伊朗战争丨限制特朗普战争权力议案第5次遭否决",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时58分 ~ 18时18分]"
         },
         {
           "title": "伊朗：永远不会忘记美国这一“史无前例的战争罪行”",
@@ -184,19 +210,6 @@
           "time_info": "[09时58分 ~ 14时59分]"
         },
         {
-          "title": "伊朗：特朗普又说谎了",
-          "url": "https://news.ifeng.com/c/8sXbZA8ZMyL",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时58分 ~ 16时53分]"
-        },
-        {
           "title": "伊朗战争丨伊朗否认举行美伊新谈判：特朗普又说谎了",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
@@ -206,17 +219,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时52分 ~ 02时17分]"
-        },
-        {
-          "title": "伊朗战争丨限制特朗普战争权力议案第5次遭否决",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时58分 ~ 16时53分]"
         },
         {
           "title": "伊朗代表团亮相亚沙会开幕式",
@@ -305,6 +307,30 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时52分 ~ 05时44分]"
+        },
+        {
+          "title": "伊朗反击，传递了一个信号",
+          "url": "https://news.ifeng.com/c/8sYAlI8ABl1",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时58分 ~ 18时18分]"
+        },
+        {
+          "title": "美以袭击伊朗进入第 55 天，当前局势如何？还有哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2030418339395106223",
+          "source": "知乎",
+          "ranks": [
+            6,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时58分 ~ 18时18分]"
         },
         {
           "title": "伊朗战争丨伊朗反击了，美却认为“不违反停火协议”",
@@ -409,18 +435,6 @@
           "time_info": "[00时52分 ~ 03时04分]"
         },
         {
-          "title": "伊朗反击，传递了一个信号",
-          "url": "https://news.ifeng.com/c/8sYAlI8ABl1",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时58分 ~ 16时53分]"
-        },
-        {
           "title": "美共和党参议员：若和平协议迟迟未果，美国或对伊朗动武",
           "url": "https://flash.jin10.com/detail/20260423003639483800",
           "source": "金十数据",
@@ -441,18 +455,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时50分"
-        },
-        {
-          "title": "美以袭击伊朗进入第 55 天，当前局势如何？还有哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2030418339395106223",
-          "source": "知乎",
-          "ranks": [
-            6,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时58分 ~ 16时53分]"
         },
         {
           "title": "据Punchbowl：美国参议院将于美东时间16:45（北京时间周四04:45）就伊朗战争授权进行投票。",
@@ -488,6 +490,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时16分 ~ 04时45分]"
+        },
+        {
+          "title": "伊美博弈至今，究竟谁拿捏了谁的命门？伊朗做对了什么，能让美国陷入进退两难的境地？",
+          "url": "https://www.zhihu.com/question/2030255513384870069",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时58分 ~ 18时18分]"
         },
         {
           "title": "大约400名美国军事人员在伊朗战争中受伤。（华尔街日报）",
@@ -590,17 +603,6 @@
           "time_info": "[09时58分 ~ 14时59分]"
         },
         {
-          "title": "伊美博弈至今，究竟谁拿捏了谁的命门？伊朗做对了什么，能让美国陷入进退两难的境地？",
-          "url": "https://www.zhihu.com/question/2030255513384870069",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时58分 ~ 16时53分]"
-        },
-        {
           "title": "美国务院要求美在伊朗公民立即离境",
           "url": "https://www.toutiao.com/trending/7630828960271846954/",
           "source": "今日头条",
@@ -611,6 +613,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时50分 ~ 14时59分]"
+        },
+        {
+          "title": "伊朗称已收到首笔霍尔木兹通行费",
+          "url": "https://www.toutiao.com/trending/7631866696617168422/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时53分 ~ 18时18分]"
         },
         {
           "title": "伊朗安全部队在边境开火",
@@ -649,6 +662,18 @@
           "time_info": "[02时17分 ~ 03时04分]"
         },
         {
+          "title": "美国务院要求美在伊朗公民立即离境",
+          "url": "https://www.cls.cn/detail/2353107",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时53分 ~ 18时18分]"
+        },
+        {
           "title": "巴基斯坦收到伊朗发出的恢复面对面会谈的积极信号。（纽约时报）",
           "url": "https://wallstreetcn.com/livenews/3092773",
           "source": "华尔街见闻-快讯",
@@ -685,6 +710,29 @@
           "time_info": "[02时17分 ~ 03时04分]"
         },
         {
+          "title": "英媒：特朗普特使要求国际足联用意大利替换伊朗参加世界杯",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33033905",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时53分 ~ 18时18分]"
+        },
+        {
+          "title": "伊朗马汉航空：将恢复往返中国航线",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E9%A9%AC%E6%B1%89%E8%88%AA%E7%A9%BA%EF%BC%9A%E5%B0%86%E6%81%A2%E5%A4%8D%E5%BE%80%E8%BF%94%E4%B8%AD%E5%9B%BD%E8%88%AA%E7%BA%BF",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时53分 ~ 18时18分]"
+        },
+        {
           "title": "清除霍尔木兹海峡的水雷可能会耗时六个月。 伊朗可能已经在霍尔木兹海峡周边部署了至少20枚水雷。（华盛顿邮报）",
           "url": "https://wallstreetcn.com/livenews/3092762",
           "source": "华尔街见闻-快讯",
@@ -695,17 +743,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时17分 ~ 03时04分]"
-        },
-        {
-          "title": "伊朗称已收到首笔霍尔木兹通行费",
-          "url": "https://www.toutiao.com/trending/7631866696617168422/",
-          "source": "今日头条",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时53分"
         },
         {
           "title": "白宫国家经济委员会主任哈塞特：在战争前，美国收到威胁称伊朗拥有11枚核弹。",
@@ -763,6 +800,17 @@
           "time_info": "03时04分"
         },
         {
+          "title": "伊朗副议长：收到首笔霍尔木兹海峡通行费",
+          "url": "https://news.ifeng.com/c/8sYp0IzffDB",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时18分"
+        },
+        {
           "title": "还有15天！伊朗石油业将被迫减产，随后全面停产",
           "url": "https://wallstreetcn.com/articles/3770582",
           "source": "华尔街见闻",
@@ -794,17 +842,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时50分"
-        },
-        {
-          "title": "美国务院要求美在伊朗公民立即离境",
-          "url": "https://www.cls.cn/detail/2353107",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时53分"
         },
         {
           "title": "伊朗议长称美公然违反停火协议 不可能重新开放霍尔木兹海峡",
@@ -906,35 +943,13 @@
           "time_info": "12时50分"
         },
         {
-          "title": "伊朗马汉航空：将恢复往返中国航线",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E9%A9%AC%E6%B1%89%E8%88%AA%E7%A9%BA%EF%BC%9A%E5%B0%86%E6%81%A2%E5%A4%8D%E5%BE%80%E8%BF%94%E4%B8%AD%E5%9B%BD%E8%88%AA%E7%BA%BF",
-          "source": "百度热搜",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时53分"
-        },
-        {
-          "title": "英媒：特朗普特使要求国际足联用意大利替换伊朗参加世界杯",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33033905",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时53分"
-        },
-        {
           "title": "伊朗：已收到首笔霍尔木兹通行费",
           "url": "https://flash.jin10.com/detail/20260423162023541800",
           "source": "金十数据",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时53分"
         },
@@ -959,6 +974,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时52分"
+        },
+        {
+          "title": "伊朗革命卫队扣押集装箱船画面曝光",
+          "url": "https://www.toutiao.com/trending/7631880274972003878/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时18分"
         },
         {
           "title": "伊朗外长感谢斯里兰卡协助船只救援 就双边关系进行磋商",
@@ -1041,7 +1067,7 @@
     },
     {
       "keyword_group": "科技",
-      "match_count": 26,
+      "match_count": 28,
       "titles": [
         {
           "title": "【焦点复盘】创指、科创50双双涨超1.7%，资金持续热捧科技成长赛道，“易中天”总市值反超贵州茅台",
@@ -1102,6 +1128,18 @@
           "time_info": "[04时45分 ~ 05时44分]"
         },
         {
+          "title": "直击“新股王”源杰科技股东会：AI需求“指数级增长” 设备到场后产能将逐季释放",
+          "url": "https://www.cls.cn/detail/2353083",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时53分 ~ 18时18分]"
+        },
+        {
           "title": "周三（4月22日），美股存储芯片与硬件供应链指数涨4.27%，报144.77点，创收盘历史新高。 信息科技指数涨2.79%，报333.55点，创收盘历史新高。 人工智能（AI）赢家指数涨3.38%，报351.50点。 AI软件先驱指数涨2.64%，报102.66点。",
           "url": "https://wallstreetcn.com/livenews/3092846",
           "source": "华尔街见闻-快讯",
@@ -1125,6 +1163,17 @@
           "time_info": "09时58分"
         },
         {
+          "title": "华懋科技：若油价持续上涨，原材料端将面临一定压力",
+          "url": "https://flash.jin10.com/detail/20260423180957543800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时18分"
+        },
+        {
           "title": "恒生指数跌幅扩大至1%，恒生科技指数现跌1.74%。",
           "url": "https://flash.jin10.com/detail/20260423094539802800",
           "source": "金十数据",
@@ -1134,6 +1183,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时58分"
+        },
+        {
+          "title": "华懋科技：公司预计不会继续加大在光刻胶业务领域的投入",
+          "url": "https://flash.jin10.com/detail/20260423180953919800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时18分"
         },
         {
           "title": "港股午评：恒生指数早盘震荡下行 权重科技股多数走弱",
@@ -1156,17 +1216,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时58分"
-        },
-        {
-          "title": "直击“新股王”源杰科技股东会：AI需求“指数级增长” 设备到场后产能将逐季释放",
-          "url": "https://www.cls.cn/detail/2353083",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时53分"
         },
         {
           "title": "A股算力租赁板块短线走强，安诺其3连板，福鞍股份涨停，铜牛信息涨超15%，浙文互联、佳华科技、莲花控股、润泽科技、中贝通信跟涨。",
@@ -1263,7 +1312,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时53分"
         },
@@ -1274,7 +1323,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时53分"
         },
@@ -1370,7 +1419,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时53分"
         },
@@ -1381,7 +1430,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时53分"
         },
@@ -1392,7 +1441,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时53分"
         },
@@ -1414,7 +1463,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时53分"
         },
@@ -1425,7 +1474,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时53分"
         },
@@ -1458,7 +1507,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时53分"
         },
@@ -1472,6 +1521,81 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时50分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "消费",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "韩国4月消费者信心指数 99.2，前值107。",
+          "url": "https://flash.jin10.com/detail/20260423050002376800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时44分"
+        },
+        {
+          "title": "中办、国办：严格控制化石能源消费，大力发展非化石能源和新型储能，加快建设新型电力系统",
+          "url": "https://wallstreetcn.com/articles/3770611",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时58分 ~ 16时53分]"
+        },
+        {
+          "title": "消费分析师“光，才是答案”刷屏，真小作文，假分析师",
+          "url": "https://www.cls.cn/detail/2353429",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时53分 ~ 18时18分]"
+        },
+        {
+          "title": "中办、国办：制定“十五五”碳达峰行动方案，实现煤炭消费总量和石油消费总量达峰",
+          "url": "https://wallstreetcn.com/livenews/3093223",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时18分"
+        },
+        {
+          "title": "欧莱雅CEO：中国股市反弹促进了可支配消费，消费者也在将支出从旅游零售领域转移。",
+          "url": "https://flash.jin10.com/detail/20260423012200723800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时17分"
+        },
+        {
+          "title": "欧莱雅：自冲突爆发以来，中东地区的消费受到影响，尤其是在阿联酋，而沙特阿拉伯的消费则保持韧性。",
+          "url": "https://flash.jin10.com/detail/20260423000155196800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时52分"
         }
       ]
     },
@@ -1544,69 +1668,6 @@
           "source": "金十数据",
           "ranks": [
             21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时52分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "消费",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "韩国4月消费者信心指数 99.2，前值107。",
-          "url": "https://flash.jin10.com/detail/20260423050002376800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时44分"
-        },
-        {
-          "title": "中办、国办：严格控制化石能源消费，大力发展非化石能源和新型储能，加快建设新型电力系统",
-          "url": "https://wallstreetcn.com/articles/3770611",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时58分 ~ 16时53分]"
-        },
-        {
-          "title": "消费分析师“光，才是答案”刷屏，真小作文，假分析师",
-          "url": "https://www.cls.cn/detail/2353429",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时53分"
-        },
-        {
-          "title": "欧莱雅CEO：中国股市反弹促进了可支配消费，消费者也在将支出从旅游零售领域转移。",
-          "url": "https://flash.jin10.com/detail/20260423012200723800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时17分"
-        },
-        {
-          "title": "欧莱雅：自冲突爆发以来，中东地区的消费受到影响，尤其是在阿联酋，而沙特阿拉伯的消费则保持韧性。",
-          "url": "https://flash.jin10.com/detail/20260423000155196800",
-          "source": "金十数据",
-          "ranks": [
-            25
           ],
           "is_new": false,
           "appearance_count": 1,
