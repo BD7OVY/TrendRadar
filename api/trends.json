@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-25T02:41:06.344349+08:00",
-  "total_titles_processed": 465,
+  "generated_at": "2026-04-25T03:46:47.167675+08:00",
+  "total_titles_processed": 512,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 43,
+      "match_count": 60,
       "titles": [
         {
           "title": "伊朗战争丨伊朗将与巴基斯坦举行会谈，但不与美谈判",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时02分 ~ 02时41分]"
+          "appearance_count": 6,
+          "time_info": "[00时02分 ~ 03时46分]"
         },
         {
           "title": "特朗普下令击沉任何霍尔木兹布雷船，伊朗据称启动德黑兰防空系统拦截“敌对目标”、以否认空袭",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时02分 ~ 02时41分]"
+          "appearance_count": 6,
+          "time_info": "[00时02分 ~ 03时46分]"
         },
         {
           "title": "特朗普重申对伊朗“已大赢特赢”，黎以停火将延长三周，以媒称“伊朗议长已从谈判小组辞职”，伊朗否认内部分裂",
@@ -37,8 +37,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时02分 ~ 02时41分]"
+          "appearance_count": 6,
+          "time_info": "[00时02分 ~ 03时46分]"
         },
         {
           "title": "伊朗局势搅动市场，美股震荡收跌，芯片连涨17日，英特尔盘后飙升20%，原油四连涨",
@@ -48,8 +48,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时02分 ~ 02时41分]"
+          "appearance_count": 6,
+          "time_info": "[00时02分 ~ 03时46分]"
         },
         {
           "title": "“中国给伊朗送物资，你生气吗？”特朗普：不，我们也给别国送",
@@ -59,19 +59,42 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时02分 ~ 02时41分]"
+          "appearance_count": 6,
+          "time_info": "[00时02分 ~ 03时46分]"
         },
         {
-          "title": "伊朗最高领袖发表致辞：伊朗人民构筑全国防线 给予敌人沉重打击",
-          "url": "https://flash.jin10.com/detail/20260425021416697800",
-          "source": "金十数据",
+          "title": "伊朗外长将访问巴基斯坦等三国",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%A4%96%E9%95%BF%E5%B0%86%E8%AE%BF%E9%97%AE%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E7%AD%89%E4%B8%89%E5%9B%BD",
+          "source": "百度热搜",
           "ranks": [
-            1
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时41分"
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时02分 ~ 03时46分]"
+        },
+        {
+          "title": "美军制定与伊朗重新开战新方案，以色列拟“重启战争”，伊朗称将“对等回应”",
+          "url": "https://wallstreetcn.com/articles/3770808",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时02分 ~ 03时46分]"
+        },
+        {
+          "title": "以防长：只要美国同意，将刺杀伊朗新任最高领袖",
+          "url": "https://news.ifeng.com/c/8sZJGqwNRey",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时02分 ~ 03时46分]"
         },
         {
           "title": "报道：特朗普将派特使前往巴基斯坦谈判伊朗问题",
@@ -85,115 +108,15 @@
           "time_info": "00时02分"
         },
         {
-          "title": "美国财长贝森特：对伊朗的制裁导致3.44亿美元加密货币资产被冻结。",
-          "url": "https://wallstreetcn.com/livenews/3094250",
+          "title": "伊朗议会：否认卡利巴夫辞去谈判代表团团长职务",
+          "url": "https://wallstreetcn.com/livenews/3094269",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时41分"
-        },
-        {
-          "title": "消息人士：伊朗外长抵达巴基斯坦",
-          "url": "https://flash.jin10.com/detail/20260425021056528800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时41分"
-        },
-        {
-          "title": "伊朗最高领袖发表新年致辞：伊朗人民构筑全国防线，给予敌人沉重打击",
-          "url": "https://wallstreetcn.com/livenews/3094249",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时41分"
-        },
-        {
-          "title": "伊朗外长将访问巴基斯坦等三国",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%A4%96%E9%95%BF%E5%B0%86%E8%AE%BF%E9%97%AE%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E7%AD%89%E4%B8%89%E5%9B%BD",
-          "source": "百度热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时02分 ~ 02时41分]"
-        },
-        {
-          "title": "美国财政部网站发布新的伊朗相关制裁措施。",
-          "url": "https://flash.jin10.com/detail/20260425020408958800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时41分"
-        },
-        {
-          "title": "消息人士：伊朗外长抵达巴基斯坦",
-          "url": "https://wallstreetcn.com/livenews/3094248",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时41分"
-        },
-        {
-          "title": "美军制定与伊朗重新开战新方案，以色列拟“重启战争”，伊朗称将“对等回应”",
-          "url": "https://wallstreetcn.com/articles/3770808",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时02分 ~ 02时41分]"
-        },
-        {
-          "title": "伊朗议会媒体办公室否认了关于卡利巴夫辞去谈判团队负责人职务的报道，并表示尚未安排新的谈判轮次。",
-          "url": "https://flash.jin10.com/detail/20260425015938103800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时41分"
-        },
-        {
-          "title": "伊朗议会媒体办公室否认了关于卡利巴夫辞去谈判团队负责人职务的报道，并表示尚未安排新的谈判轮次。（路透）",
-          "url": "https://wallstreetcn.com/livenews/3094247",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时41分"
-        },
-        {
-          "title": "以防长：只要美国同意，将刺杀伊朗新任最高领袖",
-          "url": "https://news.ifeng.com/c/8sZJGqwNRey",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时02分 ~ 02时41分]"
+          "time_info": "03时46分"
         },
         {
           "title": "伊朗遭“数字斩首”：对方导弹落地前，境内大量美国牌路由器死机，网络瘫痪使雷达失联，指挥链路中断，部队瞬间“失明”",
@@ -204,8 +127,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时02分 ~ 02时41分]"
+          "appearance_count": 6,
+          "time_info": "[00时02分 ~ 03时46分]"
         },
         {
           "title": "美军制定与伊朗重新开战新方案，将重点打击霍尔木兹海峡周边的伊朗军事防御能力，双方重新开战可能性有多大？",
@@ -215,8 +138,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时02分 ~ 02时41分]"
+          "appearance_count": 6,
+          "time_info": "[00时02分 ~ 03时46分]"
         },
         {
           "title": "伊朗代表团暂不与美方接触",
@@ -226,8 +149,110 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时02分 ~ 02时41分]"
+          "appearance_count": 6,
+          "time_info": "[00时02分 ~ 03时46分]"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社：伊朗尚未决定与美国进行谈判。",
+          "url": "https://flash.jin10.com/detail/20260425030632061800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时46分"
+        },
+        {
+          "title": "美国财政部网站发布新的伊朗相关制裁措施。",
+          "url": "https://flash.jin10.com/detail/20260425020408958800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时41分"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社：伊朗并未向美国提出面对面会谈的请求。",
+          "url": "https://flash.jin10.com/detail/20260425030408018800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时46分"
+        },
+        {
+          "title": "伊朗议会媒体办公室否认了关于卡利巴夫辞去谈判团队负责人职务的报道，并表示尚未安排新的谈判轮次。",
+          "url": "https://flash.jin10.com/detail/20260425015938103800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时41分"
+        },
+        {
+          "title": "巴基斯坦外交部：伊朗外长阿拉格齐将与巴基斯坦高级领导层举行会议，讨论最新的地区发展及为地区和平与稳定所做的持续努力。",
+          "url": "https://flash.jin10.com/detail/20260425025309983800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时46分"
+        },
+        {
+          "title": "伊朗并没有要求与美国“面对面”会谈。 伊朗尚未决定是否与美方谈判。（Tasnim）",
+          "url": "https://wallstreetcn.com/livenews/3094265",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时46分"
+        },
+        {
+          "title": "伊朗最高领袖发表致辞：伊朗人民构筑全国防线 给予敌人沉重打击",
+          "url": "https://flash.jin10.com/detail/20260425021416697800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时41分 ~ 03时46分]"
+        },
+        {
+          "title": "美国财长贝森特：对伊朗的制裁导致3.44亿美元加密货币资产被冻结。",
+          "url": "https://wallstreetcn.com/livenews/3094250",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时41分 ~ 03时46分]"
+        },
+        {
+          "title": "消息人士：伊朗外长抵达巴基斯坦",
+          "url": "https://flash.jin10.com/detail/20260425021056528800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时41分 ~ 03时46分]"
         },
         {
           "title": "伊朗外长将阐述伊方在结束战争问题上的考量。（塔斯尼姆通讯社）",
@@ -242,6 +267,30 @@
           "time_info": "[00时02分 ~ 01时05分]"
         },
         {
+          "title": "伊朗最高领袖发表新年致辞：伊朗人民构筑全国防线，给予敌人沉重打击",
+          "url": "https://wallstreetcn.com/livenews/3094249",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时41分 ~ 03时46分]"
+        },
+        {
+          "title": "消息人士：伊朗外长抵达巴基斯坦",
+          "url": "https://wallstreetcn.com/livenews/3094248",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时41分 ~ 03时46分]"
+        },
+        {
           "title": "伊朗外交部发言人向国家媒体表示，外交部长阿拉格齐的地区之行将包括就结束美以对伊朗战争的最新努力进行磋商。",
           "url": "https://wallstreetcn.com/livenews/3094196",
           "source": "华尔街见闻-快讯",
@@ -252,6 +301,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时02分 ~ 01时05分]"
+        },
+        {
+          "title": "伊朗议会媒体办公室否认了关于卡利巴夫辞去谈判团队负责人职务的报道，并表示尚未安排新的谈判轮次。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3094247",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时41分 ~ 03时46分]"
         },
         {
           "title": "特朗普再称「不着急」「没压力」， 想同伊朗达成「永久协议」，这场时间消耗战，谁在主导叙事？谁先扛不住？",
@@ -300,13 +361,101 @@
           "time_info": "[01时05分 ~ 02时41分]"
         },
         {
+          "title": "美国总统特朗普：计划下周与英国查尔斯国王讨论包括伊朗、北约和数字服务税在内的多个议题。",
+          "url": "https://flash.jin10.com/detail/20260425025242021800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时46分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗希望进行对话，看看是否能够达成协议。",
+          "url": "https://flash.jin10.com/detail/20260425025211926800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时46分"
+        },
+        {
+          "title": "美伊谈判有望：伊朗外长率团访巴先与调解方谈、暂不接触美方，特朗普特使周六赴巴",
+          "url": "https://wallstreetcn.com/articles/3770826",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时46分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗计划提出一项旨在解决美方要求的方案。",
+          "url": "https://flash.jin10.com/detail/20260425025154863800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时46分"
+        },
+        {
+          "title": "美国总统特朗普：与伊朗谈判的美国官员正在与当下掌权的人打交道。",
+          "url": "https://flash.jin10.com/detail/20260425025130840800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时46分"
+        },
+        {
+          "title": "巴基斯坦外交部：由伊朗外长阿拉格齐率领的代表团今天抵达伊斯兰堡。",
+          "url": "https://flash.jin10.com/detail/20260425025107863800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时46分"
+        },
+        {
+          "title": "美国总统特朗普讨论伊朗停火问题，试图达成一份协议。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3094259",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时46分"
+        },
+        {
+          "title": "伊朗方面否认卡利巴夫辞去谈判代表团团长一职",
+          "url": "https://flash.jin10.com/detail/20260425024402114800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时46分"
+        },
+        {
           "title": "白宫：近期伊朗方面已见进展。",
           "url": "https://flash.jin10.com/detail/20260425011912622800",
           "source": "金十数据",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时41分"
         },
@@ -322,15 +471,48 @@
           "time_info": "01时05分"
         },
         {
+          "title": "伊朗外长率团抵达巴基斯坦",
+          "url": "https://wallstreetcn.com/livenews/3094257",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时46分"
+        },
+        {
+          "title": "据伊朗伊斯兰共和国通讯社（IRNA）：伊朗外长阿拉格齐将与巴基斯坦官员会晤。",
+          "url": "https://flash.jin10.com/detail/20260425023321713800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时46分"
+        },
+        {
           "title": "美国媒体称伊朗议长将缺席下一轮巴基斯坦会谈，但被伊朗媒体否认",
           "url": "https://wallstreetcn.com/livenews/3094234",
           "source": "华尔街见闻-快讯",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时41分"
+        },
+        {
+          "title": "据伊朗伊斯兰共和国通讯社（IRNA）：伊朗外长阿拉格齐已抵达伊斯兰堡。",
+          "url": "https://flash.jin10.com/detail/20260425023236050800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时46分"
         },
         {
           "title": "消息人士：伊朗外长将与巴基斯坦方面讨论美伊谈判先决条件",
@@ -355,13 +537,24 @@
           "time_info": "01时05分"
         },
         {
+          "title": "据伊朗伊斯兰共和国通讯社（IRNA）：目前没有关于阿拉格齐与威特科夫和库什纳之间会晤的安排。",
+          "url": "https://flash.jin10.com/detail/20260425023005757800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时46分"
+        },
+        {
           "title": "白宫新闻秘书莱维特：伊朗任务已转入外交阶段。",
           "url": "https://flash.jin10.com/detail/20260425011119275800",
           "source": "金十数据",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时41分"
         },
@@ -372,7 +565,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时41分"
         },
@@ -383,7 +576,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时41分"
         },
@@ -489,8 +682,106 @@
       ]
     },
     {
+      "keyword_group": "金融",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "中方取消对欧盟两家金融机构反制措施",
+          "url": "https://www.toutiao.com/trending/7631864418351054884/",
+          "source": "今日头条",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时02分 ~ 03时46分]"
+        },
+        {
+          "title": "规范金融产品网络营销活动，央行等八部门发布管理办法",
+          "url": "https://www.cls.cn/detail/2354995",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时02分 ~ 03时46分]"
+        },
+        {
+          "title": "美财政部对伊朗实施新一轮金融制裁",
+          "url": "https://flash.jin10.com/detail/20260425025518310800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时46分"
+        },
+        {
+          "title": "中东股市收盘播报｜周五（4月24日），迪拜金融市场综合指数收涨0.69%，报5854.19点，本周累计下跌2.23%，整体持续震荡走低。 阿布扎比证券市场综合指数收涨0.43%，报9788.84点，本周累跌1.33%。",
+          "url": "https://wallstreetcn.com/livenews/3094194",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时02分 ~ 01时05分]"
+        },
+        {
+          "title": "【美财政部对伊朗实施新一轮金融制裁，冻结其约3.44亿美元加密货币资产】据美国财政部海外资产控制办公室（OFAC）消息，美方发布与伊朗相关的最新制裁。同时，美财政部海外资产控制办公室还更新了“特别指定国民清单”，称其属于本轮涉伊朗制裁调整的一部分。此外，美国财政部还宣布对多个与伊朗相关的“钱包”实施制裁，冻结其约3.44亿美元加密货币资产。美国财政部长贝森特在社交平台表示，此举属于针对伊朗的金融制裁措施之一。（央视）",
+          "url": "https://wallstreetcn.com/livenews/3094260",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时46分"
+        },
+        {
+          "title": "瑞士监管机构称Mythos将构成金融风险",
+          "url": "https://flash.jin10.com/detail/20260424232207517800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时02分"
+        },
+        {
+          "title": "金融产品网络营销被划红线！如何影响展业？机构火速解读",
+          "url": "https://www.cls.cn/detail/2355415",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时46分"
+        },
+        {
+          "title": "男子出狱后装“金融才俊”骗得240万",
+          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%87%BA%E7%8B%B1%E5%90%8E%E8%A3%85%E2%80%9C%E9%87%91%E8%9E%8D%E6%89%8D%E4%BF%8A%E2%80%9D%E9%AA%97%E5%BE%97240%E4%B8%87",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时46分"
+        }
+      ]
+    },
+    {
       "keyword_group": "科技",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "国常会：要紧盯全球科技前沿动向，围绕国家战略需求与产业发展需要，加强原创性引领性科技攻关",
@@ -501,8 +792,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时02分 ~ 02时41分]"
+          "appearance_count": 6,
+          "time_info": "[00时02分 ~ 03时46分]"
         },
         {
           "title": "核反应堆科技公司X-Energy Inc.（XE）美国IPO首日开盘报30.11美元，此前给出的IPO发行价为每股23美元。 该公司预计，2026年将为第一家核电站发放NRC许可证。",
@@ -515,6 +806,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时05分 ~ 02时41分]"
+        },
+        {
+          "title": "恒生指数主连夜盘收涨0.29%，报26041点。 恒生科技指数主连夜盘收涨0.53%，报4926点。",
+          "url": "https://wallstreetcn.com/livenews/3094261",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时46分"
         },
         {
           "title": "核反应堆科技公司X-Energy(XE.O)美股IPO首日开盘报30.11美元，其IPO发行价为每股23美元。",
@@ -544,59 +846,6 @@
           "source": "金十数据",
           "ranks": [
             25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时02分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金融",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "中方取消对欧盟两家金融机构反制措施",
-          "url": "https://www.toutiao.com/trending/7631864418351054884/",
-          "source": "今日头条",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时02分 ~ 02时41分]"
-        },
-        {
-          "title": "规范金融产品网络营销活动，央行等八部门发布管理办法",
-          "url": "https://www.cls.cn/detail/2354995",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时02分 ~ 02时41分]"
-        },
-        {
-          "title": "中东股市收盘播报｜周五（4月24日），迪拜金融市场综合指数收涨0.69%，报5854.19点，本周累计下跌2.23%，整体持续震荡走低。 阿布扎比证券市场综合指数收涨0.43%，报9788.84点，本周累跌1.33%。",
-          "url": "https://wallstreetcn.com/livenews/3094194",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时02分 ~ 01时05分]"
-        },
-        {
-          "title": "瑞士监管机构称Mythos将构成金融风险",
-          "url": "https://flash.jin10.com/detail/20260424232207517800",
-          "source": "金十数据",
-          "ranks": [
-            12
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -655,8 +904,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时02分 ~ 02时41分]"
+          "appearance_count": 6,
+          "time_info": "[00时02分 ~ 03时46分]"
         },
         {
           "title": "金价跌破新低",
@@ -664,11 +913,12 @@
           "source": "微博",
           "ranks": [
             24,
-            25
+            25,
+            28
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时02分 ~ 02时41分]"
+          "appearance_count": 6,
+          "time_info": "[00时02分 ~ 03时46分]"
         },
         {
           "title": "国际金价银价下跌",
@@ -676,11 +926,12 @@
           "source": "抖音",
           "ranks": [
             9,
-            12
+            12,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时02分 ~ 02时41分]"
+          "appearance_count": 4,
+          "time_info": "[00时02分 ~ 03时46分]"
         }
       ]
     },
@@ -696,8 +947,25 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时02分 ~ 02时41分]"
+          "appearance_count": 6,
+          "time_info": "[00时02分 ~ 03时46分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "OpenAI：GPT-5.5 和 GPT-5.5 Pro现已在API中可用。",
+          "url": "https://flash.jin10.com/detail/20260425022647112800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时46分"
         }
       ]
     }
