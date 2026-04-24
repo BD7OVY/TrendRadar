@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-24T19:02:11.696449+08:00",
-  "total_titles_processed": 1462,
+  "generated_at": "2026-04-24T20:02:31.668105+08:00",
+  "total_titles_processed": 1574,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 128,
+      "match_count": 134,
       "titles": [
         {
           "title": "特朗普下令击沉任何霍尔木兹布雷船，伊朗据称启动德黑兰防空系统拦截“敌对目标”、以否认空袭",
@@ -16,8 +16,22 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[05时40分 ~ 19时02分]"
+          "appearance_count": 13,
+          "time_info": "[05时40分 ~ 20时02分]"
+        },
+        {
+          "title": "伊朗局势搅动市场，美股震荡收跌，芯片连涨17日，英特尔盘后飙升20%，原油四连涨",
+          "url": "https://wallstreetcn.com/articles/3770666",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            2,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时58分 ~ 20时02分]"
         },
         {
           "title": "伊朗领导层集体驳斥特朗普",
@@ -29,19 +43,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[02时59分 ~ 07时39分]"
-        },
-        {
-          "title": "伊朗局势搅动市场，美股震荡收跌，芯片连涨17日，英特尔盘后飙升20%，原油四连涨",
-          "url": "https://wallstreetcn.com/articles/3770666",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时58分 ~ 19时02分]"
         },
         {
           "title": "“安全不是免费的”！伊朗收到首笔霍尔木兹通行费，美军称拦截两艘伊方超级油轮",
@@ -80,8 +81,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[02时59分 ~ 19时02分]"
+          "appearance_count": 15,
+          "time_info": "[02时59分 ~ 20时02分]"
         },
         {
           "title": "伊朗战争丨伊朗：启动防空系统旨在应对小型无人机",
@@ -140,6 +141,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时58分 ~ 15时03分]"
+        },
+        {
+          "title": "特朗普重申对伊朗“已大赢特赢”，黎以停火将延长三周，以媒称“伊朗议长已从谈判小组辞职”，伊朗否认内部分裂",
+          "url": "https://wallstreetcn.com/articles/3770760",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时25分 ~ 20时02分]"
         },
         {
           "title": "伊朗已制定针对美方及其盟友反击清单",
@@ -234,6 +247,18 @@
           "time_info": "[01时13分 ~ 07时39分]"
         },
         {
+          "title": "特朗普特使提议「以意大利队取代伊朗队踢世界杯」，对此你怎么看，如何评价这一操作？",
+          "url": "https://www.zhihu.com/question/2030686844841451758",
+          "source": "知乎",
+          "ranks": [
+            18,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时58分 ~ 20时02分]"
+        },
+        {
           "title": "伊朗局势搅动市场，美股震荡收跌，软件股重挫，芯片逆市连涨17日，原油三连涨",
           "url": "https://wallstreetcn.com/articles/3770666",
           "source": "华尔街见闻",
@@ -245,22 +270,24 @@
           "time_info": "[05时40分 ~ 06时38分]"
         },
         {
+          "title": "特朗普再称「不着急」「没压力」， 想同伊朗达成「永久协议」，这场时间消耗战，谁在主导叙事？谁先扛不住？",
+          "url": "https://www.zhihu.com/question/2030931346604778681",
+          "source": "知乎",
+          "ranks": [
+            9,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时55分 ~ 20时02分]"
+        },
+        {
           "title": "凤凰女记者：伊朗仍然团结，没有美媒所说的争吵、辞职",
           "url": "https://news.ifeng.com/c/8saTFP0s9pC",
           "source": "凤凰网",
           "ranks": [
             4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时25分 ~ 19时02分]"
-        },
-        {
-          "title": "特朗普重申对伊朗“已大赢特赢”，黎以停火将延长三周，以媒称“伊朗议长已从谈判小组辞职”，伊朗否认内部分裂",
-          "url": "https://wallstreetcn.com/articles/3770760",
-          "source": "华尔街见闻",
-          "ranks": [
             5
           ],
           "is_new": false,
@@ -311,31 +338,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[04时07分 ~ 09时58分]"
-        },
-        {
-          "title": "特朗普特使提议「以意大利队取代伊朗队踢世界杯」，对此你怎么看，如何评价这一操作？",
-          "url": "https://www.zhihu.com/question/2030686844841451758",
-          "source": "知乎",
-          "ranks": [
-            18,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时58分 ~ 19时02分]"
-        },
-        {
-          "title": "特朗普再称「不着急」「没压力」， 想同伊朗达成「永久协议」，这场时间消耗战，谁在主导叙事？谁先扛不住？",
-          "url": "https://www.zhihu.com/question/2030931346604778681",
-          "source": "知乎",
-          "ranks": [
-            9,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时55分 ~ 19时02分]"
         },
         {
           "title": "伊朗战争丨以防长：只要美国同意，将刺杀穆杰塔巴",
@@ -514,6 +516,30 @@
           "time_info": "17时25分"
         },
         {
+          "title": "伊朗遭“数字斩首”：对方导弹落地前，境内大量美国牌路由器死机，网络瘫痪使雷达失联，指挥链路中断，部队瞬间“失明”",
+          "url": "https://wallstreetcn.com/articles/3770741",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时58分 ~ 20时02分]"
+        },
+        {
+          "title": "“中国给伊朗送物资，你生气吗？”特朗普：不，我们也给别国送",
+          "url": "https://news.ifeng.com/c/8saNhgKa31P",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时02分"
+        },
+        {
           "title": "据半岛电视台：伊朗外交部发言人表示，运输高浓缩铀不是一个选项，降低其浓度是一个可行的选择。",
           "url": "https://flash.jin10.com/detail/20260424003953469800",
           "source": "金十数据",
@@ -584,19 +610,6 @@
           "time_info": "[06时38分 ~ 07时39分]"
         },
         {
-          "title": "伊朗遭“数字斩首”：对方导弹落地前，境内大量美国牌路由器死机，网络瘫痪使雷达失联，指挥链路中断，部队瞬间“失明”",
-          "url": "https://wallstreetcn.com/articles/3770741",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时58分 ~ 19时02分]"
-        },
-        {
           "title": "【特朗普“不会”考虑对伊朗动用核武器】被问及是否会考虑对伊朗动用核武器，特朗普回答“不会”，并称美国即便不发动核打击，也已将伊朗“彻底摧毁”。（新华社）",
           "url": "https://wallstreetcn.com/livenews/3093561",
           "source": "华尔街见闻-快讯",
@@ -607,6 +620,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时38分 ~ 07时39分]"
+        },
+        {
+          "title": "特朗普再强调对伊朗“已大赢特赢”：有时间、没压力、不着急",
+          "url": "https://www.cls.cn/detail/2354699",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时25分 ~ 20时02分]"
         },
         {
           "title": "美国总统特朗普：只会在（时机）适宜时、（条款内容）不错时才达成一份伊朗协议。 在当前形势下，我所承受的压力是最小的。 在全世界，就我的时间最多，但伊朗则没有。",
@@ -656,6 +681,17 @@
           "time_info": "[07时38分 ~ 09时58分]"
         },
         {
+          "title": "伊朗战争丨伊朗将恢复德黑兰至北京的客运航班",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时01分 ~ 20时02分]"
+        },
+        {
           "title": "特朗普称黎以停火将延长三周，以媒称“伊朗议长已从谈判小组辞职”，伊朗否认分裂，称 “谈判重心已从核问题转为彻底停战”",
           "url": "https://wallstreetcn.com/articles/3770760",
           "source": "华尔街见闻",
@@ -666,6 +702,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时55分 ~ 15时03分]"
+        },
+        {
+          "title": "美军制定与伊朗重新开战新方案，以色列拟“重启战争”，伊朗称将“对等回应”",
+          "url": "https://wallstreetcn.com/articles/3770808",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时01分 ~ 20时02分]"
         },
         {
           "title": "伊朗巨幅海报宣告霍尔木兹海峡控制权",
@@ -680,18 +728,6 @@
           "time_info": "[12时55分 ~ 15时03分]"
         },
         {
-          "title": "特朗普再强调对伊朗“已大赢特赢”：有时间、没压力、不着急",
-          "url": "https://www.cls.cn/detail/2354699",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时25分 ~ 19时02分]"
-        },
-        {
           "title": "伊朗领导层集体否认内斗分裂",
           "url": "https://www.toutiao.com/trending/7631334778814398505/",
           "source": "今日头条",
@@ -704,17 +740,6 @@
           "time_info": "[12时55分 ~ 15时03分]"
         },
         {
-          "title": "伊朗战争丨伊朗将恢复德黑兰至北京的客运航班",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时01分 ~ 19时02分]"
-        },
-        {
           "title": "伊朗称已收到首笔霍尔木兹通行费",
           "url": "https://www.toutiao.com/trending/7631866696617168422/",
           "source": "今日头条",
@@ -725,17 +750,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时07分 ~ 05时40分]"
-        },
-        {
-          "title": "美军制定与伊朗重新开战新方案，以色列拟“重启战争”，伊朗称将“对等回应”",
-          "url": "https://wallstreetcn.com/articles/3770808",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时01分 ~ 19时02分]"
         },
         {
           "title": "伊朗外长：伊朗人民比以往任何时候更团结",
@@ -806,13 +820,24 @@
           "time_info": "04时07分"
         },
         {
+          "title": "曝伊朗外长今晚将率团抵达伊斯兰堡",
+          "url": "https://www.toutiao.com/trending/7632286427601964594/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时02分"
+        },
+        {
           "title": "英国首相发言人：英国首相斯塔默不会在伊朗战争问题上受到压力。",
           "url": "https://flash.jin10.com/detail/20260424184848878800",
           "source": "金十数据",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时02分"
         },
@@ -982,6 +1007,17 @@
           "time_info": "17时25分"
         },
         {
+          "title": "巴基斯坦消息人士：伊朗外长今晚将率团抵达伊斯兰堡",
+          "url": "https://wallstreetcn.com/livenews/3094032",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时02分"
+        },
+        {
           "title": "伊朗革命卫队扣押集装箱船画面曝光",
           "url": "https://www.toutiao.com/trending/7631880274972003878/",
           "source": "今日头条",
@@ -1090,6 +1126,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时59分"
+        },
+        {
+          "title": "伊朗外交部长预计将于周五晚抵达伊斯兰堡。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3094027",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时02分"
         },
         {
           "title": "据Axios报道，伊朗在霍尔木兹海峡部署更多水雷。 WTI原油5分钟内上涨0.5美元/桶，报96.69美元/桶。",
@@ -1241,9 +1288,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时02分"
+        },
+        {
+          "title": "墨西哥比索和南非兰特因伊朗与美国可能将举行会谈而攀升至日内高点。",
+          "url": "https://flash.jin10.com/detail/20260424193204327800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时02分"
         },
         {
           "title": "伊朗外长：伊朗人民比以往任何时候更团结",
@@ -1277,6 +1335,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时13分"
+        },
+        {
+          "title": "伊朗将恢复德黑兰至北京的客运航班",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%B0%86%E6%81%A2%E5%A4%8D%E5%BE%B7%E9%BB%91%E5%85%B0%E8%87%B3%E5%8C%97%E4%BA%AC%E7%9A%84%E5%AE%A2%E8%BF%90%E8%88%AA%E7%8F%AD",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时02分"
         },
         {
           "title": "以色列否认其对伊朗发动攻击",
@@ -1406,7 +1475,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时02分"
         },
@@ -1461,7 +1530,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时02分"
         }
@@ -1469,7 +1538,7 @@
     },
     {
       "keyword_group": "科技",
-      "match_count": 26,
+      "match_count": 27,
       "titles": [
         {
           "title": "光模块龙头中际旭创总市值站上万亿，最近 1 年股价飙升超 10 倍，估值合理吗？对 A 股科技板块意味着什么？",
@@ -1710,6 +1779,17 @@
           "time_info": "17时25分"
         },
         {
+          "title": "国常会：研究科技创新有关工作",
+          "url": "https://wallstreetcn.com/livenews/3094014",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时02分"
+        },
+        {
           "title": "恒生科技指数早盘盘尾翻红，此前一度跌近2%；恒生指数跌幅缩窄至0.31%。",
           "url": "https://flash.jin10.com/detail/20260424114833558800",
           "source": "金十数据",
@@ -1727,7 +1807,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时02分"
         },
@@ -1749,7 +1829,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时02分"
         },
@@ -1873,7 +1953,7 @@
     },
     {
       "keyword_group": "金融",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "Cohere将收购Aleph Alpha，合并后公司估值约为200亿美元。（英国金融时报）",
@@ -1885,6 +1965,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时03分"
+        },
+        {
+          "title": "规范金融产品网络营销活动，央行等八部门发布管理办法",
+          "url": "https://www.cls.cn/detail/2354995",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时02分"
         },
         {
           "title": "韩国举办研讨会聚焦中韩金融合作新前景",
@@ -1937,7 +2028,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时02分"
         },
@@ -1948,7 +2039,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时02分"
         }
@@ -1959,23 +2050,24 @@
       "match_count": 5,
       "titles": [
         {
-          "title": "金价何时迎来阶段性反弹",
-          "url": "https://www.toutiao.com/trending/7631763306449518635/",
-          "source": "今日头条",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时25分 ~ 19时02分]"
-        },
-        {
           "title": "国际金价银价下跌",
           "url": "https://www.douyin.com/hot/2477037",
           "source": "抖音",
           "ranks": [
             21,
-            22
+            22,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时25分 ~ 20时02分]"
+        },
+        {
+          "title": "金价何时迎来阶段性反弹",
+          "url": "https://www.toutiao.com/trending/7631763306449518635/",
+          "source": "今日头条",
+          "ranks": [
+            16
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -2069,6 +2161,45 @@
       ]
     },
     {
+      "keyword_group": "美元",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "周四（4月23日）纽约尾盘，ICE美元指数涨0.24%，报98.822点，日内交投区间为98.534-98.939点，北京时间01:00出现一波显著的快速拉升行情。 彭博美元指数涨0.20%，报1199.60点，日内交投区间为1196.33-1201.00点。 美元兑日元涨0.15%，报159.72日元，日内交投区间为159.30-159.84日元。",
+          "url": "https://wallstreetcn.com/livenews/3093500",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时07分"
+        },
+        {
+          "title": "巴基斯坦官员称，预计美伊将举行第二轮会谈。 WTI原油日内跌幅达2.0%，报93.9美元/桶。 布伦特原油日内跌幅达1.5%，报103.41美元/桶。 纳斯达克100指数期货延续涨势，日内涨幅达1.6%，触及盘中高点。 欧洲斯托克600指数抹去跌幅。 美国国债延续涨势，各期限收益率触及日内低点。 现货白银日内涨幅达1.0%，报76.19美元/盎司。 现货黄金5分钟内上涨8.09美元/盎司，报4715.28美元/盎司。 墨西哥比索和南非兰特升至日内高点。",
+          "url": "https://wallstreetcn.com/livenews/3094034",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时02分"
+        },
+        {
+          "title": "美元和国际油价有所回落，美元指数DXY涨幅收窄至0.1%，美、布两油涨幅均收窄至3%以内，现货黄金收复部分跌幅。",
+          "url": "https://flash.jin10.com/detail/20260424021553965800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时59分"
+        }
+      ]
+    },
+    {
       "keyword_group": "资源",
       "match_count": 2,
       "titles": [
@@ -2121,34 +2252,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时25分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "周四（4月23日）纽约尾盘，ICE美元指数涨0.24%，报98.822点，日内交投区间为98.534-98.939点，北京时间01:00出现一波显著的快速拉升行情。 彭博美元指数涨0.20%，报1199.60点，日内交投区间为1196.33-1201.00点。 美元兑日元涨0.15%，报159.72日元，日内交投区间为159.30-159.84日元。",
-          "url": "https://wallstreetcn.com/livenews/3093500",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时07分"
-        },
-        {
-          "title": "美元和国际油价有所回落，美元指数DXY涨幅收窄至0.1%，美、布两油涨幅均收窄至3%以内，现货黄金收复部分跌幅。",
-          "url": "https://flash.jin10.com/detail/20260424021553965800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时59分"
         }
       ]
     },
