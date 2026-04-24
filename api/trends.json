@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-24T17:25:36.389923+08:00",
-  "total_titles_processed": 1329,
+  "generated_at": "2026-04-24T19:02:11.696449+08:00",
+  "total_titles_processed": 1462,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 122,
+      "match_count": 128,
       "titles": [
         {
           "title": "特朗普下令击沉任何霍尔木兹布雷船，伊朗据称启动德黑兰防空系统拦截“敌对目标”、以否认空袭",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[05时40分 ~ 17时25分]"
+          "appearance_count": 12,
+          "time_info": "[05时40分 ~ 19时02分]"
         },
         {
           "title": "伊朗领导层集体驳斥特朗普",
@@ -29,6 +29,19 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[02时59分 ~ 07时39分]"
+        },
+        {
+          "title": "伊朗局势搅动市场，美股震荡收跌，芯片连涨17日，英特尔盘后飙升20%，原油四连涨",
+          "url": "https://wallstreetcn.com/articles/3770666",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时58分 ~ 19时02分]"
         },
         {
           "title": "“安全不是免费的”！伊朗收到首笔霍尔木兹通行费，美军称拦截两艘伊方超级油轮",
@@ -67,8 +80,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[02时59分 ~ 17时25分]"
+          "appearance_count": 14,
+          "time_info": "[02时59分 ~ 19时02分]"
         },
         {
           "title": "伊朗战争丨伊朗：启动防空系统旨在应对小型无人机",
@@ -80,19 +93,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[05时40分 ~ 07时39分]"
-        },
-        {
-          "title": "伊朗局势搅动市场，美股震荡收跌，芯片连涨17日，英特尔盘后飙升20%，原油四连涨",
-          "url": "https://wallstreetcn.com/articles/3770666",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时58分 ~ 17时25分]"
         },
         {
           "title": "英媒：特朗普特使要求国际足联用意大利替换伊朗参加世界杯",
@@ -245,6 +245,29 @@
           "time_info": "[05时40分 ~ 06时38分]"
         },
         {
+          "title": "凤凰女记者：伊朗仍然团结，没有美媒所说的争吵、辞职",
+          "url": "https://news.ifeng.com/c/8saTFP0s9pC",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时25分 ~ 19时02分]"
+        },
+        {
+          "title": "特朗普重申对伊朗“已大赢特赢”，黎以停火将延长三周，以媒称“伊朗议长已从谈判小组辞职”，伊朗否认内部分裂",
+          "url": "https://wallstreetcn.com/articles/3770760",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时25分 ~ 19时02分]"
+        },
+        {
           "title": "伊朗局势搅动市场，美股震荡收跌，芯片连涨17日，英伟达盘后飙升20%，原油四连涨",
           "url": "https://wallstreetcn.com/articles/3770666",
           "source": "华尔街见闻",
@@ -290,6 +313,31 @@
           "time_info": "[04时07分 ~ 09时58分]"
         },
         {
+          "title": "特朗普特使提议「以意大利队取代伊朗队踢世界杯」，对此你怎么看，如何评价这一操作？",
+          "url": "https://www.zhihu.com/question/2030686844841451758",
+          "source": "知乎",
+          "ranks": [
+            18,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时58分 ~ 19时02分]"
+        },
+        {
+          "title": "特朗普再称「不着急」「没压力」， 想同伊朗达成「永久协议」，这场时间消耗战，谁在主导叙事？谁先扛不住？",
+          "url": "https://www.zhihu.com/question/2030931346604778681",
+          "source": "知乎",
+          "ranks": [
+            9,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时55分 ~ 19时02分]"
+        },
+        {
           "title": "伊朗战争丨以防长：只要美国同意，将刺杀穆杰塔巴",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
@@ -329,7 +377,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时25分"
         },
@@ -422,17 +470,6 @@
           "time_info": "01时13分"
         },
         {
-          "title": "凤凰女记者：伊朗仍然团结，没有美媒所说的争吵、辞职",
-          "url": "https://news.ifeng.com/c/8saTFP0s9pC",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时25分"
-        },
-        {
           "title": "伊朗外交部发言人：我们尚未决定是否参加与华盛顿的新一轮谈判。",
           "url": "https://flash.jin10.com/detail/20260424004119190800",
           "source": "金十数据",
@@ -472,18 +509,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时25分"
-        },
-        {
-          "title": "特朗普重申对伊朗“已大赢特赢”，黎以停火将延长三周，以媒称“伊朗议长已从谈判小组辞职”，伊朗否认内部分裂",
-          "url": "https://wallstreetcn.com/articles/3770760",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时25分"
         },
@@ -533,18 +559,6 @@
           "time_info": "[09时58分 ~ 17时25分]"
         },
         {
-          "title": "特朗普特使提议「以意大利队取代伊朗队踢世界杯」，对此你怎么看，如何评价这一操作？",
-          "url": "https://www.zhihu.com/question/2030686844841451758",
-          "source": "知乎",
-          "ranks": [
-            18,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时58分 ~ 17时25分]"
-        },
-        {
           "title": "欧盟领导人非正式会议聚焦伊朗战事等议题",
           "url": "https://wallstreetcn.com/livenews/3093540",
           "source": "华尔街见闻-快讯",
@@ -558,19 +572,6 @@
           "time_info": "[05时40分 ~ 12时55分]"
         },
         {
-          "title": "特朗普再称「不着急」「没压力」， 想同伊朗达成「永久协议」，这场时间消耗战，谁在主导叙事？谁先扛不住？",
-          "url": "https://www.zhihu.com/question/2030931346604778681",
-          "source": "知乎",
-          "ranks": [
-            9,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时55分 ~ 17时25分]"
-        },
-        {
           "title": "特朗普再称“不着急”“没压力” 想同伊朗达成“永久协议”",
           "url": "https://flash.jin10.com/detail/20260424062741826800",
           "source": "金十数据",
@@ -581,6 +582,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时38分 ~ 07时39分]"
+        },
+        {
+          "title": "伊朗遭“数字斩首”：对方导弹落地前，境内大量美国牌路由器死机，网络瘫痪使雷达失联，指挥链路中断，部队瞬间“失明”",
+          "url": "https://wallstreetcn.com/articles/3770741",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时58分 ~ 19时02分]"
         },
         {
           "title": "【特朗普“不会”考虑对伊朗动用核武器】被问及是否会考虑对伊朗动用核武器，特朗普回答“不会”，并称美国即便不发动核打击，也已将伊朗“彻底摧毁”。（新华社）",
@@ -666,6 +680,18 @@
           "time_info": "[12时55分 ~ 15时03分]"
         },
         {
+          "title": "特朗普再强调对伊朗“已大赢特赢”：有时间、没压力、不着急",
+          "url": "https://www.cls.cn/detail/2354699",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时25分 ~ 19时02分]"
+        },
+        {
           "title": "伊朗领导层集体否认内斗分裂",
           "url": "https://www.toutiao.com/trending/7631334778814398505/",
           "source": "今日头条",
@@ -676,6 +702,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时55分 ~ 15时03分]"
+        },
+        {
+          "title": "伊朗战争丨伊朗将恢复德黑兰至北京的客运航班",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时01分 ~ 19时02分]"
         },
         {
           "title": "伊朗称已收到首笔霍尔木兹通行费",
@@ -690,16 +727,15 @@
           "time_info": "[04时07分 ~ 05时40分]"
         },
         {
-          "title": "伊朗遭“数字斩首”：对方导弹落地前，境内大量美国牌路由器死机，网络瘫痪使雷达失联，指挥链路中断，部队瞬间“失明”",
-          "url": "https://wallstreetcn.com/articles/3770741",
+          "title": "美军制定与伊朗重新开战新方案，以色列拟“重启战争”，伊朗称将“对等回应”",
+          "url": "https://wallstreetcn.com/articles/3770808",
           "source": "华尔街见闻",
           "ranks": [
-            9,
             8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时58分 ~ 17时25分]"
+          "time_info": "[19时01分 ~ 19时02分]"
         },
         {
           "title": "伊朗外长：伊朗人民比以往任何时候更团结",
@@ -770,6 +806,17 @@
           "time_info": "04时07分"
         },
         {
+          "title": "英国首相发言人：英国首相斯塔默不会在伊朗战争问题上受到压力。",
+          "url": "https://flash.jin10.com/detail/20260424184848878800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
+        },
+        {
           "title": "伊朗外交部发言人：将出席与国际原子能机构在维也纳举行的会议，讨论技术性问题。",
           "url": "https://flash.jin10.com/detail/20260424002815677800",
           "source": "金十数据",
@@ -820,18 +867,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时25分"
-        },
-        {
-          "title": "特朗普再强调对伊朗“已大赢特赢”：有时间、没压力、不着急",
-          "url": "https://www.cls.cn/detail/2354699",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时25分"
         },
@@ -941,7 +977,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时25分"
         },
@@ -1199,6 +1235,17 @@
           "time_info": "06时38分"
         },
         {
+          "title": "伊朗军队总司令：军队在最高领袖领导下保持“一致行动”",
+          "url": "https://flash.jin10.com/detail/20260424183648741800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
+        },
+        {
           "title": "伊朗外长：伊朗人民比以往任何时候更团结",
           "url": "https://flash.jin10.com/detail/20260424051157866800",
           "source": "金十数据",
@@ -1348,9 +1395,20 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时25分"
+        },
+        {
+          "title": "伊朗将恢复德黑兰至北京的客运航班",
+          "url": "https://flash.jin10.com/detail/20260424183326369800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
         },
         {
           "title": "报道：革命卫队介入，伊朗议长卡利巴夫已辞去谈判团队职务",
@@ -1395,12 +1453,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时40分"
+        },
+        {
+          "title": "伊朗教育部长：将把本轮美伊战争纳入教材",
+          "url": "https://wallstreetcn.com/livenews/3093921",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
         }
       ]
     },
     {
       "keyword_group": "科技",
-      "match_count": 24,
+      "match_count": 26,
       "titles": [
         {
           "title": "光模块龙头中际旭创总市值站上万亿，最近 1 年股价飙升超 10 倍，估值合理吗？对 A 股科技板块意味着什么？",
@@ -1559,7 +1628,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时25分"
         },
@@ -1636,7 +1705,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时25分"
         },
@@ -1652,6 +1721,17 @@
           "time_info": "12时55分"
         },
         {
+          "title": "英国金融科技公司Revolut正关闭其在欧洲部分地区用于贵金属交易的商品业务。",
+          "url": "https://flash.jin10.com/detail/20260424183353178800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
+        },
+        {
           "title": "A股可燃冰概念股盘初走弱，潜能恒信跌超5%，石化机械跌超4%，神开股份、新锦动力、海默科技跌幅居前。",
           "url": "https://flash.jin10.com/detail/20260424093117967800",
           "source": "金十数据",
@@ -1663,13 +1743,24 @@
           "time_info": "09时58分"
         },
         {
+          "title": "锋龙股份：优必选科技要约收购2845万股公司股份，股票复牌",
+          "url": "https://wallstreetcn.com/livenews/3093922",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
+        },
+        {
           "title": "当升科技：一季度净利润2.77亿元，同比增长150.25%，主要是锂电正极材料销量增长，叠加产品售价随着原材料市场行情大幅增长。",
           "url": "https://wallstreetcn.com/livenews/3093865",
           "source": "华尔街见闻-快讯",
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时25分"
         }
@@ -1782,7 +1873,7 @@
     },
     {
       "keyword_group": "金融",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "Cohere将收购Aleph Alpha，合并后公司估值约为200亿美元。（英国金融时报）",
@@ -1838,6 +1929,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时59分"
+        },
+        {
+          "title": "中国央行等八部门：应用算法推荐技术开展网络营销的 不得设置诱导金融消费者和投资者过度消费的算法模型",
+          "url": "https://wallstreetcn.com/livenews/3093926",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
+        },
+        {
+          "title": "中国央行等八部门：金融机构及其员工不得委托第三方互联网平台以“投资者教育”“课程培训”等形式变相开展金融产品网络营销",
+          "url": "https://wallstreetcn.com/livenews/3093925",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
         }
       ]
     },
@@ -1845,6 +1958,29 @@
       "keyword_group": "金价",
       "match_count": 5,
       "titles": [
+        {
+          "title": "金价何时迎来阶段性反弹",
+          "url": "https://www.toutiao.com/trending/7631763306449518635/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时25分 ~ 19时02分]"
+        },
+        {
+          "title": "国际金价银价下跌",
+          "url": "https://www.douyin.com/hot/2477037",
+          "source": "抖音",
+          "ranks": [
+            21,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时25分 ~ 19时02分]"
+        },
         {
           "title": "中东风险越烧越旺，金价却不动了？",
           "url": "https://flash.jin10.com/detail/20260424121654481800",
@@ -1857,17 +1993,6 @@
           "time_info": "12时55分"
         },
         {
-          "title": "金价何时迎来阶段性反弹",
-          "url": "https://www.toutiao.com/trending/7631763306449518635/",
-          "source": "今日头条",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时25分"
-        },
-        {
           "title": "纽蒙特矿业承诺：黄金价格出现史无前例的上涨行情，公司打算回购60亿美元股票。",
           "url": "https://wallstreetcn.com/livenews/3093522",
           "source": "华尔街见闻-快讯",
@@ -1877,17 +2002,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时40分"
-        },
-        {
-          "title": "国际金价银价下跌",
-          "url": "https://www.douyin.com/hot/2477037",
-          "source": "抖音",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时25分"
         },
         {
           "title": "中东和平前景急转直下 油价涨幅扩大，金价走低",
@@ -1976,7 +2090,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时25分"
         }
@@ -2004,7 +2118,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时25分"
         }
@@ -2049,7 +2163,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时25分"
         },
