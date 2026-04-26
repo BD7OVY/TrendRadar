@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-26T17:47:43.872365+08:00",
-  "total_titles_processed": 1056,
+  "generated_at": "2026-04-26T18:40:08.245362+08:00",
+  "total_titles_processed": 1100,
   "failed_sources": [],
   "trends": [
     {
@@ -120,6 +120,31 @@
           "time_info": "[00时34分 ~ 13时17分]"
         },
         {
+          "title": "特朗普被伊朗气坏了",
+          "url": "https://news.ifeng.com/c/8sd8zVVWM0m",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            3,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时01分 ~ 18时40分]"
+        },
+        {
+          "title": "伊朗称“已形成霍尔木兹海峡综合管理方案”，“须缴纳相关费用，里亚尔支付优先”，美军称将继续对进出伊朗港口船只实施全面封锁",
+          "url": "https://wallstreetcn.com/articles/3770901",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时01分 ~ 18时40分]"
+        },
+        {
           "title": "巴基斯坦总理谢里夫：很高兴今天与伊朗外长阿拉格奇会面。 讨论了加强双边关系。 就当前地区局势交换了意见。",
           "url": "https://wallstreetcn.com/livenews/3094408",
           "source": "华尔街见闻-快讯",
@@ -179,19 +204,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时34分 ~ 07时31分]"
-        },
-        {
-          "title": "特朗普被伊朗气坏了",
-          "url": "https://news.ifeng.com/c/8sd8zVVWM0m",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            3,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时01分 ~ 17时47分]"
         },
         {
           "title": "伊朗最高领袖发表致辞",
@@ -300,16 +312,66 @@
           "time_info": "[00时34分 ~ 07时31分]"
         },
         {
-          "title": "伊朗称“已形成霍尔木兹海峡综合管理方案”，“须缴纳相关费用，里亚尔支付优先”，美军称将继续对进出伊朗港口船只实施全面封锁",
-          "url": "https://wallstreetcn.com/articles/3770901",
-          "source": "华尔街见闻",
+          "title": "枪击是否与伊朗战争有关？特朗普回应",
+          "url": "https://news.ifeng.com/c/8sdOgZksONK",
+          "source": "凤凰网",
           "ranks": [
-            6,
+            10,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时20分 ~ 18时40分]"
+        },
+        {
+          "title": "伊朗最高领袖敦促海湾国家保持警惕",
+          "url": "https://www.toutiao.com/trending/7632514962371464758/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            17,
+            26,
+            29,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时01分 ~ 18时40分]"
+        },
+        {
+          "title": "伊朗战争丨穆杰塔巴下令霍尔木兹海峡不得恢复战前状态",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时17分 ~ 18时40分]"
+        },
+        {
+          "title": "伊朗最高领袖已明确下令，霍尔木兹海峡不得恢复战前状态，会是永久战略吗？对国际市场意味着什么？",
+          "url": "https://www.zhihu.com/question/2031646484894937327",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时17分 ~ 18时40分]"
+        },
+        {
+          "title": "特朗普谈枪击事件：原以为托盘掉地上 否认袭击与伊朗战争有关",
+          "url": "https://www.cls.cn/detail/2355864",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            7,
             5
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[10时01分 ~ 17时47分]"
+          "time_info": "[15时20分 ~ 18时40分]"
         },
         {
           "title": "据伊朗学生通讯社：伊朗将通过巴基斯坦作为调解方与美国进行间接磋商。伊朗方面表示，希望达成一项旨在“彻底终结战争”的框架协议。",
@@ -409,15 +471,19 @@
           "time_info": "[06时30分 ~ 10时01分]"
         },
         {
-          "title": "阿曼苏丹会见伊朗外长 强调通过对话推动地区问题政治解决",
-          "url": "https://wallstreetcn.com/livenews/3094478",
+          "title": "特朗普否认枪击事件与伊朗战争有关",
+          "url": "https://wallstreetcn.com/livenews/3094441",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            5,
+            8,
+            11,
+            15,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时47分"
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时17分 ~ 18时40分]"
         },
         {
           "title": "美以袭击伊朗进入第 58 天，当前局势如何？还有哪些信息值得关注？",
@@ -430,18 +496,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[10时01分 ~ 17时47分]"
-        },
-        {
-          "title": "枪击是否与伊朗战争有关？特朗普回应",
-          "url": "https://news.ifeng.com/c/8sdOgZksONK",
-          "source": "凤凰网",
-          "ranks": [
-            10,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时20分 ~ 17时47分]"
         },
         {
           "title": "伊朗外长随行代表团的一部分已返回德黑兰，就结束战争问题进行磋商。",
@@ -472,20 +526,6 @@
           "time_info": "[04时32分 ~ 07时31分]"
         },
         {
-          "title": "特朗普否认枪击事件与伊朗战争有关",
-          "url": "https://wallstreetcn.com/livenews/3094441",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            8,
-            11,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时17分 ~ 17时47分]"
-        },
-        {
           "title": "伊朗副议长：穆杰塔巴下令霍尔木兹海峡不得恢复战前状态",
           "url": "https://wallstreetcn.com/livenews/3094423",
           "source": "华尔街见闻-快讯",
@@ -495,20 +535,6 @@
             23,
             26,
             30
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时01分 ~ 17时47分]"
-        },
-        {
-          "title": "伊朗最高领袖敦促海湾国家保持警惕",
-          "url": "https://www.toutiao.com/trending/7632514962371464758/",
-          "source": "今日头条",
-          "ranks": [
-            7,
-            17,
-            26,
-            29
           ],
           "is_new": false,
           "appearance_count": 5,
@@ -553,28 +579,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时31分 ~ 10时01分]"
-        },
-        {
-          "title": "伊朗战争丨穆杰塔巴下令霍尔木兹海峡不得恢复战前状态",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时17分 ~ 17时47分]"
-        },
-        {
-          "title": "伊朗最高领袖已明确下令，霍尔木兹海峡不得恢复战前状态，会是永久战略吗？对国际市场意味着什么？",
-          "url": "https://www.zhihu.com/question/2031646484894937327",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时17分 ~ 17时47分]"
         },
         {
           "title": "美国中央司令部：我们继续对伊朗港口实施海上封锁。",
@@ -629,19 +633,6 @@
           "time_info": "[05时31分 ~ 07时31分]"
         },
         {
-          "title": "特朗普谈枪击事件：原以为托盘掉地上 否认袭击与伊朗战争有关",
-          "url": "https://www.cls.cn/detail/2355864",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时20分 ~ 17时47分]"
-        },
-        {
           "title": "伊朗官员称美伊可能在未来几天举行第二轮谈判",
           "url": "https://flash.jin10.com/detail/20260426044938838800",
           "source": "金十数据",
@@ -677,6 +668,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时31分 ~ 10时01分]"
+        },
+        {
+          "title": "阿曼苏丹会见伊朗外长 强调通过对话推动地区问题政治解决",
+          "url": "https://wallstreetcn.com/livenews/3094478",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时47分 ~ 18时40分]"
         },
         {
           "title": "伊朗最高领袖敦促海湾国家对“邪恶势力”的虚假承诺保持警惕",
@@ -727,6 +730,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时31分 ~ 07时31分]"
+        },
+        {
+          "title": "特朗普否认枪击事件与伊朗战争有关",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%90%A6%E8%AE%A4%E6%9E%AA%E5%87%BB%E4%BA%8B%E4%BB%B6%E4%B8%8E%E4%BC%8A%E6%9C%97%E6%88%98%E4%BA%89%E6%9C%89%E5%85%B3",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时52分 ~ 18时40分]"
         },
         {
           "title": "美国共和党参议员格雷厄姆：让我们继续封锁，开放海峡，必要时恢复军事行动，确保伊朗永远无法重蹈覆辙。",
@@ -821,6 +836,18 @@
           "time_info": "[10时01分 ~ 16时52分]"
         },
         {
+          "title": "消息人士：伊朗外长离开巴基斯坦",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33054749",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时52分 ~ 18时40分]"
+        },
+        {
           "title": "土耳其外交部：土耳其外长与伊朗和巴基斯坦外长进行了电话讨论，商讨最新进展。",
           "url": "https://flash.jin10.com/detail/20260426051120031800",
           "source": "金十数据",
@@ -860,6 +887,19 @@
           "time_info": "[05时31分 ~ 07时31分]"
         },
         {
+          "title": "阿曼苏丹会见伊朗外长 强调通过对话推动地区问题政治解决",
+          "url": "https://flash.jin10.com/detail/20260426153521787800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            20,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时52分 ~ 18时40分]"
+        },
+        {
           "title": "伊朗外长阿拉格齐将在访问阿曼后重返巴基斯坦，随后前往莫斯科。",
           "url": "https://flash.jin10.com/detail/20260426030037606800",
           "source": "金十数据",
@@ -884,6 +924,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时31分 ~ 07时31分]"
+        },
+        {
+          "title": "土耳其外交部消息人士称，土耳其外交部长与美国谈判代表进行了电话沟通，讨论了伊朗与美国谈判的最新进展。",
+          "url": "https://flash.jin10.com/detail/20260426153357045800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            21,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时52分 ~ 18时40分]"
         },
         {
           "title": "消息称伊朗比第一轮谈判时更强硬",
@@ -1014,17 +1067,6 @@
           "time_info": "[10时01分 ~ 15时20分]"
         },
         {
-          "title": "特朗普否认枪击事件与伊朗战争有关",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%90%A6%E8%AE%A4%E6%9E%AA%E5%87%BB%E4%BA%8B%E4%BB%B6%E4%B8%8E%E4%BC%8A%E6%9C%97%E6%88%98%E4%BA%89%E6%9C%89%E5%85%B3",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时52分 ~ 17时47分]"
-        },
-        {
           "title": "伊朗外长：美国是否真心实意进行谈判还有待观察",
           "url": "https://flash.jin10.com/detail/20260426010310775800",
           "source": "金十数据",
@@ -1049,18 +1091,6 @@
           "time_info": "[02时40分 ~ 03时40分]"
         },
         {
-          "title": "阿曼苏丹会见伊朗外长 强调通过对话推动地区问题政治解决",
-          "url": "https://flash.jin10.com/detail/20260426153521787800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时52分 ~ 17时47分]"
-        },
-        {
           "title": "伊朗革命卫队：管理和控制霍尔木兹海峡，是伊朗不可避免的战略重点。",
           "url": "https://flash.jin10.com/detail/20260426010221207800",
           "source": "金十数据",
@@ -1071,18 +1101,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时33分 ~ 02时40分]"
-        },
-        {
-          "title": "土耳其外交部消息人士称，土耳其外交部长与美国谈判代表进行了电话沟通，讨论了伊朗与美国谈判的最新进展。",
-          "url": "https://flash.jin10.com/detail/20260426153357045800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时52分 ~ 17时47分]"
         },
         {
           "title": "巴基斯坦总理谢里夫：赞赏伊朗的持续参与，包括由外交部长率领的高级代表团访问伊斯兰堡。",
@@ -1191,18 +1209,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时40分 ~ 04时32分]"
-        },
-        {
-          "title": "消息人士：伊朗外长离开巴基斯坦",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33054749",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时52分 ~ 17时47分]"
         },
         {
           "title": "美国总统特朗普：无论谁执掌伊朗，我都会与之谈判打交道。",
@@ -1549,19 +1555,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时34分 ~ 17时47分]"
+          "appearance_count": 15,
+          "time_info": "[00时34分 ~ 18时40分]"
         },
         {
           "title": "世嘉科技：2025年净亏损5654.8万元 同比由盈转亏",
           "url": "https://flash.jin10.com/detail/20260426165826249800",
           "source": "金十数据",
           "ranks": [
-            10
+            10,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时47分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时47分 ~ 18时40分]"
         }
       ]
     },
@@ -1575,11 +1582,12 @@
           "source": "知乎",
           "ranks": [
             7,
-            17
+            17,
+            19
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时34分 ~ 13时17分]"
+          "appearance_count": 12,
+          "time_info": "[00时34分 ~ 18时40分]"
         },
         {
           "title": "深圳公交站台吸烟男子被罚款！公共场合控烟，不该让普通人去“硬碰硬”",
@@ -1590,11 +1598,12 @@
             14,
             13,
             9,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时01分 ~ 17时47分]"
+          "appearance_count": 7,
+          "time_info": "[10时01分 ~ 18时40分]"
         },
         {
           "title": "媒体调查“深圳一女子劝阻吸烟引发争执”：公交站台吸烟该罚吗？",
@@ -1605,11 +1614,12 @@
             15,
             16,
             12,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时01分 ~ 17时47分]"
+          "appearance_count": 7,
+          "time_info": "[10时01分 ~ 18时40分]"
         }
       ]
     },
@@ -1664,11 +1674,12 @@
           "source": "抖音",
           "ranks": [
             22,
-            24
+            24,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时20分 ~ 17时47分]"
+          "appearance_count": 4,
+          "time_info": "[15时20分 ~ 18时40分]"
         }
       ]
     },
@@ -1721,11 +1732,12 @@
             2,
             5,
             8,
-            12
+            12,
+            15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时17分 ~ 17时47分]"
+          "appearance_count": 5,
+          "time_info": "[13时17分 ~ 18时40分]"
         }
       ]
     }
