@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-28T13:53:22.732039+08:00",
-  "total_titles_processed": 1005,
+  "generated_at": "2026-04-28T16:12:12.865852+08:00",
+  "total_titles_processed": 1162,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 82,
+      "match_count": 85,
       "titles": [
         {
           "title": "伊朗提出一项分三阶段解决的谈判方案：先谈终止战争，然后霍尔木兹海峡，最后才是核问题",
@@ -28,11 +28,12 @@
             8,
             7,
             4,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时46分 ~ 13时53分]"
+          "appearance_count": 12,
+          "time_info": "[00时46分 ~ 16时12分]"
         },
         {
           "title": "美国以涉伊朗为由制裁中企 中方表态",
@@ -60,6 +61,30 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时46分 ~ 10时10分]"
+        },
+        {
+          "title": "伊朗代表：美国“如同海盗和恐怖分子”",
+          "url": "https://news.ifeng.com/c/8sgbI0j3nvZ",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时10分 ~ 16时12分]"
+        },
+        {
+          "title": "伊朗外长称美方请求谈判、伊方正考虑，美国务卿称伊重开霍尔木兹提议不可接受",
+          "url": "https://wallstreetcn.com/articles/3771035",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时10分 ~ 16时12分]"
         },
         {
           "title": "美以袭击伊朗进入第 59 天，当前局势如何？还有哪些信息值得关注？",
@@ -137,30 +162,6 @@
           "time_info": "[10时10分 ~ 13时53分]"
         },
         {
-          "title": "伊朗代表：美国“如同海盗和恐怖分子”",
-          "url": "https://news.ifeng.com/c/8sgbI0j3nvZ",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时10分 ~ 13时53分]"
-        },
-        {
-          "title": "伊朗外长称美方请求谈判、伊方正考虑，美国务卿称伊重开霍尔木兹提议不可接受",
-          "url": "https://wallstreetcn.com/articles/3771035",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时10分 ~ 13时53分]"
-        },
-        {
           "title": "伊朗外交部长：我们欢迎俄罗斯对外交的支持。",
           "url": "https://flash.jin10.com/detail/20260428100859227800",
           "source": "金十数据",
@@ -216,6 +217,18 @@
           "time_info": "07时45分"
         },
         {
+          "title": "美伊分歧难弥合！美官员：特朗普“不喜欢”伊朗新提案 核问题须优先解决",
+          "url": "https://www.cls.cn/detail/2357692",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时53分 ~ 16时12分]"
+        },
+        {
           "title": "谈判陷入僵局之际 特朗普与团队就伊朗问题举行磋商",
           "url": "https://flash.jin10.com/detail/20260428014156137800",
           "source": "金十数据",
@@ -236,6 +249,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时45分"
+        },
+        {
+          "title": "美以袭击伊朗进入第 60 天，当前局势如何？还有哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2032226305366647567",
+          "source": "知乎",
+          "ranks": [
+            6,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时45分 ~ 16时12分]"
         },
         {
           "title": "美媒：特朗普对伊朗的提议持怀疑态度 但没有断然拒绝",
@@ -311,6 +336,18 @@
           "time_info": "[06时43分 ~ 07时45分]"
         },
         {
+          "title": "普京：全世界都钦佩伊朗人民抵抗美国",
+          "url": "https://www.toutiao.com/trending/7632898398869474879/",
+          "source": "今日头条",
+          "ranks": [
+            11,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时10分 ~ 16时12分]"
+        },
+        {
           "title": "普京会见伊朗外长阿拉格齐",
           "url": "https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E4%BC%9A%E8%A7%81%E4%BC%8A%E6%9C%97%E5%A4%96%E9%95%BF%E9%98%BF%E6%8B%89%E6%A0%BC%E9%BD%90",
           "source": "百度热搜",
@@ -324,16 +361,27 @@
           "time_info": "[04时05分 ~ 06时43分]"
         },
         {
-          "title": "美以袭击伊朗进入第 60 天，当前局势如何？还有哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2032226305366647567",
-          "source": "知乎",
+          "title": "伊朗战争丨与特朗普说法不同，鲁比奥称伊朗仍有半数导弹库存",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "source": "凤凰网",
           "ranks": [
-            6,
-            11
+            6
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[07时45分 ~ 13时53分]"
+          "time_info": "[13时53分 ~ 16时12分]"
+        },
+        {
+          "title": "伊朗“蚊子舰队”如何控制海峡",
+          "url": "https://www.toutiao.com/trending/7632881081640976430/",
+          "source": "今日头条",
+          "ranks": [
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时53分 ~ 16时12分]"
         },
         {
           "title": "伊朗战争丨特朗普及其国安团队开会讨论伊朗新提案",
@@ -418,18 +466,6 @@
           "time_info": "[06时43分 ~ 07时45分]"
         },
         {
-          "title": "普京：全世界都钦佩伊朗人民抵抗美国",
-          "url": "https://www.toutiao.com/trending/7632898398869474879/",
-          "source": "今日头条",
-          "ranks": [
-            11,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时10分 ~ 13时53分]"
-        },
-        {
           "title": "伊朗外长：伊方正研究和评估美方的谈判请求",
           "url": "https://wallstreetcn.com/livenews/3095137",
           "source": "华尔街见闻-快讯",
@@ -490,15 +526,15 @@
           "time_info": "[05时50分 ~ 06时43分]"
         },
         {
-          "title": "伊朗战争丨与特朗普说法不同，鲁比奥称伊朗仍有半数导弹库存",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
-          "source": "凤凰网",
+          "title": "美媒：特朗普对伊朗新方案不满意",
+          "url": "https://www.toutiao.com/trending/7633339570876170294/",
+          "source": "今日头条",
           "ranks": [
-            6
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时53分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时11分 ~ 16时12分]"
         },
         {
           "title": "美国驻联合国代表：伊朗违反海洋法，在霍尔木兹海峡进行海盗行为。",
@@ -543,17 +579,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时06分"
-        },
-        {
-          "title": "美伊分歧难弥合！美官员：特朗普“不喜欢”伊朗新提案 核问题须优先解决",
-          "url": "https://www.cls.cn/detail/2357692",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时53分"
         },
         {
           "title": "美国驻联合国代表：伊朗威胁要征收费用或所谓的贿赂，以允许船只通过霍尔木兹海峡。",
@@ -650,7 +675,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时53分"
         },
@@ -686,17 +711,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时10分"
-        },
-        {
-          "title": "伊朗“蚊子舰队”如何控制海峡",
-          "url": "https://www.toutiao.com/trending/7632881081640976430/",
-          "source": "今日头条",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时53分"
         },
         {
           "title": "伊朗第一副总统：曾经拒绝向我们的飞机提供燃料的国家现在正与我们谈判以确保能源来源。",
@@ -815,7 +829,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时53分"
         },
@@ -903,9 +917,20 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时53分"
+        },
+        {
+          "title": "据伊朗学生通讯社：政府发言人表示，随着情况的正常化，伊朗互联网状况必将发生变化。",
+          "url": "https://flash.jin10.com/detail/20260428152901320800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时12分"
         },
         {
           "title": "白宫：特朗普及其国安团队开会讨论伊朗新提案",
@@ -950,13 +975,35 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时47分"
+        },
+        {
+          "title": "伊朗油轮聚集在恰巴哈尔港附近 紧邻美国封锁线",
+          "url": "https://wallstreetcn.com/livenews/3095530",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时12分"
         }
       ]
     },
     {
       "keyword_group": "科技",
-      "match_count": 23,
+      "match_count": 26,
       "titles": [
+        {
+          "title": "科技巨头财报周前夕，标普纳指新高，芯片指数终结连涨，英伟达再新高，布油六连阳",
+          "url": "https://wallstreetcn.com/articles/3770961",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时10分 ~ 16时12分]"
+        },
         {
           "title": "【早报】美股科技巨头冷暖不均，英伟达、英特尔齐创新高；一批A股公司一季度净利增超10倍",
           "url": "https://www.cls.cn/detail/2357431",
@@ -970,17 +1017,6 @@
           "time_info": "[07时45分 ~ 13时53分]"
         },
         {
-          "title": "科技巨头财报周前夕，标普纳指新高，芯片指数终结连涨，英伟达再新高，布油六连阳",
-          "url": "https://wallstreetcn.com/articles/3770961",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时10分 ~ 13时53分]"
-        },
-        {
           "title": "对冲基金两年来最快速度抛售科技股，美股内部已现裂痕",
           "url": "https://wallstreetcn.com/articles/3770942",
           "source": "华尔街见闻",
@@ -990,6 +1026,29 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时46分 ~ 06时43分]"
+        },
+        {
+          "title": "“AI光算力第一股”来了！上海曦智科技今登陆港交所 全球知名机构争做基石投资者",
+          "url": "https://www.cls.cn/detail/2357540",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时10分 ~ 16时12分]"
+        },
+        {
+          "title": "恒生指数收盘跌0.95%，恒生科技指数跌2.28%，曦智科技上市首日涨383.62%",
+          "url": "https://wallstreetcn.com/livenews/3095574",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时12分"
         },
         {
           "title": "科技巨头财报周前夕，标普、纳指新高，芯片指数终结连涨，英伟达再新高，布油六连阳",
@@ -1025,28 +1084,17 @@
           "time_info": "10时10分"
         },
         {
-          "title": "“AI光算力第一股”来了！上海曦智科技今登陆港交所 全球知名机构争做基石投资者",
-          "url": "https://www.cls.cn/detail/2357540",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时10分 ~ 13时53分]"
-        },
-        {
           "title": "4月28日投资避雷针：联翔股份、湘邮科技等11股明起将被实施ST",
           "url": "https://www.cls.cn/detail/2357477",
           "source": "财联社热门",
           "ranks": [
             12,
-            10
+            10,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时10分 ~ 13时53分]"
+          "appearance_count": 4,
+          "time_info": "[10时10分 ~ 16时12分]"
         },
         {
           "title": "周一（4月27日），美股行业ETF涨跌各异，全球航空业ETF收跌1.81%，日常消费品ETF跌1.07%，可选消费ETF跌0.72%，半导体ETF跌0.04%。 科技行业ETF、全球科技股指数ETF至多涨0.31%，银行业ETF涨1.39%，区域银行ETF涨1.71%。",
@@ -1059,6 +1107,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时50分 ~ 06时43分]"
+        },
+        {
+          "title": "伟测科技：第一季度净利润7085.8万元，同比增长173.39%",
+          "url": "https://flash.jin10.com/detail/20260428154814102800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时12分"
         },
         {
           "title": "半导体产业链盘初调整，聚辰股份、盛美上海跌超10%，唯捷创芯、至纯科技、芯源微、航宇微跌超5%。",
@@ -1078,9 +1137,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时53分"
+        },
+        {
+          "title": "伟测科技：第一季度净利润7085.8万元，同比增长173.39%",
+          "url": "https://wallstreetcn.com/livenews/3095561",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时12分"
         },
         {
           "title": "恒指低开0.43%，恒生科技指数低开0.33%。曦智科技在香港上市首日飙升380%。",
@@ -1188,7 +1258,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时53分"
         },
@@ -1329,7 +1399,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时53分"
         },
@@ -1411,6 +1481,45 @@
       ]
     },
     {
+      "keyword_group": "资源",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "DeepSeek 为什么选择在内蒙古自建数据中心，而不是租用阿里云、腾讯云等大厂的算力资源？",
+          "url": "https://www.zhihu.com/question/2031729357580919027",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时11分 ~ 16时12分]"
+        },
+        {
+          "title": "怎么看待各大医院纷纷开设国际部？市场化的国际部会不会占用医院的过多精力和资源，使得公立医院本末倒置？",
+          "url": "https://www.zhihu.com/question/2029666750866760121",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时11分 ~ 16时12分]"
+        },
+        {
+          "title": "DeepSeek 为什么选择在内蒙古自建数据中心，而不是租用阿里云的算力资源？",
+          "url": "https://www.zhihu.com/question/2031729357580919027",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时53分"
+        }
+      ]
+    },
+    {
       "keyword_group": "消费",
       "match_count": 3,
       "titles": [
@@ -1447,6 +1556,46 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时45分 ~ 10时10分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "深圳",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "【数据看盘】机构与量化资金激烈博弈深圳华强 多路资金联手抢筹江海股份",
+          "url": "https://www.cls.cn/detail/2356859",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时46分 ~ 07时45分]"
+        },
+        {
+          "title": "美国等40国团组密集来深圳参访",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E7%AD%8940%E5%9B%BD%E5%9B%A2%E7%BB%84%E5%AF%86%E9%9B%86%E6%9D%A5%E6%B7%B1%E5%9C%B3%E5%8F%82%E8%AE%BF",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时11分 ~ 16时12分]"
+        },
+        {
+          "title": "美国等40国团组密集来深圳参访",
+          "url": "https://wallstreetcn.com/livenews/3095452",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时53分"
         }
       ]
     },
@@ -1536,35 +1685,6 @@
       ]
     },
     {
-      "keyword_group": "深圳",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "【数据看盘】机构与量化资金激烈博弈深圳华强 多路资金联手抢筹江海股份",
-          "url": "https://www.cls.cn/detail/2356859",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时46分 ~ 07时45分]"
-        },
-        {
-          "title": "美国等40国团组密集来深圳参访",
-          "url": "https://wallstreetcn.com/livenews/3095452",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时53分"
-        }
-      ]
-    },
-    {
       "keyword_group": "徒步",
       "match_count": 2,
       "titles": [
@@ -1589,24 +1709,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时53分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "资源",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "DeepSeek 为什么选择在内蒙古自建数据中心，而不是租用阿里云的算力资源？",
-          "url": "https://www.zhihu.com/question/2031729357580919027",
-          "source": "知乎",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时53分"
         }
@@ -1627,6 +1730,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时47分 ~ 02时02分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "黄金价格跌跌不休",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E4%BB%B7%E6%A0%BC%E8%B7%8C%E8%B7%8C%E4%B8%8D%E4%BC%91%23&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时11分 ~ 16时12分]"
         }
       ]
     }
