@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-01T05:52:33.837570+08:00",
-  "total_titles_processed": 514,
+  "generated_at": "2026-05-01T06:46:11.955231+08:00",
+  "total_titles_processed": 558,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 18,
+      "match_count": 20,
       "titles": [
         {
           "title": "美军拟以“高超音速导弹”打击伊朗，周四将向特朗普汇报新“打击计划”",
@@ -16,30 +16,43 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时13分 ~ 05时52分]"
+          "appearance_count": 7,
+          "time_info": "[01时13分 ~ 06时46分]"
         },
         {
-          "title": "据伊朗学生通讯社：伊朗外交部发言人表示，期望与美国的谈判迅速取得成果是不切实际的。",
-          "url": "https://flash.jin10.com/detail/20260501052857915800",
+          "title": "阿联酋禁止本国公民前往伊朗、黎巴嫩和伊拉克",
+          "url": "https://flash.jin10.com/detail/20260501062449868800",
           "source": "金十数据",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时52分"
+          "time_info": "06时46分"
+        },
+        {
+          "title": "据伊朗学生通讯社：伊朗外交部发言人表示，期望与美国的谈判迅速取得成果是不切实际的。",
+          "url": "https://flash.jin10.com/detail/20260501052857915800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时52分 ~ 06时46分]"
         },
         {
           "title": "据华尔街日报：Meta Platforms CEO扎克伯格表示，公司将缩减公司各部门团队，伊朗战争导致公司销售出现“轨迹变化”。",
           "url": "https://flash.jin10.com/detail/20260501052348245800",
           "source": "金十数据",
           "ranks": [
-            3
+            3,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时52分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时52分 ~ 06时46分]"
         },
         {
           "title": "【德黑兰传出防空系统拦截声，或为拦截小型无人机】据伊朗媒体4月30日晚报道，伊朗首都德黑兰南部和中部城区传出防空系统拦截声。塔斯尼姆通讯社说，防空系统可能是在拦截德黑兰上空出现的小型无人机。（新华社）",
@@ -65,6 +78,17 @@
           "time_info": "[03时09分 ~ 04时54分]"
         },
         {
+          "title": "伊朗战争丨特朗普：可能需要打破伊朗停火协议",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时52分 ~ 06时46分]"
+        },
+        {
           "title": "美国防长：对伊朗军事行动“60天期限”已因停火“中止”",
           "url": "https://wallstreetcn.com/livenews/3097704",
           "source": "华尔街见闻-快讯",
@@ -77,6 +101,29 @@
           "time_info": "[04时54分 ~ 05时52分]"
         },
         {
+          "title": "阿联酋：禁止本国公民前往伊朗、黎巴嫩和伊拉克",
+          "url": "https://wallstreetcn.com/livenews/3097721",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时52分 ~ 06时46分]"
+        },
+        {
+          "title": "美以袭击伊朗进入第 62 天，当前局势如何？还有哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2032954547836907965",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时45分 ~ 06时46分]"
+        },
+        {
           "title": "伊朗战争丨美众议院议长：国会无需就对伊朗的军事行动表决",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
           "source": "凤凰网",
@@ -86,17 +133,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时13分"
-        },
-        {
-          "title": "伊朗战争丨特朗普：可能需要打破伊朗停火协议",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时52分"
         },
         {
           "title": "伊朗外长阿拉格齐：今天是伊朗的‘波斯湾国家日’，这一天旨在纪念约400年前我们的先辈将葡萄牙人驱逐出霍尔木兹海峡的历史时刻。美国总统使用的是‘波斯湾’这一正确名称，而非五角大楼所炮制的虚假术语！然而，若以其他任何名称来替代‘霍尔木兹’，无疑将是一个‘极其严重的错误’。",
@@ -119,17 +155,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时13分"
-        },
-        {
-          "title": "阿联酋：禁止本国公民前往伊朗、黎巴嫩和伊拉克",
-          "url": "https://wallstreetcn.com/livenews/3097721",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时52分"
         },
         {
           "title": "伊朗总统和议长寻求撤换外长，理由是他“屈从于革命卫队”",
@@ -212,8 +237,31 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
+        {
+          "title": "胡锡进：只要中国赚钱机会越来越多，谷歌就不舍得真正“离开”",
+          "url": "https://news.ifeng.com/c/8skgZ2z6e0A",
+          "source": "凤凰网",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时13分 ~ 06时46分]"
+        },
+        {
+          "title": "经济数据与财报提振信心，标普、纳指新高，谷歌大涨10%，日元暴涨",
+          "url": "https://wallstreetcn.com/articles/3771356",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时45分 ~ 06时46分]"
+        },
         {
           "title": "谷歌母公司Q1营收超预期增长22%，AI驱动多板块业务增长，云业务大增63%",
           "url": "https://wallstreetcn.com/articles/3771311",
@@ -228,16 +276,15 @@
           "time_info": "[01时13分 ~ 05时52分]"
         },
         {
-          "title": "胡锡进：只要中国赚钱机会越来越多，谷歌就不舍得真正“离开”",
-          "url": "https://news.ifeng.com/c/8skgZ2z6e0A",
-          "source": "凤凰网",
+          "title": "美股收盘：标普纳指再创新高 谷歌劲升10%闪迪盘后重挫",
+          "url": "https://www.cls.cn/detail/2361634",
+          "source": "财联社热门",
           "ranks": [
-            11,
-            12
+            11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时13分 ~ 05时52分]"
+          "appearance_count": 2,
+          "time_info": "[06时45分 ~ 06时46分]"
         },
         {
           "title": "谷歌母公司Alphabet涨幅扩大至10%，创最近逾一年来最大盘中涨幅。",
@@ -297,8 +344,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时13分 ~ 05时52分]"
+          "appearance_count": 7,
+          "time_info": "[01时13分 ~ 06时46分]"
         },
         {
           "title": "“科技四巨头”罕见同日财报：谷歌大涨Meta重挫，谷歌、微软和亚马逊云增长迅猛，谷歌和Meta上调资本开支",
@@ -309,8 +356,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时13分 ~ 05时52分]"
+          "appearance_count": 7,
+          "time_info": "[01时13分 ~ 06时46分]"
         },
         {
           "title": "闻泰科技将变更为*ST闻泰",
@@ -322,8 +369,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时13分 ~ 05时52分]"
+          "appearance_count": 7,
+          "time_info": "[01时13分 ~ 06时46分]"
         },
         {
           "title": "美国AI儿童安全法案获参议院小组支持 科技巨头将受影响",
@@ -400,8 +447,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时13分 ~ 05时52分]"
+          "appearance_count": 7,
+          "time_info": "[01时13分 ~ 06时46分]"
         },
         {
           "title": "美国消费者金融监管机构敲定小企业贷款数据新规",
@@ -442,8 +489,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时13分 ~ 05时52分]"
+          "appearance_count": 7,
+          "time_info": "[01时13分 ~ 06时46分]"
         },
         {
           "title": "金价突涨",
@@ -455,8 +502,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时13分 ~ 05时52分]"
+          "appearance_count": 7,
+          "time_info": "[01时13分 ~ 06时46分]"
         },
         {
           "title": "美国银行：预计铝价格将提前至2026年四季度达到4000美元/吨，之前预计要到2027年二季度才会涨至那样的水平。 上调锌价格预期12.7%，至3309美元/吨。 铜市场仍然供应紧俏，预计2026-27年将存在供应缺口。 重申对未来12个月黄金价格6000美元/盎司的预期。",
@@ -472,6 +519,34 @@
       ]
     },
     {
+      "keyword_group": "消费",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "“五一”叠加春假催热消费",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E4%BA%94%E4%B8%80%E2%80%9D%E5%8F%A0%E5%8A%A0%E6%98%A5%E5%81%87%E5%82%AC%E7%83%AD%E6%B6%88%E8%B4%B9",
+          "source": "百度热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时13分 ~ 06时46分]"
+        },
+        {
+          "title": "新西兰4月澳新银行新西兰消费者信心指数下降至80.3，创2023年5月份以来新低，前值91.3。 由于爆发伊朗战争，燃料价格上涨，冲击到家庭收入、加重对经济下滑的担忧情绪。",
+          "url": "https://wallstreetcn.com/livenews/3097747",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时46分"
+        }
+      ]
+    },
+    {
       "keyword_group": "深圳",
       "match_count": 2,
       "titles": [
@@ -483,11 +558,12 @@
             22,
             24,
             29,
-            27
+            27,
+            26
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时13分 ~ 05时52分]"
+          "appearance_count": 7,
+          "time_info": "[01时13分 ~ 06时46分]"
         },
         {
           "title": "对53个非洲建交国全面实施零关税全国首票货物深圳通关",
@@ -503,23 +579,6 @@
       ]
     },
     {
-      "keyword_group": "消费",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "“五一”叠加春假催热消费",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E4%BA%94%E4%B8%80%E2%80%9D%E5%8F%A0%E5%8A%A0%E6%98%A5%E5%81%87%E5%82%AC%E7%83%AD%E6%B6%88%E8%B4%B9",
-          "source": "百度热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时13分 ~ 05时52分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "医药",
       "match_count": 1,
       "titles": [
@@ -528,11 +587,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33082124",
           "source": "澎湃新闻",
           "ranks": [
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时13分 ~ 05时52分]"
+          "appearance_count": 7,
+          "time_info": "[01时13分 ~ 06时46分]"
         }
       ]
     },
