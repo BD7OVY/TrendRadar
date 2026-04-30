@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-01T04:54:00.810381+08:00",
-  "total_titles_processed": 465,
+  "generated_at": "2026-05-01T05:52:33.837570+08:00",
+  "total_titles_processed": 514,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 14,
+      "match_count": 18,
       "titles": [
         {
           "title": "美军拟以“高超音速导弹”打击伊朗，周四将向特朗普汇报新“打击计划”",
@@ -16,19 +16,42 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时13分 ~ 04时54分]"
+          "appearance_count": 5,
+          "time_info": "[01时13分 ~ 05时52分]"
+        },
+        {
+          "title": "据伊朗学生通讯社：伊朗外交部发言人表示，期望与美国的谈判迅速取得成果是不切实际的。",
+          "url": "https://flash.jin10.com/detail/20260501052857915800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时52分"
+        },
+        {
+          "title": "据华尔街日报：Meta Platforms CEO扎克伯格表示，公司将缩减公司各部门团队，伊朗战争导致公司销售出现“轨迹变化”。",
+          "url": "https://flash.jin10.com/detail/20260501052348245800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时52分"
         },
         {
           "title": "【德黑兰传出防空系统拦截声，或为拦截小型无人机】据伊朗媒体4月30日晚报道，伊朗首都德黑兰南部和中部城区传出防空系统拦截声。塔斯尼姆通讯社说，防空系统可能是在拦截德黑兰上空出现的小型无人机。（新华社）",
           "url": "https://wallstreetcn.com/livenews/3097707",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时54分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时54分 ~ 05时52分]"
         },
         {
           "title": "伊朗战争丨以防长：或很快对伊朗再次采取行动",
@@ -42,6 +65,18 @@
           "time_info": "[03时09分 ~ 04时54分]"
         },
         {
+          "title": "美国防长：对伊朗军事行动“60天期限”已因停火“中止”",
+          "url": "https://wallstreetcn.com/livenews/3097704",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时54分 ~ 05时52分]"
+        },
+        {
           "title": "伊朗战争丨美众议院议长：国会无需就对伊朗的军事行动表决",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
           "source": "凤凰网",
@@ -51,6 +86,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时13分"
+        },
+        {
+          "title": "伊朗战争丨特朗普：可能需要打破伊朗停火协议",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时52分"
         },
         {
           "title": "伊朗外长阿拉格齐：今天是伊朗的‘波斯湾国家日’，这一天旨在纪念约400年前我们的先辈将葡萄牙人驱逐出霍尔木兹海峡的历史时刻。美国总统使用的是‘波斯湾’这一正确名称，而非五角大楼所炮制的虚假术语！然而，若以其他任何名称来替代‘霍尔木兹’，无疑将是一个‘极其严重的错误’。",
@@ -64,17 +110,6 @@
           "time_info": "01时13分"
         },
         {
-          "title": "美国防长：对伊朗军事行动“60天期限”已因停火“中止”",
-          "url": "https://wallstreetcn.com/livenews/3097704",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时54分"
-        },
-        {
           "title": "后继乏力，美国对伊朗已使出最后手段？",
           "url": "https://v.ifeng.com/c/8skrO0EzSbj",
           "source": "凤凰网",
@@ -84,6 +119,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时13分"
+        },
+        {
+          "title": "阿联酋：禁止本国公民前往伊朗、黎巴嫩和伊拉克",
+          "url": "https://wallstreetcn.com/livenews/3097721",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时52分"
         },
         {
           "title": "伊朗总统和议长寻求撤换外长，理由是他“屈从于革命卫队”",
@@ -103,7 +149,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时54分"
         },
@@ -114,7 +160,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时54分"
         },
@@ -136,7 +182,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时54分"
         },
@@ -158,7 +204,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时54分"
         }
@@ -178,8 +224,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时13分 ~ 04时54分]"
+          "appearance_count": 5,
+          "time_info": "[01时13分 ~ 05时52分]"
         },
         {
           "title": "胡锡进：只要中国赚钱机会越来越多，谷歌就不舍得真正“离开”",
@@ -190,8 +236,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时13分 ~ 04时54分]"
+          "appearance_count": 5,
+          "time_info": "[01时13分 ~ 05时52分]"
         },
         {
           "title": "谷歌母公司Alphabet涨幅扩大至10%，创最近逾一年来最大盘中涨幅。",
@@ -222,7 +268,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时54分"
         },
@@ -233,7 +279,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时54分"
         }
@@ -251,8 +297,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时13分 ~ 04时54分]"
+          "appearance_count": 5,
+          "time_info": "[01时13分 ~ 05时52分]"
         },
         {
           "title": "“科技四巨头”罕见同日财报：谷歌大涨Meta重挫，谷歌、微软和亚马逊云增长迅猛，谷歌和Meta上调资本开支",
@@ -263,8 +309,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时13分 ~ 04时54分]"
+          "appearance_count": 5,
+          "time_info": "[01时13分 ~ 05时52分]"
         },
         {
           "title": "闻泰科技将变更为*ST闻泰",
@@ -272,11 +318,12 @@
           "source": "今日头条",
           "ranks": [
             11,
-            27
+            27,
+            29
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时13分 ~ 04时54分]"
+          "appearance_count": 5,
+          "time_info": "[01时13分 ~ 05时52分]"
         },
         {
           "title": "美国AI儿童安全法案获参议院小组支持 科技巨头将受影响",
@@ -353,8 +400,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时13分 ~ 04时54分]"
+          "appearance_count": 5,
+          "time_info": "[01时13分 ~ 05时52分]"
         },
         {
           "title": "美国消费者金融监管机构敲定小企业贷款数据新规",
@@ -391,11 +438,12 @@
           "ranks": [
             16,
             17,
-            14
+            14,
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时13分 ~ 04时54分]"
+          "appearance_count": 5,
+          "time_info": "[01时13分 ~ 05时52分]"
         },
         {
           "title": "金价突涨",
@@ -407,8 +455,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时13分 ~ 04时54分]"
+          "appearance_count": 5,
+          "time_info": "[01时13分 ~ 05时52分]"
         },
         {
           "title": "美国银行：预计铝价格将提前至2026年四季度达到4000美元/吨，之前预计要到2027年二季度才会涨至那样的水平。 上调锌价格预期12.7%，至3309美元/吨。 铜市场仍然供应紧俏，预计2026-27年将存在供应缺口。 重申对未来12个月黄金价格6000美元/盎司的预期。",
@@ -434,11 +482,12 @@
           "ranks": [
             22,
             24,
-            29
+            29,
+            27
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时13分 ~ 04时54分]"
+          "appearance_count": 5,
+          "time_info": "[01时13分 ~ 05时52分]"
         },
         {
           "title": "对53个非洲建交国全面实施零关税全国首票货物深圳通关",
@@ -465,8 +514,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时13分 ~ 04时54分]"
+          "appearance_count": 5,
+          "time_info": "[01时13分 ~ 05时52分]"
         }
       ]
     },
@@ -482,8 +531,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时13分 ~ 04时54分]"
+          "appearance_count": 5,
+          "time_info": "[01时13分 ~ 05时52分]"
         }
       ]
     },
@@ -498,7 +547,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时54分"
         }
