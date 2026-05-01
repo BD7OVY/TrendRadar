@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-01T22:49:42.562082+08:00",
-  "total_titles_processed": 1599,
+  "generated_at": "2026-05-01T23:50:49.149685+08:00",
+  "total_titles_processed": 1676,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 82,
+      "match_count": 90,
       "titles": [
         {
           "title": "美军拟以“高超音速导弹”打击伊朗，周四将向特朗普汇报新“打击计划”",
@@ -31,8 +31,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时25分 ~ 22时49分]"
+          "appearance_count": 10,
+          "time_info": "[10时25分 ~ 23时50分]"
         },
         {
           "title": "伊朗最高领袖、总统、议长、外长、革命卫队密集发声",
@@ -42,8 +42,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时56分 ~ 22时49分]"
+          "appearance_count": 7,
+          "time_info": "[16时56分 ~ 23时50分]"
         },
         {
           "title": "伊朗总统表示美国海上封锁不可容忍 特朗普称已摧毁伊朗核能力 | 环球市场",
@@ -55,8 +55,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时25分 ~ 22时49分]"
+          "appearance_count": 10,
+          "time_info": "[10时25分 ~ 23时50分]"
         },
         {
           "title": "24小时接收6500吨装备，以防长称或“很快恢复”对伊朗军事行动",
@@ -79,8 +79,34 @@
             7
           ],
           "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时56分 ~ 23时50分]"
+        },
+        {
+          "title": "美辩称袭击伊朗系“自卫”，伊朗怒斥",
+          "url": "https://news.ifeng.com/c/8sm4vXslE7P",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
           "appearance_count": 6,
-          "time_info": "[16时56分 ~ 22时49分]"
+          "time_info": "[18时18分 ~ 23时50分]"
+        },
+        {
+          "title": "根据53年前颁布的这项法案，今天以后特朗普还能继续打伊朗吗？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33084769",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            14,
+            12,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时18分 ~ 23时50分]"
         },
         {
           "title": "据半岛电视台援引消息人士的话称，伊朗通过巴基斯坦提交了新提议，核谈判不太可能成功，重点可能转向结束战争。",
@@ -105,6 +131,17 @@
           "time_info": "19时54分"
         },
         {
+          "title": "伊朗提新谈判方案，美股高开高走，苹果绩后一度涨近6%，美油盘中跌超5%",
+          "url": "https://wallstreetcn.com/articles/3771459",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时50分"
+        },
+        {
           "title": "伊朗战争冲击石油市场下，巴西油气产量创历史新高",
           "url": "https://flash.jin10.com/detail/20260501071636612800",
           "source": "金十数据",
@@ -116,40 +153,37 @@
           "time_info": "07时45分"
         },
         {
-          "title": "美辩称袭击伊朗系“自卫”，伊朗怒斥",
-          "url": "https://news.ifeng.com/c/8sm4vXslE7P",
-          "source": "凤凰网",
+          "title": "白宫拒评有关伊朗回应细节",
+          "url": "https://flash.jin10.com/detail/20260501231543542800",
+          "source": "金十数据",
           "ranks": [
-            8
+            4
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时18分 ~ 22时49分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时50分"
         },
         {
-          "title": "伊朗足协主席：国家队是否赴美参加世界杯仍需与国际足联沟通协调",
-          "url": "https://flash.jin10.com/detail/20260501221603622800",
+          "title": "伊朗消息人士：伊朗仍对美国深感不信任",
+          "url": "https://flash.jin10.com/detail/20260501231455080800",
           "source": "金十数据",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时49分"
+          "time_info": "23时50分"
         },
         {
-          "title": "根据53年前颁布的这项法案，今天以后特朗普还能继续打伊朗吗？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33084769",
-          "source": "澎湃新闻",
+          "title": "布伦特原油期货跌2美元/桶，伊朗提出和平建议。",
+          "url": "https://wallstreetcn.com/livenews/3097949",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            15,
-            14,
-            12,
-            9
+            5
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时18分 ~ 22时49分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时50分"
         },
         {
           "title": "特朗普称美国结束对伊朗战争",
@@ -262,6 +296,18 @@
           "time_info": "[16时56分 ~ 19时54分]"
         },
         {
+          "title": "伊朗足协主席：国家队是否赴美参加世界杯仍需与国际足联沟通协调",
+          "url": "https://flash.jin10.com/detail/20260501221603622800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时49分 ~ 23时50分]"
+        },
+        {
           "title": "伊朗称最高领袖身体健康",
           "url": "https://wallstreetcn.com/livenews/3097843",
           "source": "华尔街见闻-快讯",
@@ -363,6 +409,18 @@
           "time_info": "[16时56分 ~ 18时19分]"
         },
         {
+          "title": "伊朗谈判方案已被转交美国",
+          "url": "https://wallstreetcn.com/livenews/3097938",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时49分 ~ 23时50分]"
+        },
+        {
           "title": "美国防长：对伊朗军事行动“60天期限”已因停火“中止”",
           "url": "https://wallstreetcn.com/livenews/3097704",
           "source": "华尔街见闻-快讯",
@@ -423,6 +481,18 @@
           "time_info": "[10时25分 ~ 14时10分]"
         },
         {
+          "title": "伊朗足协主席：国家队是否赴美参加世界杯仍需与国际足联沟通协调",
+          "url": "https://wallstreetcn.com/livenews/3097934",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时49分 ~ 23时50分]"
+        },
+        {
           "title": "伊朗代表团亚沙会单日斩获7金",
           "url": "https://www.toutiao.com/trending/7633661538721251338/",
           "source": "今日头条",
@@ -444,6 +514,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时45分 ~ 06时46分]"
+        },
+        {
+          "title": "伊朗递交最新谈判方案",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E9%80%92%E4%BA%A4%E6%9C%80%E6%96%B0%E8%B0%88%E5%88%A4%E6%96%B9%E6%A1%88%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时49分 ~ 23时50分]"
         },
         {
           "title": "伊朗递交最新伊美谈判方案",
@@ -496,9 +578,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时49分"
+        },
+        {
+          "title": "伊朗战争丨美军最大航母“福特”号已离开中东",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时50分"
         },
         {
           "title": "伊朗外长同欧盟外交与安全政策高级代表通话 讨论地区局势",
@@ -510,17 +603,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时19分"
-        },
-        {
-          "title": "伊朗谈判方案已被转交美国",
-          "url": "https://wallstreetcn.com/livenews/3097938",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时49分"
         },
         {
           "title": "伊朗外长阿拉格齐：今天是伊朗的‘波斯湾国家日’，这一天旨在纪念约400年前我们的先辈将葡萄牙人驱逐出霍尔木兹海峡的历史时刻。美国总统使用的是‘波斯湾’这一正确名称，而非五角大楼所炮制的虚假术语！然而，若以其他任何名称来替代‘霍尔木兹’，无疑将是一个‘极其严重的错误’。",
@@ -611,6 +693,17 @@
           "time_info": "18时19分"
         },
         {
+          "title": "美国财政部网站更新针对伊朗的相关制裁。",
+          "url": "https://flash.jin10.com/detail/20260501230903973800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时50分"
+        },
+        {
           "title": "伊朗外长：美对伊战争已致美国损失1000亿美元",
           "url": "https://wallstreetcn.com/livenews/3097857",
           "source": "华尔街见闻-快讯",
@@ -677,17 +770,6 @@
           "time_info": "21时02分"
         },
         {
-          "title": "伊朗足协主席：国家队是否赴美参加世界杯仍需与国际足联沟通协调",
-          "url": "https://wallstreetcn.com/livenews/3097934",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时49分"
-        },
-        {
           "title": "以色列紧急向阿联酋提供激光系统，以帮助其防御伊朗导弹。",
           "url": "https://flash.jin10.com/detail/20260501040234281800",
           "source": "金十数据",
@@ -705,7 +787,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时49分"
         },
@@ -738,7 +820,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时49分"
         },
@@ -796,6 +878,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "21时02分"
+        },
+        {
+          "title": "伊朗议会议长卡利巴夫：战胜敌对超级大国之后进行重建的日子即将到来。",
+          "url": "https://flash.jin10.com/detail/20260501225711327800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时50分"
         },
         {
           "title": "伊朗外交部：美国袭击伊朗是“侵略行为”",
@@ -864,13 +957,24 @@
           "time_info": "03时09分"
         },
         {
+          "title": "巴基斯坦官员称伊朗递交的最新谈判方案已转交美国",
+          "url": "https://flash.jin10.com/detail/20260501222838293800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时50分"
+        },
+        {
           "title": "美国于周一向伊朗提交了一份修订清单。（AXIOS）",
           "url": "https://wallstreetcn.com/livenews/3097918",
           "source": "华尔街见闻-快讯",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时49分"
         },
@@ -919,17 +1023,6 @@
           "time_info": "21时02分"
         },
         {
-          "title": "伊朗递交最新谈判方案",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E9%80%92%E4%BA%A4%E6%9C%80%E6%96%B0%E8%B0%88%E5%88%A4%E6%96%B9%E6%A1%88%23&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时49分"
-        },
-        {
           "title": "以媒：美国“即将决定”是否重启对伊朗军事行动",
           "url": "https://wallstreetcn.com/livenews/3097818",
           "source": "华尔街见闻-快讯",
@@ -947,6 +1040,18 @@
       "match_count": 18,
       "titles": [
         {
+          "title": "美国制造业保持扩张势头 价格指标触及四年高位",
+          "url": "https://wallstreetcn.com/livenews/3097936",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时49分 ~ 23时50分]"
+        },
+        {
           "title": "日本4月制造业PMI终值 55.1，初值 54.9。",
           "url": "https://wallstreetcn.com/livenews/3097773",
           "source": "华尔街见闻-快讯",
@@ -959,6 +1064,66 @@
           "time_info": "[10时25分 ~ 14时10分]"
         },
         {
+          "title": "美国ISM制造业价格指数升至84.6，为2022年4月以来最高。",
+          "url": "https://wallstreetcn.com/livenews/3097929",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时49分 ~ 23时50分]"
+        },
+        {
+          "title": "美国4月ISM制造业指数 52.7，预期 53.2，前值 52.7。",
+          "url": "https://wallstreetcn.com/livenews/3097928",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时49分 ~ 23时50分]"
+        },
+        {
+          "title": "美国4月ISM制造业物价支付指数 84.6，预期 80，前值 78.3。",
+          "url": "https://wallstreetcn.com/livenews/3097927",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时49分 ~ 23时50分]"
+        },
+        {
+          "title": "美国4月ISM制造业就业指数 46.4，预期 48.8，前值 48.7。",
+          "url": "https://wallstreetcn.com/livenews/3097925",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时49分 ~ 23时50分]"
+        },
+        {
+          "title": "美国4月ISM制造业新订单指数 54.1，预期 54.5，前值 53.5。",
+          "url": "https://wallstreetcn.com/livenews/3097926",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时49分 ~ 23时50分]"
+        },
+        {
           "title": "澳大利亚4月标普全球制造业PMI终值 51.3，前值51。",
           "url": "https://flash.jin10.com/detail/20260501070002386800",
           "source": "金十数据",
@@ -968,17 +1133,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时45分"
-        },
-        {
-          "title": "美国制造业保持扩张势头 价格指标触及四年高位",
-          "url": "https://wallstreetcn.com/livenews/3097936",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时49分"
         },
         {
           "title": "英国4月制造业PMI终值 53.7，预期 53.3，初值 53.6。",
@@ -1003,28 +1157,6 @@
           "time_info": "16时56分"
         },
         {
-          "title": "美国ISM制造业价格指数升至84.6，为2022年4月以来最高。",
-          "url": "https://wallstreetcn.com/livenews/3097929",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时49分"
-        },
-        {
-          "title": "美国4月ISM制造业指数 52.7，预期 53.2，前值 52.7。",
-          "url": "https://wallstreetcn.com/livenews/3097928",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时49分"
-        },
-        {
           "title": "英国4月制造业PMI终值、3月央行抵押贷款许可将于十分钟后公布。",
           "url": "https://flash.jin10.com/detail/20260501162000000800",
           "source": "金十数据",
@@ -1036,46 +1168,13 @@
           "time_info": "16时56分"
         },
         {
-          "title": "美国4月ISM制造业物价支付指数 84.6，预期 80，前值 78.3。",
-          "url": "https://wallstreetcn.com/livenews/3097927",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时49分"
-        },
-        {
-          "title": "美国4月ISM制造业就业指数 46.4，预期 48.8，前值 48.7。",
-          "url": "https://wallstreetcn.com/livenews/3097925",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时49分"
-        },
-        {
-          "title": "美国4月ISM制造业新订单指数 54.1，预期 54.5，前值 53.5。",
-          "url": "https://wallstreetcn.com/livenews/3097926",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时49分"
-        },
-        {
           "title": "提醒：北京时间22:00，将公布美国4月ISM制造业指数。",
           "url": "https://wallstreetcn.com/livenews/3097922",
           "source": "华尔街见闻-快讯",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时49分"
         },
@@ -1086,7 +1185,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时49分"
         },
@@ -1097,7 +1196,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时49分"
         },
@@ -1119,7 +1218,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时49分"
         },
@@ -1130,7 +1229,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时49分"
         },
@@ -1141,7 +1240,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时49分"
         }
@@ -1173,8 +1272,21 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时45分 ~ 22时49分]"
+          "appearance_count": 11,
+          "time_info": "[07时45分 ~ 23时50分]"
+        },
+        {
+          "title": "如何看待闻泰科技一年巨亏 87.48 亿，将「披星带帽」，退市风险悬顶？",
+          "url": "https://www.zhihu.com/question/2033139439564580001",
+          "source": "知乎",
+          "ranks": [
+            3,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时56分 ~ 23时50分]"
         },
         {
           "title": "“科技四巨头”罕见同日财报：谷歌大涨Meta重挫，谷歌、微软和亚马逊云增长迅猛，谷歌和Meta上调资本开支",
@@ -1188,19 +1300,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时13分 ~ 07时45分]"
-        },
-        {
-          "title": "如何看待闻泰科技一年巨亏 87.48 亿，将「披星带帽」，退市风险悬顶？",
-          "url": "https://www.zhihu.com/question/2033139439564580001",
-          "source": "知乎",
-          "ranks": [
-            3,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时56分 ~ 22时49分]"
         },
         {
           "title": "闻泰科技将变更为*ST闻泰",
@@ -1238,17 +1337,6 @@
           "time_info": "07时45分"
         },
         {
-          "title": "美股存储板块走高，美光科技(MU.O)涨5.07%，闪迪(SNDK.O)涨4.03%，西部数据(WDC.O)转涨，希捷科技(STX.O)涨5.32%。",
-          "url": "https://flash.jin10.com/detail/20260501222150341800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时49分"
-        },
-        {
           "title": "美股四大科技巨头「谷歌、微软、亚马逊、 Meta」2026 年 Q1 财报同时出炉，如何解析？",
           "url": "https://www.zhihu.com/question/2033115543276930640",
           "source": "知乎",
@@ -1259,6 +1347,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[14时09分 ~ 16时56分]"
+        },
+        {
+          "title": "美股存储板块走高，美光科技(MU.O)涨5.07%，闪迪(SNDK.O)涨4.03%，西部数据(WDC.O)转涨，希捷科技(STX.O)涨5.32%。",
+          "url": "https://flash.jin10.com/detail/20260501222150341800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时49分 ~ 23时50分]"
         },
         {
           "title": "科技巨头财报大比拼，为什么只有谷歌赢了？",
@@ -1313,9 +1413,162 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时49分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金融",
+      "match_count": 13,
+      "titles": [
+        {
+          "title": "南向资金追踪｜4月净流入超565亿港元 加仓金融及电讯等防御板块",
+          "url": "https://www.cls.cn/detail/2361353",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            11,
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[01时13分 ~ 16时56分]"
+        },
+        {
+          "title": "英国央行首席经济学家Pill：冲击会蔓延到何种程度存在高度不确定性。 货币政策委员会内部围绕金融紧缩问题讨论颇多。 政策不应因短期波动而过度反应。",
+          "url": "https://wallstreetcn.com/livenews/3097891",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时54分"
+        },
+        {
+          "title": "周四（4月30日），美股降息赢家指数收涨0.70%，报91.53点，4月份劣迹上涨4.92%，4月1日以来持续走高、在4月21日美股开盘时达到98.86点，随后逐步回吐涨幅。 “特朗普关税输家”指数涨1.30%，报103.40点，4月份累涨3.41%，4月21日美股开盘曾达到110.11点。 “特朗普金融指数”涨1.44%，报163.60点，4月份累涨9.30%，4月15日以来持续高位震荡。 散户抱团概念股指数/迷因股（meme stock）指数涨2.48%，报14.51点，4月份累涨18.06%，4月21日美股盘初曾达到16.30点。",
+          "url": "https://wallstreetcn.com/livenews/3097756",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时45分 ~ 10时25分]"
+        },
+        {
+          "title": "印度央行行长：银行和市场参与者有责任确保每位用户都能轻松进入金融市场。",
+          "url": "https://flash.jin10.com/detail/20260501231202479800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时50分"
+        },
+        {
+          "title": "深圳：创新知识产权金融服务模式",
+          "url": "https://wallstreetcn.com/livenews/3097901",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时02分"
+        },
+        {
+          "title": "印度央行行长：印度的宏观经济和金融基本面依然强劲。",
+          "url": "https://flash.jin10.com/detail/20260501230613245800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时50分"
+        },
+        {
+          "title": "美国消费者金融监管机构敲定小企业贷款数据新规",
+          "url": "https://wallstreetcn.com/livenews/3097636",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时13分"
+        },
+        {
+          "title": "印度央行行长：随着近期金融资产估值的回调，我们预计资金回流将有所放缓。",
+          "url": "https://flash.jin10.com/detail/20260501230602430800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时50分"
+        },
+        {
+          "title": "深圳：打造知识产权金融特色产品",
+          "url": "https://wallstreetcn.com/livenews/3097896",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时02分"
+        },
+        {
+          "title": "埃克森美孚和雪佛龙顶住美国总统特朗普施压，拒绝提高石油产量。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3097875",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时54分"
+        },
+        {
+          "title": "英国央行首席经济学家Pill：冲击会蔓延到何种程度存在高度不确定性。 货币政策委员会内部围绕金融紧缩问题讨论颇多。 政策不应因短期波动而过度反应。 货币政策委员会对第二轮效应的看法存在分歧。 维持利率不变更多是一个主动决策，并非被动决策。 货币政策委员会已强调其采取行动的意愿，且可能采取强力行动。 我的立场与货币政策委员会的中位数观点并没有太大不同。 我的观点是我们应该更迅速一点采取行动。 不处于被动的观望状态。",
+          "url": "https://wallstreetcn.com/livenews/3097891",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时02分"
+        },
+        {
+          "title": "储户1800万被转走 金融监管部门介入",
+          "url": "https://www.baidu.com/s?wd=%E5%82%A8%E6%88%B71800%E4%B8%87%E8%A2%AB%E8%BD%AC%E8%B5%B0+%E9%87%91%E8%9E%8D%E7%9B%91%E7%AE%A1%E9%83%A8%E9%97%A8%E4%BB%8B%E5%85%A5",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时50分"
+        },
+        {
+          "title": "美国消费者金融保护局敲定小企业普查新规",
+          "url": "https://flash.jin10.com/detail/20260501001936023800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时13分"
         }
       ]
     },
@@ -1331,11 +1584,12 @@
             14,
             8,
             7,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时09分 ~ 22时49分]"
+          "appearance_count": 9,
+          "time_info": "[14时09分 ~ 23时50分]"
         },
         {
           "title": "甲亢哥在深圳买的手机掉海里了",
@@ -1378,6 +1632,20 @@
           "time_info": "[16时56分 ~ 19时54分]"
         },
         {
+          "title": "甲亢哥在深圳买的手机掉海里了",
+          "url": "https://www.baidu.com/s?wd=%E7%94%B2%E4%BA%A2%E5%93%A5%E5%9C%A8%E6%B7%B1%E5%9C%B3%E4%B9%B0%E7%9A%84%E6%89%8B%E6%9C%BA%E6%8E%89%E6%B5%B7%E9%87%8C%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            26,
+            17,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时54分 ~ 23时50分]"
+        },
+        {
           "title": "深圳地铁去年亏超371亿元",
           "url": "https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B3%E5%9C%B0%E9%93%81%E5%8E%BB%E5%B9%B4%E4%BA%8F%E8%B6%85371%E4%BA%BF%E5%85%83%23&t=31&band_rank=7&Refer=top",
           "source": "微博",
@@ -1391,17 +1659,16 @@
           "time_info": "[10时25分 ~ 16时56分]"
         },
         {
-          "title": "甲亢哥在深圳买的手机掉海里了",
-          "url": "https://www.baidu.com/s?wd=%E7%94%B2%E4%BA%A2%E5%93%A5%E5%9C%A8%E6%B7%B1%E5%9C%B3%E4%B9%B0%E7%9A%84%E6%89%8B%E6%9C%BA%E6%8E%89%E6%B5%B7%E9%87%8C%E4%BA%86",
-          "source": "百度热搜",
+          "title": "深圳市民连夜买房 中介电话被打爆",
+          "url": "https://www.toutiao.com/trending/7634527518661574698/",
+          "source": "今日头条",
           "ranks": [
             26,
-            17,
-            7
+            23
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[19时54分 ~ 22时49分]"
+          "time_info": "[19时54分 ~ 23时50分]"
         },
         {
           "title": "深圳地铁去年亏超371亿元",
@@ -1424,17 +1691,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时09分 ~ 14时10分]"
-        },
-        {
-          "title": "深圳市民连夜买房 中介电话被打爆",
-          "url": "https://www.toutiao.com/trending/7634527518661574698/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时54分 ~ 21时02分]"
         },
         {
           "title": "对53个非洲建交国全面实施零关税全国首票货物深圳通关",
@@ -1474,8 +1730,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[06时45分 ~ 22时49分]"
+          "appearance_count": 13,
+          "time_info": "[06时45分 ~ 23时50分]"
         },
         {
           "title": "美股收盘：标普纳指再创新高 谷歌劲升10%闪迪盘后重挫",
@@ -1488,8 +1744,23 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[06时45分 ~ 22时49分]"
+          "appearance_count": 13,
+          "time_info": "[06时45分 ~ 23时50分]"
+        },
+        {
+          "title": "谷歌“历史最大涨幅”、英伟达反而大跌！高盛资深半导体分析师建议“做多云、减持芯片”",
+          "url": "https://wallstreetcn.com/articles/3771450",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7,
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时56分 ~ 23时50分]"
         },
         {
           "title": "胡锡进：只要中国赚钱机会越来越多，谷歌就不舍得真正“离开”",
@@ -1502,20 +1773,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时13分 ~ 10时25分]"
-        },
-        {
-          "title": "谷歌“历史最大涨幅”、英伟达反而大跌！高盛资深半导体分析师建议“做多云、减持芯片”",
-          "url": "https://wallstreetcn.com/articles/3771450",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时56分 ~ 22时49分]"
         },
         {
           "title": "谷歌母公司Q1营收超预期增长22%，AI驱动多板块业务增长，云业务大增63%",
@@ -1531,6 +1788,18 @@
           "time_info": "[01时13分 ~ 05时52分]"
         },
         {
+          "title": "谷歌、卡特彼勒成“大赢家”，AI和财报压倒战争，4月的美股创2020年以来最强",
+          "url": "https://wallstreetcn.com/articles/3771451",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时49分 ~ 23时50分]"
+        },
+        {
           "title": "谷歌母公司Alphabet涨幅扩大至10%，创最近逾一年来最大盘中涨幅。",
           "url": "https://wallstreetcn.com/livenews/3097667",
           "source": "华尔街见闻-快讯",
@@ -1540,17 +1809,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时09分"
-        },
-        {
-          "title": "谷歌、卡特彼勒成“大赢家”，AI和财报压倒战争，4月的美股创2020年以来最强",
-          "url": "https://wallstreetcn.com/articles/3771451",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时49分"
         },
         {
           "title": "谷歌公司：开始在配置谷歌的乘用车推广Gemini。",
@@ -1584,115 +1842,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时54分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金融",
-      "match_count": 9,
-      "titles": [
-        {
-          "title": "南向资金追踪｜4月净流入超565亿港元 加仓金融及电讯等防御板块",
-          "url": "https://www.cls.cn/detail/2361353",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            11,
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时13分 ~ 16时56分]"
-        },
-        {
-          "title": "英国央行首席经济学家Pill：冲击会蔓延到何种程度存在高度不确定性。 货币政策委员会内部围绕金融紧缩问题讨论颇多。 政策不应因短期波动而过度反应。",
-          "url": "https://wallstreetcn.com/livenews/3097891",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时54分"
-        },
-        {
-          "title": "周四（4月30日），美股降息赢家指数收涨0.70%，报91.53点，4月份劣迹上涨4.92%，4月1日以来持续走高、在4月21日美股开盘时达到98.86点，随后逐步回吐涨幅。 “特朗普关税输家”指数涨1.30%，报103.40点，4月份累涨3.41%，4月21日美股开盘曾达到110.11点。 “特朗普金融指数”涨1.44%，报163.60点，4月份累涨9.30%，4月15日以来持续高位震荡。 散户抱团概念股指数/迷因股（meme stock）指数涨2.48%，报14.51点，4月份累涨18.06%，4月21日美股盘初曾达到16.30点。",
-          "url": "https://wallstreetcn.com/livenews/3097756",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时45分 ~ 10时25分]"
-        },
-        {
-          "title": "深圳：创新知识产权金融服务模式",
-          "url": "https://wallstreetcn.com/livenews/3097901",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时02分"
-        },
-        {
-          "title": "美国消费者金融监管机构敲定小企业贷款数据新规",
-          "url": "https://wallstreetcn.com/livenews/3097636",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时13分"
-        },
-        {
-          "title": "深圳：打造知识产权金融特色产品",
-          "url": "https://wallstreetcn.com/livenews/3097896",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时02分"
-        },
-        {
-          "title": "埃克森美孚和雪佛龙顶住美国总统特朗普施压，拒绝提高石油产量。（英国金融时报）",
-          "url": "https://wallstreetcn.com/livenews/3097875",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时54分"
-        },
-        {
-          "title": "英国央行首席经济学家Pill：冲击会蔓延到何种程度存在高度不确定性。 货币政策委员会内部围绕金融紧缩问题讨论颇多。 政策不应因短期波动而过度反应。 货币政策委员会对第二轮效应的看法存在分歧。 维持利率不变更多是一个主动决策，并非被动决策。 货币政策委员会已强调其采取行动的意愿，且可能采取强力行动。 我的立场与货币政策委员会的中位数观点并没有太大不同。 我的观点是我们应该更迅速一点采取行动。 不处于被动的观望状态。",
-          "url": "https://wallstreetcn.com/livenews/3097891",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时02分"
-        },
-        {
-          "title": "美国消费者金融保护局敲定小企业普查新规",
-          "url": "https://flash.jin10.com/detail/20260501001936023800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时13分"
         }
       ]
     },
@@ -1984,7 +2133,7 @@
     },
     {
       "keyword_group": "旅游",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "为啥“特种兵旅游”不香了",
@@ -2019,6 +2168,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时25分 ~ 14时10分]"
+        },
+        {
+          "title": "“特种兵旅游”不香了",
+          "url": "https://www.toutiao.com/trending/7634883096697241654/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时50分"
         }
       ]
     },
@@ -2046,11 +2206,12 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时09分 ~ 22时49分]"
+          "appearance_count": 9,
+          "time_info": "[14时09分 ~ 23时50分]"
         }
       ]
     },
