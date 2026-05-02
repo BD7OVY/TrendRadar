@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-03T01:39:38.830672+08:00",
-  "total_titles_processed": 355,
+  "generated_at": "2026-05-03T02:48:10.278340+08:00",
+  "total_titles_processed": 386,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "伊朗转交新方案，“放宽谈判条件”，特朗普称“不满意”，但“倾向于不打击”",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时40分 ~ 01时39分]"
+          "appearance_count": 4,
+          "time_info": "[00时40分 ~ 02时48分]"
         },
         {
           "title": "美伊局势追踪：特朗普“不满”伊朗最新谈判方案 白宫称敌对行动已“结束”",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时40分 ~ 01时39分]"
+          "appearance_count": 4,
+          "time_info": "[00时40分 ~ 02时48分]"
         },
         {
           "title": "伊朗战争丨美媒急了：美军短板暴露了，对手正近距观察",
@@ -37,8 +37,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时40分 ~ 01时39分]"
+          "appearance_count": 4,
+          "time_info": "[00时40分 ~ 02时48分]"
         },
         {
           "title": "卡塔尔外交部：卡塔尔首相向伊朗外长阿拉格齐强调，关闭霍尔木兹海峡或将其用作施压手段将导致危机加深。",
@@ -46,35 +46,25 @@
           "source": "金十数据",
           "ranks": [
             2,
-            12
+            12,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时40分 ~ 01时39分]"
+          "appearance_count": 3,
+          "time_info": "[00时40分 ~ 02时48分]"
         },
         {
-          "title": "伊朗副外长：伊朗对外交或对抗两种局面均已做好准备",
-          "url": "https://flash.jin10.com/detail/20260503001154569800",
-          "source": "金十数据",
+          "title": "商务部发布禁令，阻断美国对5家中国企业实施涉伊朗石油制裁措施",
+          "url": "https://www.cls.cn/detail/2362134",
+          "source": "财联社热门",
           "ranks": [
-            3,
-            13
+            8,
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时40分 ~ 01时39分]"
-        },
-        {
-          "title": "卡塔尔外交部：卡塔尔首相兼外交大臣向伊朗外长阿拉格齐强调，航行自由是一项既定的原则，不容妥协。",
-          "url": "https://flash.jin10.com/detail/20260503000537392800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时40分 ~ 01时39分]"
+          "appearance_count": 4,
+          "time_info": "[00时40分 ~ 02时48分]"
         },
         {
           "title": "伊朗战争会再次影响访华行程吗？特朗普答凤凰记者问",
@@ -84,8 +74,21 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时40分 ~ 01时39分]"
+          "appearance_count": 4,
+          "time_info": "[00时40分 ~ 02时48分]"
+        },
+        {
+          "title": "伊朗副外长：伊朗对外交或对抗两种局面均已做好准备",
+          "url": "https://flash.jin10.com/detail/20260503001154569800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            13,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时40分 ~ 02时48分]"
         },
         {
           "title": "【早报】白宫：与伊朗的敌对行动已经“结束”；特朗普：下周对欧盟输美汽车和卡车加征25%关税",
@@ -96,20 +99,21 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时40分 ~ 01时39分]"
+          "appearance_count": 4,
+          "time_info": "[00时40分 ~ 02时48分]"
         },
         {
-          "title": "商务部发布禁令，阻断美国对5家中国企业实施涉伊朗石油制裁措施",
-          "url": "https://www.cls.cn/detail/2362134",
-          "source": "财联社热门",
+          "title": "卡塔尔外交部：卡塔尔首相兼外交大臣向伊朗外长阿拉格齐强调，航行自由是一项既定的原则，不容妥协。",
+          "url": "https://flash.jin10.com/detail/20260503000537392800",
+          "source": "金十数据",
           "ranks": [
-            8,
-            7
+            5,
+            15,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时40分 ~ 01时39分]"
+          "appearance_count": 3,
+          "time_info": "[00时40分 ~ 02时48分]"
         },
         {
           "title": "规避“60天期限”，特朗普致函国会称与伊朗敌对行动已“结束”",
@@ -119,8 +123,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时40分 ~ 01时39分]"
+          "appearance_count": 4,
+          "time_info": "[00时40分 ~ 02时48分]"
         },
         {
           "title": "以军：如果不能移除伊朗的浓缩铀，就是“巨大的失败”",
@@ -130,8 +134,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时40分 ~ 01时39分]"
+          "appearance_count": 4,
+          "time_info": "[00时40分 ~ 02时48分]"
         },
         {
           "title": "特朗普谈美军扣押伊朗油轮：我们就像海盗",
@@ -141,8 +145,55 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时40分 ~ 01时39分]"
+          "appearance_count": 4,
+          "time_info": "[00时40分 ~ 02时48分]"
+        },
+        {
+          "title": "伊朗透露最高领袖身体状况",
+          "url": "https://www.toutiao.com/trending/7634841070266368054/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时39分 ~ 02时48分]"
+        },
+        {
+          "title": "伊朗不回避谈判但反对美方胁迫",
+          "url": "https://wallstreetcn.com/livenews/3098152",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时40分 ~ 02时48分]"
+        },
+        {
+          "title": "美军拦截并登上伊朗油轮 特朗普戏称“我们简直就像海盗”",
+          "url": "https://wallstreetcn.com/livenews/3098148",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时40分 ~ 02时48分]"
+        },
+        {
+          "title": "商务部新闻发言人就阻断美国对5家中国企业实施涉伊朗石油制裁措施答记者问",
+          "url": "https://wallstreetcn.com/livenews/3098146",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时40分 ~ 02时48分]"
         },
         {
           "title": "美国威胁制裁向伊朗缴通行费的航运企业",
@@ -157,54 +208,21 @@
           "time_info": "[00时40分 ~ 01时39分]"
         },
         {
-          "title": "伊朗不回避谈判但反对美方胁迫",
-          "url": "https://wallstreetcn.com/livenews/3098152",
-          "source": "华尔街见闻-快讯",
+          "title": "伊朗军方官员：已为美方军事冒险做好充分准备",
+          "url": "https://flash.jin10.com/detail/20260503012408499800",
+          "source": "金十数据",
           "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时40分 ~ 01时39分]"
-        },
-        {
-          "title": "美军拦截并登上伊朗油轮 特朗普戏称“我们简直就像海盗”",
-          "url": "https://wallstreetcn.com/livenews/3098148",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时40分 ~ 01时39分]"
-        },
-        {
-          "title": "商务部新闻发言人就阻断美国对5家中国企业实施涉伊朗石油制裁措施答记者问",
-          "url": "https://wallstreetcn.com/livenews/3098146",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时40分 ~ 01时39分]"
-        },
-        {
-          "title": "伊朗透露最高领袖身体状况",
-          "url": "https://www.toutiao.com/trending/7634841070266368054/",
-          "source": "今日头条",
-          "ranks": [
-            11
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时39分"
+          "time_info": "02时48分"
         }
       ]
     },
     {
       "keyword_group": "消费",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "马上评｜“AB货”乱象，不能让消费者“自认倒霉”",
@@ -214,19 +232,42 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时40分 ~ 01时39分]"
+          "appearance_count": 4,
+          "time_info": "[00时40分 ~ 02时48分]"
         },
         {
           "title": "青岛开展新一轮新车消费补贴活动，最高补贴不超1.2万元",
           "url": "https://wallstreetcn.com/livenews/3098159",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时40分 ~ 01时39分]"
+          "appearance_count": 3,
+          "time_info": "[00时40分 ~ 02时48分]"
+        },
+        {
+          "title": "美联储古尔斯比：GDP增长出乎意料地强劲，消费者支出也在稳步推进。",
+          "url": "https://flash.jin10.com/detail/20260503021658375800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时48分"
+        },
+        {
+          "title": "伯克希尔旗下NetJets：高油价已开始抑制消费品和零售领域需求",
+          "url": "https://flash.jin10.com/detail/20260503021115397800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时48分"
         }
       ]
     },
@@ -242,8 +283,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时40分 ~ 01时39分]"
+          "appearance_count": 4,
+          "time_info": "[00时40分 ~ 02时48分]"
         },
         {
           "title": "马斯克手撕OpenAI为哪般",
@@ -267,11 +308,12 @@
           "url": "https://www.douyin.com/hot/2486319",
           "source": "抖音",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时40分 ~ 01时39分]"
+          "appearance_count": 4,
+          "time_info": "[00时40分 ~ 02时48分]"
         },
         {
           "title": "人民日报：旅游市场不容“趁火打劫”",
@@ -279,11 +321,12 @@
           "source": "今日头条",
           "ranks": [
             14,
-            20
+            20,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时40分 ~ 01时39分]"
+          "appearance_count": 4,
+          "time_info": "[00时40分 ~ 02时48分]"
         }
       ]
     },
@@ -299,8 +342,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时40分 ~ 01时39分]"
+          "appearance_count": 4,
+          "time_info": "[00时40分 ~ 02时48分]"
         }
       ]
     },
@@ -316,8 +359,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时40分 ~ 01时39分]"
+          "appearance_count": 4,
+          "time_info": "[00时40分 ~ 02时48分]"
         }
       ]
     }
