@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-04T13:58:11.669518+08:00",
-  "total_titles_processed": 874,
+  "generated_at": "2026-05-04T16:27:19.120195+08:00",
+  "total_titles_processed": 1027,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 91,
+      "match_count": 104,
       "titles": [
         {
           "title": "【早报】伊朗公布伊方最新谈判方案；商务部发布禁令阻断美国对5家中国企业实施涉伊朗石油制裁措施",
@@ -17,8 +17,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时40分 ~ 13时58分]"
+          "appearance_count": 16,
+          "time_info": "[00时40分 ~ 16时27分]"
         },
         {
           "title": "伊朗：特朗普吹嘘行事如海盗是直接承认犯罪",
@@ -41,8 +41,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时40分 ~ 13时58分]"
+          "appearance_count": 16,
+          "time_info": "[00时40分 ~ 16时27分]"
         },
         {
           "title": "伊朗战争丨伊朗向美国提交14点和平计划，更多细节曝光",
@@ -66,8 +66,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时40分 ~ 13时58分]"
+          "appearance_count": 16,
+          "time_info": "[00时40分 ~ 16时27分]"
         },
         {
           "title": "特朗普谈及美军扣押伊朗油轮，称这是一笔非常赚钱的买卖，我们就像海盗，如何看待此事？",
@@ -92,8 +92,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时40分 ~ 13时58分]"
+          "appearance_count": 16,
+          "time_info": "[00时40分 ~ 16时27分]"
         },
         {
           "title": "【早报】白宫：与伊朗的敌对行动已经“结束”；特朗普：下周对欧盟输美汽车和卡车加征25%关税",
@@ -198,6 +198,17 @@
           "time_info": "[00时40分 ~ 07时38分]"
         },
         {
+          "title": "事关霍尔木兹海峡，特朗普预告4日上午启动，伊朗发出警告",
+          "url": "https://news.ifeng.com/c/8sqiRql55lX",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时57分 ~ 16时27分]"
+        },
+        {
           "title": "伊朗伊斯兰革命卫队：美国决策空间已受限",
           "url": "https://wallstreetcn.com/livenews/3098291",
           "source": "华尔街见闻-快讯",
@@ -212,17 +223,6 @@
           "time_info": "[00时40分 ~ 06时34分]"
         },
         {
-          "title": "事关霍尔木兹海峡，特朗普预告4日上午启动，伊朗发出警告",
-          "url": "https://news.ifeng.com/c/8sqiRql55lX",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时57分 ~ 13时58分]"
-        },
-        {
           "title": "伊朗：正“审议”美方对14点提议回应，目前谈判不涉核",
           "url": "https://wallstreetcn.com/livenews/3098302",
           "source": "华尔街见闻-快讯",
@@ -235,6 +235,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时36分 ~ 07时38分]"
+        },
+        {
+          "title": "特朗普：伊朗的“新提议”不可接受",
+          "url": "https://news.ifeng.com/c/8spzvhCLfsE",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时07分 ~ 16时27分]"
         },
         {
           "title": "美国已于上周日就结束伊朗战争的潜在协议递送了修订版草案，从而回应伊朗最新提出的建议。（Axios）",
@@ -256,7 +268,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时58分"
         },
@@ -281,6 +293,29 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时38分"
+        },
+        {
+          "title": "“非军事”疏通霍尔木兹海峡？特朗普祭出新招“4日启动引导行动”，伊朗“干涉视为违反停火协议”",
+          "url": "https://wallstreetcn.com/articles/3771515",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时57分 ~ 16时27分]"
+        },
+        {
+          "title": "伊朗外交部：将继续与阿曼磋商霍尔木兹海峡通行及管理机制",
+          "url": "https://flash.jin10.com/detail/20260504161322608800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
         },
         {
           "title": "特朗普：伊朗的“新提议”不可接受",
@@ -311,18 +346,6 @@
           "time_info": "[02时49分 ~ 05时36分]"
         },
         {
-          "title": "特朗普：伊朗的“新提议”不可接受",
-          "url": "https://news.ifeng.com/c/8spzvhCLfsE",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时07分 ~ 13时58分]"
-        },
-        {
           "title": "伊朗外交部发言人顾问：我们将与阿曼合作采取具体措施，确保不会有针对伊朗的袭击发生。",
           "url": "https://flash.jin10.com/detail/20260504011924776800",
           "source": "金十数据",
@@ -343,9 +366,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时58分"
+        },
+        {
+          "title": "伊朗外交部发言人：任何欧佩克成员以“消极反应”的方式退出该组织都是无益的。 关于确保船只安全通过霍尔木兹海峡的协议，伊朗与阿曼的双边谈判正在进行中。",
+          "url": "https://wallstreetcn.com/livenews/3098433",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
         },
         {
           "title": "据以色列第14频道：以色列高级官员表示，恢复在伊朗的战斗是必要的。这不是一个会不会发生的问题，而是一个何时发生的问题。",
@@ -604,6 +638,18 @@
           "time_info": "[04时36分 ~ 07时38分]"
         },
         {
+          "title": "【早报】特朗普：伊朗的“新提议”不可接受；余额宝收益率跌破1%",
+          "url": "https://www.cls.cn/detail/2362404",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时07分 ~ 16时27分]"
+        },
+        {
           "title": "德国外长：伊朗应立即开放霍尔木兹海峡",
           "url": "https://wallstreetcn.com/livenews/3098303",
           "source": "华尔街见闻-快讯",
@@ -616,6 +662,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时36分 ~ 07时38分]"
+        },
+        {
+          "title": "伊朗超大型油轮躲过美国“封锁”，仍有特定船只可通过霍尔木兹海峡",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33095206",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时07分 ~ 16时27分]"
         },
         {
           "title": "欧洲智库称伊朗战事冲击能源安全 或加剧欧盟内部对俄分歧",
@@ -649,6 +707,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时40分 ~ 03时50分]"
+        },
+        {
+          "title": "伊朗战争丨伊朗官员：霍尔木兹不会回到战前状态",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时57分 ~ 16时27分]"
         },
         {
           "title": "伊朗外交部：有关核问题的事项涉及过去的谈判记录，与当前计划无关。",
@@ -716,18 +785,6 @@
           "time_info": "[02时49分 ~ 04时36分]"
         },
         {
-          "title": "【早报】特朗普：伊朗的“新提议”不可接受；余额宝收益率跌破1%",
-          "url": "https://www.cls.cn/detail/2362404",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时07分 ~ 13时58分]"
-        },
-        {
           "title": "据伊朗法尔斯通讯社：伊朗外交部表示，有关伊朗承诺在霍尔木兹海峡进行排雷的说法是媒体的凭空想象。",
           "url": "https://flash.jin10.com/detail/20260504010002407800",
           "source": "金十数据",
@@ -767,16 +824,15 @@
           "time_info": "[01时41分 ~ 03时50分]"
         },
         {
-          "title": "伊朗超大型油轮躲过美国“封锁”，仍有特定船只可通过霍尔木兹海峡",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33095206",
-          "source": "澎湃新闻",
+          "title": "美以袭击伊朗进入第 66 天，当前局势如何？哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2034400687618876536",
+          "source": "知乎",
           "ranks": [
-            18,
-            13
+            11
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[10时07分 ~ 13时58分]"
+          "time_info": "[13时57分 ~ 16时27分]"
         },
         {
           "title": "据伊朗国家媒体：伊朗外交部发言人表示，伊朗的14点计划聚焦于结束战争。在此阶段，我们不进行核谈判。",
@@ -805,17 +861,6 @@
           "time_info": "[01时41分 ~ 03时50分]"
         },
         {
-          "title": "“非军事”疏通霍尔木兹海峡？特朗普祭出新招“4日启动引导行动”，伊朗“干涉视为违反停火协议”",
-          "url": "https://wallstreetcn.com/articles/3771515",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时57分 ~ 13时58分]"
-        },
-        {
           "title": "伊朗战争丨特朗普称伊朗的“新提议”不可接受",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
           "source": "凤凰网",
@@ -825,17 +870,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时37分 ~ 07时38分]"
-        },
-        {
-          "title": "伊朗战争丨伊朗官员：霍尔木兹不会回到战前状态",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时57分 ~ 13时58分]"
         },
         {
           "title": "伊朗尚未证实美国特使威特科夫关于美国正在与德黑兰进行对话的说法。",
@@ -898,17 +932,6 @@
           "time_info": "[04时36分 ~ 05时36分]"
         },
         {
-          "title": "美以袭击伊朗进入第 66 天，当前局势如何？哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2034400687618876536",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时57分 ~ 13时58分]"
-        },
-        {
           "title": "美国共和党参议员格雷厄姆：再次强调，我希望这场冲突能够通过外交手段结束，但现在是时候恢复航行自由，并在伊朗坚持恐怖行为时采取强硬回应。",
           "url": "https://flash.jin10.com/detail/20260504053918838800",
           "source": "金十数据",
@@ -968,6 +991,17 @@
           "time_info": "10时07分"
         },
         {
+          "title": "伊朗外交部发言人：我们也是一个“超级大国”。",
+          "url": "https://flash.jin10.com/detail/20260504161204148800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
+        },
+        {
           "title": "贝森特：伊朗已无力支付军饷，石油业“一周内”可能被迫关井",
           "url": "https://flash.jin10.com/detail/20260504065420788800",
           "source": "金十数据",
@@ -985,9 +1019,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时58分"
+        },
+        {
+          "title": "伊朗外交部发言人：欧洲应该拒绝美国政策，采取独立立场。我们始终欢迎欧洲国家在地区安全和核问题上的建设性参与。",
+          "url": "https://flash.jin10.com/detail/20260504161007921800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
         },
         {
           "title": "北约秘书长：由于一些欧洲国家在伊朗战争中的立场，特朗普现在感到很沮丧。",
@@ -996,9 +1041,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时58分"
+        },
+        {
+          "title": "伊朗外交部发言人：美国很难放弃其极端要求。 美国导致结束战争的外交进程缓慢。",
+          "url": "https://wallstreetcn.com/livenews/3098427",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
         },
         {
           "title": "美国财长贝森特：我们正在对伊朗政权施加压力，目前伊朗甚至难以给士兵支付薪资。",
@@ -1018,7 +1074,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时58分"
         },
@@ -1043,6 +1099,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时40分"
+        },
+        {
+          "title": "美军周一将开展「自由计划」霍尔木兹海峡船只疏导行动，伊朗表示反对，特朗普此举在政治和经济上有何深意？",
+          "url": "https://www.zhihu.com/question/2034567556967739711",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
+        },
+        {
+          "title": "伊朗警告美军不要接近霍尔木兹海峡",
+          "url": "https://www.toutiao.com/trending/7635134540138446854/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
         },
         {
           "title": "英国海事贸易组织：收到一份报告，称在伊朗西南11海里处发生了一起事件。一艘北行散货船的船长报告称遭到多艘小型船只袭击。所有船员均已安全，未报告存在环境影响。",
@@ -1078,13 +1156,68 @@
           "time_info": "10时07分"
         },
         {
+          "title": "伊朗外交部发言人：令人惊讶的是，国际原子能机构总干事在两轮谈判中都目睹了美国的好战和反外交行为，问题完全源于美国的极具破坏性的行为，导致没有任何外交进程取得成果。",
+          "url": "https://flash.jin10.com/detail/20260504160359138800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
+        },
+        {
+          "title": "伊朗4车相撞致27人受伤",
+          "url": "https://wallstreetcn.com/livenews/3098417",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
+        },
+        {
+          "title": "伊朗外交部发言人：对那些对伊朗人民犯下罪行的人，必须追究其责任。",
+          "url": "https://flash.jin10.com/detail/20260504160343400800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
+        },
+        {
+          "title": "伊朗外交部发言人：我们在管理霍尔木兹海峡方面的目标是确保这一水道的安全通行。",
+          "url": "https://flash.jin10.com/detail/20260504160335562800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
+        },
+        {
+          "title": "巴基斯坦称，被扣押在伊朗船上的22名船员已撤离至伊斯兰堡；周一将把这些船员移交给伊朗当局。",
+          "url": "https://wallstreetcn.com/livenews/3098415",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
+        },
+        {
           "title": "巴基斯坦外交部：巴基斯坦外交部长与伊朗外长阿拉格齐通话，讨论地区形势及正在进行的外交努力。",
           "url": "https://flash.jin10.com/detail/20260504130140814800",
           "source": "金十数据",
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时58分"
         },
@@ -1095,7 +1228,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时58分"
         },
@@ -1111,13 +1244,24 @@
           "time_info": "00时40分"
         },
         {
+          "title": "伊朗外交部发言人：我们始终要求地区国家遵守睦邻友好原则。",
+          "url": "https://flash.jin10.com/detail/20260504160043791800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
+        },
+        {
           "title": "MSCI亚太指数上涨1.9%，抹去伊朗战争以来的跌幅。",
           "url": "https://wallstreetcn.com/livenews/3098373",
           "source": "华尔街见闻-快讯",
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时58分"
         }
@@ -1125,8 +1269,19 @@
     },
     {
       "keyword_group": "科技",
-      "match_count": 9,
+      "match_count": 14,
       "titles": [
+        {
+          "title": "美股盘前，存储芯片概念股走高，美光科技涨超3%，闪迪涨超3%，西部数据涨超1%。",
+          "url": "https://wallstreetcn.com/livenews/3098437",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
+        },
         {
           "title": "胜宏科技：目前公司高端产品价格较为稳定",
           "url": "https://wallstreetcn.com/livenews/3098361",
@@ -1139,6 +1294,17 @@
           "time_info": "10时07分"
         },
         {
+          "title": "港股收评：恒生指数涨1.24% 恒生科技指数涨2.16%",
+          "url": "https://flash.jin10.com/detail/20260504161341969800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
+        },
+        {
           "title": "恒生科技指数日内涨幅扩大至3%，小米涨超6%，百度涨超5%。",
           "url": "https://wallstreetcn.com/livenews/3098359",
           "source": "华尔街见闻-快讯",
@@ -1148,6 +1314,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时07分"
+        },
+        {
+          "title": "39 岁上海科技大学教授王晨辉为救至亲溺水去世，我们该如何看待这种舍己救人的行为？",
+          "url": "https://www.zhihu.com/question/2034260292213945927",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
         },
         {
           "title": "港股商业航天股延续涨势，金风科技(02208.HK)、亚太卫星(01045.HK)涨超5%，航天控股(00031.HK)涨超3%，钧达股份(02865.HK)涨超2%。",
@@ -1181,6 +1358,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时07分"
+        },
+        {
+          "title": "香港恒生指数5月4日（周一）收盘上涨319.35点，涨幅1.24%，报26095.88点；<br/>香港恒生科技指数5月4日（周一）收盘上涨105.38点，涨幅2.16%，报4976.7点；<br/>国企指数5月4日（周一）收盘上涨92.56点，涨幅1.07%，报8774.39点；<br/>红筹指数5月4日（周一）收盘上涨20.91点，涨幅0.48%，报4411.24点。",
+          "url": "https://flash.jin10.com/detail/20260504161115575800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
+        },
+        {
+          "title": "港股收盘，恒指收涨1.24%，科指收涨2.16%。光通信、芯片股全天走强，剑桥科技(06166.HK)涨约16%，天数智芯(09903.HK)涨约20%，小米集团(01810.HK)涨超6%。",
+          "url": "https://flash.jin10.com/detail/20260504160856400800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
         },
         {
           "title": "恒指高开1.4%，恒生科技指数涨1.58%",
@@ -1222,7 +1421,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时58分"
         }
@@ -1230,8 +1429,63 @@
     },
     {
       "keyword_group": "制造业",
-      "match_count": 4,
+      "match_count": 9,
       "titles": [
+        {
+          "title": "欧元区4月制造业PMI终值 52.2，初值 52.2。",
+          "url": "https://wallstreetcn.com/livenews/3098436",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
+        },
+        {
+          "title": "德国4月制造业PMI终值 51.4，初值 51.2。",
+          "url": "https://wallstreetcn.com/livenews/3098435",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
+        },
+        {
+          "title": "法国4月制造业PMI终值 52.8，初值 52.8。",
+          "url": "https://wallstreetcn.com/livenews/3098434",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
+        },
+        {
+          "title": "意大利4月制造业PMI 52.1，前值 51.3。",
+          "url": "https://wallstreetcn.com/livenews/3098432",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
+        },
+        {
+          "title": "瑞士4月制造业PMI 54.5，前值 53.3。",
+          "url": "https://wallstreetcn.com/livenews/3098429",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
+        },
         {
           "title": "印度4月制造业PMI终值 54.7，初值 55.9。",
           "url": "https://wallstreetcn.com/livenews/3098392",
@@ -1239,7 +1493,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时58分"
         },
@@ -1272,7 +1526,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时58分"
         }
@@ -1386,8 +1640,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时40分 ~ 13时58分]"
+          "appearance_count": 16,
+          "time_info": "[00时40分 ~ 16时27分]"
         },
         {
           "title": "北京JDG战胜深圳DYG 挑战者杯",
@@ -1470,8 +1724,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时57分 ~ 13时58分]"
+          "appearance_count": 3,
+          "time_info": "[13时57分 ~ 16时27分]"
         }
       ]
     }
