@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-06T10:07:22.277088+08:00",
-  "total_titles_processed": 848,
+  "generated_at": "2026-05-06T13:51:34.528856+08:00",
+  "total_titles_processed": 1042,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 80,
+      "match_count": 90,
       "titles": [
         {
           "title": "伊朗战争丨伊朗总统办公室官员否认总统辞职传闻",
@@ -63,11 +63,12 @@
             10,
             8,
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时28分 ~ 10时07分]"
+          "appearance_count": 13,
+          "time_info": "[00时28分 ~ 13时51分]"
         },
         {
           "title": "伊朗外长阿拉格齐 5 月 6 日访华，有哪些信息值得关注？",
@@ -174,9 +175,32 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时07分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时07分 ~ 13时51分]"
+        },
+        {
+          "title": "伊朗总统办公室主任：总统与革命卫队指挥官不存在分歧",
+          "url": "https://news.ifeng.com/c/8stHYQTNeqN",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时07分 ~ 13时51分]"
+        },
+        {
+          "title": "“严厉训斥、愤怒回击”，美英财长为伊朗战事当面交锋",
+          "url": "https://news.ifeng.com/c/8st8jNjoFNK",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时07分 ~ 13时51分]"
         },
         {
           "title": "伊朗战争丨特朗普：霍尔木兹海峡“自由行动”将暂停",
@@ -196,9 +220,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时07分"
+        },
+        {
+          "title": "伊朗战争丨伊媒：特朗普暂停这一计划是为掩盖失败",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时51分"
         },
         {
           "title": "伊朗成立新机构，来管理霍尔木兹海峡的船只通行。（伊朗媒体Press TV）",
@@ -212,15 +247,37 @@
           "time_info": "01时54分"
         },
         {
-          "title": "伊朗总统办公室主任：总统与革命卫队指挥官不存在分歧",
-          "url": "https://news.ifeng.com/c/8stHYQTNeqN",
+          "title": "伊朗外长抵京时身穿休闲装",
+          "url": "https://www.toutiao.com/trending/7636613941229063730/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时51分"
+        },
+        {
+          "title": "伊朗外长身穿休闲装抵达北京",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%A4%96%E9%95%BF%E8%BA%AB%E7%A9%BF%E4%BC%91%E9%97%B2%E8%A3%85%E6%8A%B5%E8%BE%BE%E5%8C%97%E4%BA%AC",
+          "source": "百度热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时51分"
+        },
+        {
+          "title": "伊朗最大岛屿传出巨响",
+          "url": "https://news.ifeng.com/c/8su7EjBss9v",
           "source": "凤凰网",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时07分"
+          "time_info": "13时51分"
         },
         {
           "title": "据伊朗伊斯兰共和国通讯社（IRNA）：伊朗石油部长表示，受损设施将尽快重建。",
@@ -245,17 +302,6 @@
           "time_info": "07时42分"
         },
         {
-          "title": "“严厉训斥、愤怒回击”，美英财长为伊朗战事当面交锋",
-          "url": "https://news.ifeng.com/c/8st8jNjoFNK",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时07分"
-        },
-        {
           "title": "据以色列公共广播公司：阿联酋告诉以色列大使，以色列应向特朗普施压，要求其对伊朗采取军事行动。",
           "url": "https://flash.jin10.com/detail/20260506024804024800",
           "source": "金十数据",
@@ -276,6 +322,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时42分"
+        },
+        {
+          "title": "伊朗怎样才算违反停火？特朗普避而不谈",
+          "url": "https://news.ifeng.com/c/8su3Btl2lle",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时51分"
         },
         {
           "title": "伊朗军方否认近期袭击阿联酋",
@@ -370,6 +427,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时52分 ~ 07时42分]"
+        },
+        {
+          "title": "美以袭击伊朗进入第 68 天，当前局势如何？哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2035126415859742260",
+          "source": "知乎",
+          "ranks": [
+            6,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时07分 ~ 13时51分]"
         },
         {
           "title": "美官员称美商船穿越霍尔木兹海峡时曾遭伊朗袭击",
@@ -480,17 +549,6 @@
           "time_info": "[04时58分 ~ 06时01分]"
         },
         {
-          "title": "美以袭击伊朗进入第 68 天，当前局势如何？哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2035126415859742260",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时07分"
-        },
-        {
           "title": "伊朗正式启动霍尔木兹海峡航运新规，船只须获通行许可证",
           "url": "https://flash.jin10.com/detail/20260506014232703800",
           "source": "金十数据",
@@ -522,6 +580,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时54分"
+        },
+        {
+          "title": "以媒：特朗普近日一度考虑恢复空袭伊朗",
+          "url": "https://news.ifeng.com/c/8stlzh9o2wc",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时51分"
         },
         {
           "title": "伊朗总统佩泽希齐扬：如果以合乎逻辑的方式进行，对话是可能的。威胁和霸凌将无济于事。（法尔斯通讯社）",
@@ -673,9 +742,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时07分"
+        },
+        {
+          "title": "美称对伊朗军事行动已结束 伊朗否认",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E7%A7%B0%E5%AF%B9%E4%BC%8A%E6%9C%97%E5%86%9B%E4%BA%8B%E8%A1%8C%E5%8A%A8%E5%B7%B2%E7%BB%93%E6%9D%9F+%E4%BC%8A%E6%9C%97%E5%90%A6%E8%AE%A4",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时51分"
         },
         {
           "title": "美国总统特朗普：伊朗用机枪向船只开火，但没有效果。",
@@ -733,6 +813,17 @@
           "time_info": "03时12分"
         },
         {
+          "title": "伊朗最大岛屿防空系统拦截无人机",
+          "url": "https://wallstreetcn.com/livenews/3099127",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时51分"
+        },
+        {
           "title": "伊媒：伊朗已启动霍尔木兹海峡通行管理新机制",
           "url": "https://flash.jin10.com/detail/20260506020222119800",
           "source": "金十数据",
@@ -766,6 +857,17 @@
           "time_info": "01时54分"
         },
         {
+          "title": "王毅同伊朗外长阿拉格齐会谈",
+          "url": "https://www.toutiao.com/trending/7636594621790817802/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时51分"
+        },
+        {
           "title": "巴基斯坦陆军司令穆尼尔呼吁伊朗和美国保持克制。",
           "url": "https://flash.jin10.com/detail/20260506020155398800",
           "source": "金十数据",
@@ -775,6 +877,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时12分"
+        },
+        {
+          "title": "伊朗媒体称特朗普暂停“自由计划”是为掩盖失败",
+          "url": "https://wallstreetcn.com/livenews/3099125",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时51分"
         },
         {
           "title": "特朗普谈伊朗：“他们什么时候才会认输？”",
@@ -915,7 +1028,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时07分"
         },
@@ -934,7 +1047,7 @@
     },
     {
       "keyword_group": "科技",
-      "match_count": 18,
+      "match_count": 23,
       "titles": [
         {
           "title": "智慧春耕科技范儿十足",
@@ -954,7 +1067,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时07分"
         },
@@ -965,7 +1078,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时07分"
         },
@@ -976,7 +1089,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时07分"
         },
@@ -987,7 +1100,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时07分"
         },
@@ -1015,6 +1128,18 @@
           "time_info": "[06时53分 ~ 07时42分]"
         },
         {
+          "title": "券商一季度重仓路径曝光：左手高股息防御，右手科技成长进攻，大金融成压舱石",
+          "url": "https://www.cls.cn/detail/2363022",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时07分 ~ 13时51分]"
+        },
+        {
           "title": "标普500指数的11个板块全线收涨，原材料板块涨1.67%，信息技术/科技板块涨1.63%，工业板块涨0.86%表现第三，能源、电信板块涨0.3%。",
           "url": "https://wallstreetcn.com/livenews/3098928",
           "source": "华尔街见闻-快讯",
@@ -1039,26 +1164,48 @@
           "time_info": "[04时58分 ~ 06时01分]"
         },
         {
+          "title": "腾达科技：对全部产品进行价格上调",
+          "url": "https://wallstreetcn.com/livenews/3099141",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时51分"
+        },
+        {
           "title": "算力硬件股反复走强，博敏电子、宏和科技涨停，鸿仕达涨超10%，中材科技、广合科技、兴森科技、生益科技、联特科技、仕佳光子涨幅居前。",
           "url": "https://wallstreetcn.com/livenews/3099046",
           "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时07分"
         },
         {
-          "title": "券商一季度重仓路径曝光：左手高股息防御，右手科技成长进攻，大金融成压舱石",
-          "url": "https://www.cls.cn/detail/2363022",
-          "source": "财联社热门",
+          "title": "国金牟一凌：科技主导下，能源是低估的资产",
+          "url": "https://wallstreetcn.com/articles/3771584",
+          "source": "华尔街见闻",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时07分"
+          "time_info": "13时51分"
+        },
+        {
+          "title": "A股电池产业链震荡拉升，容百科技涨超10%，丰元股份此前涨停，宁德时代涨近7%，蔚蓝锂芯、海科新源、国轩高科多股涨超5%。",
+          "url": "https://wallstreetcn.com/livenews/3099139",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时51分"
         },
         {
           "title": "A股算力租赁板块盘初拉升，东阳光封板涨停，平治信息、东方国信涨超10%，合力泰、朗科科技、行云科技、安诺其、大位科技跟涨。消息面上，东阳光控股子公司签署算力服务采购框架合同，预计总额160亿元至190亿元。",
@@ -1067,9 +1214,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时07分"
+        },
+        {
+          "title": "A股PET铜箔板块午后继续拉升，德福科技触及20cm涨停，方邦股份涨超15%，汇成真空、铜冠铜箔、隆扬电子涨幅居前。",
+          "url": "https://wallstreetcn.com/livenews/3099135",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时51分"
         },
         {
           "title": "港股收盘 | 内地假期三大指数集体收高 科技股强势领涨",
@@ -1078,7 +1236,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时07分"
         },
@@ -1089,7 +1247,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时07分"
         },
@@ -1100,7 +1258,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时07分"
         },
@@ -1111,7 +1269,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时07分"
         },
@@ -1122,9 +1280,20 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时07分"
+        },
+        {
+          "title": "A股民爆概念板块午后上扬，晓程科技涨超6%，金奥博涨超4%，航天智造、国泰集团、金石资源、新余国科等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260506132434787800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时51分"
         },
         {
           "title": "欧盟公报：将在人工智能等科技领域与日本加强合作",
@@ -1136,6 +1305,147 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时29分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金融",
+      "match_count": 12,
+      "titles": [
+        {
+          "title": "诺和诺德：预计2026年自由现金流为360亿至460亿丹麦克朗，此前预期为350亿至450亿丹麦克朗。 预计国际业务销售增长，美国业务销售下降。 预计2026年金融项目净亏损约6亿丹麦克朗，此前预期净收益约23亿丹麦克朗。 预计全球GLP-1市场将继续扩张。",
+          "url": "https://wallstreetcn.com/livenews/3099144",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时51分"
+        },
+        {
+          "title": "新西兰联储：在风险加剧的情况下，金融体系依然稳健",
+          "url": "https://flash.jin10.com/detail/20260506053232748800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时01分 ~ 06时53分]"
+        },
+        {
+          "title": "新西兰联储金融稳定报告：在全球风险加剧的情况下，金融系统保持韧性。 新西兰金融体系状况良好，即使经济状况走软，也能为家庭和企业提供支持。",
+          "url": "https://wallstreetcn.com/livenews/3098948",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            22,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时01分 ~ 07时42分]"
+        },
+        {
+          "title": "Anthropic推出金融AI代理 谷歌、Meta被曝开发“龙虾”应用 | 环球市场",
+          "url": "https://www.cls.cn/detail/2363224",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时51分"
+        },
+        {
+          "title": "Anthropic金融服务负责人Jonathan Pelosi表示，公司的最新举措旨在“弥合”人工智能的发展速度与金融公司实际应用该技术的能力之间的差距。 “这就是‘我们利用 AI 来辅助写出更好的邮件或进行基础研究’与‘投资银行的路演材料构建’之间的区别”。",
+          "url": "https://wallstreetcn.com/livenews/3098831",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时29分"
+        },
+        {
+          "title": "欧元集团主席：我们需要的是欧洲冠军，而不是国家冠军。 当然，我们所有人都有保护本国市场的倾向。 欧盟需要更大银行的一个关键原因是，在新数字金融工具和市场快速增长的时代，它们需要投入大量资金进行技术发展以保持竞争力。 让我们试着展望未来五年或十年。如果他们错过了我刚才提到的技术投资，他们将无法在竞争格局中占据一席之地。 我们的资本市场需要集中监管……因为……我们不应该重复做27次同样的事情，如果你重复做27次，我们实际上就不是一个完整的资本市场。",
+          "url": "https://wallstreetcn.com/livenews/3098859",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时54分"
+        },
+        {
+          "title": "新西兰联储金融稳定报告：压力测试结果表明，银行能够承受重大经济冲击。",
+          "url": "https://flash.jin10.com/detail/20260506050550760800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时01分"
+        },
+        {
+          "title": "新西兰联储金融稳定报告：银行拥有充足的资本和融资缓冲。",
+          "url": "https://flash.jin10.com/detail/20260506050533546800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时01分"
+        },
+        {
+          "title": "Anthropic面向金融服务行业发布新款AI智能体",
+          "url": "https://wallstreetcn.com/livenews/3098828",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时29分"
+        },
+        {
+          "title": "新西兰联储金融稳定报告：目前看来经济复苏将有所放缓，这将影响就业增长和债务偿还能力。",
+          "url": "https://flash.jin10.com/detail/20260506050516105800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时01分"
+        },
+        {
+          "title": "新西兰联储金融稳定报告：新西兰金融体系状况良好，即使经济状况走软，也能为家庭和企业提供支持。",
+          "url": "https://flash.jin10.com/detail/20260506050451243800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时01分"
+        },
+        {
+          "title": "新西兰联储金融稳定报告：在全球风险加剧的情况下，金融系统保持韧性。",
+          "url": "https://flash.jin10.com/detail/20260506050410439800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时01分"
         }
       ]
     },
@@ -1280,125 +1590,6 @@
       ]
     },
     {
-      "keyword_group": "金融",
-      "match_count": 10,
-      "titles": [
-        {
-          "title": "新西兰联储：在风险加剧的情况下，金融体系依然稳健",
-          "url": "https://flash.jin10.com/detail/20260506053232748800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时01分 ~ 06时53分]"
-        },
-        {
-          "title": "新西兰联储金融稳定报告：在全球风险加剧的情况下，金融系统保持韧性。 新西兰金融体系状况良好，即使经济状况走软，也能为家庭和企业提供支持。",
-          "url": "https://wallstreetcn.com/livenews/3098948",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            22,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时01分 ~ 07时42分]"
-        },
-        {
-          "title": "Anthropic金融服务负责人Jonathan Pelosi表示，公司的最新举措旨在“弥合”人工智能的发展速度与金融公司实际应用该技术的能力之间的差距。 “这就是‘我们利用 AI 来辅助写出更好的邮件或进行基础研究’与‘投资银行的路演材料构建’之间的区别”。",
-          "url": "https://wallstreetcn.com/livenews/3098831",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时29分"
-        },
-        {
-          "title": "欧元集团主席：我们需要的是欧洲冠军，而不是国家冠军。 当然，我们所有人都有保护本国市场的倾向。 欧盟需要更大银行的一个关键原因是，在新数字金融工具和市场快速增长的时代，它们需要投入大量资金进行技术发展以保持竞争力。 让我们试着展望未来五年或十年。如果他们错过了我刚才提到的技术投资，他们将无法在竞争格局中占据一席之地。 我们的资本市场需要集中监管……因为……我们不应该重复做27次同样的事情，如果你重复做27次，我们实际上就不是一个完整的资本市场。",
-          "url": "https://wallstreetcn.com/livenews/3098859",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时54分"
-        },
-        {
-          "title": "新西兰联储金融稳定报告：压力测试结果表明，银行能够承受重大经济冲击。",
-          "url": "https://flash.jin10.com/detail/20260506050550760800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时01分"
-        },
-        {
-          "title": "新西兰联储金融稳定报告：银行拥有充足的资本和融资缓冲。",
-          "url": "https://flash.jin10.com/detail/20260506050533546800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时01分"
-        },
-        {
-          "title": "Anthropic面向金融服务行业发布新款AI智能体",
-          "url": "https://wallstreetcn.com/livenews/3098828",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时29分"
-        },
-        {
-          "title": "新西兰联储金融稳定报告：目前看来经济复苏将有所放缓，这将影响就业增长和债务偿还能力。",
-          "url": "https://flash.jin10.com/detail/20260506050516105800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时01分"
-        },
-        {
-          "title": "新西兰联储金融稳定报告：新西兰金融体系状况良好，即使经济状况走软，也能为家庭和企业提供支持。",
-          "url": "https://flash.jin10.com/detail/20260506050451243800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时01分"
-        },
-        {
-          "title": "新西兰联储金融稳定报告：在全球风险加剧的情况下，金融系统保持韧性。",
-          "url": "https://flash.jin10.com/detail/20260506050410439800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时01分"
-        }
-      ]
-    },
-    {
       "keyword_group": "chatgpt openai",
       "match_count": 9,
       "titles": [
@@ -1426,6 +1617,17 @@
           "time_info": "[01时54分 ~ 03时12分]"
         },
         {
+          "title": "OpenAI推出GPT-5.5 Instant",
+          "url": "https://www.baidu.com/s?wd=OpenAI%E6%8E%A8%E5%87%BAGPT-5.5+Instant",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时07分 ~ 13时51分]"
+        },
+        {
           "title": "公司高管称，OpenAI向美国政府提前开放了GPT-5.5的访问权限以进行安全测试。",
           "url": "https://flash.jin10.com/detail/20260506022641166800",
           "source": "金十数据",
@@ -1443,7 +1645,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时07分"
         },
@@ -1490,23 +1692,12 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时12分"
-        },
-        {
-          "title": "OpenAI推出GPT-5.5 Instant",
-          "url": "https://www.baidu.com/s?wd=OpenAI%E6%8E%A8%E5%87%BAGPT-5.5+Instant",
-          "source": "百度热搜",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时07分"
         }
       ]
     },
     {
       "keyword_group": "消费",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "“五一”假期消费市场活力十足",
@@ -1524,11 +1715,35 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354008&amp;topic_name=%E6%B6%88%E8%B4%B9%E8%A7%92%E8%89%B2%E5%8D%96%E6%83%A8%2C%E5%93%80%E9%B8%BF%E4%BD%9C%E8%80%85%E9%81%AD%E7%BE%A4%E5%98%B2",
           "source": "贴吧",
           "ranks": [
-            14
+            14,
+            23
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时28分 ~ 10时07分]"
+          "appearance_count": 13,
+          "time_info": "[00时28分 ~ 13时51分]"
+        },
+        {
+          "title": "以旧换新加力扩围掀起消费新热潮",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BB%A5%E6%97%A7%E6%8D%A2%E6%96%B0%E5%8A%A0%E5%8A%9B%E6%89%A9%E5%9B%B4%E6%8E%80%E8%B5%B7%E6%B6%88%E8%B4%B9%E6%96%B0%E7%83%AD%E6%BD%AE%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时51分"
+        },
+        {
+          "title": "五一消费“打几星”？",
+          "url": "https://wallstreetcn.com/articles/3771585",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时07分 ~ 13时51分]"
         },
         {
           "title": "体验经济、票根经济升温，“五一”假期消费热力足",
@@ -1541,17 +1756,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时53分 ~ 07时42分]"
-        },
-        {
-          "title": "五一消费“打几星”？",
-          "url": "https://wallstreetcn.com/articles/3771585",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时07分"
         }
       ]
     },
