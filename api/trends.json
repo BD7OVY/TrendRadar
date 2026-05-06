@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-06T19:02:28.265716+08:00",
-  "total_titles_processed": 1265,
+  "generated_at": "2026-05-06T20:29:17.407615+08:00",
+  "total_titles_processed": 1392,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 102,
+      "match_count": 116,
       "titles": [
         {
           "title": "伊朗战争丨伊朗总统办公室官员否认总统辞职传闻",
@@ -177,8 +177,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时07分 ~ 19时02分]"
+          "appearance_count": 5,
+          "time_info": "[10时07分 ~ 20时29分]"
         },
         {
           "title": "“严厉训斥、愤怒回击”，美英财长为伊朗战事当面交锋",
@@ -188,8 +188,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时07分 ~ 19时02分]"
+          "appearance_count": 5,
+          "time_info": "[10时07分 ~ 20时29分]"
         },
         {
           "title": "伊朗最大岛屿传出巨响",
@@ -199,8 +199,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时51分 ~ 19时02分]"
+          "appearance_count": 4,
+          "time_info": "[13时51分 ~ 20时29分]"
         },
         {
           "title": "伊朗怎样才算违反停火？特朗普避而不谈",
@@ -210,8 +210,31 @@
             5
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时51分 ~ 20时29分]"
+        },
+        {
+          "title": "王毅同伊朗外长阿拉格齐会谈",
+          "url": "https://www.cls.cn/detail/2363664",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[13时51分 ~ 19时02分]"
+          "time_info": "[19时01分 ~ 20时29分]"
+        },
+        {
+          "title": "知情人士：白宫认为与伊朗接近达成停战谅解备忘录",
+          "url": "https://www.cls.cn/detail/2363872",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时01分 ~ 20时29分]"
         },
         {
           "title": "【早报】鲁比奥确认：对伊朗“史诗怒火”军事行动已结束；伊朗外长今日访华",
@@ -230,28 +253,6 @@
           "source": "凤凰网",
           "ranks": [
             1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时01分 ~ 19时02分]"
-        },
-        {
-          "title": "王毅同伊朗外长阿拉格齐会谈",
-          "url": "https://www.cls.cn/detail/2363664",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时01分 ~ 19时02分]"
-        },
-        {
-          "title": "知情人士：白宫认为与伊朗接近达成停战谅解备忘录",
-          "url": "https://www.cls.cn/detail/2363872",
-          "source": "财联社热门",
-          "ranks": [
-            5
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -291,13 +292,24 @@
           "time_info": "13时51分"
         },
         {
+          "title": "伊朗战争丨 美伊接近达成“停战备忘录”",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时29分"
+        },
+        {
           "title": "市场消息：美国的提议显示，伊朗承诺暂停核浓缩活动。伊朗将开始重启霍尔木兹海，美国解除封锁。与伊朗的全面核协议将于稍后进行谈判。",
           "url": "https://flash.jin10.com/detail/20260506185724088800",
           "source": "金十数据",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时02分"
         },
@@ -352,7 +364,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时02分"
         },
@@ -374,7 +386,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时02分"
         },
@@ -399,6 +411,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时42分"
+        },
+        {
+          "title": "美国能源部长赖特：美国将在霍尔木兹海峡实现交通畅通。无论伊朗协议是否达成，都会实现自由流动。",
+          "url": "https://flash.jin10.com/detail/20260506200441053800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时29分"
         },
         {
           "title": "伊朗军方否认近期袭击阿联酋",
@@ -449,6 +472,17 @@
           "time_info": "[00时29分 ~ 01时54分]"
         },
         {
+          "title": "以媒：特朗普近日一度考虑恢复空袭伊朗",
+          "url": "https://news.ifeng.com/c/8stlzh9o2wc",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时51分 ~ 20时29分]"
+        },
+        {
           "title": "据伊朗媒体：伊朗总统佩泽希齐扬称，美国奉行极限施压政策，并希望伊朗坐到谈判桌前屈服于其单方面要求，这是不可能的。",
           "url": "https://flash.jin10.com/detail/20260506014724208800",
           "source": "金十数据",
@@ -495,17 +529,6 @@
           "time_info": "[06时52分 ~ 07时42分]"
         },
         {
-          "title": "以媒：特朗普近日一度考虑恢复空袭伊朗",
-          "url": "https://news.ifeng.com/c/8stlzh9o2wc",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时51分 ~ 19时02分]"
-        },
-        {
           "title": "王毅同伊朗外长阿拉格齐会谈",
           "url": "https://news.ifeng.com/c/8suIT3dG9dH",
           "source": "凤凰网",
@@ -513,8 +536,19 @@
             6
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时01分 ~ 20时29分]"
+        },
+        {
+          "title": "知情人：伊朗将同意将铀浓缩材料运出",
+          "url": "https://www.toutiao.com/trending/7636723322763349546/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时01分 ~ 19时02分]"
+          "time_info": "[19时02分 ~ 20时29分]"
         },
         {
           "title": "美以袭击伊朗进入第 68 天，当前局势如何？哪些信息值得关注？",
@@ -665,7 +699,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时02分"
         },
@@ -681,15 +715,15 @@
           "time_info": "03时12分"
         },
         {
-          "title": "知情人：伊朗将同意将铀浓缩材料运出",
-          "url": "https://www.toutiao.com/trending/7636723322763349546/",
-          "source": "今日头条",
+          "title": "伊朗议长：霍尔木兹海峡新格局正在形成",
+          "url": "https://wallstreetcn.com/livenews/3099381",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时02分"
+          "time_info": "20时29分"
         },
         {
           "title": "伊朗总统佩泽希齐扬：准备与地区内伊斯兰国家解决争端。",
@@ -701,6 +735,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时54分"
+        },
+        {
+          "title": "伊朗称将确保船只安全通过霍尔木兹海峡",
+          "url": "https://wallstreetcn.com/articles/3771664",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时29分"
         },
         {
           "title": "伊朗总统佩泽希齐扬：如果以合乎逻辑的方式进行，对话是可能的。威胁和霸凌将无济于事。（法尔斯通讯社）",
@@ -769,6 +814,17 @@
           "time_info": "01时54分"
         },
         {
+          "title": "特朗普称若伊朗同意协议将开放霍尔木兹海峡 否则将加大军事行动",
+          "url": "https://wallstreetcn.com/livenews/3099377",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时29分"
+        },
+        {
           "title": "特朗普称美军或需进入伊朗境内获取核材料",
           "url": "https://flash.jin10.com/detail/20260505235851019800",
           "source": "金十数据",
@@ -835,6 +891,28 @@
           "time_info": "03时12分"
         },
         {
+          "title": "受伊朗停火乐观情绪影响，美元兑谢克尔汇率下跌1.1%至2.90，创1993年10月以来最低水平。",
+          "url": "https://wallstreetcn.com/livenews/3099374",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时29分"
+        },
+        {
+          "title": "伊朗将确保船只安全通过霍尔木兹海峡",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%B0%86%E7%A1%AE%E4%BF%9D%E8%88%B9%E5%8F%AA%E5%AE%89%E5%85%A8%E9%80%9A%E8%BF%87%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时29分"
+        },
+        {
           "title": "伊朗联合军事指挥部：近期未对阿联酋进行任何攻击。",
           "url": "https://flash.jin10.com/detail/20260506020807252800",
           "source": "金十数据",
@@ -844,6 +922,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时12分"
+        },
+        {
+          "title": "特朗普：如果伊朗同意（协议），“史诗愤怒”将结束，霍尔木兹海峡对所有人开放，包括伊朗。 如果伊朗不同意，轰炸将以更高强度开始。",
+          "url": "https://wallstreetcn.com/livenews/3099370",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时29分"
         },
         {
           "title": "美称对伊朗军事行动已结束",
@@ -1039,7 +1128,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时02分"
         },
@@ -1066,6 +1155,17 @@
           "time_info": "04时58分"
         },
         {
+          "title": "特朗普：伊朗若履约“史诗之怒”行动将结束，否则将重启轰炸",
+          "url": "https://flash.jin10.com/detail/20260506194852175800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时29分"
+        },
+        {
           "title": "伊朗外交部：敦促美方在外交问题上“展现善意”",
           "url": "https://wallstreetcn.com/livenews/3098832",
           "source": "华尔街见闻-快讯",
@@ -1077,6 +1177,17 @@
           "time_info": "00时29分"
         },
         {
+          "title": "受对伊朗停火的乐观情绪提振，美元兑以色列谢克尔下跌1.1%至2.90，创下1993年10月以来的最低水平。",
+          "url": "https://flash.jin10.com/detail/20260506194722576800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时29分"
+        },
+        {
           "title": "霍尔木兹海峡通航锐减 伊朗测试停火",
           "url": "https://flash.jin10.com/detail/20260506015507602800",
           "source": "金十数据",
@@ -1086,6 +1197,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时12分"
+        },
+        {
+          "title": "美国总统特朗普：若伊朗同意，“史诗怒火”行动便将终结；届时，凭借极具成效的封锁措施，霍尔木兹海峡将向包括伊朗在内的各方全面开放。",
+          "url": "https://flash.jin10.com/detail/20260506194318104800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时29分"
         },
         {
           "title": "【伊朗总统办公室官员否认总统辞职传闻】据伊朗学生通讯社5日报道，伊朗总统办公室一名官员否认有关伊朗总统佩泽希齐扬可能辞职的传闻。这名官员表示，相关说法不属实，当前局势下并不存在考虑此类问题的必要性。报道还说，相关说法为部分媒体在缺乏话题情况下制造的谣言。（新华社）",
@@ -1110,6 +1232,17 @@
           "time_info": "07时42分"
         },
         {
+          "title": "美国总统特朗普：如果伊朗不同意协议，轰炸就会开始。",
+          "url": "https://flash.jin10.com/detail/20260506194228239800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时29分"
+        },
+        {
           "title": "据媒体报道，伊朗中部城市阿拉克附近的米甘湿地芦苇区发生火灾，强风助长火势蔓延。",
           "url": "https://wallstreetcn.com/livenews/3098827",
           "source": "华尔街见闻-快讯",
@@ -1127,7 +1260,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时02分"
         },
@@ -1174,6 +1307,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时58分"
+        },
+        {
+          "title": "伊朗外长向中方通报伊美谈判情况",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%A4%96%E9%95%BF%E5%90%91%E4%B8%AD%E6%96%B9%E9%80%9A%E6%8A%A5%E4%BC%8A%E7%BE%8E%E8%B0%88%E5%88%A4%E6%83%85%E5%86%B5%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时29分"
+        },
+        {
+          "title": "伊朗称将确保船只安全通过霍尔木兹海峡",
+          "url": "https://wallstreetcn.com/livenews/3099334",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时29分"
         }
       ]
     },
@@ -1302,7 +1457,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时02分"
         },
@@ -1453,8 +1608,19 @@
     },
     {
       "keyword_group": "金融",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
+        {
+          "title": "广东多部门联合广州发布若干措施 支持越秀区打造养老金融示范样板",
+          "url": "https://flash.jin10.com/detail/20260506200352375800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时29分"
+        },
         {
           "title": "诺和诺德：预计2026年自由现金流为360亿至460亿丹麦克朗，此前预期为350亿至450亿丹麦克朗。 预计国际业务销售增长，美国业务销售下降。 预计2026年金融项目净亏损约6亿丹麦克朗，此前预期净收益约23亿丹麦克朗。 预计全球GLP-1市场将继续扩张。",
           "url": "https://wallstreetcn.com/livenews/3099144",
@@ -1503,6 +1669,17 @@
           "time_info": "[19时01分 ~ 19时02分]"
         },
         {
+          "title": "《关于支持广州市越秀区建设广东省养老金融高质量发展示范样板的若干措施》印发",
+          "url": "https://wallstreetcn.com/livenews/3099379",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时29分"
+        },
+        {
           "title": "Anthropic推出金融AI代理 谷歌、Meta被曝开发“龙虾”应用 | 环球市场",
           "url": "https://www.cls.cn/detail/2363224",
           "source": "财联社热门",
@@ -1520,7 +1697,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时02分"
         },
@@ -1782,17 +1959,6 @@
           "time_info": "[00时28分 ~ 13时51分]"
         },
         {
-          "title": "五一假期消费数据来了",
-          "url": "https://search.bilibili.com/all?keyword=%E4%BA%94%E4%B8%80%E5%81%87%E6%9C%9F%E6%B6%88%E8%B4%B9%E6%95%B0%E6%8D%AE%E6%9D%A5%E4%BA%86",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时01分 ~ 19时02分]"
-        },
-        {
           "title": "五一假期节日消费活力持续释放",
           "url": "https://www.douyin.com/hot/2490221",
           "source": "抖音",
@@ -1800,8 +1966,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时01分 ~ 19时02分]"
+          "appearance_count": 3,
+          "time_info": "[19时01分 ~ 20时29分]"
         },
         {
           "title": "“五一”假期文旅消费呈现新亮点",
@@ -1810,9 +1976,21 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时02分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时02分 ~ 20时29分]"
+        },
+        {
+          "title": "五一假期消费数据来了",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BA%94%E4%B8%80%E5%81%87%E6%9C%9F%E6%B6%88%E8%B4%B9%E6%95%B0%E6%8D%AE%E6%9D%A5%E4%BA%86",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时01分 ~ 20时29分]"
         },
         {
           "title": "以旧换新加力扩围掀起消费新热潮",
@@ -1838,6 +2016,17 @@
           "time_info": "[10时07分 ~ 19时02分]"
         },
         {
+          "title": "这届年轻人的消费逻辑变了",
+          "url": "https://www.baidu.com/s?wd=%E8%BF%99%E5%B1%8A%E5%B9%B4%E8%BD%BB%E4%BA%BA%E7%9A%84%E6%B6%88%E8%B4%B9%E9%80%BB%E8%BE%91%E5%8F%98%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时01分 ~ 20时29分]"
+        },
+        {
           "title": "体验经济、票根经济升温，“五一”假期消费热力足",
           "url": "https://wallstreetcn.com/livenews/3098962",
           "source": "华尔街见闻-快讯",
@@ -1848,17 +2037,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时53分 ~ 07时42分]"
-        },
-        {
-          "title": "这届年轻人的消费逻辑变了",
-          "url": "https://www.baidu.com/s?wd=%E8%BF%99%E5%B1%8A%E5%B9%B4%E8%BD%BB%E4%BA%BA%E7%9A%84%E6%B6%88%E8%B4%B9%E9%80%BB%E8%BE%91%E5%8F%98%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时01分 ~ 19时02分]"
         }
       ]
     },
@@ -1991,11 +2169,12 @@
           "url": "https://www.zhihu.com/question/2032416656081802662",
           "source": "知乎",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时01分 ~ 19时02分]"
+          "appearance_count": 3,
+          "time_info": "[19时01分 ~ 20时29分]"
         },
         {
           "title": "金价涨超0.7%，自4500美元附近反弹",
@@ -2023,8 +2202,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时01分 ~ 19时02分]"
+          "appearance_count": 3,
+          "time_info": "[19时01分 ~ 20时29分]"
         },
         {
           "title": "马光远：深圳楼市爆发",
@@ -2033,7 +2212,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时02分"
         }
