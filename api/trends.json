@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-07T07:44:24.841744+08:00",
-  "total_titles_processed": 624,
+  "generated_at": "2026-05-07T10:09:38.265461+08:00",
+  "total_titles_processed": 770,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 65,
+      "match_count": 73,
       "titles": [
         {
           "title": "以军总参谋长：在伊朗仍有一系列目标尚待打击",
@@ -16,8 +16,21 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时26分 ~ 07时44分]"
+          "appearance_count": 7,
+          "time_info": "[01时26分 ~ 10时09分]"
+        },
+        {
+          "title": "伊朗称将确保船只安全通过霍尔木兹海峡",
+          "url": "https://wallstreetcn.com/articles/3771664",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时26分 ~ 10时09分]"
         },
         {
           "title": "伊朗战争丨“若美方不作出必要让步，已准备好开火”",
@@ -42,18 +55,6 @@
           "time_info": "[01时26分 ~ 05时05分]"
         },
         {
-          "title": "伊朗称将确保船只安全通过霍尔木兹海峡",
-          "url": "https://wallstreetcn.com/articles/3771664",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时26分 ~ 07时44分]"
-        },
-        {
           "title": "王毅同伊朗外长阿拉格齐会谈",
           "url": "https://news.ifeng.com/c/8suIT3dG9dH",
           "source": "凤凰网",
@@ -63,6 +64,32 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时26分 ~ 05时05分]"
+        },
+        {
+          "title": "特朗普：如果伊朗同意美方条款，“史诗怒火”行动将宣告结束",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33102780",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            14,
+            6,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[03时26分 ~ 10时09分]"
+        },
+        {
+          "title": "阿拉格齐称访华富有成果，中国认为战前战后的伊朗完全不同",
+          "url": "https://news.ifeng.com/c/8suoch3QkWe",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时42分 ~ 10时09分]"
         },
         {
           "title": "王毅同伊朗外长阿拉格齐会谈",
@@ -87,17 +114,6 @@
           "time_info": "[06时42分 ~ 07时44分]"
         },
         {
-          "title": "阿拉格齐称访华富有成果，中国认为战前战后的伊朗完全不同",
-          "url": "https://news.ifeng.com/c/8suoch3QkWe",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时42分 ~ 07时44分]"
-        },
-        {
           "title": "知情人士：白宫认为与伊朗接近达成停战谅解备忘录",
           "url": "https://www.cls.cn/detail/2363872",
           "source": "财联社热门",
@@ -111,20 +127,6 @@
           "time_info": "[01时26分 ~ 07时44分]"
         },
         {
-          "title": "特朗普：如果伊朗同意美方条款，“史诗怒火”行动将宣告结束",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33102780",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            14,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时26分 ~ 07时44分]"
-        },
-        {
           "title": "伊朗确认前往美国参加世界杯：将在开赛前14天抵美",
           "url": "https://news.ifeng.com/c/8sv8uru6xCR",
           "source": "凤凰网",
@@ -134,6 +136,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时42分 ~ 07时44分]"
+        },
+        {
+          "title": "伊朗战争丨伊朗确认：将在赛前14天抵美参加世界杯",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时09分"
         },
         {
           "title": "知情人：伊朗将同意将铀浓缩材料运出",
@@ -218,6 +231,17 @@
           "time_info": "01时26分"
         },
         {
+          "title": "伊学者：这场战争，让中国意识到伊朗的战略性意义",
+          "url": "https://news.ifeng.com/c/8svQluOkLRz",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时09分"
+        },
+        {
           "title": "被问及可能达成的协议是否包括伊朗将其高丰度浓缩铀转运出境、或许运往美国时，特朗普回答道：“是的，不是‘或许’，它会被运往美国。” 特朗普还说，伊朗还将承诺不运行地下核设施，并“将在相当长一段时间内本着善意遵守这一安排”。（新华社）",
           "url": "https://wallstreetcn.com/livenews/3099506",
           "source": "华尔街见闻-快讯",
@@ -265,6 +289,18 @@
           "time_info": "[05时05分 ~ 06时42分]"
         },
         {
+          "title": "伊朗高层回击美媒：所谓的“和谈进展”只是美国的愿望清单，而非现实",
+          "url": "https://wallstreetcn.com/articles/3771674",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时44分 ~ 10时09分]"
+        },
+        {
           "title": "伊朗官员：美军动用所有军事手段也无法开通霍尔木兹海峡",
           "url": "https://flash.jin10.com/detail/20260507051942098800",
           "source": "金十数据",
@@ -299,6 +335,17 @@
           "time_info": "05时05分"
         },
         {
+          "title": "美以袭击伊朗进入第 69 天，当前局势如何？哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2035488793264747701",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时09分"
+        },
+        {
           "title": "美军在阿曼湾截停伊朗籍空油轮，称其违反美方封锁",
           "url": "https://flash.jin10.com/detail/20260507011223424800",
           "source": "金十数据",
@@ -327,9 +374,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时44分"
+        },
+        {
+          "title": "据耶路撒冷邮报：以色列官员称，华盛顿与德黑兰之间的提议协议可能会使伊朗的导弹库保持完整。该协议还可能会限制以色列军队在黎巴嫩的行动自由。",
+          "url": "https://flash.jin10.com/detail/20260507095356601800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时09分"
         },
         {
           "title": "伊朗常驻联合国代表团提出解决霍尔木兹海峡问题的可行方案",
@@ -365,15 +423,15 @@
           "time_info": "01时26分"
         },
         {
-          "title": "伊朗高层回击美媒：所谓的“和谈进展”只是美国的愿望清单，而非现实",
-          "url": "https://wallstreetcn.com/articles/3771674",
-          "source": "华尔街见闻",
+          "title": "伊朗：对美方的不信任源于其敌对行为",
+          "url": "https://www.toutiao.com/trending/7636432119836819499/",
+          "source": "今日头条",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时44分"
+          "time_info": "10时09分"
         },
         {
           "title": "美国军方：周三，美军在阿曼湾使一艘悬挂伊朗国旗、试图驶向伊朗港口的空载油轮丧失能力。",
@@ -396,6 +454,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时26分"
+        },
+        {
+          "title": "伊朗称又击落敌方察打一体无人机",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E7%A7%B0%E5%8F%88%E5%87%BB%E8%90%BD%E6%95%8C%E6%96%B9%E5%AF%9F%E6%89%93%E4%B8%80%E4%BD%93%E6%97%A0%E4%BA%BA%E6%9C%BA%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时09分"
         },
         {
           "title": "美国总统特朗普：如果我们无法从伊朗那里得到我们想要的，我们就不得不采取进一步行动。",
@@ -481,7 +550,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时44分"
         },
@@ -514,7 +583,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时44分"
         },
@@ -550,6 +619,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时27分"
+        },
+        {
+          "title": "伊朗称各港口准备好提供一般海事服务",
+          "url": "https://www.toutiao.com/trending/7636624059102674980/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时09分"
         },
         {
           "title": "美国总统特朗普：伊朗想进行谈判，我们将看看是否能与伊朗达成令我们满意的协议。",
@@ -737,6 +817,126 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时26分"
+        },
+        {
+          "title": "伊朗国防部：美国需与以色列划清界限",
+          "url": "https://wallstreetcn.com/livenews/3099649",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时09分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "科技",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "UP主解读宇树科技招股书",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%A7%A3%E8%AF%BB%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80%E6%8B%9B%E8%82%A1%E4%B9%A6",
+          "source": "bilibili 热搜",
+          "ranks": [
+            28,
+            8,
+            9,
+            7,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[03时26分 ~ 10时09分]"
+        },
+        {
+          "title": "北证50指数涨超3%，昆工科技逼近30cm涨停，戈碧迦涨超20%，蘅东光涨超10%，314只北交所个股中，近300股处于上涨状态。",
+          "url": "https://wallstreetcn.com/livenews/3099694",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时09分"
+        },
+        {
+          "title": "机器人概念股集体拉升，宇环数控、巨轮智能双双涨停，华中数控大涨近18%，斯菱智驱、肇民科技、信质集团、浙江荣泰、力星股份、五洲新春等涨幅靠前。",
+          "url": "https://wallstreetcn.com/livenews/3099685",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时09分"
+        },
+        {
+          "title": "恒生指数主连夜盘收涨1.12%，报26423点。 恒生科技指数主连夜盘收涨1.79%，报5064点。",
+          "url": "https://wallstreetcn.com/livenews/3099533",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时27分"
+        },
+        {
+          "title": "A股人形机器人概念板块震荡上升，盛视科技、泰晶科技封板涨停，信质集团、凯龙高科、斯菱智驱、高测股份、天准科技跟涨。",
+          "url": "https://flash.jin10.com/detail/20260507094759038800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时09分"
+        },
+        {
+          "title": "标普500指数的11个板块多数收涨，工业板块涨2.60%，信息技术/科技板块涨2.56%，电信板块涨2.05%，能源板块重挫4.07%。",
+          "url": "https://wallstreetcn.com/livenews/3099559",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时05分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收涨3.45%，报7127.47点。 利弗莫尔中概股龙头指数收涨4.98%。 ETF中，中国科技指数ETF（CQQQ）收涨4.94%，中概互联网指数ETF（KWEB）收涨4.31%。 MSCI新兴市场ex中国ETF（EMXC）收涨3.46%，德银嘉实沪深300指数ETF（ASHR）收涨2.73%，XtrackersHarvest中证50（ASHS）收涨1.84%。",
+          "url": "https://wallstreetcn.com/livenews/3099554",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时05分"
+        },
+        {
+          "title": "恒指高开1.21%，恒生科技指数涨2.41%",
+          "url": "https://wallstreetcn.com/livenews/3099659",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时09分"
+        },
+        {
+          "title": "A股存储芯片板块直线拉升，朗科科技涨超13%，续创历史新高，怡亚通封板涨停，德明利涨超9%，江波龙、香农芯创、开普云、时空科技跟涨。",
+          "url": "https://flash.jin10.com/detail/20260507093828295800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时09分"
         }
       ]
     },
@@ -752,8 +952,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时26分 ~ 07时44分]"
+          "appearance_count": 7,
+          "time_info": "[01时26分 ~ 10时09分]"
         },
         {
           "title": "五一假期消费数据来了",
@@ -764,11 +964,12 @@
             2,
             6,
             3,
-            1
+            1,
+            24
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时26分 ~ 07时44分]"
+          "appearance_count": 7,
+          "time_info": "[01时26分 ~ 10时09分]"
         },
         {
           "title": "美联储古尔斯比：如果人们提前支取未来预期收益用于今天的消费，可能会导致经济过热。",
@@ -885,7 +1086,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时44分"
         },
@@ -914,55 +1115,54 @@
       ]
     },
     {
-      "keyword_group": "科技",
+      "keyword_group": "资源",
       "match_count": 4,
       "titles": [
         {
-          "title": "UP主解读宇树科技招股书",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%A7%A3%E8%AF%BB%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80%E6%8B%9B%E8%82%A1%E4%B9%A6",
-          "source": "bilibili 热搜",
+          "title": "韩国产业通商资源部长官称，将在6月份过后宣布有关美国投资计划的信息。（NewSis）",
+          "url": "https://wallstreetcn.com/livenews/3099613",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            28,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时44分"
+        },
+        {
+          "title": "市场消息：据一位知情人士透露，特朗普政府正在研究利用美国军事基地及国防部其他场所地下的石油资源，以补充国家日益减少的应急储备。",
+          "url": "https://flash.jin10.com/detail/20260507054528380800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时42分 ~ 07时44分]"
+        },
+        {
+          "title": "美国：考虑利用军事基地地下的石油资源来补充战略储备",
+          "url": "https://wallstreetcn.com/livenews/3099596",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
             8,
-            9,
-            7
+            22
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时26分 ~ 07时44分]"
+          "appearance_count": 2,
+          "time_info": "[06时42分 ~ 07时44分]"
         },
         {
-          "title": "恒生指数主连夜盘收涨1.12%，报26423点。 恒生科技指数主连夜盘收涨1.79%，报5064点。",
-          "url": "https://wallstreetcn.com/livenews/3099533",
-          "source": "华尔街见闻-快讯",
+          "title": "A股工业金属板块盘初上扬，丽岛新材触及涨停，株冶集团涨超7%，盛达资源、盛屯矿业、中金岭南跟涨。",
+          "url": "https://flash.jin10.com/detail/20260507094408497800",
+          "source": "金十数据",
           "ranks": [
-            8
+            18
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时27分"
-        },
-        {
-          "title": "标普500指数的11个板块多数收涨，工业板块涨2.60%，信息技术/科技板块涨2.56%，电信板块涨2.05%，能源板块重挫4.07%。",
-          "url": "https://wallstreetcn.com/livenews/3099559",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时05分"
-        },
-        {
-          "title": "纳斯达克金龙中国指数收涨3.45%，报7127.47点。 利弗莫尔中概股龙头指数收涨4.98%。 ETF中，中国科技指数ETF（CQQQ）收涨4.94%，中概互联网指数ETF（KWEB）收涨4.31%。 MSCI新兴市场ex中国ETF（EMXC）收涨3.46%，德银嘉实沪深300指数ETF（ASHR）收涨2.73%，XtrackersHarvest中证50（ASHS）收涨1.84%。",
-          "url": "https://wallstreetcn.com/livenews/3099554",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时05分"
+          "time_info": "10时09分"
         }
       ]
     },
@@ -1000,7 +1200,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时44分"
         },
@@ -1060,47 +1260,6 @@
       ]
     },
     {
-      "keyword_group": "资源",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "韩国产业通商资源部长官称，将在6月份过后宣布有关美国投资计划的信息。（NewSis）",
-          "url": "https://wallstreetcn.com/livenews/3099613",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时44分"
-        },
-        {
-          "title": "市场消息：据一位知情人士透露，特朗普政府正在研究利用美国军事基地及国防部其他场所地下的石油资源，以补充国家日益减少的应急储备。",
-          "url": "https://flash.jin10.com/detail/20260507054528380800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时42分 ~ 07时44分]"
-        },
-        {
-          "title": "美国：考虑利用军事基地地下的石油资源来补充战略储备",
-          "url": "https://wallstreetcn.com/livenews/3099596",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时42分 ~ 07时44分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "深圳",
       "match_count": 2,
       "titles": [
@@ -1109,11 +1268,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354043&amp;topic_name=%E6%B7%B1%E5%9C%B3%E7%A6%81%E7%83%9F%E6%95%B4%E6%B4%BB%2C%E8%B0%90%E9%9F%B3%E6%A2%97%E7%8E%A9%E6%98%8E%E7%99%BD%E4%BA%86",
           "source": "贴吧",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时26分 ~ 07时44分]"
+          "appearance_count": 7,
+          "time_info": "[01时26分 ~ 10时09分]"
         },
         {
           "title": "马光远：深圳楼市爆发",
@@ -1121,11 +1281,12 @@
           "source": "今日头条",
           "ranks": [
             16,
-            19
+            19,
+            29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时05分 ~ 07时44分]"
+          "appearance_count": 4,
+          "time_info": "[05时05分 ~ 10时09分]"
         }
       ]
     },
@@ -1200,6 +1361,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时42分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "旅游",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "邮轮疫情加剧南极过度旅游担忧",
+          "url": "https://www.toutiao.com/trending/7636175510120218666/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时09分"
         }
       ]
     }
