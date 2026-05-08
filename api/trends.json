@@ -1,11 +1,13 @@
 {
-  "generated_at": "2026-05-08T19:06:12.903852+08:00",
-  "total_titles_processed": 1385,
-  "failed_sources": [],
+  "generated_at": "2026-05-08T21:16:35.834102+08:00",
+  "total_titles_processed": 1542,
+  "failed_sources": [
+    "bilibili-hot-search"
+  ],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 125,
+      "match_count": 130,
       "titles": [
         {
           "title": "霍尔木兹局势又紧张！伊朗称美违反停火空袭、已反击，美军称拦截伊发起的无端袭击",
@@ -17,8 +19,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时46分 ~ 19时06分]"
+          "appearance_count": 12,
+          "time_info": "[07时46分 ~ 21时16分]"
         },
         {
           "title": "伊朗划定两条霍尔木兹航道，油价应声大跌",
@@ -135,6 +137,18 @@
           "time_info": "[06时55分 ~ 13时25分]"
         },
         {
+          "title": "美国 3 艘军舰穿越霍尔木兹海峡遭伊朗袭击，局势会升级吗？当前双方诉求是什么？",
+          "url": "https://www.zhihu.com/question/2036007359844020985",
+          "source": "知乎",
+          "ranks": [
+            13,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[13时24分 ~ 21时16分]"
+        },
+        {
           "title": "伊朗战争丨美军对伊朗格什姆岛及阿巴斯港发动袭击",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
           "source": "凤凰网",
@@ -171,18 +185,6 @@
           "time_info": "[10时25分 ~ 19时06分]"
         },
         {
-          "title": "美国 3 艘军舰穿越霍尔木兹海峡遭伊朗袭击，局势会升级吗？当前双方诉求是什么？",
-          "url": "https://www.zhihu.com/question/2036007359844020985",
-          "source": "知乎",
-          "ranks": [
-            13,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时24分 ~ 19时06分]"
-        },
-        {
           "title": "伊朗战争丨伊朗海军称扣押一艘违规油轮",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
           "source": "凤凰网",
@@ -192,6 +194,41 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时05分 ~ 19时06分]"
+        },
+        {
+          "title": "伊朗战争丨鲁比奥：期待伊朗今日作出回应",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时15分 ~ 21时16分]"
+        },
+        {
+          "title": "美中央司令部：对伊朗军事设施实施定点打击",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33118500",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            17,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时19分 ~ 21时16分]"
+        },
+        {
+          "title": "哈里斯谈伊朗战争时爆粗然后大笑，现场响起雷鸣般的掌声",
+          "url": "https://v.ifeng.com/c/8sxW6y1Facc",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时15分 ~ 21时16分]"
         },
         {
           "title": "伊朗武装部队：美军袭击油轮并空袭沿海地区 伊方已进行反击",
@@ -293,9 +330,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时06分"
+        },
+        {
+          "title": "美国务卿：美方尚未收到伊朗方面的正式回应，但预计“今天会得到回复”，希望美伊进入严肃谈判进程",
+          "url": "https://wallstreetcn.com/livenews/3100738",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
         },
         {
           "title": "四名知情人士表示，美国中央情报局（CIA）本周的一份机密分析认为，伊朗至少可以在美国海上封锁下维持三至四个月，之后才会面临更严重的经济困境。（华盛顿邮报）",
@@ -315,7 +363,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时06分"
         },
@@ -333,17 +381,17 @@
           "time_info": "[10时25分 ~ 15时20分]"
         },
         {
-          "title": "美中央司令部：对伊朗军事设施实施定点打击",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33118500",
-          "source": "澎湃新闻",
+          "title": "美军空袭伊朗港口",
+          "url": "https://www.douyin.com/hot/2491798",
+          "source": "抖音",
           "ranks": [
-            19,
-            17,
+            6,
+            15,
             16
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[15时19分 ~ 19时06分]"
+          "time_info": "[17时10分 ~ 21时16分]"
         },
         {
           "title": "美国军方：美国中央司令部已消除来袭威胁，并瞄准了袭击美军的伊朗军事设施。",
@@ -440,18 +488,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时25分 ~ 13时25分]"
-        },
-        {
-          "title": "美军空袭伊朗港口",
-          "url": "https://www.douyin.com/hot/2491798",
-          "source": "抖音",
-          "ranks": [
-            6,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时10分 ~ 19时06分]"
         },
         {
           "title": "伊朗：最高领袖穆杰塔巴全面掌控局势",
@@ -651,7 +687,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时06分"
         },
@@ -805,7 +841,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时06分"
         },
@@ -885,6 +921,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时10分"
+        },
+        {
+          "title": "伊朗迈赫尔通讯社：伊朗锡里克（靠近霍尔木兹海峡）传出爆炸声，原因不明。",
+          "url": "https://flash.jin10.com/detail/20260508210502884800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
         },
         {
           "title": "亚太盘初，标普500股指期货跌0.3%，纳指期货跌0.4%。黄金价格大致持平，暂报4690美元/盎司，WTI原油期货持平，暂报97.77美元/桶，布伦特原油期货涨0.2%，暂报103.50美元。据新华社报道，伊朗南部一海军基地遭美以袭击，美媒称美军空袭伊朗港口。",
@@ -1014,7 +1061,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时06分"
         },
@@ -1393,6 +1440,17 @@
           "time_info": "05时50分"
         },
         {
+          "title": "美国国务卿鲁比奥：（谈伊朗小型船队）他们现在没有海军了，但他们会开出那种小型捕鲸船，试图围攻我们。如果那些船敢朝我们开过来，我们就把它们炸掉。",
+          "url": "https://flash.jin10.com/detail/20260508205310733800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
+        },
+        {
           "title": "当地时间7日夜间，总台记者获悉，伊朗首都德黑兰西部启动防空系统。（央视）",
           "url": "https://wallstreetcn.com/livenews/3100196",
           "source": "华尔街见闻-快讯",
@@ -1440,7 +1498,7 @@
     },
     {
       "keyword_group": "科技",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "探访最神秘“杭州六小龙”强脑科技：业务已延伸至具身智能，估值突破120亿元",
@@ -1701,12 +1759,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时25分"
+        },
+        {
+          "title": "清越科技涉嫌欺诈发行被罚 中介机构火速启动先行赔付",
+          "url": "https://wallstreetcn.com/livenews/3100707",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
         }
       ]
     },
     {
       "keyword_group": "消费",
-      "match_count": 9,
+      "match_count": 12,
       "titles": [
         {
           "title": "“体验经济”激活消费活力",
@@ -1753,6 +1822,39 @@
           "time_info": "[17时10分 ~ 19时06分]"
         },
         {
+          "title": "从“五一”假期消费看中国经济向新向优",
+          "url": "https://www.toutiao.com/trending/7636403919773499428/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时15分 ~ 21时16分]"
+        },
+        {
+          "title": "五一消费潜力充分释放",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BA%94%E4%B8%80%E6%B6%88%E8%B4%B9%E6%BD%9C%E5%8A%9B%E5%85%85%E5%88%86%E9%87%8A%E6%94%BE%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时15分 ~ 21时16分]"
+        },
+        {
+          "title": "多项惠民举措激发消费活力",
+          "url": "https://www.douyin.com/hot/2492691",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时15分 ~ 21时16分]"
+        },
+        {
           "title": "国内一年仅卖 2763 万台彩电，创十年新低，反映了哪些消费趋势和市场变化？",
           "url": "https://www.zhihu.com/question/2035014946992431647",
           "source": "知乎",
@@ -1770,7 +1872,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时06分"
         },
@@ -1792,7 +1894,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时06分"
         },
@@ -1853,7 +1955,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时06分"
         },
@@ -1886,7 +1988,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时06分"
         },
@@ -2064,7 +2166,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时06分"
         },
@@ -2083,7 +2185,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "全球最大黄金买家之一波兰央行：计划增持105吨黄金，金价短线拉升",
@@ -2093,11 +2195,12 @@
             10,
             7,
             9,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时46分 ~ 19时06分]"
+          "appearance_count": 12,
+          "time_info": "[07时46分 ~ 21时16分]"
         },
         {
           "title": "金十图示：2026年05月08日（周五）上海金午盘价为1036.11元/克，较国际金价(1033.24元/克)高2.87元/克",
@@ -2115,11 +2218,23 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33109633",
           "source": "澎湃新闻",
           "ranks": [
-            12
+            12,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时05分 ~ 21时16分]"
+        },
+        {
+          "title": "金价狂飙为何周大福却关了969家店",
+          "url": "https://www.toutiao.com/trending/7637449974279573028/",
+          "source": "今日头条",
+          "ranks": [
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时05分 ~ 19时06分]"
+          "time_info": "[21时15分 ~ 21时16分]"
         },
         {
           "title": "金价破4700追不追",
@@ -2136,7 +2251,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "周四（5月7日）纽约尾盘，ICE美元指数涨0.08%，报98.10点，日内交投区间为97.82-98.17点，北京时间22:30以来持续走高。",
@@ -2148,6 +2263,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时10分"
+        },
+        {
+          "title": "美国4月非农超预期，美股三大股指期货小幅走高，纳指期货日内涨1%，标普500指数期货涨0.65%；现货黄金短线拉升，日内涨幅扩大至0.36%；美元指数跌至日内低点，日内跌0.39%。",
+          "url": "https://wallstreetcn.com/livenews/3100730",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
         },
         {
           "title": "美元指数DXY向下触及98，日内跌0.27%。",
@@ -2214,6 +2340,37 @@
       ]
     },
     {
+      "keyword_group": "制造业",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "华为“天才少年”选择创业：用AI重构先进制造业，目标实现国产超越",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33105333",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            15,
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[10时25分 ~ 21时16分]"
+        },
+        {
+          "title": "美国4月制造业就业人口变动 -0.2万人，预期 0.3万人，前值 1.5万人。",
+          "url": "https://wallstreetcn.com/livenews/3100722",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
+        }
+      ]
+    },
+    {
       "keyword_group": "医药",
       "match_count": 2,
       "titles": [
@@ -2243,26 +2400,6 @@
       ]
     },
     {
-      "keyword_group": "制造业",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "华为“天才少年”选择创业：用AI重构先进制造业，目标实现国产超越",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33105333",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            15,
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时25分 ~ 19时06分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "登山",
       "match_count": 1,
       "titles": [
@@ -2288,11 +2425,12 @@
           "url": "https://www.zhihu.com/question/2035693347046515679",
           "source": "知乎",
           "ranks": [
-            19
+            19,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时05分 ~ 19时06分]"
+          "appearance_count": 4,
+          "time_info": "[19时05分 ~ 21时16分]"
         }
       ]
     }
