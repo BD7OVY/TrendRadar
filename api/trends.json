@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-09T10:10:20.585428+08:00",
-  "total_titles_processed": 694,
+  "generated_at": "2026-05-09T13:43:13.199644+08:00",
+  "total_titles_processed": 889,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 44,
+      "match_count": 51,
       "titles": [
         {
           "title": "伊朗南部霍尔木兹甘省一港口城市传出爆炸声",
@@ -17,6 +17,20 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时12分 ~ 10时10分]"
+        },
+        {
+          "title": "美国务卿敦促“进入严肃谈判进程”，美军向伊朗“违反封锁”油轮开火，伊称海湾交火已停但恐重燃",
+          "url": "https://wallstreetcn.com/articles/3771862",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[03时08分 ~ 13时43分]"
         },
         {
           "title": "伊朗成立波斯湾海峡管理局，过霍尔木兹的船要先填40多道题？",
@@ -52,18 +66,19 @@
           "time_info": "[01时12分 ~ 06时49分]"
         },
         {
-          "title": "美国务卿敦促“进入严肃谈判进程”，美军向伊朗“违反封锁”油轮开火，伊称海湾交火已停但恐重燃",
-          "url": "https://wallstreetcn.com/articles/3771862",
-          "source": "华尔街见闻",
+          "title": "岚目镜观｜从三权分立到“民选皇帝”：伊朗战事如何刺穿美国宪政神话",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33113410",
+          "source": "澎湃新闻",
           "ranks": [
-            6,
-            4,
-            3,
-            2
+            17,
+            18,
+            16,
+            13,
+            10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[03时08分 ~ 10时10分]"
+          "appearance_count": 10,
+          "time_info": "[01时12分 ~ 13时43分]"
         },
         {
           "title": "霍尔木兹局势又紧张！伊朗称美违反停火空袭、已反击，美军称拦截伊发起的无端袭击",
@@ -77,20 +92,6 @@
           "time_info": "[01时12分 ~ 04时53分]"
         },
         {
-          "title": "岚目镜观｜从三权分立到“民选皇帝”：伊朗战事如何刺穿美国宪政神话",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33113410",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            18,
-            16,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时12分 ~ 10时10分]"
-        },
-        {
           "title": "伊朗战争丨因储油罐已满而向大海排石油？伊朗回应",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
           "source": "凤凰网",
@@ -100,6 +101,39 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时50分 ~ 10时10分]"
+        },
+        {
+          "title": "伊朗战争丨伊朗官员披露穆杰塔巴伤情",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时42分 ~ 13时43分]"
+        },
+        {
+          "title": "现场画面：伊朗海军扣押一艘油轮",
+          "url": "https://v.ifeng.com/c/8syr0bovpBY",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时42分 ~ 13时43分]"
+        },
+        {
+          "title": "伊朗驻华大使：美国没法施压中国，改变对伊朗关系",
+          "url": "https://news.ifeng.com/c/8syp7qZWoVz",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时42分 ~ 13时43分]"
         },
         {
           "title": "伊朗：已做好全面准备回击任何侵略",
@@ -244,6 +278,17 @@
           "time_info": "01时12分"
         },
         {
+          "title": "伊朗称美军打击伊朗6艘民用船",
+          "url": "https://wallstreetcn.com/livenews/3101008",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时43分"
+        },
+        {
           "title": "美国总统特朗普：可能会（在霍尔木兹海峡通航问题上）重拾“自由计划”。 可能会是一个“加强版的自由计划”（project freedom plus）。 如果伊朗不签署协议，美方可能重启“自由计划”。",
           "url": "https://wallstreetcn.com/livenews/3100956",
           "source": "华尔街见闻-快讯",
@@ -253,6 +298,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时50分"
+        },
+        {
+          "title": "伊朗官员：最高领袖非常健康",
+          "url": "https://wallstreetcn.com/livenews/3101004",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时43分"
         },
         {
           "title": "美国总统特朗普：伊朗局势似乎进展非常顺利。 看看伊朗能不能大到（美方的要求）。",
@@ -277,6 +333,17 @@
           "time_info": "03时08分"
         },
         {
+          "title": "伊朗称美军打击伊朗6艘民用船",
+          "url": "https://flash.jin10.com/detail/20260509125121027800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时43分"
+        },
+        {
           "title": "伊朗媒体：美伊波斯湾交火目前已停，地区类似冲突可能重燃",
           "url": "https://wallstreetcn.com/livenews/3100843",
           "source": "华尔街见闻-快讯",
@@ -294,7 +361,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时10分"
         },
@@ -316,7 +383,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时10分"
         },
@@ -360,7 +427,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时10分"
         },
@@ -371,7 +438,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时10分"
         },
@@ -426,7 +493,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时10分"
         },
@@ -464,6 +531,17 @@
           "time_info": "04时53分"
         },
         {
+          "title": "据伊朗塔斯尼姆通讯社：一位军方消息人士透露，波斯湾地区的冲突目前虽已平息，但如果美国对伊朗船只制造麻烦，冲突仍有可能重燃。",
+          "url": "https://flash.jin10.com/detail/20260509114826104800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时43分"
+        },
+        {
           "title": "【美国官员：卡塔尔是美伊之间就结束战争进行谈判的“关键秘密渠道”】据美国媒体8日报道，美国副总统万斯当天上午在白宫会见卡塔尔首相兼外交大臣穆罕默德，讨论与伊朗谈判事宜。美国阿克西奥斯新闻网站报道称，一名美国官员表示，卡塔尔是美伊之间就结束战争进行谈判的“关键秘密渠道”。（新华社）",
           "url": "https://wallstreetcn.com/livenews/3100827",
           "source": "华尔街见闻-快讯",
@@ -481,7 +559,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时10分"
         },
@@ -511,7 +589,7 @@
     },
     {
       "keyword_group": "科技",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "A股先行赔付第六单！清越科技连续三年造假，拟罚1.73亿濒临退市",
@@ -519,11 +597,12 @@
           "source": "财联社热门",
           "ranks": [
             5,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时12分 ~ 10时10分]"
+          "appearance_count": 10,
+          "time_info": "[01时12分 ~ 13时43分]"
         },
         {
           "title": "金十数据整理：每日科技要闻速递（5月9日）",
@@ -532,7 +611,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时10分"
         },
@@ -611,6 +690,17 @@
           "time_info": "[07时50分 ~ 10时10分]"
         },
         {
+          "title": "网红牛散“鑫多多”陷争议，10倍“妖股”国晟科技游资魅影重重",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33124269",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时42分 ~ 13时43分]"
+        },
+        {
           "title": "纳斯达克金龙中国指数收跌0.47%，报6994.95点，本周累计上涨1.56%，5月6日显著上涨，随后回吐部分涨幅。 热门中概股里，阿特斯初步收涨13.8%，晶科能源涨5.3%，小米、理想涨超2%，拼多多跌2.9%，新东方跌5.1%。 ETF中，中概互联网指数ETF（KWEB）收涨0.10%，本周反弹2.68%； 德银嘉实沪深300指数ETF（ASHR）收涨0.51%，本周涨0.93%； XtrackersHarvest中证50（ASHS）收涨0.59%，本周涨2.52%； 中国科技指数ETF（CQQQ）收涨0.81%，本周涨4.85%； MSCI新兴市场ex中国ETF（EMXC）收涨2.56%，本周涨7.40%。",
           "url": "https://wallstreetcn.com/livenews/3100903",
           "source": "华尔街见闻-快讯",
@@ -643,6 +733,92 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时53分"
+        },
+        {
+          "title": "长电科技：一季度产能利用率超过80% 产能供不应求",
+          "url": "https://flash.jin10.com/detail/20260509121801116800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时43分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "消费",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "从“五一”假期消费看中国经济向新向优",
+          "url": "https://www.toutiao.com/trending/7636403919773499428/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时12分 ~ 13时43分]"
+        },
+        {
+          "title": "五一消费潜力充分释放",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BA%94%E4%B8%80%E6%B6%88%E8%B4%B9%E6%BD%9C%E5%8A%9B%E5%85%85%E5%88%86%E9%87%8A%E6%94%BE%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时12分 ~ 10时10分]"
+        },
+        {
+          "title": "多项惠民举措激发消费活力",
+          "url": "https://www.douyin.com/hot/2492691",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时12分 ~ 10时10分]"
+        },
+        {
+          "title": "央媒评“豆包”推出付费模式：探索商业化路径无可厚非，但应兼顾用户消费能力",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33120286",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            15,
+            14,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时12分 ~ 10时10分]"
+        },
+        {
+          "title": "“4只皮皮虾1035元”消费者再发声",
+          "url": "https://www.douyin.com/hot/2492975",
+          "source": "抖音",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时42分 ~ 13时43分]"
+        },
+        {
+          "title": "中国黄金协会：一季度黄金消费量同比增4.41%，其中金条及金币大增近五成",
+          "url": "https://wallstreetcn.com/livenews/3100984",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时43分"
         }
       ]
     },
@@ -657,9 +833,9 @@
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时10分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时10分 ~ 13时43分]"
         },
         {
           "title": "美联储金融稳定报告：私人信贷赎回相关风险“可控”",
@@ -705,59 +881,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时53分 ~ 05时54分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "消费",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "从“五一”假期消费看中国经济向新向优",
-          "url": "https://www.toutiao.com/trending/7636403919773499428/",
-          "source": "今日头条",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时12分 ~ 10时10分]"
-        },
-        {
-          "title": "五一消费潜力充分释放",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BA%94%E4%B8%80%E6%B6%88%E8%B4%B9%E6%BD%9C%E5%8A%9B%E5%85%85%E5%88%86%E9%87%8A%E6%94%BE%23&t=31&band_rank=3&Refer=top",
-          "source": "微博",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时12分 ~ 10时10分]"
-        },
-        {
-          "title": "多项惠民举措激发消费活力",
-          "url": "https://www.douyin.com/hot/2492691",
-          "source": "抖音",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时12分 ~ 10时10分]"
-        },
-        {
-          "title": "央媒评“豆包”推出付费模式：探索商业化路径无可厚非，但应兼顾用户消费能力",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33120286",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            15,
-            14,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时12分 ~ 10时10分]"
         }
       ]
     },
@@ -827,6 +950,23 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时12分 ~ 06时49分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "英伟达13倍涨幅不过尔尔？自ChatGPT问世以来的AI疯牛榜正发生巨变！",
+          "url": "https://www.cls.cn/detail/2366733",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时42分 ~ 13时43分]"
         }
       ]
     },
