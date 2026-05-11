@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-12T04:29:00.955057+08:00",
-  "total_titles_processed": 470,
+  "generated_at": "2026-05-12T06:01:30.626744+08:00",
+  "total_titles_processed": 534,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 41,
+      "match_count": 47,
       "titles": [
         {
           "title": "美国以协助伊朗为由制裁3家中国公司，外交部回应",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时27分 ~ 04时29分]"
+          "appearance_count": 6,
+          "time_info": "[00时27分 ~ 06时01分]"
         },
         {
           "title": "伊朗回应“提议30天内撤销石油制裁”，特朗普称“完全不可接受”，内塔尼亚胡“美以对伊朗的军事行动尚未结束”",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时27分 ~ 04时29分]"
+          "appearance_count": 6,
+          "time_info": "[00时27分 ~ 06时01分]"
         },
         {
           "title": "美方称“完全不可接受”，伊朗提了哪些要求？",
@@ -37,8 +37,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时27分 ~ 04时29分]"
+          "appearance_count": 6,
+          "time_info": "[00时27分 ~ 06时01分]"
         },
         {
           "title": "特朗普拒绝伊朗和平提案 美股期指集体走低 | 今夜看点",
@@ -49,19 +49,31 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时27分 ~ 04时29分]"
+          "appearance_count": 6,
+          "time_info": "[00时27分 ~ 06时01分]"
         },
         {
-          "title": "据华尔街日报：阿联酋一直在秘密对伊朗进行攻击。阿联酋尚未公开承认对伊朗的袭击。",
-          "url": "https://flash.jin10.com/detail/20260512041302774800",
+          "title": "据华尔街日报：消息人士称，美国总统特朗普上个月在伊朗战争相关事件后，曾私下向代理司法部长抱怨媒体泄密问题。代理司法部长承诺将申请传票，目标涉及报道国家安全新闻的记者相关记录。",
+          "url": "https://flash.jin10.com/detail/20260512054116878800",
           "source": "金十数据",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时29分"
+          "time_info": "06时01分"
+        },
+        {
+          "title": "伊朗：谈判优先事项是结束战争，浓缩铀问题适时作出决定",
+          "url": "https://wallstreetcn.com/articles/3771985",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时27分 ~ 06时01分]"
         },
         {
           "title": "伊朗最高领袖顾问：我们在战场上打败了美国人，特朗普最好不要以为他会在外交上获胜。",
@@ -73,28 +85,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时28分"
-        },
-        {
-          "title": "据华尔街日报：消息人士称，阿联酋此前已对伊朗实施军事打击。阿联酋的袭击包括对伊朗拉万岛上一座炼油厂的攻击。",
-          "url": "https://flash.jin10.com/detail/20260512041239632800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时29分"
-        },
-        {
-          "title": "美国原油涨向99美元，报道称阿联酋军事袭击伊朗炼油厂等目标",
-          "url": "https://wallstreetcn.com/livenews/3101850",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时29分"
         },
         {
           "title": "据伊朗塔斯尼姆通讯社：一位接近伊朗谈判团队的消息人士表示，伊朗在其提案中为解冻被冻结资金设定了明确期限。美国在其提案中写道将解冻伊朗被冻结的资金，但伊朗强调这些资金必须在特定期限内解冻。",
@@ -130,16 +120,40 @@
           "time_info": "00时28分"
         },
         {
-          "title": "伊朗：谈判优先事项是结束战争，浓缩铀问题适时作出决定",
-          "url": "https://wallstreetcn.com/articles/3771985",
-          "source": "华尔街见闻",
+          "title": "据华尔街日报：阿联酋一直在秘密对伊朗进行攻击。阿联酋尚未公开承认对伊朗的袭击。",
+          "url": "https://flash.jin10.com/detail/20260512041302774800",
+          "source": "金十数据",
           "ranks": [
-            9,
-            10
+            1,
+            29
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时27分 ~ 04时29分]"
+          "appearance_count": 2,
+          "time_info": "[04时29分 ~ 06时01分]"
+        },
+        {
+          "title": "据华尔街日报：消息人士称，阿联酋此前已对伊朗实施军事打击。阿联酋的袭击包括对伊朗拉万岛上一座炼油厂的攻击。",
+          "url": "https://flash.jin10.com/detail/20260512041239632800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时29分 ~ 06时01分]"
+        },
+        {
+          "title": "美国原油涨向99美元，报道称阿联酋军事袭击伊朗炼油厂等目标",
+          "url": "https://wallstreetcn.com/livenews/3101850",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时29分 ~ 06时01分]"
         },
         {
           "title": "伊朗最高领袖顾问：特朗普想要利用现在的“平静”局势，这种想法太幼稚。",
@@ -252,6 +266,17 @@
           "time_info": "00时28分"
         },
         {
+          "title": "伊朗议长：“14点提案”无可替代",
+          "url": "https://wallstreetcn.com/livenews/3101863",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时01分"
+        },
+        {
           "title": "美国总统特朗普：伊朗战争通过外交解决仍然可能。",
           "url": "https://flash.jin10.com/detail/20260512000529423800",
           "source": "金十数据",
@@ -329,6 +354,28 @@
           "time_info": "02时53分"
         },
         {
+          "title": "伊朗议长：“14点提案”无可替代",
+          "url": "https://flash.jin10.com/detail/20260512045612661800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时01分"
+        },
+        {
+          "title": "伊朗议长卡利巴夫：美国除了接受巴方在提案中的权利之外别无选择。",
+          "url": "https://wallstreetcn.com/livenews/3101857",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时01分"
+        },
+        {
           "title": "据路透社/益普索调查：66%的美国人表示特朗普没有清楚解释美国在伊朗战争中的目标。",
           "url": "https://flash.jin10.com/detail/20260512021907048800",
           "source": "金十数据",
@@ -357,7 +404,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时29分"
         },
@@ -379,9 +426,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时29分"
+        },
+        {
+          "title": "伊朗议长：除了接受伊朗14点提案外别无他法",
+          "url": "https://flash.jin10.com/detail/20260512043724901800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时01分"
         },
         {
           "title": "伊朗议长：伊武装部队已做好准备应对任何侵略行为",
@@ -390,7 +448,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时29分"
         },
@@ -401,7 +459,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时29分"
         },
@@ -412,7 +470,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时29分"
         },
@@ -437,6 +495,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时28分"
+        },
+        {
+          "title": "美媒曝阿联酋四月初曾空袭伊朗炼油厂",
+          "url": "https://flash.jin10.com/detail/20260512042007758800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时01分"
         },
         {
           "title": "据美联社：美国政府敦促银行标记可疑的伊朗洗钱活动。",
@@ -464,7 +533,7 @@
     },
     {
       "keyword_group": "科技",
-      "match_count": 5,
+      "match_count": 8,
       "titles": [
         {
           "title": "【焦点复盘】创业板指涨逾3%续创近11年新高，硬科技赛道全线爆发，绿电概念人气股晋级4连板",
@@ -475,19 +544,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时27分 ~ 04时29分]"
+          "appearance_count": 6,
+          "time_info": "[00时27分 ~ 06时01分]"
         },
         {
           "title": "标普500指数的11个板块涨跌各异，能源板块收涨2.63%，原材料、工业、信息技术/科技板块至少涨1%，电信板块则收跌2.33%。",
           "url": "https://wallstreetcn.com/livenews/3101846",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时29分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时29分 ~ 06时01分]"
         },
         {
           "title": "标普500指数初步收涨0.1%，能源板块涨2.6%，科技板块涨0.9%，电信板块跌2.2%。 纳斯达克100指数初步收涨0.2%，成分股中，高通初步收涨8.6%，西部数据涨7.3%，美光涨6.8%，希捷科技涨6.3%，Strategy涨4.4%，Diamondback Energy涨4.1%，Booking、罗斯百货跌4.9%，Workday跌5%，ISRG跌6.6%，Shopify跌7.2%。 费城半导体指数涨2.6%。",
@@ -496,9 +566,31 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时29分"
+        },
+        {
+          "title": "英国金融科技公司 Wise 在美双重上市，完成交易首秀",
+          "url": "https://wallstreetcn.com/livenews/3101859",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时01分"
+        },
+        {
+          "title": "周一（5月11日），美股存储芯片与硬件供应链指数涨3.36%，报194.70点，再次创收盘历史新高。 成分股西部数据涨7.46%，希捷科技涨6.56%，美光科技涨6.50%，闪迪跌0.95%。",
+          "url": "https://wallstreetcn.com/livenews/3101856",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时01分"
         },
         {
           "title": "恒生指数主连夜盘收涨0.37%，报26421点。 恒生科技指数主连夜盘收涨0.53%，报5144点。",
@@ -507,7 +599,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时29分"
         },
@@ -521,6 +613,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时53分"
+        },
+        {
+          "title": "周一（5月11日），美股信息科技指数收涨2.30%，报397.38点，再创收盘历史新高。 成分股Lumentum Holdings Inc.（LITE）收涨16.52%领跑，创2025年11月以来最大单日涨幅；IonQ涨15.54%，高意公司/相干公司Coherent涨13.25%，Credo科技集团涨11.52%，康宁公司涨10.94%，高通涨8.42%表现第六，SoundHound则收跌4.84%跌幅第五大，Workday跌5.01%，戴尔科技跌5.15%，超微电脑跌5.23%，IREN跌9.89%。",
+          "url": "https://wallstreetcn.com/livenews/3101844",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时01分"
         }
       ]
     },
@@ -535,7 +638,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时29分"
         },
@@ -546,7 +649,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时29分"
         },
@@ -604,8 +707,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时27分 ~ 04时29分]"
+          "appearance_count": 6,
+          "time_info": "[00时27分 ~ 06时01分]"
         },
         {
           "title": "纳斯达克金龙中国指数初步收涨1%。 热门中概股里，再鼎医药初步收涨5.1%，晶科能源、理想至少涨4.6%，大全新能源、小鹏、百度、蔚来至多涨3.8%，阿里跌2.2%，新东方跌2.7%。",
@@ -614,7 +717,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时29分"
         }
@@ -631,7 +734,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时29分"
         },
@@ -649,6 +752,34 @@
       ]
     },
     {
+      "keyword_group": "chatgpt openai",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "Bain & Co.投资OpenAI Deployment Company。",
+          "url": "https://wallstreetcn.com/livenews/3101802",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时53分"
+        },
+        {
+          "title": "OpenAI：推出面向网络防御人员的前沿人工智能Daybreak。Daybreak整合了OpenAI最强大的模型、Codex以及我们的安全合作伙伴，以加速网络防御并持续保障软件安全。",
+          "url": "https://flash.jin10.com/detail/20260512044813399800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时01分"
+        }
+      ]
+    },
+    {
       "keyword_group": "金融",
       "match_count": 1,
       "titles": [
@@ -661,25 +792,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时27分 ~ 04时29分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "Bain & Co.投资OpenAI Deployment Company。",
-          "url": "https://wallstreetcn.com/livenews/3101802",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时53分"
+          "appearance_count": 6,
+          "time_info": "[00时27分 ~ 06时01分]"
         }
       ]
     },
@@ -727,11 +841,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             20,
-            24
+            24,
+            18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时27分 ~ 04时29分]"
+          "appearance_count": 6,
+          "time_info": "[00时27分 ~ 06时01分]"
         }
       ]
     },
@@ -747,8 +862,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时27分 ~ 04时29分]"
+          "appearance_count": 6,
+          "time_info": "[00时27分 ~ 06时01分]"
         }
       ]
     }
