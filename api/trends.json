@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-13T03:32:02.973498+08:00",
-  "total_titles_processed": 397,
+  "generated_at": "2026-05-13T05:12:28.923448+08:00",
+  "total_titles_processed": 470,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 18,
+      "match_count": 28,
       "titles": [
         {
           "title": "伊朗官员：若再次遭袭，伊方或选择将浓缩铀丰度提升至90%",
@@ -15,8 +15,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时10分 ~ 03时32分]"
+          "appearance_count": 4,
+          "time_info": "[01时10分 ~ 05时12分]"
+        },
+        {
+          "title": "伊朗方面报道称，伊朗德黑兰再次发生地震。",
+          "url": "https://flash.jin10.com/detail/20260513050007665800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时12分"
         },
         {
           "title": "伊朗：五项先决条件未落实前，不会参加下轮美伊会谈",
@@ -25,7 +36,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时32分"
         },
@@ -37,8 +48,19 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时10分 ~ 03时32分]"
+          "appearance_count": 4,
+          "time_info": "[01时10分 ~ 05时12分]"
+        },
+        {
+          "title": "伊朗官员：若再次遭袭 伊方或选择将浓缩铀丰度提升至90%",
+          "url": "https://www.cls.cn/detail/2368941",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时10分 ~ 05时12分]"
         },
         {
           "title": "僵局难解：伊朗称美坚持“不合理要求”，特朗普称伊方回应愚蠢、停火协议“岌岌可危”",
@@ -52,15 +74,15 @@
           "time_info": "[01时10分 ~ 03时32分]"
         },
         {
-          "title": "伊朗官员：若再次遭袭 伊方或选择将浓缩铀丰度提升至90%",
-          "url": "https://www.cls.cn/detail/2368941",
-          "source": "财联社热门",
+          "title": "伊朗北部发生地震，德黑兰震感明显",
+          "url": "https://wallstreetcn.com/livenews/3102509",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            7
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时10分 ~ 03时32分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时12分"
         },
         {
           "title": "科威特外交大臣：今天与阿联酋外交大臣通话，双方谴责伊朗革命卫队下属武装团伙潜入布比延岛企图对科威特国实施敌对行动并与科威特武装部队发生交火，这是对科威特国主权的公然侵犯，也是对国际法和联合国宪章的严重违反。",
@@ -80,9 +102,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时32分"
+        },
+        {
+          "title": "美国总统特朗普批评媒体有关伊朗“形势良好”的报道。",
+          "url": "https://wallstreetcn.com/livenews/3102507",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时12分"
         },
         {
           "title": "伊拉克、巴基斯坦与伊朗达成能源运输协议 伊朗展现控制力",
@@ -91,9 +124,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时32分"
+        },
+        {
+          "title": "拉美资产回撤，伊朗和平希望转淡且美国通胀数据构成压力",
+          "url": "https://wallstreetcn.com/livenews/3102504",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时12分"
         },
         {
           "title": "巴基斯坦否认在巴伊朗飞机涉军事用途",
@@ -118,13 +162,24 @@
           "time_info": "01时10分"
         },
         {
+          "title": "伊朗首都德黑兰发生地震。（伊朗媒体）",
+          "url": "https://wallstreetcn.com/livenews/3102502",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时12分"
+        },
+        {
           "title": "伊朗对美国提出的五项谈判先决条件包括战争损害赔偿。",
           "url": "https://wallstreetcn.com/livenews/3102457",
           "source": "华尔街见闻-快讯",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时32分"
         },
@@ -146,7 +201,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时32分"
         },
@@ -157,7 +212,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时32分"
         },
@@ -168,7 +223,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时32分"
         },
@@ -179,7 +234,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时32分"
         },
@@ -190,7 +245,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时32分"
         },
@@ -201,15 +256,70 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时32分"
+        },
+        {
+          "title": "伊朗外交部：挪威副外长与伊朗外长举行会晤。",
+          "url": "https://flash.jin10.com/detail/20260513043157511800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时12分"
+        },
+        {
+          "title": "据伊朗地震部门消息，伊朗德黑兰省与马赞德兰省交界地区发生4.6级地震。",
+          "url": "https://flash.jin10.com/detail/20260513042911717800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时12分"
+        },
+        {
+          "title": "美国总统特朗普：当假新闻媒体称伊朗在军事上对美国表现良好时，这几乎等同于叛国，因为这种说法完全错误，甚至荒谬。伊朗海军原本拥有159艘舰船，现在每一艘都已经沉入海底。他们已经没有海军，空军也已不存在，所有技术能力都被摧毁，他们的“领导人”也不复存在，这个国家如今已陷入经济灾难。",
+          "url": "https://flash.jin10.com/detail/20260513042642770800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时12分"
+        },
+        {
+          "title": "伊朗官员：波斯湾溢油事件可能由油轮排污引起",
+          "url": "https://wallstreetcn.com/livenews/3102481",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时12分"
+        },
+        {
+          "title": "【伊拉克和巴基斯坦据称已分别同伊朗签订协议以运输能源】伊拉克和巴基斯坦已分别同伊朗签订协议，以从海湾地区运输石油和液化天然气。根据协议，伊拉克确保了两艘超大型原油运输船的安全通行，这两艘船于5月10日通过了霍尔木兹海峡，每艘船载有约200万桶原油。而根据巴基斯坦和伊朗之间达成的另一项双边协议，两艘装载卡塔尔液化天然气的油轮正驶往巴基斯坦。消息人士称，伊拉克和巴基斯坦均未就过境事宜直接向伊朗或其伊朗伊斯兰革命卫队支付任何款项。（央视）",
+          "url": "https://wallstreetcn.com/livenews/3102475",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时12分"
         }
       ]
     },
     {
       "keyword_group": "科技",
-      "match_count": 8,
+      "match_count": 13,
       "titles": [
         {
           "title": "美国通胀超预期，美股低开，科技股普跌，英伟达股价续创新高，美伊僵局致布油涨3%",
@@ -220,8 +330,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时10分 ~ 03时32分]"
+          "appearance_count": 4,
+          "time_info": "[01时10分 ~ 05时12分]"
         },
         {
           "title": "恒生指数主连夜盘收涨0.03%，报26264点。 恒生科技指数主连夜盘收跌0.51%，报5062点。",
@@ -230,9 +340,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时32分"
+        },
+        {
+          "title": "美股七巨头收盘播报｜周二（5月12日），美国科技股七巨头（Magnificent 7）指数跌0.18%，报223.38点，整体呈现出V形走势，北京时间00:58刷新日低至220.98点。 “超大”市值科技股指数跌1.20%，报448.68点，00:59也刷新日低至440.83点。",
+          "url": "https://wallstreetcn.com/livenews/3102512",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时12分"
         },
         {
           "title": "“大空头”：美股或将崩盘，科技股飙升重现2000年泡沫",
@@ -242,8 +363,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时10分 ~ 03时32分]"
+          "appearance_count": 4,
+          "time_info": "[01时10分 ~ 05时12分]"
         },
         {
           "title": "这波科技股行情，全球散户不缺席，行情还能走多远？",
@@ -254,8 +375,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时10分 ~ 03时32分]"
+          "appearance_count": 4,
+          "time_info": "[01时10分 ~ 05时12分]"
         },
         {
           "title": "宇树科技发布双臂人形机器人，价格 2.69 万元起，使用场景有哪些？值得买吗？",
@@ -263,11 +384,12 @@
           "source": "知乎",
           "ranks": [
             10,
-            11
+            11,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时10分 ~ 03时32分]"
+          "appearance_count": 4,
+          "time_info": "[01时10分 ~ 05时12分]"
         },
         {
           "title": "宇树科技发布载人变形机甲 390万起",
@@ -302,6 +424,50 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时10分"
+        },
+        {
+          "title": "周二（5月12日），美股行业ETF涨跌各异，半导体ETF收跌2.61%，全球科技股指数ETF跌2.17%，科技行业ETF跌1.51%，能源业ETF涨0.70%，医疗业ETF涨1.96%。",
+          "url": "https://wallstreetcn.com/livenews/3102498",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时12分"
+        },
+        {
+          "title": "标普500指数的11个板块中，可选消费板块收跌1.06%，信息技术/科技板块跌0.99%，能源板块涨0.71%，日用消费品板块涨1.56%，保健板块涨1.93%。",
+          "url": "https://wallstreetcn.com/livenews/3102496",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时12分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收跌0.82%，报7009.21点。 热门中概股里，金山云初步收跌6.1%，万国数据跌4.7%，百度跌3.9%。 ETF中，中国科技指数ETF（CQQQ）收跌1.99%，中概互联网指数ETF（KWEB）收跌1.49%， XtrackersHarvest中证50（ASHS）收跌0.96%，德银嘉实沪深300指数ETF（ASHR）收跌0.44%。",
+          "url": "https://wallstreetcn.com/livenews/3102492",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时12分"
+        },
+        {
+          "title": "纳指科技股指数收跌1.4%，费城半导体指数跌3%",
+          "url": "https://wallstreetcn.com/livenews/3102490",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时12分"
         }
       ]
     },
@@ -327,7 +493,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时32分"
         }
@@ -344,7 +510,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时32分"
         },
@@ -355,9 +521,37 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时32分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美元指数12日上涨",
+          "url": "https://flash.jin10.com/detail/20260513044234165800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时12分"
+        },
+        {
+          "title": "美元指数在美国CPI通胀数据发布日涨0.3%",
+          "url": "https://wallstreetcn.com/livenews/3102476",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时12分"
         }
       ]
     },
@@ -374,8 +568,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时10分 ~ 03时32分]"
+          "appearance_count": 4,
+          "time_info": "[01时10分 ~ 05时12分]"
         }
       ]
     },
@@ -389,11 +583,12 @@
           "source": "知乎",
           "ranks": [
             4,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时10分 ~ 03时32分]"
+          "appearance_count": 4,
+          "time_info": "[01时10分 ~ 05时12分]"
         }
       ]
     },
