@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-12T19:16:17.185934+08:00",
-  "total_titles_processed": 1302,
+  "generated_at": "2026-05-12T22:08:54.990460+08:00",
+  "total_titles_processed": 1470,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 64,
+      "match_count": 72,
       "titles": [
         {
           "title": "美国以协助伊朗为由制裁3家中国公司，外交部回应",
@@ -96,11 +96,36 @@
           "ranks": [
             10,
             6,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时56分 ~ 19时16分]"
+          "appearance_count": 7,
+          "time_info": "[07时56分 ~ 22时08分]"
+        },
+        {
+          "title": "知情人士披露：美国或考虑恢复对伊朗军事行动",
+          "url": "https://www.cls.cn/detail/2368816",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时45分 ~ 22时08分]"
+        },
+        {
+          "title": "伊朗官员：若再次遭袭，伊方或选择将浓缩铀丰度提升至90%",
+          "url": "https://news.ifeng.com/c/8t4DYs3Ow88",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时16分 ~ 22时08分]"
         },
         {
           "title": "伊朗最高领袖顾问：我们在战场上打败了美国人，特朗普最好不要以为他会在外交上获胜。",
@@ -114,16 +139,26 @@
           "time_info": "00时28分"
         },
         {
-          "title": "知情人士披露：美国或考虑恢复对伊朗军事行动",
-          "url": "https://www.cls.cn/detail/2368816",
-          "source": "财联社热门",
+          "title": "特朗普称封锁致伊朗经济崩溃，断言伊朗“100%”会放弃核武器",
+          "url": "https://flash.jin10.com/detail/20260512214840065800",
+          "source": "金十数据",
           "ranks": [
-            6,
-            2
+            3
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时45分 ~ 19时16分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时08分"
+        },
+        {
+          "title": "伊朗就美在“12日战争”中行为向国际仲裁机构提起诉讼",
+          "url": "https://wallstreetcn.com/livenews/3102361",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时08分"
         },
         {
           "title": "伊朗官员：伊美就浓缩铀处置方式存在严重分歧",
@@ -179,17 +214,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时46分"
-        },
-        {
-          "title": "伊朗官员：若再次遭袭，伊方或选择将浓缩铀丰度提升至90%",
-          "url": "https://news.ifeng.com/c/8t4DYs3Ow88",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时16分"
         },
         {
           "title": "据伊朗塔斯尼姆通讯社：一位接近伊朗谈判团队的消息人士表示，与一些西方媒体的说法相反，伊朗的文本中绝不含任何关于接受将浓缩核材料运出该国的内容。",
@@ -251,6 +275,29 @@
           "time_info": "[04时29分 ~ 06时01分]"
         },
         {
+          "title": "世界杯将至，伊朗队仍在等待入境美国",
+          "url": "https://news.ifeng.com/c/8t4Ge0tB5EZ",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时16分 ~ 22时08分]"
+        },
+        {
+          "title": "伊朗官员：若再次遭袭 伊方或选择将浓缩铀丰度提升至90%",
+          "url": "https://www.cls.cn/detail/2368941",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时16分 ~ 22时08分]"
+        },
+        {
           "title": "伊朗议长：“14点提案”无可替代",
           "url": "https://wallstreetcn.com/livenews/3101863",
           "source": "华尔街见闻-快讯",
@@ -296,6 +343,17 @@
           "time_info": "02时53分"
         },
         {
+          "title": "巴基斯坦否认在巴伊朗飞机涉军事用途",
+          "url": "https://www.toutiao.com/trending/7638987373572984347/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时08分"
+        },
+        {
           "title": "美国总统特朗普：与伊朗达成外交解决方案的可能性仍然存在。",
           "url": "https://wallstreetcn.com/livenews/3101777",
           "source": "华尔街见闻-快讯",
@@ -327,17 +385,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时56分"
-        },
-        {
-          "title": "世界杯将至，伊朗队仍在等待入境美国",
-          "url": "https://news.ifeng.com/c/8t4Ge0tB5EZ",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时16分"
         },
         {
           "title": "美国总统特朗普：伊朗谈判代表不断改变看法，他们真的完全缺乏诚信。",
@@ -395,15 +442,15 @@
           "time_info": "02时53分"
         },
         {
-          "title": "伊朗官员：若再次遭袭 伊方或选择将浓缩铀丰度提升至90%",
-          "url": "https://www.cls.cn/detail/2368941",
-          "source": "财联社热门",
+          "title": "特朗普：我们百分之百会拿到伊朗的核材料。 伊朗问题只是时间问题。 我们不必操之过急。 伊朗不能拥有核武器。",
+          "url": "https://wallstreetcn.com/livenews/3102353",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时16分"
+          "time_info": "22时08分"
         },
         {
           "title": "美国总统特朗普：现在没人想当伊朗总统。",
@@ -538,6 +585,17 @@
           "time_info": "02时53分"
         },
         {
+          "title": "五角大楼主计长：伊朗战争成本目前约为290亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3102342",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时08分"
+        },
+        {
           "title": "特朗普称伊朗对美方案的回应愚蠢",
           "url": "https://flash.jin10.com/detail/20260512000040779800",
           "source": "金十数据",
@@ -569,6 +627,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时56分"
+        },
+        {
+          "title": "美国总统特朗普：（关于伊朗）我们不必急于做任何事情。",
+          "url": "https://flash.jin10.com/detail/20260512213621074800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时08分"
         },
         {
           "title": "美国总统特朗普抱怨称，伊朗与美方达成共识，后来又反悔了。",
@@ -615,6 +684,17 @@
           "time_info": "07时56分"
         },
         {
+          "title": "美国总统特朗普重申伊朗不能拥有核武器。",
+          "url": "https://flash.jin10.com/detail/20260512213608268800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时08分"
+        },
+        {
           "title": "伊朗议长：伊武装部队已做好准备应对任何侵略行为",
           "url": "https://wallstreetcn.com/livenews/3101828",
           "source": "华尔街见闻-快讯",
@@ -635,6 +715,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时29分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗问题只是时间问题。",
+          "url": "https://flash.jin10.com/detail/20260512213559184800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时08分"
         },
         {
           "title": "伊朗官员：伊美就浓缩铀处置方式存在严重分歧",
@@ -687,7 +778,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时16分"
         },
@@ -728,7 +819,7 @@
     },
     {
       "keyword_group": "科技",
-      "match_count": 27,
+      "match_count": 29,
       "titles": [
         {
           "title": "【焦点复盘】创业板指涨逾3%续创近11年新高，硬科技赛道全线爆发，绿电概念人气股晋级4连板",
@@ -743,6 +834,19 @@
           "time_info": "[00时27分 ~ 07时56分]"
         },
         {
+          "title": "“大空头”：美股或将崩盘，科技股飙升重现2000年泡沫",
+          "url": "https://wallstreetcn.com/articles/3772023",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时02分 ~ 22时08分]"
+        },
+        {
           "title": "宇树科技发布载人变形机甲 390万起",
           "url": "https://www.toutiao.com/trending/7638860347448757798/",
           "source": "今日头条",
@@ -752,18 +856,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[16时45分 ~ 19时16分]"
-        },
-        {
-          "title": "“大空头”：美股或将崩盘，科技股飙升重现2000年泡沫",
-          "url": "https://wallstreetcn.com/articles/3772023",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时02分 ~ 19时16分]"
         },
         {
           "title": "5月11日，宇树科技股份有限公司创始人兼首席执行官、首席技术官王兴兴一行到雄安新区考察调研。（雄安发布）",
@@ -777,6 +869,17 @@
           "time_info": "16时46分"
         },
         {
+          "title": "美国通胀超预期，美股低开，科技股普跌，美伊僵局致布油涨3%",
+          "url": "https://wallstreetcn.com/articles/3772040",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时08分"
+        },
+        {
           "title": "标普500指数的11个板块涨跌各异，能源板块收涨2.63%，原材料、工业、信息技术/科技板块至少涨1%，电信板块则收跌2.33%。",
           "url": "https://wallstreetcn.com/livenews/3101846",
           "source": "华尔街见闻-快讯",
@@ -787,6 +890,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时29分 ~ 06时01分]"
+        },
+        {
+          "title": "这波科技股行情，全球散户不缺席，行情还能走多远？",
+          "url": "https://www.cls.cn/detail/2369167",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时16分 ~ 22时08分]"
+        },
+        {
+          "title": "宇树科技发布双臂人形机器人，价格 2.69 万元起，使用场景有哪些？值得买吗？",
+          "url": "https://www.zhihu.com/question/2033154931448918850",
+          "source": "知乎",
+          "ranks": [
+            18,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时16分 ~ 22时08分]"
         },
         {
           "title": "英国金融科技公司 Wise 在美双重上市，完成交易首秀",
@@ -810,17 +937,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时15分"
-        },
-        {
-          "title": "这波科技股行情，全球散户不缺席，行情还能走多远？",
-          "url": "https://www.cls.cn/detail/2369167",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时16分"
         },
         {
           "title": "港股收盘：恒生指数指收跌0.22%，恒生科技指数收跌0.7%。华虹半导体跌超3%，宁德时代跌近1%，剑桥科技跌近4%，长飞光纤光缆涨超4%。",
@@ -856,6 +972,17 @@
           "time_info": "16时46分"
         },
         {
+          "title": "美股三大股指低开，道指跌0.03%、标普500指数跌0.32%、纳指跌0.71%。明星科技股普跌，英特尔跌超4%，高通跌近4%。腾讯音乐涨超4%，京东涨超1%。",
+          "url": "https://wallstreetcn.com/livenews/3102347",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时08分"
+        },
+        {
           "title": "恒指高开0.34%，报26497.03点；恒生科技指数涨 0.45%。快手涨9.9%，此前报道称快手计划分拆可灵独立上市。中芯国际、携程、蔚来涨超1%。",
           "url": "https://wallstreetcn.com/livenews/3101945",
           "source": "华尔街见闻-快讯",
@@ -873,7 +1000,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时16分"
         },
@@ -884,18 +1011,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时16分"
-        },
-        {
-          "title": "宇树科技发布双臂人形机器人，价格 2.69 万元起，使用场景有哪些？值得买吗？",
-          "url": "https://www.zhihu.com/question/2033154931448918850",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时16分"
         },
@@ -917,7 +1033,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时16分"
         },
@@ -1048,11 +1164,12 @@
             7,
             15,
             24,
-            23
+            23,
+            28
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时27分 ~ 16时46分]"
+          "appearance_count": 14,
+          "time_info": "[00时27分 ~ 22时08分]"
         },
         {
           "title": "A股创新药概念局部异动，津药药业午后涨停，恒瑞医药涨超7%，泽璟制药、益方生物、博瑞医药、科伦药业等纷纷冲高。",
@@ -1123,6 +1240,58 @@
       ]
     },
     {
+      "keyword_group": "深圳",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "深圳夫妻囤存储芯片5个月狂涨320亿",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B3%E5%A4%AB%E5%A6%BB%E5%9B%A4%E5%AD%98%E5%82%A8%E8%8A%AF%E7%89%875%E4%B8%AA%E6%9C%88%E7%8B%82%E6%B6%A8320%E4%BA%BF%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5,
+            4,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时45分 ~ 22时08分]"
+        },
+        {
+          "title": "深圳一对夫妻靠囤芯片，5 个月身价暴涨 320 亿元，存储涨价周期能维持多久？普通人能参与进来吗？",
+          "url": "https://www.zhihu.com/question/2037578815958947124",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时08分"
+        },
+        {
+          "title": "《深圳市综合交通“十五五”规划（征求意见稿）》公开征求意见",
+          "url": "https://flash.jin10.com/detail/20260512094330485800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时15分"
+        },
+        {
+          "title": "深圳莲花山公园莲雾“捡都捡不完”",
+          "url": "https://www.toutiao.com/trending/7638631532042698803/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时02分"
+        }
+      ]
+    },
+    {
       "keyword_group": "消费",
       "match_count": 3,
       "titles": [
@@ -1159,46 +1328,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时53分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "深圳",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "深圳夫妻囤存储芯片5个月狂涨320亿",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B3%E5%A4%AB%E5%A6%BB%E5%9B%A4%E5%AD%98%E5%82%A8%E8%8A%AF%E7%89%875%E4%B8%AA%E6%9C%88%E7%8B%82%E6%B6%A8320%E4%BA%BF%23&t=31&band_rank=5&Refer=top",
-          "source": "微博",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时45分 ~ 19时16分]"
-        },
-        {
-          "title": "《深圳市综合交通“十五五”规划（征求意见稿）》公开征求意见",
-          "url": "https://flash.jin10.com/detail/20260512094330485800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时15分"
-        },
-        {
-          "title": "深圳莲花山公园莲雾“捡都捡不完”",
-          "url": "https://www.toutiao.com/trending/7638631532042698803/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时02分"
         }
       ]
     },
@@ -1377,7 +1506,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时16分"
         }
