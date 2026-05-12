@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-13T06:54:41.186496+08:00",
-  "total_titles_processed": 546,
+  "generated_at": "2026-05-13T07:54:31.250943+08:00",
+  "total_titles_processed": 622,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 32,
+      "match_count": 34,
       "titles": [
         {
           "title": "伊朗官员：若再次遭袭，伊方或选择将浓缩铀丰度提升至90%",
@@ -15,19 +15,42 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时10分 ~ 06时54分]"
+          "appearance_count": 6,
+          "time_info": "[01时10分 ~ 07时54分]"
         },
         {
-          "title": "科威特指伊朗“武装渗透”布比延岛，伊朗说巡逻船“导航故障”",
-          "url": "https://wallstreetcn.com/livenews/3102547",
-          "source": "华尔街见闻-快讯",
+          "title": "美股收盘： 通胀升温及伊朗局势施压市场 芯片股普遍回调 三大股指涨跌不一",
+          "url": "https://www.cls.cn/detail/2369590",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时54分 ~ 07时54分]"
+        },
+        {
+          "title": "世界杯将至，伊朗队仍在等待入境美国",
+          "url": "https://news.ifeng.com/c/8t4Ge0tB5EZ",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时10分 ~ 07时54分]"
+        },
+        {
+          "title": "伊朗副总统否认哈尔克岛石油设施漏油",
+          "url": "https://flash.jin10.com/detail/20260513072333209800",
+          "source": "金十数据",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时54分"
+          "time_info": "07时54分"
         },
         {
           "title": "伊朗方面报道称，伊朗德黑兰再次发生地震。",
@@ -41,39 +64,6 @@
           "time_info": "05时12分"
         },
         {
-          "title": "科威特指伊朗“武装渗透”布比延岛 伊朗说巡逻船“导航故障”",
-          "url": "https://flash.jin10.com/detail/20260513063429108800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时54分"
-        },
-        {
-          "title": "世界杯将至，伊朗队仍在等待入境美国",
-          "url": "https://news.ifeng.com/c/8t4Ge0tB5EZ",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时10分 ~ 06时54分]"
-        },
-        {
-          "title": "美股收盘： 通胀升温及伊朗局势施压市场 芯片股普遍回调 三大股指涨跌不一",
-          "url": "https://www.cls.cn/detail/2369590",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时54分"
-        },
-        {
           "title": "伊朗：五项先决条件未落实前，不会参加下轮美伊会谈",
           "url": "https://wallstreetcn.com/livenews/3102466",
           "source": "华尔街见闻-快讯",
@@ -83,6 +73,30 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时32分"
+        },
+        {
+          "title": "科威特指伊朗“武装渗透”布比延岛，伊朗说巡逻船“导航故障”",
+          "url": "https://wallstreetcn.com/livenews/3102547",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时54分 ~ 07时54分]"
+        },
+        {
+          "title": "科威特指伊朗“武装渗透”布比延岛 伊朗说巡逻船“导航故障”",
+          "url": "https://flash.jin10.com/detail/20260513063429108800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时54分 ~ 07时54分]"
         },
         {
           "title": "伊朗官员：若再次遭袭 伊方或选择将浓缩铀丰度提升至90%",
@@ -105,6 +119,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时10分 ~ 03时32分]"
+        },
+        {
+          "title": "沙特也被曝曾对伊朗本土发动报复打击：海湾暗战浮出水面",
+          "url": "https://flash.jin10.com/detail/20260513065137238800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时54分"
         },
         {
           "title": "伊朗北部发生地震，德黑兰震感明显",
@@ -278,7 +303,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时54分"
         },
@@ -363,7 +388,7 @@
     },
     {
       "keyword_group": "科技",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "美国通胀超预期，美股低开，科技股普跌，英伟达股价续创新高，美伊僵局致布油涨3%",
@@ -378,6 +403,19 @@
           "time_info": "[01时10分 ~ 05时12分]"
         },
         {
+          "title": "这波科技股行情，全球散户不缺席，行情还能走多远？",
+          "url": "https://www.cls.cn/detail/2369167",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时10分 ~ 07时54分]"
+        },
+        {
           "title": "恒生指数主连夜盘收涨0.03%，报26264点。 恒生科技指数主连夜盘收跌0.51%，报5062点。",
           "url": "https://wallstreetcn.com/livenews/3102469",
           "source": "华尔街见闻-快讯",
@@ -389,27 +427,15 @@
           "time_info": "03时32分"
         },
         {
-          "title": "硬科技企业领衔 “A+H”模式升温，港股IPO“磁吸力”增强",
-          "url": "https://wallstreetcn.com/livenews/3102545",
+          "title": "周二（5月12日），美股存储芯片与硬件供应链指数跌4.10%，报186.72点，整体呈现出V形走势，北京时间00:43曾刷新日低至177.08点。 成分股全线溃败，闪迪跌6.17%，西部数据跌5.25%，美光科技、Rambus、希捷科技至多跌3.61%，应用材料、拉姆研究、泰瑞达TER至少跌2.23%。",
+          "url": "https://wallstreetcn.com/livenews/3102555",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时54分"
-        },
-        {
-          "title": "这波科技股行情，全球散户不缺席，行情还能走多远？",
-          "url": "https://www.cls.cn/detail/2369167",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时10分 ~ 06时54分]"
+          "time_info": "07时54分"
         },
         {
           "title": "宇树科技发布双臂人形机器人，价格 2.69 万元起，使用场景有哪些？值得买吗？",
@@ -434,6 +460,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时10分 ~ 05时12分]"
+        },
+        {
+          "title": "硬科技企业领衔 “A+H”模式升温，港股IPO“磁吸力”增强",
+          "url": "https://wallstreetcn.com/livenews/3102545",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时54分 ~ 07时54分]"
         },
         {
           "title": "美股七巨头收盘播报｜周二（5月12日），美国科技股七巨头（Magnificent 7）指数跌0.18%，报223.38点，整体呈现出V形走势，北京时间00:58刷新日低至220.98点。 “超大”市值科技股指数跌1.20%，报448.68点，00:59也刷新日低至440.83点。",
@@ -465,11 +503,12 @@
           "url": "https://wallstreetcn.com/livenews/3102541",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时54分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时54分 ~ 07时54分]"
         },
         {
           "title": "市场消息：欧盟正在就加入由美国领导的保障科技供应链联盟进行谈判。",
@@ -548,22 +587,24 @@
           "url": "https://wallstreetcn.com/livenews/3102535",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            11,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时54分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时54分 ~ 07时54分]"
         },
         {
           "title": "据The Information：Anthropic正在洽谈收购开发工具初创公司Stainless，OpenAI和谷歌均使用该公司的产品。",
           "url": "https://flash.jin10.com/detail/20260513060313265800",
           "source": "金十数据",
           "ranks": [
-            13
+            13,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时54分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时54分 ~ 07时54分]"
         },
         {
           "title": "SpaceX与谷歌洽谈太空轨道的数据中心合作事宜，谷歌还与其他火箭发射公司接触。（华尔街日报）",
@@ -646,6 +687,40 @@
       ]
     },
     {
+      "keyword_group": "金融",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "周二（5月12日），美股降息赢家指数跌0.71%，报87.48点，在美国CPI通胀数据发布后低开，随后逐步收复失地。 “特朗普关税输家”指数跌1.05%，报98.75点。 “特朗普金融指数”涨0.38%，报159.36点。 散户抱团概念股指数/迷因股（meme stock）指数跌1.77%，报13.38点。",
+          "url": "https://wallstreetcn.com/livenews/3102552",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时54分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "消费",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "朋友圈猛推“先息后本”背后：银行消费贷“赶搭末班车”",
+          "url": "https://wallstreetcn.com/livenews/3102548",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时54分"
+        }
+      ]
+    },
+    {
       "keyword_group": "医药",
       "match_count": 1,
       "titles": [
@@ -656,11 +731,12 @@
           "ranks": [
             28,
             30,
-            26
+            26,
+            17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时10分 ~ 06时54分]"
+          "appearance_count": 6,
+          "time_info": "[01时10分 ~ 07时54分]"
         }
       ]
     },
@@ -678,8 +754,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时10分 ~ 06时54分]"
+          "appearance_count": 6,
+          "time_info": "[01时10分 ~ 07时54分]"
         }
       ]
     },
