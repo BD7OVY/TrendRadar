@@ -1,12 +1,35 @@
 {
-  "generated_at": "2026-05-14T08:03:39.709724+08:00",
-  "total_titles_processed": 629,
+  "generated_at": "2026-05-14T12:39:02.415471+08:00",
+  "total_titles_processed": 849,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 26,
+      "match_count": 29,
       "titles": [
+        {
+          "title": "伊朗外长：科威特攻击伊朗船只并扣押伊公民",
+          "url": "https://news.ifeng.com/c/8t6ZERSuZf6",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时03分 ~ 12时39分]"
+        },
+        {
+          "title": "特朗普访华，伊朗民众：期待中国调停美伊冲突",
+          "url": "https://news.ifeng.com/c/8t6SA2yPI37",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时38分 ~ 12时39分]"
+        },
         {
           "title": "知情人士称阿联酋秘密打击伊朗，正式成为参战方，为何阿联酋要参战？会给中东局势带来哪些变化？",
           "url": "https://www.zhihu.com/question/2037656032046838013",
@@ -53,17 +76,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时15分"
-        },
-        {
-          "title": "伊朗外长：科威特攻击伊朗船只并扣押伊公民",
-          "url": "https://news.ifeng.com/c/8t6ZERSuZf6",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时03分"
         },
         {
           "title": "伊朗外长：科威特非法地袭击伊朗船只。",
@@ -188,6 +200,17 @@
           "time_info": "03时45分"
         },
         {
+          "title": "日本央行审议委员增一行：伊朗战争引发的能源冲击对日本经济的影响可能比1973年的第一次石油危机更为严重，这一风险值得关注。",
+          "url": "https://flash.jin10.com/detail/20260514120928959800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时39分"
+        },
+        {
           "title": "伊朗外长阿拉格齐：任何与以色列勾连、试图制造分裂的人，都将被追究责任。",
           "url": "https://flash.jin10.com/detail/20260514042124677800",
           "source": "金十数据",
@@ -208,6 +231,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时45分"
+        },
+        {
+          "title": "日本央行审议委员增一行：由伊朗战争引发的能源冲击对日本经济的影响，可能比1973年的第一次石油危机更为严重，这一风险值得高度关注。",
+          "url": "https://wallstreetcn.com/livenews/3103416",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时39分"
         },
         {
           "title": "美国副总统万斯：（关于伊朗谈判）我们正在取得进展。",
@@ -282,7 +316,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时03分"
         },
@@ -301,7 +335,7 @@
     },
     {
       "keyword_group": "科技",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "【每日收评】创业板指涨2.63%，科技赛道持续爆发，绿电板块领涨",
@@ -326,6 +360,18 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时15分 ~ 07时01分]"
+        },
+        {
+          "title": "科技巨头力撑标普、纳指新高，英伟达新高，中概股指跑赢大盘，美长债三连跌",
+          "url": "https://wallstreetcn.com/articles/3772167",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时03分 ~ 12时39分]"
         },
         {
           "title": "恒生指数主连夜盘收涨1.92%，报26799点。 恒生科技指数主连夜盘收涨3.04%，报5261点。",
@@ -363,17 +409,6 @@
           "time_info": "[05时20分 ~ 05时21分]"
         },
         {
-          "title": "科技巨头力撑标普、纳指新高，英伟达新高，中概股指跑赢大盘，美长债三连跌",
-          "url": "https://wallstreetcn.com/articles/3772167",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时03分"
-        },
-        {
           "title": "标普500指数的11个板块多数收涨，电信板块涨2.65%，信息技术/科技板块涨0.98%，可选消费板块涨0.75%，金融板块则收跌1.07%，公用事业板块跌1.26%。",
           "url": "https://wallstreetcn.com/livenews/3103216",
           "source": "华尔街见闻-快讯",
@@ -383,6 +418,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时21分"
+        },
+        {
+          "title": "箭元科技：元行者一号首飞箭各关键分系统试验正按计划稳步推进，目标年底首飞",
+          "url": "https://wallstreetcn.com/livenews/3103421",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时39分"
         },
         {
           "title": "纳斯达克金龙中国指数收涨3.89%，报7282.03点，5月5日结束交易以来持续站上50日均线（彭博数据显示该技术指标目前报6943.90点），逼近100日均线（目前报7308.60点）、2月26日收盘位7411.37点，200日均线在7671.89点。 热门中概股里，世纪互联初步收涨25.3%，金山云涨17%，美团涨12%，阿里巴巴涨8.3%，百度涨7.8%，蔚来涨7.5%，京东涨7.2%，万国数据、理想、老虎证券涨超6%，拼多多涨4.1%，日月光半导体涨3.4%。 ETF中，中概互联网指数ETF（KWEB）收涨4.94%，中国科技指数ETF（CQQQ）收涨4.88%。 MSCI新兴市场ex中国ETF（EMXC）收涨2.06%，XtrackersHarvest中证50（ASHS）收涨1.96%，德银嘉实沪深300指数ETF（ASHR）收涨1.49%。",
@@ -405,6 +451,100 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时15分"
+        },
+        {
+          "title": "港股午评：恒生指数涨0.34% 恒生科技指数涨0.3%",
+          "url": "https://flash.jin10.com/detail/20260514120719951800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时39分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金融",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "日本央行审议委员增一行：由于政策利率目前已接近预估的中性水平，日本央行在考虑进一步加息时，需要更全面地审视价格、就业和金融状况等因素。",
+          "url": "https://flash.jin10.com/detail/20260514121234049800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时39分"
+        },
+        {
+          "title": "日本央行审议委员增一行：人员开支的增加、物流成本的上升以及日元贬值的影响，是构成日本通胀基础的关键要素。 从长期视角来看，整体食品价格是决定未来通胀走向的关键因素。 鉴于日本已不再处于通缩时期，应当尽快解决负实际利率的问题。 由于政策利率目前已接近预估的中性利率水平，日本央行在考虑进一步加息时，需要更全面地审视物价、就业及金融环境等因素。 日本央行需要进一步提高政策利率，使其稳固地落在预估的中性利率区间之内。",
+          "url": "https://wallstreetcn.com/livenews/3103419",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时39分"
+        },
+        {
+          "title": "日本央行审议委员增一行：日本央行需要在监测市场状况的同时，严密审视2027年3月之后日本国债的购买速度。 这并不一定意味着资产负债表必须缩减至实施QQE之前的水平。 2008年全球金融危机后，全球金融机构的流动性监管有所收紧，对央行准备金的需求也一直在发生变化。考虑到这一趋势，日本央行将确定资产负债表的合适规模。",
+          "url": "https://wallstreetcn.com/livenews/3103418",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时39分"
+        },
+        {
+          "title": "日本央行审议委员增一行：2008年全球金融危机后，全球金融机构的流动性监管趋严，中央银行储备的需求也在不断变化。",
+          "url": "https://flash.jin10.com/detail/20260514120839050800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时39分"
+        },
+        {
+          "title": "据英国金融时报：英国监管机构正推动私募信贷机构披露更多数据。",
+          "url": "https://flash.jin10.com/detail/20260514041645032800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时21分"
+        },
+        {
+          "title": "英国金融时报：迫于行业压力，英国央行将放宽稳定币监管规则",
+          "url": "https://wallstreetcn.com/livenews/3103415",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时39分"
+        },
+        {
+          "title": "埃及与国际伊斯兰贸易金融公司（ITFC）签署15亿美元贷款协议，来支持粮食和能源安全。",
+          "url": "https://wallstreetcn.com/livenews/3103175",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时45分"
         }
       ]
     },
@@ -481,7 +621,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时03分"
         },
@@ -492,7 +632,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时03分"
         },
@@ -503,37 +643,9 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时03分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金融",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "据英国金融时报：英国监管机构正推动私募信贷机构披露更多数据。",
-          "url": "https://flash.jin10.com/detail/20260514041645032800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时21分"
-        },
-        {
-          "title": "埃及与国际伊斯兰贸易金融公司（ITFC）签署15亿美元贷款协议，来支持粮食和能源安全。",
-          "url": "https://wallstreetcn.com/livenews/3103175",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时45分"
         }
       ]
     },
