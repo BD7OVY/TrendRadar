@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-15T07:50:19.508874+08:00",
-  "total_titles_processed": 604,
+  "generated_at": "2026-05-15T10:32:03.869551+08:00",
+  "total_titles_processed": 766,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 21,
+      "match_count": 24,
       "titles": [
         {
           "title": "伊朗学者：特朗普访华或影响美伊谈判走向",
@@ -17,6 +17,28 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时44分 ~ 07时50分]"
+        },
+        {
+          "title": "伊媒：伊朗已允许部分中国船只通过霍尔木兹海峡",
+          "url": "https://news.ifeng.com/c/8t80DotgBG6",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时31分 ~ 10时32分]"
+        },
+        {
+          "title": "伊朗外长：阿联酋直接参与侵略行动，是美以的同谋",
+          "url": "https://news.ifeng.com/c/8t89Os71ql7",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时31分 ~ 10时32分]"
         },
         {
           "title": "伊朗议会国家安全与外交政策委员会主席：我们已准备好在霍尔木兹海峡及其他战场再次击败敌人。",
@@ -36,9 +58,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时50分"
+        },
+        {
+          "title": "公开撕破脸！伊朗外长指控阿联酋直接介入战事",
+          "url": "https://flash.jin10.com/detail/20260515102244254800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时32分"
         },
         {
           "title": "伊朗议会内部事务委员会成员纳哈伊：在最高领袖穆杰塔巴·哈梅内伊的深谋远虑和命令下，我们的武装部队将对特朗普的空洞言辞，对美国及其任何帮凶作出沉重而适当的回应。",
@@ -242,8 +275,46 @@
     },
     {
       "keyword_group": "科技",
-      "match_count": 14,
+      "match_count": 21,
       "titles": [
+        {
+          "title": "A股新晋“股王”突发公告！源杰科技副总经理涉嫌刑事犯罪被拘留",
+          "url": "https://www.cls.cn/detail/2371678",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时44分 ~ 10时32分]"
+        },
+        {
+          "title": "美记者在北京体验中国科技",
+          "url": "https://www.douyin.com/hot/2498543",
+          "source": "抖音",
+          "ranks": [
+            10,
+            11,
+            8,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时44分 ~ 10时32分]"
+        },
+        {
+          "title": "港股低开低走，恒生指数跌1%，恒生科技指数跌1.7%。",
+          "url": "https://flash.jin10.com/detail/20260515102503291800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时32分"
+        },
         {
           "title": "科技巨头力撑标普、纳指新高，英伟达新高，中概股指跑赢大盘，美长债三连跌",
           "url": "https://wallstreetcn.com/articles/3772167",
@@ -258,40 +329,37 @@
           "time_info": "[01时44分 ~ 06时51分]"
         },
         {
+          "title": "香港恒生指数日内跌幅扩大至1%，恒生科技指数跌1.7%。",
+          "url": "https://wallstreetcn.com/livenews/3104044",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时32分"
+        },
+        {
           "title": "美国期权交易员加码看涨中国科技股",
           "url": "https://wallstreetcn.com/livenews/3103951",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时50分"
         },
         {
-          "title": "A股新晋“股王”突发公告！源杰科技副总经理涉嫌刑事犯罪被拘留",
-          "url": "https://www.cls.cn/detail/2371678",
-          "source": "财联社热门",
+          "title": "液冷概念股逆势活跃，大元泵业拉升封板，金富科技此前涨停，润泽科技、领益智造、网宿科技、强瑞技术涨幅居前。",
+          "url": "https://wallstreetcn.com/livenews/3104041",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8,
-            7
+            5
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时44分 ~ 07时50分]"
-        },
-        {
-          "title": "美记者在北京体验中国科技",
-          "url": "https://www.douyin.com/hot/2498543",
-          "source": "抖音",
-          "ranks": [
-            10,
-            11,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时44分 ~ 07时50分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时32分"
         },
         {
           "title": "恒生指数主连夜盘收涨0.02%，报26341点。 恒生科技指数主连夜盘收跌0.43%，报5066点。",
@@ -316,6 +384,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时44分 ~ 03时31分]"
+        },
+        {
+          "title": "赣南师范大学科技学院通报“一学生发布虐猫影像”：开除学籍",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33179189",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时31分 ~ 10时32分]"
         },
         {
           "title": "“股王”源杰科技副总经理被刑拘",
@@ -369,9 +448,42 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时50分"
+        },
+        {
+          "title": "港股风电股震荡走低，金风科技(02208.HK)跌超5%，协和新能源(00182.HK)、东方电气(01072.HK)跌超3%，大唐新能源(01798.HK)跌超1%。",
+          "url": "https://flash.jin10.com/detail/20260515100747051800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时32分"
+        },
+        {
+          "title": "港股光通信板块集体走弱，华虹半导体(01347.HK)、长飞光纤光缆(06869.HK)跌超7%，剑桥科技(06166.HK)、汇聚科技(01729.HK)、曦智科技-P(01879.HK)跌超3%。",
+          "url": "https://flash.jin10.com/detail/20260515100618779800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时32分"
+        },
+        {
+          "title": "CPO概念股再度拉升，铭普光磁直线涨停，光莆股份涨超10%，杰普特、泰晶科技、中富电路、锐捷网络跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3104009",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时32分"
         },
         {
           "title": "据科技媒体TechCrunsh：OpenAI表示，黑客在最新的代码安全问题发生后窃取了一些数据。",
@@ -410,7 +522,7 @@
     },
     {
       "keyword_group": "金融",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "4月金融数据出炉：社融存量同比增7.8%，贷款增速放缓或成新常态",
@@ -423,6 +535,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时44分 ~ 07时50分]"
+        },
+        {
+          "title": "徽商银行：个人金融资产规模突破10000亿元",
+          "url": "https://wallstreetcn.com/livenews/3104046",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时32分"
         },
         {
           "title": "长债抛售警报响：30年期美债标售得标利率自07年金融危机以来首次升破5.0%",
@@ -443,7 +566,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时50分"
         }
@@ -451,8 +574,19 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "Codex登陆ChatGPT手机App",
+          "url": "https://search.bilibili.com/all?keyword=Codex%E7%99%BB%E9%99%86ChatGPT%E6%89%8B%E6%9C%BAApp",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时31分 ~ 10时32分]"
+        },
         {
           "title": "苹果与OpenAI关系恶化，恐引发法律诉讼",
           "url": "https://wallstreetcn.com/livenews/3103841",
@@ -491,7 +625,7 @@
     },
     {
       "keyword_group": "消费",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "商务部：上海等有奖发票试点城市提振消费效果明显，参与活动发票金额2088.2亿元",
@@ -500,11 +634,12 @@
           "ranks": [
             13,
             10,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时04分 ~ 07时50分]"
+          "appearance_count": 5,
+          "time_info": "[05时04分 ~ 10时32分]"
         },
         {
           "title": "阿根廷4月消费者价格指数环比上升2.6%，同比升幅32.4%（上年同期32.6%）——为最近11个月首次放缓。",
@@ -516,6 +651,45 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时04分"
+        },
+        {
+          "title": "【中芯国际赵海军：公司与客户协商上调定价 涨价效应逐步体现】在今日的一季报业绩说明会上，中芯国际联合CEO赵海军表示，一季度毛利率为20.1%，环比增加0.9个百分点，主要因为销售单价上升和产品结构优化。结合当前市场形势，在供不应求的产品类别，公司与客户协商上调定价，涨价效应逐步体现；加之部分客户顾虑后续外部环境不确定性可能带来供应不足或继续推高供应链价格，提拉消费、IoT产品类产品备货，使得公司在手订单充足。综合以上因素，二季度，公司给出的收入指引为环比增长14%到16%，预计出货量和平均销售单价均有明显提升；毛利率指引为20%—22%，与上一季指引相比提升2个百分点，主要是因为平均销售单价的上升。",
+          "url": "https://wallstreetcn.com/livenews/3104011",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时32分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "资源",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "澳大利亚资源部长：澳大利亚东海岸储存设施的储量已达到或接近100%满负荷水平。",
+          "url": "https://flash.jin10.com/detail/20260515070304282800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时50分"
+        },
+        {
+          "title": "氟化工概念开盘强势，滨化股份、中欣氟材一字涨停，中巨芯涨超15%，金石资源、多氟多、巨化股份、永和股份、三美股份纷纷高开，业内人士透露，韩国无水氢氟酸生产商包括Solbrain、ENF Technology、Huseong等将向包括三星电子和SK海力士在内的半导体公司供应电子级氢氟酸，且价格预计将在6月和7月大幅上涨。",
+          "url": "https://wallstreetcn.com/livenews/3104002",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时32分"
         }
       ]
     },
@@ -532,8 +706,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时51分 ~ 07时50分]"
+          "appearance_count": 4,
+          "time_info": "[06时51分 ~ 10时32分]"
         },
         {
           "title": "美元指数涨0.3%",
@@ -545,23 +719,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时04分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "资源",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "澳大利亚资源部长：澳大利亚东海岸储存设施的储量已达到或接近100%满负荷水平。",
-          "url": "https://flash.jin10.com/detail/20260515070304282800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时50分"
         }
       ]
     },
@@ -596,6 +753,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时04分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金十图示：2026年05月15日（周五）上海金早盘价为1011.62元/克，较国际金价(1008.73元/克)，高2.89元/克",
+          "url": "https://flash.jin10.com/detail/20260515102145068800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时32分"
         }
       ]
     },
