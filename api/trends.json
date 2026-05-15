@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-15T21:49:11.938398+08:00",
-  "total_titles_processed": 1426,
+  "generated_at": "2026-05-15T23:59:43.009516+08:00",
+  "total_titles_processed": 1552,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 42,
+      "match_count": 46,
       "titles": [
         {
           "title": "伊朗学者：特朗普访华或影响美伊谈判走向",
@@ -43,6 +43,19 @@
           "time_info": "[10时31分 ~ 14时27分]"
         },
         {
+          "title": "美国已拒绝伊朗就结束战争提出的书面方案",
+          "url": "https://www.cls.cn/detail/2372496",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时41分 ~ 23时59分]"
+        },
+        {
           "title": "伊朗议会国家安全与外交政策委员会主席：我们已准备好在霍尔木兹海峡及其他战场再次击败敌人。",
           "url": "https://flash.jin10.com/detail/20260515031448900800",
           "source": "金十数据",
@@ -76,19 +89,6 @@
           "time_info": "10时32分"
         },
         {
-          "title": "美国已拒绝伊朗就结束战争提出的书面方案",
-          "url": "https://www.cls.cn/detail/2372496",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时41分 ~ 21时49分]"
-        },
-        {
           "title": "伊朗议会内部事务委员会成员纳哈伊：在最高领袖穆杰塔巴·哈梅内伊的深谋远虑和命令下，我们的武装部队将对特朗普的空洞言辞，对美国及其任何帮凶作出沉重而适当的回应。",
           "url": "https://flash.jin10.com/detail/20260515011329701800",
           "source": "金十数据",
@@ -116,11 +116,12 @@
           "url": "https://www.zhihu.com/question/2038396347775022033",
           "source": "知乎",
           "ranks": [
-            16
+            16,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时48分 ~ 21时49分]"
+          "appearance_count": 3,
+          "time_info": "[21时48分 ~ 23时59分]"
         },
         {
           "title": "美拒绝伊朗就结束战争所提书面方案",
@@ -178,6 +179,17 @@
           "time_info": "19时50分"
         },
         {
+          "title": "伊朗战争冲击供应 美国炼油厂加速满负荷生产",
+          "url": "https://flash.jin10.com/detail/20260515232817376800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时59分"
+        },
+        {
           "title": "伊朗外长阿拉格齐：我们将以最佳方式完成任何交给我们的任务，无论是对抗敌人还是进行对话。",
           "url": "https://flash.jin10.com/detail/20260515010636628800",
           "source": "金十数据",
@@ -189,6 +201,17 @@
           "time_info": "01时44分"
         },
         {
+          "title": "阿联酋发表声明称，保留采取一切主权、法律、外交和军事手段回应任何伊朗威胁或敌对行为的全部权利。",
+          "url": "https://flash.jin10.com/detail/20260515232229159800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时59分"
+        },
+        {
           "title": "伊朗外长阿拉格齐：我们将强势参与外交事务，我们的外交官是伊朗的战士。",
           "url": "https://flash.jin10.com/detail/20260515010606929800",
           "source": "金十数据",
@@ -198,6 +221,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时44分"
+        },
+        {
+          "title": "阿联酋发表声明，明确拒绝伊朗在金砖国家会议期间提出的指控，以及其试图为针对阿联酋的袭击行为进行辩护的企图。",
+          "url": "https://flash.jin10.com/detail/20260515232148401800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时59分"
         },
         {
           "title": "伊朗外长说美方认真才可能重启谈判",
@@ -272,7 +306,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时49分"
         },
@@ -286,6 +320,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时44分"
+        },
+        {
+          "title": "伊朗外长：谈判前提是各方认真对待",
+          "url": "https://wallstreetcn.com/livenews/3104525",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时59分"
         },
         {
           "title": "伊朗外长：霍尔木兹海峡仍对友好国家商业船只开放",
@@ -327,7 +372,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时49分"
         },
@@ -528,7 +573,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时49分"
         },
@@ -816,8 +861,21 @@
     },
     {
       "keyword_group": "金融",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
+        {
+          "title": "一口气刷完金融入门知识",
+          "url": "https://www.douyin.com/hot/2500187",
+          "source": "抖音",
+          "ranks": [
+            7,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时41分 ~ 23时59分]"
+        },
         {
           "title": "4月金融数据出炉：社融存量同比增7.8%，贷款增速放缓或成新常态",
           "url": "https://www.cls.cn/detail/2371407",
@@ -829,19 +887,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时44分 ~ 07时50分]"
-        },
-        {
-          "title": "一口气刷完金融入门知识",
-          "url": "https://www.douyin.com/hot/2500187",
-          "source": "抖音",
-          "ranks": [
-            7,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时41分 ~ 21时49分]"
         },
         {
           "title": "徽商银行：个人金融资产规模突破10000亿元",
@@ -876,6 +921,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时44分 ~ 05时04分]"
+        },
+        {
+          "title": "香港特区政府官员欢迎IMF再次肯定香港国际金融中心角色",
+          "url": "https://wallstreetcn.com/livenews/3104531",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时59分"
         },
         {
           "title": "日本央行执行董事Kamiyama：随着非银行金融中介在全球活动的扩展，各国中央银行和监管机构之间的合作变得愈加重要。",
@@ -946,91 +1002,8 @@
       ]
     },
     {
-      "keyword_group": "制造业",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "新西兰4月制造业表现指数 50.5，前值53.2。",
-          "url": "https://flash.jin10.com/detail/20260515063002295800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时51分"
-        },
-        {
-          "title": "美国4月制造业产能利用率 75.8%，前值75.3%。",
-          "url": "https://flash.jin10.com/detail/20260515211528986800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时49分"
-        },
-        {
-          "title": "美国4月制造业产出月率 0.6%，预期0.20%，前值-0.10%。",
-          "url": "https://flash.jin10.com/detail/20260515211511422800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时49分"
-        },
-        {
-          "title": "美国4月制造业产出环比 0.6%，预期 0.2%，前值 -0.1%。",
-          "url": "https://wallstreetcn.com/livenews/3104471",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时49分"
-        },
-        {
-          "title": "新订单和出货量强劲上升 纽约联储制造业指数增速创四年多来最快",
-          "url": "https://flash.jin10.com/detail/20260515210544734800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时49分"
-        },
-        {
-          "title": "加拿大3月制造业装船环比 3%，预期 3.5%，前值 3.6%。",
-          "url": "https://wallstreetcn.com/livenews/3104449",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时49分"
-        },
-        {
-          "title": "美国5月纽约联储制造业指数 19.6，预期 7.2，前值 11。",
-          "url": "https://wallstreetcn.com/livenews/3104447",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时49分"
-        }
-      ]
-    },
-    {
       "keyword_group": "消费",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "商务部：上海等有奖发票试点城市提振消费效果明显，参与活动发票金额2088.2亿元",
@@ -1048,6 +1021,18 @@
           "time_info": "[05时04分 ~ 19时50分]"
         },
         {
+          "title": "监管首次明确！四大类现代服务业与新型消费企业获明确支持",
+          "url": "https://www.cls.cn/detail/2372797",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时48分 ~ 23时59分]"
+        },
+        {
           "title": "证监会：将更好支持包括服务和消费领域在内的各类实体经济企业发展壮大",
           "url": "https://www.cls.cn/detail/2372620",
           "source": "财联社热门",
@@ -1056,19 +1041,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时50分 ~ 21时49分]"
-        },
-        {
-          "title": "监管首次明确！四大类现代服务业与新型消费企业获明确支持",
-          "url": "https://www.cls.cn/detail/2372797",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时48分 ~ 21时49分]"
+          "appearance_count": 4,
+          "time_info": "[19时50分 ~ 23时59分]"
         },
         {
           "title": "市场监管总局：部署开展2026年“守护消费”铁拳行动",
@@ -1113,6 +1087,100 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时32分"
+        },
+        {
+          "title": "紫金陈：目前仓位20%，开始建仓消费股，耐心等可重仓的时机",
+          "url": "https://wallstreetcn.com/livenews/3104520",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时59分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "制造业",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "新西兰4月制造业表现指数 50.5，前值53.2。",
+          "url": "https://flash.jin10.com/detail/20260515063002295800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时51分"
+        },
+        {
+          "title": "美国4月制造业产能利用率 75.8%，前值75.3%。",
+          "url": "https://flash.jin10.com/detail/20260515211528986800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时49分"
+        },
+        {
+          "title": "美国4月制造业产出月率 0.6%，预期0.20%，前值-0.10%。",
+          "url": "https://flash.jin10.com/detail/20260515211511422800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时49分"
+        },
+        {
+          "title": "美国4月制造业产出环比 0.6%，预期 0.2%，前值 -0.1%。",
+          "url": "https://wallstreetcn.com/livenews/3104471",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时49分"
+        },
+        {
+          "title": "新订单和出货量强劲上升 纽约联储制造业指数增速创四年多来最快",
+          "url": "https://flash.jin10.com/detail/20260515210544734800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时49分"
+        },
+        {
+          "title": "加拿大3月制造业装船环比 3%，预期 3.5%，前值 3.6%。",
+          "url": "https://wallstreetcn.com/livenews/3104449",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时49分"
+        },
+        {
+          "title": "美国5月纽约联储制造业指数 19.6，预期 7.2，前值 11。",
+          "url": "https://wallstreetcn.com/livenews/3104447",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时49分"
         }
       ]
     },
@@ -1189,7 +1257,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时49分"
         },
@@ -1225,6 +1293,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时32分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "Gemini Space Station Inc.（GEMI）获得1亿美元投资。 公司一季度营收5030万美元，分析师预期4870万美元。",
+          "url": "https://wallstreetcn.com/livenews/3103894",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时04分"
+        },
+        {
+          "title": "对冲基金经理比尔·阿克曼：我们出售了谷歌(GOOG.O)，购买了微软(MSFT.O)。",
+          "url": "https://flash.jin10.com/detail/20260515233342413800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时59分"
         }
       ]
     },
@@ -1275,23 +1371,6 @@
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "Gemini Space Station Inc.（GEMI）获得1亿美元投资。 公司一季度营收5030万美元，分析师预期4870万美元。",
-          "url": "https://wallstreetcn.com/livenews/3103894",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时04分"
-        }
-      ]
-    },
-    {
       "keyword_group": "金价",
       "match_count": 1,
       "titles": [
@@ -1320,11 +1399,12 @@
             2,
             10,
             23,
-            19
+            19,
+            18
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时27分 ~ 21时49分]"
+          "appearance_count": 7,
+          "time_info": "[14时27分 ~ 23时59分]"
         }
       ]
     },
