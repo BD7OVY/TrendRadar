@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-05-16T03:21:18.497057+08:00",
-  "total_titles_processed": 391,
+  "generated_at": "2026-05-16T04:54:39.270715+08:00",
+  "total_titles_processed": 465,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
+        {
+          "title": "美国已拒绝伊朗就结束战争提出的书面方案",
+          "url": "https://www.cls.cn/detail/2372496",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时29分 ~ 04时54分]"
+        },
         {
           "title": "TankerTrackers：伊朗石油运输减少主因可能是泄漏事故，而非美国封锁",
           "url": "https://wallstreetcn.com/livenews/3104590",
@@ -14,20 +26,9 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时21分"
-        },
-        {
-          "title": "美国已拒绝伊朗就结束战争提出的书面方案",
-          "url": "https://www.cls.cn/detail/2372496",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时29分 ~ 03时21分]"
         },
         {
           "title": "美以袭击伊朗进入第 77 天，当前局势如何？哪些信息值得关注？",
@@ -37,8 +38,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时29分 ~ 03时21分]"
+          "appearance_count": 3,
+          "time_info": "[01时29分 ~ 04时54分]"
         },
         {
           "title": "【以军：以色列正在为重启对伊朗军事行动做准备】当地时间15日晚，总台记者获悉，一位以色列高级官员称，以色列正在为即将重启针对伊朗的军事行动做准备，军事行动可能将“持续数天甚至数周”。这位官员表示：“美国人明白与伊朗的谈判毫无进展”。他补充道：“我们正在为持续数天甚至数周的战斗做准备，并等待特朗普总统的最终决定。未来24小时内我们将了解更多情况”。（央视）",
@@ -47,9 +48,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时21分"
+        },
+        {
+          "title": "美国已拒绝伊朗就结束战争提出的书面方案",
+          "url": "https://wallstreetcn.com/articles/3772355",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时54分"
         },
         {
           "title": "以官员：以色列正在为重启对伊朗军事行动做准备",
@@ -58,7 +70,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时21分"
         },
@@ -96,13 +108,24 @@
           "time_info": "01时29分"
         },
         {
+          "title": "伊朗战争致全球供应受阻 特朗普借机加速阿拉斯加产能",
+          "url": "https://flash.jin10.com/detail/20260516033957346800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时54分"
+        },
+        {
           "title": "巴基斯坦外长：20名被美国军方扣押的伊朗人已被送回国。",
           "url": "https://flash.jin10.com/detail/20260516020531535800",
           "source": "金十数据",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时21分"
         },
@@ -113,9 +136,82 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时21分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "科技",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "13F报告显示：桥水新进台积电等，清仓Salesforce、Workday、ServiceNOW等，增持亚马逊、美光、博通、迈威尔科技，减持Adobe等，重仓亚马逊、英伟达、谷歌A等。",
+          "url": "https://wallstreetcn.com/livenews/3104627",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时54分"
+        },
+        {
+          "title": "周五（5月15日），美股行业ETF几乎全线溃败，半导体ETF收跌3.80%，生物科技指数ETF、全球航空业ETF、全球科技股指数ETF、公用事业ETF至多跌2.63%，科技行业ETF、银行业ETF等至多跌1.81%，能源业ETF则收涨2.36%。 2026年迄今，半导体ETF维持54.48%的累计涨幅，能源业ETF累涨33.81%，全球科技股指数ETF累涨25.79%，全球航空业ETF则累跌8.94%。",
+          "url": "https://wallstreetcn.com/livenews/3104626",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时54分"
+        },
+        {
+          "title": "恒生指数主连夜盘收跌0.29%，报25733点。 恒生科技指数主连夜盘收跌0.59%，报4895点。",
+          "url": "https://wallstreetcn.com/livenews/3104595",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时21分 ~ 04时54分]"
+        },
+        {
+          "title": "标普500指数的11个板块几乎全线溃败，原材料板块收跌2.74%，公用事业板块跌2.4%，可选消费板块跌1.84%，信息技术/科技板块跌1.61%，能源板块则收涨2.32%。",
+          "url": "https://wallstreetcn.com/livenews/3104620",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时54分"
+        },
+        {
+          "title": "本周，标普累涨约0.3%，道指持平，纳指累涨约0.1%，半导体指数跌1%，科技股七巨头指数累涨1.2%，存储芯片指数累跌3%，AI赢家指数跌0.4%、软件先驱指数跌0.4%。 周五当天，标普500指数初步收跌1.2%，原材料板块跌2.7%，公用事业板块跌2.3%，可选消费板块跌1.9%，科技板块跌1.5%，能源板块涨2.1%。 纳斯达克100指数初步收跌1.5%，成分股中，Arm控股初步收跌7.8%，美光跌6.6%，英特尔跌6.2%，AMD跌5.6%，阿斯麦ADR跌5%，Strategy跌4.8%，特斯拉跌4.7%，Adobe则涨4.4%，汤森路透涨4.8%，Zscaler涨5%，Workday涨5.3%，德康医疗涨6.5%。 英伟达初步收跌超4.4%，波音跌3.8%，卡特彼勒跌3.5%，领跌道指成分股，雪佛龙、思科、微软、Salesforce至少涨超2%。 半导体指数跌4%，生物科技指数跌2.7%，银行指数跌0.7%。",
+          "url": "https://wallstreetcn.com/livenews/3104611",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时54分"
+        },
+        {
+          "title": "美股收盘：三大指数收低 科技股显著回调",
+          "url": "https://flash.jin10.com/detail/20260516040037420800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时54分"
         }
       ]
     },
@@ -132,8 +228,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时29分 ~ 03时21分]"
+          "appearance_count": 3,
+          "time_info": "[01时29分 ~ 04时54分]"
         },
         {
           "title": "据英国金融时报报道，英国政府部分机构面临瘫痪风险，大臣和高级公务员警告称，工党内部竞选领袖的可能性不断上升，有可能令斯塔默的议程蒙上阴影。",
@@ -142,7 +238,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时21分"
         }
@@ -157,22 +253,52 @@
           "url": "https://www.cls.cn/detail/2372797",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时29分 ~ 03时21分]"
+          "appearance_count": 3,
+          "time_info": "[01时29分 ~ 04时54分]"
         },
         {
           "title": "证监会：将更好支持包括服务和消费领域在内的各类实体经济企业发展壮大",
           "url": "https://www.cls.cn/detail/2372620",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时29分 ~ 03时21分]"
+          "appearance_count": 3,
+          "time_info": "[01时29分 ~ 04时54分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "13F报告显示：Third Point建仓Meta、谷歌A等。 清仓微软等，减持英伟达等。",
+          "url": "https://wallstreetcn.com/livenews/3104622",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时54分"
+        },
+        {
+          "title": "13F报告显示，伯克希尔哈撒韦一季度建仓达美航空（DAL）和M，增持谷歌A、纽约时报（NYT）、LEN。清仓亚马逊、Visa、MasterCard、联合健康、DPZ、Aon，减持美国银行、雪佛龙、STZ、NUE等。",
+          "url": "https://wallstreetcn.com/livenews/3104621",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时54分"
         }
       ]
     },
@@ -198,7 +324,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时21分"
         }
@@ -215,24 +341,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时21分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "科技",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "恒生指数主连夜盘收跌0.29%，报25733点。 恒生科技指数主连夜盘收跌0.59%，报4895点。",
-          "url": "https://wallstreetcn.com/livenews/3104595",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时21分"
         }
@@ -256,6 +365,40 @@
       ]
     },
     {
+      "keyword_group": "医药",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美国食品药品管理局（FDA）顶级医药监管员Tracy Beth Hoeg离职。",
+          "url": "https://wallstreetcn.com/livenews/3104604",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时54分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美元指数涨约0.5%，本周累计涨幅扩大至超过1.4%",
+          "url": "https://wallstreetcn.com/livenews/3104599",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时54分"
+        }
+      ]
+    },
+    {
       "keyword_group": "徒步",
       "match_count": 1,
       "titles": [
@@ -265,11 +408,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             15,
-            12
+            12,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时29分 ~ 03时21分]"
+          "appearance_count": 3,
+          "time_info": "[01时29分 ~ 04时54分]"
         }
       ]
     },
