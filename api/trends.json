@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-15T10:32:03.869551+08:00",
-  "total_titles_processed": 766,
+  "generated_at": "2026-05-15T14:27:43.015911+08:00",
+  "total_titles_processed": 967,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 24,
+      "match_count": 26,
       "titles": [
         {
           "title": "伊朗学者：特朗普访华或影响美伊谈判走向",
@@ -23,22 +23,24 @@
           "url": "https://news.ifeng.com/c/8t80DotgBG6",
           "source": "凤凰网",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时31分 ~ 10时32分]"
+          "appearance_count": 3,
+          "time_info": "[10时31分 ~ 14时27分]"
         },
         {
           "title": "伊朗外长：阿联酋直接参与侵略行动，是美以的同谋",
           "url": "https://news.ifeng.com/c/8t89Os71ql7",
           "source": "凤凰网",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时31分 ~ 10时32分]"
+          "appearance_count": 3,
+          "time_info": "[10时31分 ~ 14时27分]"
         },
         {
           "title": "伊朗议会国家安全与外交政策委员会主席：我们已准备好在霍尔木兹海峡及其他战场再次击败敌人。",
@@ -69,7 +71,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时32分"
         },
@@ -83,6 +85,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时44分"
+        },
+        {
+          "title": "外交部回应中美元首是否谈及伊朗局势",
+          "url": "https://www.toutiao.com/trending/7638899887907700777/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时27分"
         },
         {
           "title": "伊朗议会内部事务委员会成员纳哈伊：作为对敌人任何侵略行径的回应，宣布关闭曼德海峡是合适的，这样侵略的代价对他们而言将变得难以承受。",
@@ -206,6 +219,17 @@
           "time_info": "06时51分"
         },
         {
+          "title": "大批伊朗民众集会为男足壮行",
+          "url": "https://www.toutiao.com/trending/7638982403655450666/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时27分"
+        },
+        {
           "title": "伊朗外交部：外长阿拉格奇与俄罗斯外长拉夫罗夫会晤，双方讨论并回顾了德黑兰与莫斯科在政治、能源、交通及地区合作领域的合作情况。双方还就西亚地区的最新发展及与伊朗核问题相关的谈判交换了意见。",
           "url": "https://flash.jin10.com/detail/20260515015238925800",
           "source": "金十数据",
@@ -275,7 +299,7 @@
     },
     {
       "keyword_group": "科技",
-      "match_count": 21,
+      "match_count": 25,
       "titles": [
         {
           "title": "A股新晋“股王”突发公告！源杰科技副总经理涉嫌刑事犯罪被拘留",
@@ -311,7 +335,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时32分"
         },
@@ -335,9 +359,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时32分"
+        },
+        {
+          "title": "股价大跌因“谈价失败”？胜宏科技回应：不实信息",
+          "url": "https://wallstreetcn.com/livenews/3104153",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时27分"
         },
         {
           "title": "美国期权交易员加码看涨中国科技股",
@@ -357,7 +392,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时32分"
         },
@@ -374,6 +409,18 @@
           "time_info": "[03时31分 ~ 05时04分]"
         },
         {
+          "title": "赣南师范大学科技学院通报“一学生发布虐猫影像”：开除学籍",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33179189",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时31分 ~ 14时27分]"
+        },
+        {
           "title": "道指涨幅扩大至1%，伊朗战争爆发以来首次创盘中历史新高，标普涨0.96%、科技板块涨1.9%，纳指涨1.1%，半导体指数涨超0.5%，银行指数涨1.3%，罗素2000指数涨0.7%。",
           "url": "https://wallstreetcn.com/livenews/3103830",
           "source": "华尔街见闻-快讯",
@@ -386,17 +433,6 @@
           "time_info": "[01时44分 ~ 03时31分]"
         },
         {
-          "title": "赣南师范大学科技学院通报“一学生发布虐猫影像”：开除学籍",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33179189",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时31分 ~ 10时32分]"
-        },
-        {
           "title": "“股王”源杰科技副总经理被刑拘",
           "url": "https://www.baidu.com/s?wd=%E2%80%9C%E8%82%A1%E7%8E%8B%E2%80%9D%E6%BA%90%E6%9D%B0%E7%A7%91%E6%8A%80%E5%89%AF%E6%80%BB%E7%BB%8F%E7%90%86%E8%A2%AB%E5%88%91%E6%8B%98",
           "source": "百度热搜",
@@ -407,6 +443,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时31分 ~ 05时04分]"
+        },
+        {
+          "title": "恒生科技指数午后跌幅扩大至3%。",
+          "url": "https://wallstreetcn.com/livenews/3104148",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时27分"
         },
         {
           "title": "周四（5月14日），美股行业ETF普遍收涨，科技行业涨1.50%，全球科技股指数ETF涨1.41%，网络股指数ETF涨1.37%，半导体ETF涨1.03%，银行业ETF、区域银行ETF至少涨0.89%，能源业ETF涨0.76%，生物科技指数ETF跌0.76%。",
@@ -459,7 +506,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时32分"
         },
@@ -470,7 +517,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时32分"
         },
@@ -481,7 +528,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时32分"
         },
@@ -517,12 +564,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时51分"
+        },
+        {
+          "title": "股价大跌因“谈价失败”？胜宏科技回应：不实信息",
+          "url": "https://flash.jin10.com/detail/20260515135514849800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时27分"
+        },
+        {
+          "title": "港股午后扩大跌幅，恒生科技指数跌超3%，恒生指数跌近2%。",
+          "url": "https://flash.jin10.com/detail/20260515135347361800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时27分"
         }
       ]
     },
     {
       "keyword_group": "金融",
-      "match_count": 4,
+      "match_count": 8,
       "titles": [
         {
           "title": "4月金融数据出炉：社融存量同比增7.8%，贷款增速放缓或成新常态",
@@ -543,7 +612,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时32分"
         },
@@ -560,6 +629,39 @@
           "time_info": "[01时44分 ~ 05时04分]"
         },
         {
+          "title": "日本央行执行董事Kamiyama：随着非银行金融中介在全球活动的扩展，各国中央银行和监管机构之间的合作变得愈加重要。",
+          "url": "https://flash.jin10.com/detail/20260515140718447800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时27分"
+        },
+        {
+          "title": "日本央行执行董事Kamiyama：随着日本金融机构增加对外部投资基金的投资和贷款，外部冲击瞬间传导至国内市场的潜在风险正在上升。",
+          "url": "https://flash.jin10.com/detail/20260515140707528800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时27分"
+        },
+        {
+          "title": "支持绿色发展 国开行发行100亿元3年期绿色金融债券",
+          "url": "https://wallstreetcn.com/livenews/3104129",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时27分"
+        },
+        {
           "title": "美联储巴尔：下调流动性要求只会增加金融稳定风险。",
           "url": "https://flash.jin10.com/detail/20260515065914509800",
           "source": "金十数据",
@@ -569,6 +671,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时50分"
+        },
+        {
+          "title": "日本央行执行董事Kamiyama：投资基金通过提供风险资本在促进经济增长方面发挥作用，但也可能对整个金融系统构成潜在风险。",
+          "url": "https://flash.jin10.com/detail/20260515140515577800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时27分"
         }
       ]
     },
@@ -635,11 +748,12 @@
             13,
             10,
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[05时04分 ~ 10时32分]"
+          "appearance_count": 6,
+          "time_info": "[05时04分 ~ 14时27分]"
         },
         {
           "title": "阿根廷4月消费者价格指数环比上升2.6%，同比升幅32.4%（上年同期32.6%）——为最近11个月首次放缓。",
@@ -659,7 +773,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时32分"
         }
@@ -687,7 +801,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时32分"
         }
@@ -706,8 +820,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时51分 ~ 10时32分]"
+          "appearance_count": 5,
+          "time_info": "[06时51分 ~ 14时27分]"
         },
         {
           "title": "美元指数涨0.3%",
@@ -767,9 +881,26 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时32分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "徒步",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "大学生徒步279公里回家",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%BE%92%E6%AD%A5279%E5%85%AC%E9%87%8C%E5%9B%9E%E5%AE%B6",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时27分"
         }
       ]
     },
