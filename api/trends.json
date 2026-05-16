@@ -1,289 +1,77 @@
 {
-  "generated_at": "2026-05-16T23:52:30.747277+08:00",
-  "total_titles_processed": 1457,
+  "generated_at": "2026-05-17T00:51:08.481911+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 42,
+      "match_count": 14,
       "titles": [
-        {
-          "title": "消息人士：美以或最早下周恢复对伊朗军事行动",
-          "url": "https://news.ifeng.com/c/8tAsxndbgHu",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时53分 ~ 23时52分]"
-        },
         {
           "title": "FBI通缉美国前女特工：13年前叛逃伊朗，传递五角大楼机密",
           "url": "https://news.ifeng.com/c/8tAy0GyTSSB",
           "source": "凤凰网",
           "ranks": [
-            5,
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时57分 ~ 23时52分]"
-        },
-        {
-          "title": "美国已拒绝伊朗就结束战争提出的书面方案",
-          "url": "https://www.cls.cn/detail/2372496",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时29分 ~ 07时48分]"
+          "appearance_count": 2,
+          "time_info": "[00时50分 ~ 00时51分]"
         },
         {
           "title": "谈判濒临破裂，美以被曝最早下周恢复对伊朗打击，选项包括地面夺取核材料",
           "url": "https://wallstreetcn.com/articles/3772425",
           "source": "华尔街见闻",
           "ranks": [
-            10,
-            9,
-            8,
-            6,
-            5
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时57分 ~ 23时52分]"
+          "appearance_count": 2,
+          "time_info": "[00时50分 ~ 00时51分]"
         },
         {
-          "title": "美国已拒绝伊朗就结束战争提出的书面方案",
-          "url": "https://wallstreetcn.com/articles/3772355",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[04时54分 ~ 15时54分]"
-        },
-        {
-          "title": "特朗普松口：可接受伊朗暂停核计划20年",
-          "url": "https://news.ifeng.com/c/8tAOMUPRq30",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时48分 ~ 17时24分]"
-        },
-        {
-          "title": "【伊朗官员：伊方制定的霍尔木兹海峡航线交通管理机制将于近期公布】当地时间5月16日，伊朗议会国家安全委员会主席阿齐兹在社交平台表示，在维护国家主权和保障国际贸易安全的框架下，伊朗已制定一套专业的霍尔木兹海峡航线交通管理机制，并将于近期正式公布。该机制仅对与伊朗合作的商船和相关方开放。伊朗将收取必要的费用，作为其通过该机制提供的专业服务的交换。该航线将继续对美国“自由计划”的参与者关闭。（央视）",
-          "url": "https://wallstreetcn.com/livenews/3104789",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            11,
-            12,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时57分 ~ 23时52分]"
-        },
-        {
-          "title": "伊朗议会国家安全委员会负责人：伊朗已制定一项机制，用于管理霍尔木兹海峡沿指定航线的通行，该机制将很快公布。 在此过程中，只有商业船只和与伊朗合作的各方才能从中受益。 将对该机制下提供的专门服务收取必要费用。 这条航线将对“自由计划”的运营方保持关闭。",
-          "url": "https://wallstreetcn.com/livenews/3104787",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            13,
-            14,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时57分 ~ 23时52分]"
-        },
-        {
-          "title": "伊朗外长称伊美同意推进浓缩铀问题谈判",
-          "url": "https://news.ifeng.com/c/8tAN0RWSj16",
+          "title": "消息人士：美以或最早下周恢复对伊朗军事行动",
+          "url": "https://news.ifeng.com/c/8tAsxndbgHu",
           "source": "凤凰网",
           "ranks": [
             4
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时50分 ~ 00时51分]"
+        },
+        {
+          "title": "据伊朗国家媒体：伊朗西北部一家发动机油厂火灾已完全扑灭，未报告伤亡情况。",
+          "url": "https://flash.jin10.com/detail/20260517002017095800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时48分"
-        },
-        {
-          "title": "TankerTrackers：伊朗石油运输减少主因可能是泄漏事故，而非美国封锁",
-          "url": "https://wallstreetcn.com/livenews/3104590",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时21分"
-        },
-        {
-          "title": "消息人士：国际足联将“保证”伊朗参赛世界杯",
-          "url": "https://wallstreetcn.com/livenews/3104774",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            15,
-            25,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时24分 ~ 21时06分]"
-        },
-        {
-          "title": "美以袭击伊朗进入第 77 天，当前局势如何？哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2038396347775022033",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时29分 ~ 06时48分]"
-        },
-        {
-          "title": "伊朗：已准备好管理霍尔木兹海峡的机制 相关细节很快公布",
-          "url": "https://flash.jin10.com/detail/20260516182456183800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            7,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时57分 ~ 21时06分]"
-        },
-        {
-          "title": "伊朗外长：欢迎中国发挥作用",
-          "url": "https://news.ifeng.com/c/8tAOoYSElQ3",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时12分 ~ 13时48分]"
-        },
-        {
-          "title": "伊朗一机油工厂发生火灾",
-          "url": "https://flash.jin10.com/detail/20260516202902063800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            18,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时06分 ~ 23时52分]"
-        },
-        {
-          "title": "美国总统特朗普：伊朗惧怕（与美方）达成一份协议。 伊朗不知道该如何达成一份协议。 伊朗战争很快就会结束。",
-          "url": "https://wallstreetcn.com/livenews/3104664",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时48分 ~ 07时48分]"
-        },
-        {
-          "title": "消息人士：美以或最早下周恢复对伊朗军事行动",
-          "url": "https://flash.jin10.com/detail/20260516151231684800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            18,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时54分 ~ 18时57分]"
-        },
-        {
-          "title": "据俄新社：克里姆林宫表示，俄罗斯总统普京与阿联酋总统通电话，讨论了中东和伊朗问题。",
-          "url": "https://flash.jin10.com/detail/20260516221136002800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时50分 ~ 23时52分]"
+          "time_info": "00时51分"
         },
         {
           "title": "特朗普在「空军一号」接受采访，释放大量关于贸易、台湾、伊朗等议题信号，哪些内容值得关注？",
           "url": "https://www.zhihu.com/question/2039019083463488463",
           "source": "知乎",
           "ranks": [
-            16,
-            10,
-            9
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时05分 ~ 23时52分]"
+          "appearance_count": 2,
+          "time_info": "[00时50分 ~ 00时51分]"
         },
         {
-          "title": "伊朗战争致全球供应受阻 特朗普借机加速阿拉斯加产能",
-          "url": "https://flash.jin10.com/detail/20260516033957346800",
+          "title": "据伊朗伊斯兰共和国广播电视台（IRIB）：受霍尔木兹海峡中断的影响，沙特石油产量降至1990年以来的最低水平。",
+          "url": "https://flash.jin10.com/detail/20260517001617335800",
           "source": "金十数据",
           "ranks": [
-            20,
-            21
+            6
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时54分 ~ 07时48分]"
-        },
-        {
-          "title": "消息人士：美以或最早下周恢复对伊朗军事行动",
-          "url": "https://wallstreetcn.com/livenews/3104760",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            14,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时54分 ~ 18时57分]"
-        },
-        {
-          "title": "消息人士：国际足联将“保证”伊朗参赛世界杯",
-          "url": "https://flash.jin10.com/detail/20260516192751228800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            24,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时06分 ~ 23时52分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时51分"
         },
         {
           "title": "伊朗一机油工厂发生火灾致至少10人受伤",
@@ -292,33 +80,20 @@
           "ranks": [
             6
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时50分 ~ 23时52分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时51分"
         },
         {
-          "title": "美国中央司令部：在执行对伊朗海上封锁行动期间，美国陆军一架直升机飞越霍尔木兹海峡附近区域水域，对商船进行观察。",
-          "url": "https://flash.jin10.com/detail/20260516215320888800",
+          "title": "伊朗媒体：欧洲方面已开始就霍尔木兹海峡通行问题与革命卫队接触",
+          "url": "https://flash.jin10.com/detail/20260517000542291800",
           "source": "金十数据",
           "ranks": [
-            6,
-            11
+            9
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时50分 ~ 23时52分]"
-        },
-        {
-          "title": "美国总统特朗普：伊朗没有底牌。",
-          "url": "https://wallstreetcn.com/livenews/3104657",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时48分 ~ 07时48分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时51分"
         },
         {
           "title": "伊朗一机油工厂发生火灾",
@@ -327,682 +102,64 @@
           "ranks": [
             9
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时50分 ~ 23时52分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时51分"
+        },
+        {
+          "title": "【伊朗官员：伊方制定的霍尔木兹海峡航线交通管理机制将于近期公布】当地时间5月16日，伊朗议会国家安全委员会主席阿齐兹在社交平台表示，在维护国家主权和保障国际贸易安全的框架下，伊朗已制定一套专业的霍尔木兹海峡航线交通管理机制，并将于近期正式公布。该机制仅对与伊朗合作的商船和相关方开放。伊朗将收取必要的费用，作为其通过该机制提供的专业服务的交换。该航线将继续对美国“自由计划”的参与者关闭。（央视）",
+          "url": "https://wallstreetcn.com/livenews/3104789",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时51分"
+        },
+        {
+          "title": "伊朗议会国家安全委员会负责人：伊朗已制定一项机制，用于管理霍尔木兹海峡沿指定航线的通行，该机制将很快公布。 在此过程中，只有商业船只和与伊朗合作的各方才能从中受益。 将对该机制下提供的专门服务收取必要费用。 这条航线将对“自由计划”的运营方保持关闭。",
+          "url": "https://wallstreetcn.com/livenews/3104787",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时51分"
+        },
+        {
+          "title": "据俄新社：克里姆林宫表示，俄罗斯总统普京与阿联酋总统通电话，讨论了中东和伊朗问题。",
+          "url": "https://flash.jin10.com/detail/20260516221136002800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时51分"
+        },
+        {
+          "title": "美国中央司令部：在执行对伊朗海上封锁行动期间，美国陆军一架直升机飞越霍尔木兹海峡附近区域水域，对商船进行观察。",
+          "url": "https://flash.jin10.com/detail/20260516215320888800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时51分"
         },
         {
           "title": "伊朗一机油工厂发生火灾致至少10人受伤",
           "url": "https://flash.jin10.com/detail/20260516214222580800",
           "source": "金十数据",
           "ranks": [
-            9,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时50分 ~ 23时52分]"
-        },
-        {
-          "title": "据伊朗努尔新闻(Nour News)：伊朗内政部长与到访的巴基斯坦内政部长举行了“详细”会谈，讨论了伊朗-巴基斯坦双边关系以及重启（美伊）和平谈判的前景。",
-          "url": "https://flash.jin10.com/detail/20260516210853480800",
-          "source": "金十数据",
-          "ranks": [
-            14,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时50分 ~ 23时52分]"
-        },
-        {
-          "title": "伊朗：一旦不安全状况结束，霍尔木兹海峡通航将恢复正常。（伊朗迈赫尔通讯社）",
-          "url": "https://wallstreetcn.com/livenews/3104750",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时54分 ~ 17时24分]"
-        },
-        {
-          "title": "【以军：以色列正在为重启对伊朗军事行动做准备】当地时间15日晚，总台记者获悉，一位以色列高级官员称，以色列正在为即将重启针对伊朗的军事行动做准备，军事行动可能将“持续数天甚至数周”。这位官员表示：“美国人明白与伊朗的谈判毫无进展”。他补充道：“我们正在为持续数天甚至数周的战斗做准备，并等待特朗普总统的最终决定。未来24小时内我们将了解更多情况”。（央视）",
-          "url": "https://wallstreetcn.com/livenews/3104587",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时21分"
-        },
-        {
-          "title": "伊朗外长感谢中国提供帮助",
-          "url": "https://wallstreetcn.com/livenews/3104697",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时12分"
-        },
-        {
-          "title": "以官员：以色列正在为重启对伊朗军事行动做准备",
-          "url": "https://flash.jin10.com/detail/20260516021834227800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时21分"
-        },
-        {
-          "title": "特朗普面临是否恢复对伊朗打击抉择，称接受暂停核计划20年",
-          "url": "https://wallstreetcn.com/livenews/3104726",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时48分"
-        },
-        {
-          "title": "伊朗外长感谢中国提供帮助",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%A4%96%E9%95%BF%E6%84%9F%E8%B0%A2%E4%B8%AD%E5%9B%BD%E6%8F%90%E4%BE%9B%E5%B8%AE%E5%8A%A9",
-          "source": "百度热搜",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时12分"
-        },
-        {
-          "title": "伊朗革命卫队：在西北部阿尔达比勒省破获一个隶属于摩萨德的间谍网络，并逮捕了其中一名主要成员。",
-          "url": "https://flash.jin10.com/detail/20260516002146408800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时29分"
-        },
-        {
-          "title": "美国总统特朗普：我们对伊朗进行了极其严厉的打击，结果简直令人难以置信。",
-          "url": "https://flash.jin10.com/detail/20260516001056001800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时29分"
-        },
-        {
-          "title": "伊朗外长感谢中国提供帮助",
-          "url": "https://flash.jin10.com/detail/20260516090327829800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时12分"
-        },
-        {
-          "title": "美国总统特朗普：我并没有低估伊朗的承受能力。",
-          "url": "https://flash.jin10.com/detail/20260516001031902800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时29分"
-        },
-        {
-          "title": "巴基斯坦外长：20名被美国军方扣押的伊朗人已被送回国。",
-          "url": "https://flash.jin10.com/detail/20260516020531535800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时21分"
-        },
-        {
-          "title": "消息人士：国际足联将就伊朗参加在美国举行的世界杯一事提供“保证”。国际足联秘书长将于周六在伊斯坦布尔与伊朗足协举行会谈，讨论世界杯筹备事宜。",
-          "url": "https://flash.jin10.com/detail/20260516142819545800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时54分"
-        },
-        {
-          "title": "据伊朗媒体报道，伊朗方面表示，霍尔木兹海峡不安定局势结束后，航运通行将恢复正常。",
-          "url": "https://flash.jin10.com/detail/20260516141522192800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时54分"
-        },
-        {
-          "title": "伊朗驻联合国大使：巴勒斯坦的未来应由巴勒斯坦人民自己决定。",
-          "url": "https://flash.jin10.com/detail/20260516014504278800",
-          "source": "金十数据",
-          "ranks": [
             29
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时21分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "科技",
-      "match_count": 13,
-      "titles": [
-        {
-          "title": "【早报】资本市场支持现代服务业与新型消费企业，利好来了；中际旭创、胜宏科技透露重要信息",
-          "url": "https://www.cls.cn/detail/2373057",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时12分 ~ 23时52分]"
-        },
-        {
-          "title": "周五（5月15日），美股信息科技指数跌2.40%，报384.92点，本周累跌0.91%。",
-          "url": "https://wallstreetcn.com/livenews/3104672",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时48分"
-        },
-        {
-          "title": "周五（5月15日），美股存储芯片与硬件供应链指数跌1.97%，报182.09点，本周累计下跌3.33%。 本周，成分股Sandisk累跌9.90%，泰瑞达跌6.08%，美光科技跌2.97%，Rambus跌1.70%，应用材料涨0.27%，西部数据涨0.42%，希捷科技涨1.64%，拉姆研究/泛林集团跌3.17%。",
-          "url": "https://wallstreetcn.com/livenews/3104671",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时48分"
-        },
-        {
-          "title": "13F报告显示：桥水新进台积电等，清仓Salesforce、Workday、ServiceNOW等，增持亚马逊、美光、博通、迈威尔科技，减持Adobe等，重仓亚马逊、英伟达、谷歌A等。",
-          "url": "https://wallstreetcn.com/livenews/3104627",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            13,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时54分 ~ 06时48分]"
-        },
-        {
-          "title": "周五（5月15日），美股行业ETF几乎全线溃败，半导体ETF收跌3.80%，生物科技指数ETF、全球航空业ETF、全球科技股指数ETF、公用事业ETF至多跌2.63%，科技行业ETF、银行业ETF等至多跌1.81%，能源业ETF则收涨2.36%。 2026年迄今，半导体ETF维持54.48%的累计涨幅，能源业ETF累涨33.81%，全球科技股指数ETF累涨25.79%，全球航空业ETF则累跌8.94%。",
-          "url": "https://wallstreetcn.com/livenews/3104626",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            14,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时54分 ~ 06时48分]"
-        },
-        {
-          "title": "恒生指数主连夜盘收跌0.29%，报25733点。 恒生科技指数主连夜盘收跌0.59%，报4895点。",
-          "url": "https://wallstreetcn.com/livenews/3104595",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时21分 ~ 04时54分]"
-        },
-        {
-          "title": "美股收盘：三大指数收低 科技股显著回调",
-          "url": "https://flash.jin10.com/detail/20260516040037420800",
-          "source": "金十数据",
-          "ranks": [
-            18,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时54分 ~ 07时48分]"
-        },
-        {
-          "title": "标普500指数的11个板块几乎全线溃败，原材料板块收跌2.74%，公用事业板块跌2.4%，可选消费板块跌1.84%，信息技术/科技板块跌1.61%，能源板块则收涨2.32%。",
-          "url": "https://wallstreetcn.com/livenews/3104620",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时54分 ~ 05时53分]"
-        },
-        {
-          "title": "如何评价宇树科技最新发布的载人变形机甲:GD01？",
-          "url": "https://www.zhihu.com/question/2037534244138915044",
-          "source": "知乎",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时12分"
-        },
-        {
-          "title": "日久光电：公司调光导电膜下游主要客户包含了光羿科技",
-          "url": "https://flash.jin10.com/detail/20260516130803317800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时48分"
-        },
-        {
-          "title": "本周，标普累涨约0.3%，道指持平，纳指累涨约0.1%，半导体指数跌1%，科技股七巨头指数累涨1.2%，存储芯片指数累跌3%，AI赢家指数跌0.4%、软件先驱指数跌0.4%。 周五当天，标普500指数初步收跌1.2%，原材料板块跌2.7%，公用事业板块跌2.3%，可选消费板块跌1.9%，科技板块跌1.5%，能源板块涨2.1%。 纳斯达克100指数初步收跌1.5%，成分股中，Arm控股初步收跌7.8%，美光跌6.6%，英特尔跌6.2%，AMD跌5.6%，阿斯麦ADR跌5%，Strategy跌4.8%，特斯拉跌4.7%，Adobe则涨4.4%，汤森路透涨4.8%，Zscaler涨5%，Workday涨5.3%，德康医疗涨6.5%。 英伟达初步收跌超4.4%，波音跌3.8%，卡特彼勒跌3.5%，领跌道指成分股，雪佛龙、思科、微软、Salesforce至少涨超2%。 半导体指数跌4%，生物科技指数跌2.7%，银行指数跌0.7%。",
-          "url": "https://wallstreetcn.com/livenews/3104611",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时54分"
-        },
-        {
-          "title": "纳斯达克金龙中国指数收跌2.80%，报6839.65点，本周累计下跌2.22%。 热门中概股里，金山云初步收跌9.4%，阿里巴巴跌6.2%，B站、小马智行、文远知行、百度至少跌5.6%。 ETF中，中概互联网指数ETF（KWEB）收跌3.53%，本周回撤4.67%； 中国科技指数ETF（CQQQ）收跌3.06%，本周回撤3.17%； XtrackersHarvest中证50（ASHS）收跌2.05%，本周回撤2.06%； 德银嘉实沪深300指数ETF（ASHR）收跌1.85%，本周回撤0.73%，结束此前连续上涨六周的趋势。",
-          "url": "https://wallstreetcn.com/livenews/3104613",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时53分"
-        },
-        {
-          "title": "标普500指数收跌92.74点，跌幅1.24%，报7408.50点。 道琼斯工业平均指数收跌537.29点，跌幅1.07%，报49526.17点。 纳斯达克综合指数（纳指）收跌410.077点，跌幅1.54%，报26225.145点。 纳斯达克100指数收跌455.099点，跌幅1.54%，报29125.20点。 纳斯达克科技市值加权指数收跌1.60%，报2833.1335点。 费城半导体指数收跌485.316点，跌幅4.02%，报11588.463点。 费城证交所KBW银行指数收跌0.70%，报162.80点。 道琼斯KBW地区银行指数收跌1.26%，报129.91点。 罗素2000指数收跌2.44%，报2793.299点。 纳斯达克生物科技指数收跌2.71%，报5825.51点。 标普中盘股400指数收跌1.65%，纳斯达克美国中等市值指数跌1.53%。 恐慌指数VIX收涨6.72%，报18.42。",
-          "url": "https://wallstreetcn.com/livenews/3104611",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时53分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金融",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "一口气刷完金融入门知识",
-          "url": "https://www.douyin.com/hot/2500187",
-          "source": "抖音",
-          "ranks": [
-            7,
-            8,
-            5,
-            6,
-            4,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时29分 ~ 17时24分]"
-        },
-        {
-          "title": "周五（5月15日），美股降息赢家指数跌2.60%，报85.09点——呈现出长尾L形走势，本周累计下跌5.86%，整体持续下挫。 “特朗普关税输家”指数跌1.81%，报97.59点，本周累跌5.35%。 “特朗普金融指数”跌0.81%，报158.12点，本周累跌1.64%。 散户抱团概念股指数/迷因股（meme stock）指数跌2.32%，报12.96点，本周累跌7.14%。",
-          "url": "https://wallstreetcn.com/livenews/3104674",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时48分"
-        },
-        {
-          "title": "据英国天空新闻：英国财政大臣里夫斯计划取消部分金融危机后实施的银行“隔离”监管制度，以推动英国经济增长。",
-          "url": "https://flash.jin10.com/detail/20260516145229681800",
-          "source": "金十数据",
-          "ranks": [
-            13,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时54分 ~ 17时24分]"
-        },
-        {
-          "title": "美国能源企业NextEra Energy正在与美国电力和天然气供应商Dominion Energy洽谈合并事宜。（金融时报）",
-          "url": "https://wallstreetcn.com/livenews/3104695",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时12分"
-        },
-        {
-          "title": "据英国金融时报报道，英国政府部分机构面临瘫痪风险，大臣和高级公务员警告称，工党内部竞选领袖的可能性不断上升，有可能令斯塔默的议程蒙上阴影。",
-          "url": "https://flash.jin10.com/detail/20260516015419768800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时21分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "伯克希尔“新王新气象”：Q1减仓零售、油气，加仓谷歌，还建仓了航空",
-          "url": "https://wallstreetcn.com/articles/3772402",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6,
-            5,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时48分 ~ 23时52分]"
-        },
-        {
-          "title": "13F报告显示：Third Point建仓Meta、谷歌A等。 清仓微软等，减持英伟达等。",
-          "url": "https://wallstreetcn.com/livenews/3104622",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时54分 ~ 05时53分]"
-        },
-        {
-          "title": "阿克曼：出售谷歌股票并非做空公司。我们长期非常看好Alphabet。",
-          "url": "https://wallstreetcn.com/livenews/3104759",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            15,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时54分 ~ 18时57分]"
-        },
-        {
-          "title": "13F报告显示，伯克希尔哈撒韦一季度建仓达美航空（DAL）和M，增持谷歌A、纽约时报（NYT）、LEN。清仓亚马逊、Visa、MasterCard、联合健康、DPZ、Aon，减持美国银行、雪佛龙、STZ、NUE等。",
-          "url": "https://wallstreetcn.com/livenews/3104621",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时54分 ~ 05时53分]"
-        },
-        {
-          "title": "比尔·阿克曼：潘兴广场出售谷歌股票并非看空该公司。长期以来依然非常看好Alphabet。基于当前估值水平及有限的资本规模，我们将谷歌持仓变现，所得资金用于买入微软",
-          "url": "https://flash.jin10.com/detail/20260516150549630800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时54分 ~ 17时24分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "OpenAI与马耳他达成协议，所有马耳他民众都能使用ChatGPT Plus",
-          "url": "https://wallstreetcn.com/livenews/3104794",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            8,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时47分 ~ 23时52分]"
-        },
-        {
-          "title": "市场消息：OpenAI与马耳他达成合作，向所有公民提供ChatGPT Plus服务。",
-          "url": "https://flash.jin10.com/detail/20260516184026768800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            13,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时47分 ~ 22时50分]"
-        },
-        {
-          "title": "今年早些时候，OpenAI收购了weights.gg。（纽约时报）",
-          "url": "https://wallstreetcn.com/livenews/3104694",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时12分"
-        },
-        {
-          "title": "OpenAI联手Plaid，为大众提供量身定制的财务咨询",
-          "url": "https://wallstreetcn.com/livenews/3104554",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时29分"
-        },
-        {
-          "title": "市场消息：OpenAI告知员工将启动重组，整合全线业务产品。",
-          "url": "https://flash.jin10.com/detail/20260516014944429800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时21分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "深圳",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "如何评价深圳首创的「移位左转」交通通行方式？",
-          "url": "https://www.zhihu.com/question/66774095",
-          "source": "知乎",
-          "ranks": [
-            15,
-            16,
-            13,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时48分 ~ 19时47分]"
-        },
-        {
-          "title": "CBA半决赛广厦vs深圳G1",
-          "url": "https://www.douyin.com/hot/2501473",
-          "source": "抖音",
-          "ranks": [
-            28,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时47分 ~ 21时06分]"
-        },
-        {
-          "title": "CBA半决赛G1广厦胜深圳",
-          "url": "https://www.douyin.com/hot/2501473",
-          "source": "抖音",
-          "ranks": [
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时50分 ~ 23时52分]"
-        },
-        {
-          "title": "深圳发布2026年住房发展计划，将筹建3万套、供应4万套保障房",
-          "url": "https://wallstreetcn.com/livenews/3104693",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时12分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "金价大跌",
-          "url": "https://www.toutiao.com/trending/7639541437336109099/",
-          "source": "今日头条",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时48分"
-        },
-        {
-          "title": "金价银价大跌",
-          "url": "https://www.douyin.com/hot/2500833",
-          "source": "抖音",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时48分"
-        },
-        {
-          "title": "金价跌麻了",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E8%B7%8C%E9%BA%BB%E4%BA%86%23&t=31&band_rank=11&Refer=top",
-          "source": "微博",
-          "ranks": [
-            11,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时48分 ~ 13时48分]"
-        },
-        {
-          "title": "金价银价大跌 油价显著上涨",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E5%A4%A7%E8%B7%8C+%E6%B2%B9%E4%BB%B7%E6%98%BE%E8%91%97%E4%B8%8A%E6%B6%A8",
-          "source": "百度热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时48分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "制造业",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "工信部部长李乐成《求是》杂志撰文：以制造业为基础发展壮大实体经济",
-          "url": "https://wallstreetcn.com/livenews/3104717",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时48分"
-        },
-        {
-          "title": "汽车与AI提振美国制造业产量，战争引发的供应短缺隐忧浮现",
-          "url": "https://wallstreetcn.com/livenews/3104546",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时29分"
+          "time_info": "00时51分"
         }
       ]
     },
@@ -1011,122 +168,122 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "这些网红水果的命名就是消费陷阱",
+          "url": "https://www.baidu.com/s?wd=%E8%BF%99%E4%BA%9B%E7%BD%91%E7%BA%A2%E6%B0%B4%E6%9E%9C%E7%9A%84%E5%91%BD%E5%90%8D%E5%B0%B1%E6%98%AF%E6%B6%88%E8%B4%B9%E9%99%B7%E9%98%B1",
+          "source": "百度热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时50分 ~ 00时51分]"
+        },
+        {
           "title": "监管首次明确！四大类现代服务业与新型消费企业获明确支持",
           "url": "https://www.cls.cn/detail/2372797",
           "source": "财联社热门",
           "ranks": [
-            3,
-            1,
-            4,
-            5,
             6
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[01时29分 ~ 23时52分]"
+          "appearance_count": 2,
+          "time_info": "[00时50分 ~ 00时51分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "深圳",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "细数深圳男篮的防守隐患",
+          "url": "https://www.douyin.com/hot/2501595",
+          "source": "抖音",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时50分 ~ 00时51分]"
         },
         {
-          "title": "证监会：将更好支持包括服务和消费领域在内的各类实体经济企业发展壮大",
-          "url": "https://www.cls.cn/detail/2372620",
+          "title": "CBA半决赛G1广厦胜深圳",
+          "url": "https://www.douyin.com/hot/2501473",
+          "source": "抖音",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时50分 ~ 00时51分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "科技",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "【早报】资本市场支持现代服务业与新型消费企业，利好来了；中际旭创、胜宏科技透露重要信息",
+          "url": "https://www.cls.cn/detail/2373057",
           "source": "财联社热门",
           "ranks": [
-            7,
-            6,
-            8,
-            9
+            4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时29分 ~ 13时48分]"
+          "appearance_count": 2,
+          "time_info": "[00时50分 ~ 00时51分]"
         }
       ]
     },
     {
-      "keyword_group": "房价",
+      "keyword_group": "谷歌 google gemini",
       "match_count": 1,
       "titles": [
         {
-          "title": "惠誉：美国房价高估状况总体保持稳定。",
-          "url": "https://flash.jin10.com/detail/20260516020024595800",
-          "source": "金十数据",
+          "title": "伯克希尔“新王新气象”：Q1减仓零售、油气，加仓谷歌，还建仓了航空",
+          "url": "https://wallstreetcn.com/articles/3772402",
+          "source": "华尔街见闻",
           "ranks": [
-            23
+            2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时21分"
+          "appearance_count": 2,
+          "time_info": "[00时50分 ~ 00时51分]"
         }
       ]
     },
     {
-      "keyword_group": "医药",
+      "keyword_group": "chatgpt openai",
       "match_count": 1,
       "titles": [
         {
-          "title": "美国食品药品管理局（FDA）顶级医药监管员Tracy Beth Hoeg离职。",
-          "url": "https://wallstreetcn.com/livenews/3104604",
+          "title": "OpenAI与马耳他达成协议，所有马耳他民众都能使用ChatGPT Plus",
+          "url": "https://wallstreetcn.com/livenews/3104794",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            20
+            17
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时54分"
+          "time_info": "00时51分"
         }
       ]
     },
     {
-      "keyword_group": "美元",
+      "keyword_group": "金价",
       "match_count": 1,
       "titles": [
         {
-          "title": "美元指数涨约0.5%，本周累计涨幅扩大至超过1.4%",
-          "url": "https://wallstreetcn.com/livenews/3104599",
-          "source": "华尔街见闻-快讯",
+          "title": "专家建议金价大跌多买小跌少买",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E5%BB%BA%E8%AE%AE%E9%87%91%E4%BB%B7%E5%A4%A7%E8%B7%8C%E5%A4%9A%E4%B9%B0%E5%B0%8F%E8%B7%8C%E5%B0%91%E4%B9%B0%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
           "ranks": [
-            25
+            30
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时54分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "徒步",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "大学生徒步279公里回家",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%BE%92%E6%AD%A5279%E5%85%AC%E9%87%8C%E5%9B%9E%E5%AE%B6",
-          "source": "bilibili 热搜",
-          "ranks": [
-            15,
-            12,
-            16,
-            13,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时29分 ~ 10时12分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "旅游",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "印度总理莫迪：有关酝酿外国旅游税的报道“失实”。",
-          "url": "https://wallstreetcn.com/livenews/3104560",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时29分"
+          "appearance_count": 2,
+          "time_info": "[00时50分 ~ 00时51分]"
         }
       ]
     }
