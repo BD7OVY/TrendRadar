@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-16T22:50:39.812512+08:00",
-  "total_titles_processed": 1419,
+  "generated_at": "2026-05-16T23:52:30.747277+08:00",
+  "total_titles_processed": 1457,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时53分 ~ 22时50分]"
+          "appearance_count": 9,
+          "time_info": "[15时53分 ~ 23时52分]"
         },
         {
           "title": "FBI通缉美国前女特工：13年前叛逃伊朗，传递五角大楼机密",
@@ -29,8 +29,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时57分 ~ 22时50分]"
+          "appearance_count": 6,
+          "time_info": "[18时57分 ~ 23时52分]"
         },
         {
           "title": "美国已拒绝伊朗就结束战争提出的书面方案",
@@ -44,6 +44,21 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时29分 ~ 07时48分]"
+        },
+        {
+          "title": "谈判濒临破裂，美以被曝最早下周恢复对伊朗打击，选项包括地面夺取核材料",
+          "url": "https://wallstreetcn.com/articles/3772425",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时57分 ~ 23时52分]"
         },
         {
           "title": "美国已拒绝伊朗就结束战争提出的书面方案",
@@ -70,6 +85,34 @@
           "time_info": "[13时48分 ~ 17时24分]"
         },
         {
+          "title": "【伊朗官员：伊方制定的霍尔木兹海峡航线交通管理机制将于近期公布】当地时间5月16日，伊朗议会国家安全委员会主席阿齐兹在社交平台表示，在维护国家主权和保障国际贸易安全的框架下，伊朗已制定一套专业的霍尔木兹海峡航线交通管理机制，并将于近期正式公布。该机制仅对与伊朗合作的商船和相关方开放。伊朗将收取必要的费用，作为其通过该机制提供的专业服务的交换。该航线将继续对美国“自由计划”的参与者关闭。（央视）",
+          "url": "https://wallstreetcn.com/livenews/3104789",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            11,
+            12,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时57分 ~ 23时52分]"
+        },
+        {
+          "title": "伊朗议会国家安全委员会负责人：伊朗已制定一项机制，用于管理霍尔木兹海峡沿指定航线的通行，该机制将很快公布。 在此过程中，只有商业船只和与伊朗合作的各方才能从中受益。 将对该机制下提供的专门服务收取必要费用。 这条航线将对“自由计划”的运营方保持关闭。",
+          "url": "https://wallstreetcn.com/livenews/3104787",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            13,
+            14,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时57分 ~ 23时52分]"
+        },
+        {
           "title": "伊朗外长称伊美同意推进浓缩铀问题谈判",
           "url": "https://news.ifeng.com/c/8tAN0RWSj16",
           "source": "凤凰网",
@@ -81,31 +124,6 @@
           "time_info": "13时48分"
         },
         {
-          "title": "据俄新社：克里姆林宫表示，俄罗斯总统普京与阿联酋总统通电话，讨论了中东和伊朗问题。",
-          "url": "https://flash.jin10.com/detail/20260516221136002800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时50分"
-        },
-        {
-          "title": "谈判濒临破裂，美以被曝最早下周恢复对伊朗打击，选项包括地面夺取核材料",
-          "url": "https://wallstreetcn.com/articles/3772425",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时57分 ~ 22时50分]"
-        },
-        {
           "title": "TankerTrackers：伊朗石油运输减少主因可能是泄漏事故，而非美国封锁",
           "url": "https://wallstreetcn.com/livenews/3104590",
           "source": "华尔街见闻-快讯",
@@ -115,20 +133,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时21分"
-        },
-        {
-          "title": "【伊朗官员：伊方制定的霍尔木兹海峡航线交通管理机制将于近期公布】当地时间5月16日，伊朗议会国家安全委员会主席阿齐兹在社交平台表示，在维护国家主权和保障国际贸易安全的框架下，伊朗已制定一套专业的霍尔木兹海峡航线交通管理机制，并将于近期正式公布。该机制仅对与伊朗合作的商船和相关方开放。伊朗将收取必要的费用，作为其通过该机制提供的专业服务的交换。该航线将继续对美国“自由计划”的参与者关闭。（央视）",
-          "url": "https://wallstreetcn.com/livenews/3104789",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            11,
-            12,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时57分 ~ 22时50分]"
         },
         {
           "title": "消息人士：国际足联将“保证”伊朗参赛世界杯",
@@ -143,20 +147,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[17时24分 ~ 21时06分]"
-        },
-        {
-          "title": "伊朗议会国家安全委员会负责人：伊朗已制定一项机制，用于管理霍尔木兹海峡沿指定航线的通行，该机制将很快公布。 在此过程中，只有商业船只和与伊朗合作的各方才能从中受益。 将对该机制下提供的专门服务收取必要费用。 这条航线将对“自由计划”的运营方保持关闭。",
-          "url": "https://wallstreetcn.com/livenews/3104787",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            13,
-            14,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时57分 ~ 22时50分]"
         },
         {
           "title": "美以袭击伊朗进入第 77 天，当前局势如何？哪些信息值得关注？",
@@ -200,11 +190,12 @@
           "source": "金十数据",
           "ranks": [
             1,
-            18
+            18,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时06分 ~ 22时50分]"
+          "appearance_count": 3,
+          "time_info": "[21时06分 ~ 23时52分]"
         },
         {
           "title": "美国总统特朗普：伊朗惧怕（与美方）达成一份协议。 伊朗不知道该如何达成一份协议。 伊朗战争很快就会结束。",
@@ -232,6 +223,31 @@
           "time_info": "[15时54分 ~ 18时57分]"
         },
         {
+          "title": "据俄新社：克里姆林宫表示，俄罗斯总统普京与阿联酋总统通电话，讨论了中东和伊朗问题。",
+          "url": "https://flash.jin10.com/detail/20260516221136002800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时50分 ~ 23时52分]"
+        },
+        {
+          "title": "特朗普在「空军一号」接受采访，释放大量关于贸易、台湾、伊朗等议题信号，哪些内容值得关注？",
+          "url": "https://www.zhihu.com/question/2039019083463488463",
+          "source": "知乎",
+          "ranks": [
+            16,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时05分 ~ 23时52分]"
+        },
+        {
           "title": "伊朗战争致全球供应受阻 特朗普借机加速阿拉斯加产能",
           "url": "https://flash.jin10.com/detail/20260516033957346800",
           "source": "金十数据",
@@ -257,28 +273,40 @@
           "time_info": "[15时54分 ~ 18时57分]"
         },
         {
-          "title": "特朗普在「空军一号」接受采访，释放大量关于贸易、台湾、伊朗等议题信号，哪些内容值得关注？",
-          "url": "https://www.zhihu.com/question/2039019083463488463",
-          "source": "知乎",
-          "ranks": [
-            16,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时05分 ~ 22时50分]"
-        },
-        {
           "title": "消息人士：国际足联将“保证”伊朗参赛世界杯",
           "url": "https://flash.jin10.com/detail/20260516192751228800",
           "source": "金十数据",
           "ranks": [
             7,
-            24
+            24,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时06分 ~ 23时52分]"
+        },
+        {
+          "title": "伊朗一机油工厂发生火灾致至少10人受伤",
+          "url": "https://wallstreetcn.com/livenews/3104807",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[21时06分 ~ 22时50分]"
+          "time_info": "[22时50分 ~ 23时52分]"
+        },
+        {
+          "title": "美国中央司令部：在执行对伊朗海上封锁行动期间，美国陆军一架直升机飞越霍尔木兹海峡附近区域水域，对商船进行观察。",
+          "url": "https://flash.jin10.com/detail/20260516215320888800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时50分 ~ 23时52分]"
         },
         {
           "title": "美国总统特朗普：伊朗没有底牌。",
@@ -293,6 +321,41 @@
           "time_info": "[06时48分 ~ 07时48分]"
         },
         {
+          "title": "伊朗一机油工厂发生火灾",
+          "url": "https://wallstreetcn.com/livenews/3104803",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时50分 ~ 23时52分]"
+        },
+        {
+          "title": "伊朗一机油工厂发生火灾致至少10人受伤",
+          "url": "https://flash.jin10.com/detail/20260516214222580800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时50分 ~ 23时52分]"
+        },
+        {
+          "title": "据伊朗努尔新闻(Nour News)：伊朗内政部长与到访的巴基斯坦内政部长举行了“详细”会谈，讨论了伊朗-巴基斯坦双边关系以及重启（美伊）和平谈判的前景。",
+          "url": "https://flash.jin10.com/detail/20260516210853480800",
+          "source": "金十数据",
+          "ranks": [
+            14,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时50分 ~ 23时52分]"
+        },
+        {
           "title": "伊朗：一旦不安全状况结束，霍尔木兹海峡通航将恢复正常。（伊朗迈赫尔通讯社）",
           "url": "https://wallstreetcn.com/livenews/3104750",
           "source": "华尔街见闻-快讯",
@@ -305,28 +368,6 @@
           "time_info": "[15时54分 ~ 17时24分]"
         },
         {
-          "title": "美国中央司令部：在执行对伊朗海上封锁行动期间，美国陆军一架直升机飞越霍尔木兹海峡附近区域水域，对商船进行观察。",
-          "url": "https://flash.jin10.com/detail/20260516215320888800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时50分"
-        },
-        {
-          "title": "伊朗一机油工厂发生火灾致至少10人受伤",
-          "url": "https://wallstreetcn.com/livenews/3104807",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时50分"
-        },
-        {
           "title": "【以军：以色列正在为重启对伊朗军事行动做准备】当地时间15日晚，总台记者获悉，一位以色列高级官员称，以色列正在为即将重启针对伊朗的军事行动做准备，军事行动可能将“持续数天甚至数周”。这位官员表示：“美国人明白与伊朗的谈判毫无进展”。他补充道：“我们正在为持续数天甚至数周的战斗做准备，并等待特朗普总统的最终决定。未来24小时内我们将了解更多情况”。（央视）",
           "url": "https://wallstreetcn.com/livenews/3104587",
           "source": "华尔街见闻-快讯",
@@ -336,28 +377,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时21分"
-        },
-        {
-          "title": "伊朗一机油工厂发生火灾致至少10人受伤",
-          "url": "https://flash.jin10.com/detail/20260516214222580800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时50分"
-        },
-        {
-          "title": "伊朗一机油工厂发生火灾",
-          "url": "https://wallstreetcn.com/livenews/3104803",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时50分"
         },
         {
           "title": "伊朗外长感谢中国提供帮助",
@@ -402,17 +421,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时12分"
-        },
-        {
-          "title": "据伊朗努尔新闻(Nour News)：伊朗内政部长与到访的巴基斯坦内政部长举行了“详细”会谈，讨论了伊朗-巴基斯坦双边关系以及重启（美伊）和平谈判的前景。",
-          "url": "https://flash.jin10.com/detail/20260516210853480800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时50分"
         },
         {
           "title": "伊朗革命卫队：在西北部阿尔达比勒省破获一个隶属于摩萨德的间谍网络，并逮捕了其中一名主要成员。",
@@ -518,8 +526,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时12分 ~ 22时50分]"
+          "appearance_count": 11,
+          "time_info": "[10时12分 ~ 23时52分]"
         },
         {
           "title": "周五（5月15日），美股信息科技指数跌2.40%，报384.92点，本周累跌0.91%。",
@@ -741,11 +749,12 @@
             7,
             6,
             5,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时48分 ~ 22时50分]"
+          "appearance_count": 10,
+          "time_info": "[13时48分 ~ 23时52分]"
         },
         {
           "title": "13F报告显示：Third Point建仓Meta、谷歌A等。 清仓微软等，减持英伟达等。",
@@ -812,8 +821,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时47分 ~ 22时50分]"
+          "appearance_count": 4,
+          "time_info": "[19时47分 ~ 23时52分]"
         },
         {
           "title": "市场消息：OpenAI与马耳他达成合作，向所有公民提供ChatGPT Plus服务。",
@@ -898,11 +907,12 @@
           "url": "https://www.douyin.com/hot/2501473",
           "source": "抖音",
           "ranks": [
-            10
+            10,
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时50分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时50分 ~ 23时52分]"
         },
         {
           "title": "深圳发布2026年住房发展计划，将筹建3万套、供应4万套保障房",
@@ -1012,8 +1022,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[01时29分 ~ 22时50分]"
+          "appearance_count": 17,
+          "time_info": "[01时29分 ~ 23时52分]"
         },
         {
           "title": "证监会：将更好支持包括服务和消费领域在内的各类实体经济企业发展壮大",
