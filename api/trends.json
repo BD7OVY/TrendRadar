@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-05-16T18:57:43.451727+08:00",
-  "total_titles_processed": 1202,
+  "generated_at": "2026-05-16T19:47:21.611332+08:00",
+  "total_titles_processed": 1260,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
       "match_count": 33,
       "titles": [
+        {
+          "title": "消息人士：美以或最早下周恢复对伊朗军事行动",
+          "url": "https://news.ifeng.com/c/8tAsxndbgHu",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时53分 ~ 19时47分]"
+        },
         {
           "title": "美国已拒绝伊朗就结束战争提出的书面方案",
           "url": "https://www.cls.cn/detail/2372496",
@@ -19,18 +31,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时29分 ~ 07时48分]"
-        },
-        {
-          "title": "消息人士：美以或最早下周恢复对伊朗军事行动",
-          "url": "https://news.ifeng.com/c/8tAsxndbgHu",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时53分 ~ 18时57分]"
         },
         {
           "title": "美国已拒绝伊朗就结束战争提出的书面方案",
@@ -57,37 +57,15 @@
           "time_info": "[13时48分 ~ 17时24分]"
         },
         {
-          "title": "伊朗：已准备好管理霍尔木兹海峡的机制 相关细节很快公布",
-          "url": "https://flash.jin10.com/detail/20260516182456183800",
-          "source": "金十数据",
+          "title": "FBI通缉美国前女特工：13年前叛逃伊朗，传递五角大楼机密",
+          "url": "https://news.ifeng.com/c/8tAy0GyTSSB",
+          "source": "凤凰网",
           "ranks": [
-            1
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时57分"
-        },
-        {
-          "title": "【伊朗官员：伊方制定的霍尔木兹海峡航线交通管理机制将于近期公布】当地时间5月16日，伊朗议会国家安全委员会主席阿齐兹在社交平台表示，在维护国家主权和保障国际贸易安全的框架下，伊朗已制定一套专业的霍尔木兹海峡航线交通管理机制，并将于近期正式公布。该机制仅对与伊朗合作的商船和相关方开放。伊朗将收取必要的费用，作为其通过该机制提供的专业服务的交换。该航线将继续对美国“自由计划”的参与者关闭。（央视）",
-          "url": "https://wallstreetcn.com/livenews/3104789",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时57分"
-        },
-        {
-          "title": "伊朗议会国家安全委员会负责人：伊朗已制定一项机制，用于管理霍尔木兹海峡沿指定航线的通行，该机制将很快公布。 在此过程中，只有商业船只和与伊朗合作的各方才能从中受益。 将对该机制下提供的专门服务收取必要费用。 这条航线将对“自由计划”的运营方保持关闭。",
-          "url": "https://wallstreetcn.com/livenews/3104787",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时57分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时57分 ~ 19时47分]"
         },
         {
           "title": "伊朗外长称伊美同意推进浓缩铀问题谈判",
@@ -99,17 +77,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时48分"
-        },
-        {
-          "title": "FBI通缉美国前女特工：13年前叛逃伊朗，传递五角大楼机密",
-          "url": "https://news.ifeng.com/c/8tAy0GyTSSB",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时57分"
         },
         {
           "title": "TankerTrackers：伊朗石油运输减少主因可能是泄漏事故，而非美国封锁",
@@ -134,6 +101,18 @@
           "time_info": "[01时29分 ~ 06时48分]"
         },
         {
+          "title": "伊朗：已准备好管理霍尔木兹海峡的机制 相关细节很快公布",
+          "url": "https://flash.jin10.com/detail/20260516182456183800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时57分 ~ 19时47分]"
+        },
+        {
           "title": "伊朗外长：欢迎中国发挥作用",
           "url": "https://news.ifeng.com/c/8tAOoYSElQ3",
           "source": "凤凰网",
@@ -144,6 +123,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时12分 ~ 13时48分]"
+        },
+        {
+          "title": "消息人士：国际足联将“保证”伊朗参赛世界杯",
+          "url": "https://wallstreetcn.com/livenews/3104774",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            15,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时24分 ~ 19时47分]"
         },
         {
           "title": "美国总统特朗普：伊朗惧怕（与美方）达成一份协议。 伊朗不知道该如何达成一份协议。 伊朗战争很快就会结束。",
@@ -158,16 +150,16 @@
           "time_info": "[06时48分 ~ 07时48分]"
         },
         {
-          "title": "消息人士：国际足联将“保证”伊朗参赛世界杯",
-          "url": "https://wallstreetcn.com/livenews/3104774",
+          "title": "【伊朗官员：伊方制定的霍尔木兹海峡航线交通管理机制将于近期公布】当地时间5月16日，伊朗议会国家安全委员会主席阿齐兹在社交平台表示，在维护国家主权和保障国际贸易安全的框架下，伊朗已制定一套专业的霍尔木兹海峡航线交通管理机制，并将于近期正式公布。该机制仅对与伊朗合作的商船和相关方开放。伊朗将收取必要的费用，作为其通过该机制提供的专业服务的交换。该航线将继续对美国“自由计划”的参与者关闭。（央视）",
+          "url": "https://wallstreetcn.com/livenews/3104789",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2,
-            15
+            1,
+            11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时24分 ~ 18时57分]"
+          "time_info": "[18时57分 ~ 19时47分]"
         },
         {
           "title": "消息人士：美以或最早下周恢复对伊朗军事行动",
@@ -181,6 +173,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[15时54分 ~ 18时57分]"
+        },
+        {
+          "title": "伊朗议会国家安全委员会负责人：伊朗已制定一项机制，用于管理霍尔木兹海峡沿指定航线的通行，该机制将很快公布。 在此过程中，只有商业船只和与伊朗合作的各方才能从中受益。 将对该机制下提供的专门服务收取必要费用。 这条航线将对“自由计划”的运营方保持关闭。",
+          "url": "https://wallstreetcn.com/livenews/3104787",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时57分 ~ 19时47分]"
         },
         {
           "title": "伊朗战争致全球供应受阻 特朗普借机加速阿拉斯加产能",
@@ -220,6 +224,18 @@
           "time_info": "[06时48分 ~ 07时48分]"
         },
         {
+          "title": "谈判濒临破裂，美以被曝最早下周恢复对伊朗打击，选项包括地面夺取核材料",
+          "url": "https://wallstreetcn.com/articles/3772425",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时57分 ~ 19时47分]"
+        },
+        {
           "title": "伊朗：一旦不安全状况结束，霍尔木兹海峡通航将恢复正常。（伊朗迈赫尔通讯社）",
           "url": "https://wallstreetcn.com/livenews/3104750",
           "source": "华尔街见闻-快讯",
@@ -241,17 +257,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时21分"
-        },
-        {
-          "title": "谈判濒临破裂，美以被曝最早下周恢复对伊朗打击，选项包括地面夺取核材料",
-          "url": "https://wallstreetcn.com/articles/3772425",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时57分"
         },
         {
           "title": "伊朗外长感谢中国提供帮助",
@@ -400,8 +405,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时12分 ~ 18时57分]"
+          "appearance_count": 7,
+          "time_info": "[10时12分 ~ 19时47分]"
         },
         {
           "title": "周五（5月15日），美股信息科技指数跌2.40%，报384.92点，本周累跌0.91%。",
@@ -621,11 +626,12 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时48分 ~ 18时57分]"
+          "appearance_count": 6,
+          "time_info": "[13时48分 ~ 19时47分]"
         },
         {
           "title": "13F报告显示：Third Point建仓Meta、谷歌A等。 清仓微软等，减持英伟达等。",
@@ -675,6 +681,67 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时54分 ~ 17时24分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "市场消息：OpenAI与马耳他达成合作，向所有公民提供ChatGPT Plus服务。",
+          "url": "https://flash.jin10.com/detail/20260516184026768800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时47分"
+        },
+        {
+          "title": "OpenAI与马耳他达成协议，所有马耳他民众都能使用ChatGPT Plus",
+          "url": "https://wallstreetcn.com/livenews/3104794",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时47分"
+        },
+        {
+          "title": "今年早些时候，OpenAI收购了weights.gg。（纽约时报）",
+          "url": "https://wallstreetcn.com/livenews/3104694",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时12分"
+        },
+        {
+          "title": "OpenAI联手Plaid，为大众提供量身定制的财务咨询",
+          "url": "https://wallstreetcn.com/livenews/3104554",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时29分"
+        },
+        {
+          "title": "市场消息：OpenAI告知员工将启动重组，整合全线业务产品。",
+          "url": "https://flash.jin10.com/detail/20260516014944429800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时21分"
         }
       ]
     },
@@ -730,41 +797,44 @@
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
+      "keyword_group": "深圳",
       "match_count": 3,
       "titles": [
         {
-          "title": "今年早些时候，OpenAI收购了weights.gg。（纽约时报）",
-          "url": "https://wallstreetcn.com/livenews/3104694",
+          "title": "如何评价深圳首创的「移位左转」交通通行方式？",
+          "url": "https://www.zhihu.com/question/66774095",
+          "source": "知乎",
+          "ranks": [
+            15,
+            16,
+            13,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时48分 ~ 19时47分]"
+        },
+        {
+          "title": "深圳发布2026年住房发展计划，将筹建3万套、供应4万套保障房",
+          "url": "https://wallstreetcn.com/livenews/3104693",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            14
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时12分"
         },
         {
-          "title": "OpenAI联手Plaid，为大众提供量身定制的财务咨询",
-          "url": "https://wallstreetcn.com/livenews/3104554",
-          "source": "华尔街见闻-快讯",
+          "title": "CBA半决赛广厦vs深圳G1",
+          "url": "https://www.douyin.com/hot/2501473",
+          "source": "抖音",
           "ranks": [
-            16
+            28
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时29分"
-        },
-        {
-          "title": "市场消息：OpenAI告知员工将启动重组，整合全线业务产品。",
-          "url": "https://flash.jin10.com/detail/20260516014944429800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时21分"
+          "time_info": "19时47分"
         }
       ]
     },
@@ -808,11 +878,12 @@
             3,
             1,
             4,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时29分 ~ 18时57分]"
+          "appearance_count": 13,
+          "time_info": "[01时29分 ~ 19时47分]"
         },
         {
           "title": "证监会：将更好支持包括服务和消费领域在内的各类实体经济企业发展壮大",
@@ -827,36 +898,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时29分 ~ 13时48分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "深圳",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "如何评价深圳首创的「移位左转」交通通行方式？",
-          "url": "https://www.zhihu.com/question/66774095",
-          "source": "知乎",
-          "ranks": [
-            15,
-            16,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时48分 ~ 18时57分]"
-        },
-        {
-          "title": "深圳发布2026年住房发展计划，将筹建3万套、供应4万套保障房",
-          "url": "https://wallstreetcn.com/livenews/3104693",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时12分"
         }
       ]
     },
