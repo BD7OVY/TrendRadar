@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-18T00:50:26.415463+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-05-18T01:53:16.282716+08:00",
+  "total_titles_processed": 367,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 18,
+      "match_count": 24,
       "titles": [
         {
           "title": "报道：美方在回应伊朗提议时列出5个关键条件",
@@ -15,30 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时50分"
-        },
-        {
-          "title": "卡塔尔外交部发表声明称，卡塔尔首相与巴基斯坦总理谢赫巴兹·谢里夫通电话，讨论巴基斯坦在伊朗战争中的调解努力。卡塔尔首相重申卡塔尔全力支持巴基斯坦为通过和平手段结束危机而进行的调解努力。",
-          "url": "https://flash.jin10.com/detail/20260518001615603800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时50分"
-        },
-        {
-          "title": "美国参议员格雷厄姆敦促特朗普恢复对伊朗的打击",
-          "url": "https://flash.jin10.com/detail/20260518001435288800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时50分"
+          "appearance_count": 3,
+          "time_info": "[00时50分 ~ 01时53分]"
         },
         {
           "title": "伊朗宣布5月19日起恢复股票市场交易",
@@ -48,8 +26,43 @@
             4
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时50分 ~ 01时53分]"
+        },
+        {
+          "title": "据AXIOS：两名美国官员透露，美国总统特朗普预计将于周二在战情室与他的高级国家安全团队举行会议，讨论（伊朗）军事行动的选项。",
+          "url": "https://flash.jin10.com/detail/20260518011814397800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时50分"
+          "time_info": "01时53分"
+        },
+        {
+          "title": "卡塔尔外交部发表声明称，卡塔尔首相与巴基斯坦总理谢赫巴兹·谢里夫通电话，讨论巴基斯坦在伊朗战争中的调解努力。卡塔尔首相重申卡塔尔全力支持巴基斯坦为通过和平手段结束危机而进行的调解努力。",
+          "url": "https://flash.jin10.com/detail/20260518001615603800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时50分 ~ 01时53分]"
+        },
+        {
+          "title": "美国参议员格雷厄姆敦促特朗普恢复对伊朗的打击",
+          "url": "https://flash.jin10.com/detail/20260518001435288800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时50分 ~ 01时53分]"
         },
         {
           "title": "伊媒：美对伊朗提出5个关键条件",
@@ -59,19 +72,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时50分"
-        },
-        {
-          "title": "据伊朗伊斯兰共和国通讯社（IRNA）：伊朗重申已做好充分准备应对任何新的袭击。",
-          "url": "https://flash.jin10.com/detail/20260518000250093800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时50分"
+          "appearance_count": 3,
+          "time_info": "[00时50分 ~ 01时53分]"
         },
         {
           "title": "胡锡进：卡利巴夫任伊朗对华事务特别代表，蕴含着重大动向",
@@ -81,8 +83,86 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时50分"
+          "appearance_count": 3,
+          "time_info": "[00时50分 ~ 01时53分]"
+        },
+        {
+          "title": "消息人士：美方在回应伊朗提议时列出5个关键条件",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33190671",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时50分 ~ 01时53分]"
+        },
+        {
+          "title": "伊朗宣布5月19日起恢复股票市场交易",
+          "url": "https://www.cls.cn/detail/2373254",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时50分 ~ 01时53分]"
+        },
+        {
+          "title": "据伊朗伊斯兰共和国通讯社（IRNA）：伊朗重申已做好充分准备应对任何新的袭击。",
+          "url": "https://flash.jin10.com/detail/20260518000250093800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时50分 ~ 01时53分]"
+        },
+        {
+          "title": "韩国要求伊朗就韩船只在霍尔木兹海峡遭袭表明立场",
+          "url": "https://wallstreetcn.com/livenews/3104883",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时50分 ~ 01时53分]"
+        },
+        {
+          "title": "伊朗外交部：美以用“维护能源稳定”作借口 为对伊战争辩护",
+          "url": "https://wallstreetcn.com/livenews/3104872",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时50分 ~ 01时53分]"
+        },
+        {
+          "title": "伊朗军方：若美国再次发起军事行动将面临“进攻性回应”",
+          "url": "https://wallstreetcn.com/livenews/3104871",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时50分 ~ 01时53分]"
+        },
+        {
+          "title": "伊朗称美方对伊朗提出5个关键条件",
+          "url": "https://wallstreetcn.com/livenews/3104869",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时50分 ~ 01时53分]"
         },
         {
           "title": "据半岛电视台：伊朗国防部发言人称，美国全球影响力已经“崩溃”。",
@@ -96,33 +176,33 @@
           "time_info": "00时50分"
         },
         {
+          "title": "据沙特媒体哈达斯（Alhadath）：特朗普对以色列媒体表示，‘伊朗应当感到恐惧，并对我保持警惕。’",
+          "url": "https://flash.jin10.com/detail/20260518010104759800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时53分"
+        },
+        {
+          "title": "美国前国防部长罗伯特·盖茨：（谈及伊朗）我不认为伊朗的核计划构成迫在眉睫的威胁。我们曾对其进行过两次轰炸。他们的许多核科学家已被杀害，离心机也大都遭到摧毁。这不是一个迫在眉睫的问题。",
+          "url": "https://flash.jin10.com/detail/20260518005905989800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时53分"
+        },
+        {
           "title": "据伊朗Press TV：伊朗总统佩泽希齐扬表示，美国和以色列政权正企图推行分裂性计划并制造不信任，以挑拨穆斯林国家相互对抗。",
           "url": "https://flash.jin10.com/detail/20260517235350901800",
           "source": "金十数据",
           "ranks": [
             9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时50分"
-        },
-        {
-          "title": "消息人士：美方在回应伊朗提议时列出5个关键条件",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33190671",
-          "source": "澎湃新闻",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时50分"
-        },
-        {
-          "title": "伊朗宣布5月19日起恢复股票市场交易",
-          "url": "https://www.cls.cn/detail/2373254",
-          "source": "财联社热门",
-          "ranks": [
-            11
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -140,20 +220,20 @@
           "time_info": "00时50分"
         },
         {
+          "title": "特朗普威胁伊朗：时间在流逝 赶快行动",
+          "url": "https://flash.jin10.com/detail/20260518005103401800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时53分"
+        },
+        {
           "title": "据AXIOS：以色列官员透露，特朗普已与以色列总理内塔尼亚胡通电话，并讨论了伊朗问题。",
           "url": "https://flash.jin10.com/detail/20260517233453161800",
           "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时50分"
-        },
-        {
-          "title": "韩国要求伊朗就韩船只在霍尔木兹海峡遭袭表明立场",
-          "url": "https://wallstreetcn.com/livenews/3104883",
-          "source": "华尔街见闻-快讯",
           "ranks": [
             15
           ],
@@ -173,37 +253,26 @@
           "time_info": "00时50分"
         },
         {
-          "title": "伊朗外交部：美以用“维护能源稳定”作借口 为对伊战争辩护",
-          "url": "https://wallstreetcn.com/livenews/3104872",
-          "source": "华尔街见闻-快讯",
+          "title": "美国总统特朗普：对伊朗来说，时间在流逝，他们最好迅速行动，否则将一无所剩。",
+          "url": "https://flash.jin10.com/detail/20260518004343934800",
+          "source": "金十数据",
           "ranks": [
-            24
+            17
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时50分"
+          "time_info": "01时53分"
         },
         {
-          "title": "伊朗军方：若美国再次发起军事行动将面临“进攻性回应”",
-          "url": "https://wallstreetcn.com/livenews/3104871",
-          "source": "华尔街见闻-快讯",
+          "title": "伊朗媒体称，美国在最新的和平提议中“没有做出任何让步”",
+          "url": "https://flash.jin10.com/detail/20260518003743507800",
+          "source": "金十数据",
           "ranks": [
-            25
+            19
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时50分"
-        },
-        {
-          "title": "伊朗称美方对伊朗提出5个关键条件",
-          "url": "https://wallstreetcn.com/livenews/3104869",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时50分"
+          "time_info": "01时53分"
         }
       ]
     },
@@ -219,8 +288,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时50分"
+          "appearance_count": 3,
+          "time_info": "[00时50分 ~ 01时53分]"
         },
         {
           "title": "长鑫科技招股书更新：一季度营收同比增长719%，净利润330亿元，上半年盈利指引大超预期",
@@ -230,8 +299,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时50分"
+          "appearance_count": 3,
+          "time_info": "[00时50分 ~ 01时53分]"
         },
         {
           "title": "西安电子科技大学某导师官宣跑路，个人主页三连喊「我跑了」，可能是什么情况？反映了大学教育生态什么问题？",
@@ -241,8 +310,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时50分"
+          "appearance_count": 3,
+          "time_info": "[00时50分 ~ 01时53分]"
         },
         {
           "title": "【早报】资本市场支持现代服务业与新型消费企业，利好来了；中际旭创、胜宏科技透露重要信息",
@@ -252,8 +321,20 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时50分"
+          "appearance_count": 3,
+          "time_info": "[00时50分 ~ 01时53分]"
+        },
+        {
+          "title": "长鑫科技预计上半年净利超500亿元",
+          "url": "https://www.baidu.com/s?wd=%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%E9%A2%84%E8%AE%A1%E4%B8%8A%E5%8D%8A%E5%B9%B4%E5%87%80%E5%88%A9%E8%B6%85500%E4%BA%BF%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            22,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时50分 ~ 01时53分]"
         },
         {
           "title": "纳指科技ETF景顺二级市场出现较大幅度溢价，将于2026年5月18日开市起停牌，自2026年5月18日10:30起复牌，停牌期间赎回业务照常办理。",
@@ -263,19 +344,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时50分"
-        },
-        {
-          "title": "长鑫科技预计上半年净利超500亿元",
-          "url": "https://www.baidu.com/s?wd=%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%E9%A2%84%E8%AE%A1%E4%B8%8A%E5%8D%8A%E5%B9%B4%E5%87%80%E5%88%A9%E8%B6%85500%E4%BA%BF%E5%85%83",
-          "source": "百度热搜",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时50分"
+          "appearance_count": 2,
+          "time_info": "[00时50分 ~ 01时53分]"
         },
         {
           "title": "宁德时代与厦门市深化战略合作，加快零碳科技城建设与低空经济布局",
@@ -285,8 +355,30 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时50分"
+          "appearance_count": 2,
+          "time_info": "[00时50分 ~ 01时53分]"
+        },
+        {
+          "title": "长鑫科技：预计上半年营收1100至1200亿元，净利润500亿元至570亿元",
+          "url": "https://wallstreetcn.com/livenews/3104866",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时50分 ~ 01时53分]"
+        },
+        {
+          "title": "长鑫科技：一季度营收同比增长719.13%",
+          "url": "https://wallstreetcn.com/livenews/3104865",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时50分 ~ 01时53分]"
         },
         {
           "title": "华泰证券：科技内部切换可考虑半导体设备、分立器件等方向",
@@ -298,28 +390,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时50分"
-        },
+        }
+      ]
+    },
+    {
+      "keyword_group": "消费",
+      "match_count": 1,
+      "titles": [
         {
-          "title": "长鑫科技：预计上半年营收1100至1200亿元，净利润500亿元至570亿元",
-          "url": "https://wallstreetcn.com/livenews/3104866",
-          "source": "华尔街见闻-快讯",
+          "title": "关于荔枝的消费提示",
+          "url": "https://www.toutiao.com/trending/7640354100320813065/",
+          "source": "今日头条",
           "ranks": [
-            29
+            9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时50分"
-        },
-        {
-          "title": "长鑫科技：一季度营收同比增长719.13%",
-          "url": "https://wallstreetcn.com/livenews/3104865",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时50分"
+          "appearance_count": 2,
+          "time_info": "[01时52分 ~ 01时53分]"
         }
       ]
     },
@@ -335,8 +422,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时50分"
+          "appearance_count": 2,
+          "time_info": "[00时50分 ~ 01时53分]"
         }
       ]
     },
@@ -352,8 +439,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时50分"
+          "appearance_count": 3,
+          "time_info": "[00时50分 ~ 01时53分]"
         }
       ]
     },
@@ -366,11 +453,12 @@
           "url": "https://www.zhihu.com/question/2037133840666321869",
           "source": "知乎",
           "ranks": [
-            17
+            17,
+            15
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时50分"
+          "appearance_count": 3,
+          "time_info": "[00时50分 ~ 01时53分]"
         }
       ]
     }
