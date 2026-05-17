@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-17T17:01:48.104641+08:00",
-  "total_titles_processed": 874,
+  "generated_at": "2026-05-17T18:24:44.341484+08:00",
+  "total_titles_processed": 954,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 37,
+      "match_count": 49,
       "titles": [
         {
           "title": "谈判濒临破裂，美以被曝最早下周恢复对伊朗打击，选项包括地面夺取核材料",
@@ -28,8 +28,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时50分 ~ 17时01分]"
+          "appearance_count": 15,
+          "time_info": "[00时50分 ~ 18时24分]"
         },
         {
           "title": "消息人士：美以或最早下周恢复对伊朗军事行动",
@@ -215,6 +215,17 @@
           "time_info": "[01时51分 ~ 05时42分]"
         },
         {
+          "title": "伊朗称美方对伊朗提出5个关键条件",
+          "url": "https://wallstreetcn.com/livenews/3104869",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时24分"
+        },
+        {
           "title": "巴基斯坦内政部长到访伊朗 讨论边境安全等问题",
           "url": "https://flash.jin10.com/detail/20260517042540148800",
           "source": "金十数据",
@@ -226,6 +237,28 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时52分 ~ 07时44分]"
+        },
+        {
+          "title": "伊朗与阿联酋爆发言辞冲突，金砖外长会未发表联合公报",
+          "url": "https://news.ifeng.com/c/8tBrZpkE9r7",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时27分 ~ 18时24分]"
+        },
+        {
+          "title": "伊朗称美方对伊朗提出5个关键条件",
+          "url": "https://flash.jin10.com/detail/20260517174530685800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时24分"
         },
         {
           "title": "特朗普暗示伊朗局势是“风暴前的平静”",
@@ -241,15 +274,42 @@
           "time_info": "[04时52分 ~ 07时44分]"
         },
         {
-          "title": "伊朗与阿联酋爆发言辞冲突，金砖外长会未发表联合公报",
-          "url": "https://news.ifeng.com/c/8tBrZpkE9r7",
-          "source": "凤凰网",
+          "title": "伊朗宣布5月19日起恢复股票市场交易",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33189620",
+          "source": "澎湃新闻",
           "ranks": [
+            10,
+            9,
+            8,
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时27分 ~ 17时01分]"
+          "appearance_count": 5,
+          "time_info": "[10时27分 ~ 18时24分]"
+        },
+        {
+          "title": "据伊朗媒体Fars News：美方在（对伊朗的）回复中拒绝解冻伊朗25%的冻结资金。",
+          "url": "https://flash.jin10.com/detail/20260517174008921800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时24分"
+        },
+        {
+          "title": "伊朗宣布5月19日起恢复股票市场交易",
+          "url": "https://www.cls.cn/detail/2373254",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时27分 ~ 18时24分]"
         },
         {
           "title": "北约情报机构认为伊朗仍保有大部分导弹库存及设施",
@@ -275,32 +335,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时51分 ~ 02时54分]"
-        },
-        {
-          "title": "伊朗宣布5月19日起恢复股票市场交易",
-          "url": "https://www.cls.cn/detail/2373254",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时27分 ~ 17时01分]"
-        },
-        {
-          "title": "伊朗宣布5月19日起恢复股票市场交易",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33189620",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时27分 ~ 17时01分]"
         },
         {
           "title": "伊朗布什尔核电站二号机组恢复建设",
@@ -365,6 +399,18 @@
           "time_info": "[10时27分 ~ 14时16分]"
         },
         {
+          "title": "伊朗南部省份发生客车侧翻事故 已致7人死亡",
+          "url": "https://flash.jin10.com/detail/20260517154832016800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时01分 ~ 18时24分]"
+        },
+        {
           "title": "伊朗媒体：欧洲方面已开始就霍尔木兹海峡通行问题与革命卫队接触",
           "url": "https://flash.jin10.com/detail/20260517000542291800",
           "source": "金十数据",
@@ -388,15 +434,48 @@
           "time_info": "10时27分"
         },
         {
-          "title": "伊朗南部省份发生客车侧翻事故 已致7人死亡",
-          "url": "https://flash.jin10.com/detail/20260517154832016800",
+          "title": "伊朗议长谴责以色列“违反承诺”",
+          "url": "https://flash.jin10.com/detail/20260517173627509800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时24分"
+        },
+        {
+          "title": "韩国外交部：韩国与伊朗将保持沟通以确保霍尔木兹海峡的安全。",
+          "url": "https://flash.jin10.com/detail/20260517172920188800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时24分"
+        },
+        {
+          "title": "伊朗议长谴责以色列“违反承诺”",
+          "url": "https://wallstreetcn.com/livenews/3104862",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时24分"
+        },
+        {
+          "title": "据伊朗媒体Fars News：美国已将解冻高达25%的伊朗被冻结资产作为条件，还要求伊朗必须交出400公斤浓缩铀。",
+          "url": "https://flash.jin10.com/detail/20260517172907518800",
           "source": "金十数据",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时01分"
+          "time_info": "18时24分"
         },
         {
           "title": "伊朗宣布5月19日起恢复股市交易",
@@ -408,6 +487,61 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时16分"
+        },
+        {
+          "title": "据伊朗媒体Fars News：消息人士称，美国在其（对伊朗的）回应中提出条件，要求伊朗仅保留一个核设施的运营，且美国已明确表示不会向伊朗支付任何赔偿。",
+          "url": "https://flash.jin10.com/detail/20260517172805482800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时24分"
+        },
+        {
+          "title": "伊朗议长卡利巴夫被任命为对华事务特别代表",
+          "url": "https://wallstreetcn.com/livenews/3104860",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时24分"
+        },
+        {
+          "title": "伊朗议长任对华事务特别代表",
+          "url": "https://www.toutiao.com/trending/7640664662967156786/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时24分"
+        },
+        {
+          "title": "韩国外交部：韩国外交部长与伊朗外长通话，韩国外交部长要求伊朗对最近对韩国纳穆号船只的袭击表态。",
+          "url": "https://flash.jin10.com/detail/20260517172310499800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时24分"
+        },
+        {
+          "title": "伊朗议长卡利巴夫被任命为对华事务特别代表",
+          "url": "https://flash.jin10.com/detail/20260517170237212800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时24分"
         },
         {
           "title": "伊朗战争推高油价，加剧美国贫富分化",
@@ -438,7 +572,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时01分"
         },
@@ -474,6 +608,108 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时51分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "科技",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "【早报】资本市场支持现代服务业与新型消费企业，利好来了；中际旭创、胜宏科技透露重要信息",
+          "url": "https://www.cls.cn/detail/2373057",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            5,
+            7,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[00时50分 ~ 18时24分]"
+        },
+        {
+          "title": "长鑫科技：预计上半年营收1100-1200亿元 扣非归母净利润520-580亿元",
+          "url": "https://flash.jin10.com/detail/20260517174804223800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时24分"
+        },
+        {
+          "title": "长鑫科技：一季度营收同比增长719.13% 净利润330亿元",
+          "url": "https://flash.jin10.com/detail/20260517174029744800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时24分"
+        },
+        {
+          "title": "长鑫科技：预计上半年营收1100至1200亿元，净利润500亿元至570亿元",
+          "url": "https://wallstreetcn.com/livenews/3104866",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时24分"
+        },
+        {
+          "title": "长鑫科技：一季度营收同比增长719.13%",
+          "url": "https://wallstreetcn.com/livenews/3104865",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时24分"
+        },
+        {
+          "title": "长安汽车否认与千里科技合作",
+          "url": "https://wallstreetcn.com/livenews/3104835",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            13,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时16分 ~ 18时24分]"
+        },
+        {
+          "title": "西安电子科技大学某导师官宣跑路，个人主页三连喊「我跑了」，可能是什么情况？反映了大学教育生态什么问题？",
+          "url": "https://www.zhihu.com/question/2038901266051502596",
+          "source": "知乎",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时00分 ~ 18时24分]"
+        },
+        {
+          "title": "宏和科技：向香港联交所递交境外上市股份（H股）发行并上市申请",
+          "url": "https://flash.jin10.com/detail/20260517154345958800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时01分 ~ 18时24分]"
         }
       ]
     },
@@ -533,24 +769,25 @@
           "time_info": "[04时52分 ~ 07时44分]"
         },
         {
+          "title": "揭秘“恋陪”：有人月消费万元",
+          "url": "https://www.baidu.com/s?wd=%E6%8F%AD%E7%A7%98%E2%80%9C%E6%81%8B%E9%99%AA%E2%80%9D%EF%BC%9A%E6%9C%89%E4%BA%BA%E6%9C%88%E6%B6%88%E8%B4%B9%E4%B8%87%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            29,
+            28,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时16分 ~ 18时24分]"
+        },
+        {
           "title": "10元理发结账变38元 消费者维权成功",
           "url": "https://www.toutiao.com/trending/7639551707320696875/",
           "source": "今日头条",
           "ranks": [
             26,
             30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时16分 ~ 17时01分]"
-        },
-        {
-          "title": "揭秘“恋陪”：有人月消费万元",
-          "url": "https://www.baidu.com/s?wd=%E6%8F%AD%E7%A7%98%E2%80%9C%E6%81%8B%E9%99%AA%E2%80%9D%EF%BC%9A%E6%9C%89%E4%BA%BA%E6%9C%88%E6%B6%88%E8%B4%B9%E4%B8%87%E5%85%83",
-          "source": "百度热搜",
-          "ranks": [
-            29,
-            28
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -577,60 +814,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时16分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "科技",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "【早报】资本市场支持现代服务业与新型消费企业，利好来了；中际旭创、胜宏科技透露重要信息",
-          "url": "https://www.cls.cn/detail/2373057",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            5,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时50分 ~ 17时01分]"
-        },
-        {
-          "title": "长安汽车否认与千里科技合作",
-          "url": "https://wallstreetcn.com/livenews/3104835",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时16分 ~ 17时01分]"
-        },
-        {
-          "title": "西安电子科技大学某导师官宣跑路，个人主页三连喊「我跑了」，可能是什么情况？反映了大学教育生态什么问题？",
-          "url": "https://www.zhihu.com/question/2038901266051502596",
-          "source": "知乎",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时00分 ~ 17时01分]"
-        },
-        {
-          "title": "宏和科技：向香港联交所递交境外上市股份（H股）发行并上市申请",
-          "url": "https://flash.jin10.com/detail/20260517154345958800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时01分"
         }
       ]
     },
@@ -719,9 +902,26 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时01分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "医药",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "第五届中医药高质量发展大会在天津召开",
+          "url": "https://wallstreetcn.com/livenews/3104868",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时24分"
         }
       ]
     },
