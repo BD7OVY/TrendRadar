@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-19T03:28:58.666299+08:00",
-  "total_titles_processed": 387,
+  "generated_at": "2026-05-19T05:05:37.541513+08:00",
+  "total_titles_processed": 461,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 28,
+      "match_count": 41,
       "titles": [
         {
           "title": "报道：美方同意在谈判期间暂时豁免对伊朗的石油制裁",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时27分 ~ 03时28分]"
+          "appearance_count": 4,
+          "time_info": "[01时27分 ~ 05时05分]"
         },
         {
           "title": "伊朗回应特朗普威胁：我们知道如何应对",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时27分 ~ 03时28分]"
+          "appearance_count": 4,
+          "time_info": "[01时27分 ~ 05时05分]"
         },
         {
           "title": "伊朗披露穆杰塔巴受伤细节",
@@ -37,8 +37,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时27分 ~ 03时28分]"
+          "appearance_count": 4,
+          "time_info": "[01时27分 ~ 05时05分]"
         },
         {
           "title": "美、布两油短线大幅跳水，现货金银快速拉升。特朗普称，应中东国家请求暂缓原定于明天进行的对伊朗的攻击。",
@@ -47,7 +47,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时28分"
         },
@@ -58,9 +58,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时28分"
+        },
+        {
+          "title": "伊朗在伊斯法罕启用防空系统。（迈赫尔通讯社）",
+          "url": "https://wallstreetcn.com/livenews/3105602",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时05分"
         },
         {
           "title": "美媒：白宫认为伊朗最新提案无实质性改进 考虑重启军事行动",
@@ -80,7 +91,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时28分"
         },
@@ -91,9 +102,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时28分"
+        },
+        {
+          "title": "据伊朗迈赫尔通讯社：伊朗伊斯法罕市的防空系统已启动。",
+          "url": "https://flash.jin10.com/detail/20260519043149502800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时05分"
         },
         {
           "title": "美国总统特朗普：卡塔尔、沙特阿拉伯和阿联酋已要求我们暂停对伊朗的军事攻击计划。",
@@ -102,9 +124,64 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时28分"
+        },
+        {
+          "title": "伊朗最高领袖重申将考虑开辟新战线",
+          "url": "https://flash.jin10.com/detail/20260519042309628800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时05分"
+        },
+        {
+          "title": "【伊朗最高领袖重申将考虑开辟新战线】伊朗最高领袖穆杰塔巴·哈梅内伊的社交媒体账号18日再次摘发其上任后首份声明，重申将考虑在敌人不擅长的领域开辟新战线。声明说，关于开辟其他战线的问题，相关研究已经完成，“敌人在这些领域经验极少且极度脆弱”。声明表示，如果“战争状态”持续，伊朗将开辟这些新战线。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3105597",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时05分"
+        },
+        {
+          "title": "伊朗披露最高领袖穆杰塔巴受伤细节",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%8A%AB%E9%9C%B2%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E7%A9%86%E6%9D%B0%E5%A1%94%E5%B7%B4%E5%8F%97%E4%BC%A4%E7%BB%86%E8%8A%82",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时27分 ~ 05时05分]"
+        },
+        {
+          "title": "美方被曝将暂停对伊朗的石油制裁",
+          "url": "https://news.ifeng.com/c/8tEXAzuY8D3",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时27分 ~ 05时05分]"
+        },
+        {
+          "title": "伊朗成立管理霍尔木兹海峡新机构",
+          "url": "https://news.ifeng.com/c/8tEPWGzaW36",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时27分 ~ 05时05分]"
         },
         {
           "title": "美媒：白宫认为伊朗最新提案无实质性改进，考虑重启军事行动",
@@ -119,6 +196,18 @@
           "time_info": "[01时28分 ~ 03时28分]"
         },
         {
+          "title": "伊朗哈尔克岛油轮积压创峰值，美军封锁令原油出口陷入瓶颈",
+          "url": "https://wallstreetcn.com/articles/3772533",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时27分 ~ 05时05分]"
+        },
+        {
           "title": "美国总统特朗普：伊朗知道“很快会发生什么”。 不会对伊朗做出让步。 （关于伊朗铀浓缩问题）我现在对啥（选项）也不持开放态度。 伊朗比以往任何时候都更希望达成协议。 “不久”就会达成伊朗协议。（纽约邮报）",
           "url": "https://wallstreetcn.com/livenews/3105539",
           "source": "华尔街见闻-快讯",
@@ -131,61 +220,17 @@
           "time_info": "[01时28分 ~ 03时28分]"
         },
         {
-          "title": "伊朗披露最高领袖穆杰塔巴受伤细节",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%8A%AB%E9%9C%B2%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E7%A9%86%E6%9D%B0%E5%A1%94%E5%B7%B4%E5%8F%97%E4%BC%A4%E7%BB%86%E8%8A%82",
-          "source": "百度热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时27分 ~ 03时28分]"
-        },
-        {
-          "title": "美方被曝将暂停对伊朗的石油制裁",
-          "url": "https://news.ifeng.com/c/8tEXAzuY8D3",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时27分 ~ 03时28分]"
-        },
-        {
-          "title": "伊朗成立管理霍尔木兹海峡新机构",
-          "url": "https://news.ifeng.com/c/8tEPWGzaW36",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时27分 ~ 03时28分]"
-        },
-        {
-          "title": "伊朗哈尔克岛油轮积压创峰值，美军封锁令原油出口陷入瓶颈",
-          "url": "https://wallstreetcn.com/articles/3772533",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时27分 ~ 03时28分]"
-        },
-        {
           "title": "伊朗披露穆杰塔巴受伤细节",
           "url": "https://www.toutiao.com/trending/7640468019504857124/",
           "source": "今日头条",
           "ranks": [
             17,
-            24
+            24,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时27分 ~ 03时28分]"
+          "appearance_count": 4,
+          "time_info": "[01时27分 ~ 05时05分]"
         },
         {
           "title": "伊朗通过巴基斯坦提交14点谈判文本",
@@ -205,9 +250,9 @@
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时28分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时28分 ~ 05时05分]"
         },
         {
           "title": "据伊朗迈赫新闻社报道，霍尔木兹海峡附近的凯什姆岛已启动防空系统，具体原因尚不清楚。",
@@ -216,7 +261,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时28分"
         },
@@ -230,6 +275,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时28分"
+        },
+        {
+          "title": "伊朗官员：美国自设打击的最后期限又自行取消",
+          "url": "https://flash.jin10.com/detail/20260519040226244800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时05分"
         },
         {
           "title": "CNBC记者：美国官员表示，伊朗国家媒体关于美国同意在谈判期间解除石油制裁的报道是虚假的。",
@@ -260,7 +316,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时28分"
         },
@@ -287,13 +343,24 @@
           "time_info": "01时28分"
         },
         {
+          "title": "美国白宫发言人凯莉：（就伊朗问题）特朗普随时可以选择所有选项。",
+          "url": "https://flash.jin10.com/detail/20260519035307747800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时05分"
+        },
+        {
           "title": "【美官员否认美国同意谈判期间暂时豁免对伊朗石油制裁】一名美国官员表示，伊朗方面关于“美国已同意在谈判进行期间解除对伊朗石油制裁”的消息是“虚假的”。当天早些时候，伊朗方面援引谈判团队相关消息人士的话称，美国在最新谈判文本中，已同意在谈判期间对伊朗石油制裁实施临时豁免。（央视）",
           "url": "https://wallstreetcn.com/livenews/3105550",
           "source": "华尔街见闻-快讯",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时28分"
         },
@@ -309,21 +376,98 @@
           "time_info": "01时28分"
         },
         {
+          "title": "白宫发言人Anna Kelly：Truth Social贴文凸显出美国总统特朗普的严肃态度。 伊朗不可以拥有浓缩铀。 特朗普一直都拥有所有的选项。",
+          "url": "https://wallstreetcn.com/livenews/3105582",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时05分"
+        },
+        {
           "title": "伊朗总统：对话并不意味着屈服",
           "url": "https://flash.jin10.com/detail/20260519022740541800",
           "source": "金十数据",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时28分"
+        },
+        {
+          "title": "伊朗哈尔克岛连续10天未见油轮",
+          "url": "https://wallstreetcn.com/livenews/3105580",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时05分"
+        },
+        {
+          "title": "伊朗总统：对话不意味投降，将全力捍卫国家尊严",
+          "url": "https://wallstreetcn.com/livenews/3105575",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时05分"
+        },
+        {
+          "title": "伊朗在格什姆岛发现美以无人机。（塔斯尼姆通讯社）",
+          "url": "https://wallstreetcn.com/livenews/3105574",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时05分"
+        },
+        {
+          "title": "美方被曝将暂停对伊朗的石油制裁",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E6%96%B9%E8%A2%AB%E6%9B%9D%E5%B0%86%E6%9A%82%E5%81%9C%E5%AF%B9%E4%BC%8A%E6%9C%97%E7%9A%84%E7%9F%B3%E6%B2%B9%E5%88%B6%E8%A3%81",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时05分"
+        },
+        {
+          "title": "特朗普：将推迟攻击伊朗",
+          "url": "https://wallstreetcn.com/livenews/3105571",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时05分"
+        },
+        {
+          "title": "伊朗格什姆岛防空系统启动",
+          "url": "https://wallstreetcn.com/livenews/3105570",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时05分"
         }
       ]
     },
     {
       "keyword_group": "科技",
-      "match_count": 6,
+      "match_count": 11,
       "titles": [
         {
           "title": "恒生指数主连夜盘收跌0.21%，报25558点。 恒生科技指数主连夜盘收跌0.58%，报4817点。",
@@ -332,9 +476,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时28分"
+        },
+        {
+          "title": "周一（5月18日），美股存储芯片与硬件供应链指数跌5.25%，报172.53点。 成分股全线溃败，希捷科技跌6.87%，美光科技跌5.95%，Sandisk跌5.30%，应用材料跌5.28%，泰瑞达跌4.98%，西部数据跌4.84%，Rambus跌2.59%，拉姆研究跌2.37%。",
+          "url": "https://wallstreetcn.com/livenews/3105599",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时05分"
         },
         {
           "title": "提醒：英伟达CEO黄仁勋与与戴尔科技CEO在彭博电视的讲话结束。",
@@ -343,20 +498,32 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时28分"
+        },
+        {
+          "title": "美股七巨头收盘播报｜周一（5月18日），美国科技股七巨头（Magnificent 7）指数跌0.57%，报225.86点。 “超大”市值科技股指数跌0.54%，报447.23点。",
+          "url": "https://wallstreetcn.com/livenews/3105598",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时05分"
         },
         {
           "title": "【每日收评】三大指数缩量整理小幅收跌，科技股有所回暖，存储芯片、机器人概念反复活跃",
           "url": "https://www.cls.cn/detail/2374260",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时27分 ~ 03时28分]"
+          "appearance_count": 4,
+          "time_info": "[01时27分 ~ 05时05分]"
         },
         {
           "title": "科技大佬Gavin Baker：亚马逊芯片是黑马，太空数据中心快来了，台积电在帮所有人避泡沫",
@@ -367,8 +534,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时27分 ~ 03时28分]"
+          "appearance_count": 4,
+          "time_info": "[01时27分 ~ 05时05分]"
         },
         {
           "title": "戴尔科技CEO Dell：存储芯片存在供应受抑问题。 存储芯片制造商们正在投资。 存储芯片和先进制程芯片仍然存在（供应）短缺。",
@@ -377,9 +544,31 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时28分"
+        },
+        {
+          "title": "标普500指数的11个板块多数收涨，能源板块涨1.81%，日用消费品、金融、房地产板块至少涨1.14%，工业板块则收跌0.42%，信息技术/科技板块跌0.97%。",
+          "url": "https://wallstreetcn.com/livenews/3105593",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时05分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收跌0.72%，报6790.67点。 热门中概股里，理想初步收跌9.8%，日月光半导体跌6.6%，蔚来、小鹏跌超3%，阿里巴巴涨0.5%，小米涨1.4%，百度涨1.8%。 ETF中，中概互联网指数ETF（KWEB）收跌0.39%，中国科技指数ETF（CQQQ）收涨0.54%。 德银嘉实沪深300指数ETF（ASHR）收跌0.45%，MSCI新兴市场ex中国ETF（EMXC）收跌0.05%，XtrackersHarvest中证50（ASHS）收涨0.06%。",
+          "url": "https://wallstreetcn.com/livenews/3105589",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时05分"
         },
         {
           "title": "纳斯达克100指数跌1.28%，希捷科技跌8.8%，Strategy跌8.3%，闪迪跌7.7%，西部数据跌7.5%，美光科技跌5.9%，特斯拉跌3.1%，阿斯麦ADR跌2.9%。 半导体指数跌3.5%。 标普500指数跌幅扩大至0.6%，纳斯达克综合指数（纳指）跌1.2%。",
@@ -391,6 +580,95 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时28分"
+        },
+        {
+          "title": "标普500指数初步收跌0.1%，科技板块跌约1%，工业板块跌0.4%，房地产、金融、日用消费品板块至多涨超1.3%，能源板块涨超1.4%。 纳斯达克100指数初步收跌0.4%，成分股中，再生元制药初步收跌9.6%，希捷科技、Strategy、美光、闪迪至多跌7.1%，汤森路透则涨8.5%，Zscaler涨9%，特许通讯涨9.9%。 3M初步收涨4.2%，Salesforce涨3.2%，雪佛龙涨2.6%，领跑道指成分股，苹果则跌0.8%，英伟达跌1.4%，卡特彼勒跌2.8%。",
+          "url": "https://wallstreetcn.com/livenews/3105587",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时05分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "制造业",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "李强：推动人工智能与先进制造业深度融合 加快培育塑造经济发展新动能新优势",
+          "url": "https://www.cls.cn/detail/2374609",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时27分 ~ 05时05分]"
+        },
+        {
+          "title": "中国4月规模以上工业增加值同比增长4.1%，装备和高技术制造业增长较快，集成电路产量增长22.1%",
+          "url": "https://wallstreetcn.com/articles/3772480",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时27分 ~ 05时05分]"
+        },
+        {
+          "title": "Gradiant宣布完成E轮融资，公司估值达20亿美元，助力加快AI、半导体以及工业水务基建领域布局。 随着Gradiant依托AI基建和先进制造业务实现业绩大幅增长，新资金将用于支持战略性并购、新一代技术研发以及上市筹备工作。",
+          "url": "https://wallstreetcn.com/livenews/3105584",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时05分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "马斯克：（关于OpenAI 裁决）奥克兰法官的裁决创造了可怕的先例。",
+          "url": "https://flash.jin10.com/detail/20260519043702372800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时05分"
+        },
+        {
+          "title": "马斯克起诉Altman案败诉，强制OpenAI重组的企图落空",
+          "url": "https://wallstreetcn.com/livenews/3105549",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时28分"
+        },
+        {
+          "title": "OpenAI 律师：（关于OpenAI与埃隆·马斯克的诉讼判决）即使有上诉，对我们的立场也非常有信心。",
+          "url": "https://flash.jin10.com/detail/20260519021820181800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时28分"
         }
       ]
     },
@@ -407,47 +685,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时27分 ~ 03时28分]"
+          "appearance_count": 4,
+          "time_info": "[01时27分 ~ 05时05分]"
         },
         {
           "title": "4 月一线城市房价环比上涨，二三线降幅收窄，怎样解读？楼市真稳住了吗？二三线城市何时跟涨？",
           "url": "https://www.zhihu.com/question/2039647734639108645",
           "source": "知乎",
           "ranks": [
-            14
+            14,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时27分 ~ 03时28分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "制造业",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "李强：推动人工智能与先进制造业深度融合 加快培育塑造经济发展新动能新优势",
-          "url": "https://www.cls.cn/detail/2374609",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时27分 ~ 03时28分]"
-        },
-        {
-          "title": "中国4月规模以上工业增加值同比增长4.1%，装备和高技术制造业增长较快，集成电路产量增长22.1%",
-          "url": "https://wallstreetcn.com/articles/3772480",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时27分 ~ 03时28分]"
+          "appearance_count": 4,
+          "time_info": "[01时27分 ~ 05时05分]"
         }
       ]
     },
@@ -492,8 +743,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时27分 ~ 03时28分]"
+          "appearance_count": 4,
+          "time_info": "[01时27分 ~ 05时05分]"
         },
         {
           "title": "深圳震感",
@@ -509,30 +760,19 @@
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "keyword_group": "医药",
+      "match_count": 1,
       "titles": [
         {
-          "title": "马斯克起诉Altman案败诉，强制OpenAI重组的企图落空",
-          "url": "https://wallstreetcn.com/livenews/3105549",
-          "source": "华尔街见闻-快讯",
+          "title": "医药行业合规整治再加码",
+          "url": "https://www.toutiao.com/trending/7641159062533029907/",
+          "source": "今日头条",
           "ranks": [
-            17
+            30
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时28分"
-        },
-        {
-          "title": "OpenAI 律师：（关于OpenAI与埃隆·马斯克的诉讼判决）即使有上诉，对我们的立场也非常有信心。",
-          "url": "https://flash.jin10.com/detail/20260519021820181800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时28分"
+          "time_info": "05时05分"
         }
       ]
     },
@@ -554,6 +794,23 @@
       ]
     },
     {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美元指数重新跌超0.3%",
+          "url": "https://wallstreetcn.com/livenews/3105573",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时05分"
+        }
+      ]
+    },
+    {
       "keyword_group": "旅游",
       "match_count": 1,
       "titles": [
@@ -562,11 +819,12 @@
           "url": "https://www.toutiao.com/trending/7641132818269294134/",
           "source": "今日头条",
           "ranks": [
-            29
+            29,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时28分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时28分 ~ 05时05分]"
         }
       ]
     }
