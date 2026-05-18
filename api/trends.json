@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-18T10:38:19.893517+08:00",
-  "total_titles_processed": 754,
+  "generated_at": "2026-05-18T14:50:13.582345+08:00",
+  "total_titles_processed": 950,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 48,
+      "match_count": 51,
       "titles": [
         {
           "title": "报道：美方在回应伊朗提议时列出5个关键条件",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时50分 ~ 10时38分]"
+          "appearance_count": 11,
+          "time_info": "[00时50分 ~ 14时50分]"
         },
         {
           "title": "伊媒：美对伊朗提出5个关键条件",
@@ -43,6 +43,20 @@
           "time_info": "[00时50分 ~ 05时48分]"
         },
         {
+          "title": "消息人士：美方在回应伊朗提议时列出5个关键条件",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33190671",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            12,
+            14,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时50分 ~ 14时50分]"
+        },
+        {
           "title": "胡锡进：卡利巴夫任伊朗对华事务特别代表，蕴含着重大动向",
           "url": "https://news.ifeng.com/c/8tCrbKpsiVO",
           "source": "凤凰网",
@@ -66,28 +80,38 @@
           "time_info": "[00时50分 ~ 10时38分]"
         },
         {
-          "title": "消息人士：美方在回应伊朗提议时列出5个关键条件",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33190671",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            12,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时50分 ~ 10时38分]"
-        },
-        {
           "title": "特朗普威胁伊朗，又开始倒计时了",
           "url": "https://news.ifeng.com/c/8tDfE3dOA2C",
           "source": "凤凰网",
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时38分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时38分 ~ 14时50分]"
+        },
+        {
+          "title": "伊朗还剩多少导弹？特朗普称仅18%，伊方称有120%",
+          "url": "https://news.ifeng.com/c/8tCj0YcwzIz",
+          "source": "凤凰网",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时38分 ~ 14时50分]"
+        },
+        {
+          "title": "如何看待特朗普访华和战争威胁？伊朗民众回应",
+          "url": "https://news.ifeng.com/c/8tDhN597aTX",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时49分 ~ 14时50分]"
         },
         {
           "title": "韩国要求伊朗就韩船只在霍尔木兹海峡遭袭表明立场",
@@ -109,18 +133,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时38分"
-        },
-        {
-          "title": "伊朗还剩多少导弹？特朗普称仅18%，伊方称有120%",
-          "url": "https://news.ifeng.com/c/8tCj0YcwzIz",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时38分"
         },
@@ -147,6 +160,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时04分 ~ 07时53分]"
+        },
+        {
+          "title": "欧盟委员会执行副主席东布罗夫斯基斯：七国集团将讨论乌克兰和伊朗的战争。",
+          "url": "https://flash.jin10.com/detail/20260518143424612800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时50分"
         },
         {
           "title": "据伊朗Press TV：伊朗副总统表示，伊朗将不再允许敌方的军事装备通过霍尔木兹海峡。",
@@ -562,12 +586,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时58分"
+        },
+        {
+          "title": "高盛：伊朗冲突持续与供应冲击，削弱美债分散风险能力",
+          "url": "https://flash.jin10.com/detail/20260518140732556800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时50分"
         }
       ]
     },
     {
       "keyword_group": "科技",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "长鑫科技招股书更新：一季度营收同比增长719%，净利润330亿元，上半年盈利指引大超预期",
@@ -577,8 +612,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时50分 ~ 10时38分]"
+          "appearance_count": 11,
+          "time_info": "[00时50分 ~ 14时50分]"
         },
         {
           "title": "如何看待长鑫科技 2026 年 Q1 净利润狂飙至 330 亿，营收暴增 719%？",
@@ -653,9 +688,21 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时38分"
+        },
+        {
+          "title": "提前盈利！长鑫科技更新科创板IPO招股书 存储行情推动Q1业绩“狂飙”",
+          "url": "https://www.cls.cn/detail/2373552",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时38分 ~ 14时50分]"
         },
         {
           "title": "港股芯片股走势分化，兆易创新(03986.HK)涨超9%，澜起科技(06809.HK)涨超3%，华虹半导体(01347.HK)等跟涨，英诺赛科(02577.HK)跌超5%，天数智芯(09903.HK)跌近2%。",
@@ -664,7 +711,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时38分"
         },
@@ -675,7 +722,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时38分"
         },
@@ -737,17 +784,6 @@
           "time_info": "[04时04分 ~ 05时48分]"
         },
         {
-          "title": "提前盈利！长鑫科技更新科创板IPO招股书 存储行情推动Q1业绩“狂飙”",
-          "url": "https://www.cls.cn/detail/2373552",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时38分"
-        },
-        {
           "title": "AI高景气与盈利持续兑现，机构：资金或往科技方向进一步集中",
           "url": "https://wallstreetcn.com/livenews/3104924",
           "source": "华尔街见闻-快讯",
@@ -776,9 +812,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时38分"
+        },
+        {
+          "title": "A股稀土概念股午后持续下挫，中国稀土跌超5%，华宏科技、包钢股份、北方稀土等股跟跌。",
+          "url": "https://flash.jin10.com/detail/20260518141223422800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时50分"
         },
         {
           "title": "A股存储芯片板块震荡拉升，深科技涨停，同有科技、佰维存储涨超10%，大普微、华海诚科、朗科科技、商络电子涨超7%。",
@@ -787,7 +834,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时38分"
         },
@@ -798,7 +845,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时38分"
         },
@@ -809,7 +856,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时38分"
         }
@@ -817,7 +864,7 @@
     },
     {
       "keyword_group": "消费",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "维也纳、希尔顿欢朋等多家知名酒店被曝床单、枕套等未落实一客一换，有哪些健康风险？消费者能要求哪些赔偿？",
@@ -828,8 +875,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时53分 ~ 10时38分]"
+          "appearance_count": 4,
+          "time_info": "[07时53分 ~ 14时50分]"
         },
         {
           "title": "关于荔枝的消费提示",
@@ -851,9 +898,31 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时38分"
+        },
+        {
+          "title": "日均信息量约243.7万条 中消协发布“五一”消费维权舆情分析报告",
+          "url": "https://wallstreetcn.com/livenews/3105154",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时50分"
+        },
+        {
+          "title": "集邦咨询：高端需求扩张、消费类渠道囤购升温，有望催化MLCC价格反转",
+          "url": "https://wallstreetcn.com/livenews/3105152",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时50分"
         },
         {
           "title": "中国1至4月社会消费品零售总额同比 1.9%，前值 2.4%。",
@@ -862,7 +931,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时38分"
         },
@@ -873,7 +942,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时38分"
         },
@@ -884,7 +953,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时38分"
         }
@@ -892,7 +961,7 @@
     },
     {
       "keyword_group": "制造业",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "美股和金银开盘大跌，但美国 4 月工业数据超预期，纽约联储制造业指数创近 4 年新高，对此你怎么看？",
@@ -908,13 +977,24 @@
           "time_info": "[06时45分 ~ 10时38分]"
         },
         {
+          "title": "中国4月规模以上工业增加值同比增长4.1%，装备和高技术制造业增长较快，集成电路产量增长22.1%",
+          "url": "https://wallstreetcn.com/articles/3772480",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时49分 ~ 14时50分]"
+        },
+        {
           "title": "国家统计局：1-4月份装备制造业增加值同比增长8.7% 对规模以上工业增长的贡献率超过7成",
           "url": "https://flash.jin10.com/detail/20260518102403917800",
           "source": "金十数据",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时38分"
         }
@@ -942,9 +1022,54 @@
           "ranks": [
             2
           ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时38分 ~ 14时50分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "印度限金令催生恐慌性抢购潮，高盛：年底金价仍看至5400美元",
+          "url": "https://wallstreetcn.com/articles/3772448",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时49分 ~ 14时50分]"
+        },
+        {
+          "title": "金价银价大跌原因",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E5%A4%A7%E8%B7%8C%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时49分 ~ 14时50分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "资源",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "西藏罗布莎矿区新增铬铁矿资源量73.83万吨",
+          "url": "https://wallstreetcn.com/livenews/3105149",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时38分"
+          "time_info": "14时50分"
         }
       ]
     },
@@ -976,7 +1101,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时38分"
         }
