@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-18T14:50:13.582345+08:00",
-  "total_titles_processed": 950,
+  "generated_at": "2026-05-18T19:02:12.604508+08:00",
+  "total_titles_processed": 1154,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 51,
+      "match_count": 62,
       "titles": [
         {
           "title": "报道：美方在回应伊朗提议时列出5个关键条件",
@@ -57,6 +57,31 @@
           "time_info": "[00时50分 ~ 14时50分]"
         },
         {
+          "title": "特朗普威胁伊朗，又开始倒计时了",
+          "url": "https://news.ifeng.com/c/8tDfE3dOA2C",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时38分 ~ 19时02分]"
+        },
+        {
+          "title": "伊朗还剩多少导弹？特朗普称仅18%，伊方称有120%",
+          "url": "https://news.ifeng.com/c/8tCj0YcwzIz",
+          "source": "凤凰网",
+          "ranks": [
+            3,
+            2,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时38分 ~ 19时02分]"
+        },
+        {
           "title": "胡锡进：卡利巴夫任伊朗对华事务特别代表，蕴含着重大动向",
           "url": "https://news.ifeng.com/c/8tCrbKpsiVO",
           "source": "凤凰网",
@@ -80,29 +105,6 @@
           "time_info": "[00时50分 ~ 10时38分]"
         },
         {
-          "title": "特朗普威胁伊朗，又开始倒计时了",
-          "url": "https://news.ifeng.com/c/8tDfE3dOA2C",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时38分 ~ 14时50分]"
-        },
-        {
-          "title": "伊朗还剩多少导弹？特朗普称仅18%，伊方称有120%",
-          "url": "https://news.ifeng.com/c/8tCj0YcwzIz",
-          "source": "凤凰网",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时38分 ~ 14时50分]"
-        },
-        {
           "title": "如何看待特朗普访华和战争威胁？伊朗民众回应",
           "url": "https://news.ifeng.com/c/8tDhN597aTX",
           "source": "凤凰网",
@@ -112,6 +114,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时49分 ~ 14时50分]"
+        },
+        {
+          "title": "伊朗回应特朗普威胁：我们知道如何应对",
+          "url": "https://news.ifeng.com/c/8tEGnREugMl",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时01分 ~ 19时02分]"
         },
         {
           "title": "韩国要求伊朗就韩船只在霍尔木兹海峡遭袭表明立场",
@@ -149,6 +162,17 @@
           "time_info": "01时53分"
         },
         {
+          "title": "【伊朗主要原油出口枢纽哈尔克岛油轮积压 创美军实施封锁以来的峰值】据报道，大约23艘油轮目前聚集在伊朗主要原油出口枢纽附近，这是自一个月前美国海军开始封锁伊朗港口、拦截并扣押船只以来，哈尔克岛周边出现的最大规模油轮集结。5月16日卫星图像显示，这些运输船停泊在哈尔克岛附近锚地，或靠泊于液化石油气装载码头。相关情况也得到专注于伊朗问题的美国非营利政策咨询机构United Against Nuclear Iran (简称UANI)的分析确认。相比之下，4月13日，也就是美国军舰开始在阿曼湾集结、对船只进行检查和拦截之前，当地仅有4艘油轮。“越来越多船只聚集在该岛周边锚地，显示伊朗原油和石油出口体系中的延误与瓶颈正在加剧，”UANI顾问Charlie Brown表示。",
+          "url": "https://wallstreetcn.com/livenews/3105359",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
+        },
+        {
           "title": "特朗普称：如果伊朗不迅速行动，“将一无所有”",
           "url": "https://wallstreetcn.com/livenews/3104904",
           "source": "华尔街见闻-快讯",
@@ -168,7 +192,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时50分"
         },
@@ -318,6 +342,39 @@
           "time_info": "[00时50分 ~ 02时58分]"
         },
         {
+          "title": "伊朗通过巴基斯坦提交14点谈判文本",
+          "url": "https://news.ifeng.com/c/8tEPz9vOwBG",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时01分 ~ 19时02分]"
+        },
+        {
+          "title": "伊朗成立管理霍尔木兹海峡新机构",
+          "url": "https://www.toutiao.com/trending/7640169240372723754/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时01分 ~ 19时02分]"
+        },
+        {
+          "title": "伊朗成立管理霍尔木兹海峡新机构",
+          "url": "https://news.ifeng.com/c/8tEPWGzaW36",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时01分 ~ 19时02分]"
+        },
+        {
           "title": "据伊朗伊斯兰共和国通讯社（IRNA）：伊朗重申已做好充分准备应对任何新的袭击。",
           "url": "https://flash.jin10.com/detail/20260518000250093800",
           "source": "金十数据",
@@ -364,6 +421,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时48分 ~ 06时45分]"
+        },
+        {
+          "title": "特朗普警告伊朗：“时钟正滴答作响”",
+          "url": "https://www.cls.cn/detail/2373911",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时01分 ~ 19时02分]"
         },
         {
           "title": "据伊朗Press TV：伊拉克总理已向该国海关当局下达直接指令，要求允许伊朗货物经由伊拉克领土进行过境和转运。",
@@ -445,6 +513,17 @@
           "time_info": "00时50分"
         },
         {
+          "title": "伊朗称已将最新谈判意见反馈给美方",
+          "url": "https://wallstreetcn.com/livenews/3105351",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
+        },
+        {
           "title": "伊朗外长与卡塔尔外长通话，讨论“地区局势发展”。",
           "url": "https://flash.jin10.com/detail/20260517233910090800",
           "source": "金十数据",
@@ -487,6 +566,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时50分"
+        },
+        {
+          "title": "伊朗称已逮捕6500多名间谍及通敌人员",
+          "url": "https://wallstreetcn.com/livenews/3105342",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
         },
         {
           "title": "美媒：伊朗计划收取霍尔木兹海峡海底光缆通行费",
@@ -533,6 +623,17 @@
           "time_info": "02时58分"
         },
         {
+          "title": "【伊朗媒体：伊朗通过巴基斯坦提交14点谈判文本】据伊朗塔斯尼姆通讯社18日援引消息人士的话报道称，伊朗已通过巴基斯坦将包含14点的最新谈判文本转交美方，核心内容为“结束战争”相关议题。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3105337",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
+        },
+        {
           "title": "伊朗媒体称，美国在最新的和平提议中“没有做出任何让步”",
           "url": "https://flash.jin10.com/detail/20260518003743507800",
           "source": "金十数据",
@@ -542,6 +643,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时53分"
+        },
+        {
+          "title": "伊朗革命卫队称在多地逮捕与美以关联人员",
+          "url": "https://wallstreetcn.com/livenews/3105334",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
+        },
+        {
+          "title": "伊朗成立管理霍尔木兹海峡新机构",
+          "url": "https://wallstreetcn.com/livenews/3105332",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
         },
         {
           "title": "据沙特媒体哈达斯（Alhadath）：以色列媒体报道，针对伊朗的打击目标清单中，包含了华盛顿在上一轮行动中拒绝予以打击的地点。",
@@ -594,7 +717,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时50分"
         }
@@ -602,7 +725,7 @@
     },
     {
       "keyword_group": "科技",
-      "match_count": 22,
+      "match_count": 28,
       "titles": [
         {
           "title": "长鑫科技招股书更新：一季度营收同比增长719%，净利润330亿元，上半年盈利指引大超预期",
@@ -772,6 +895,28 @@
           "time_info": "[00时50分 ~ 02时58分]"
         },
         {
+          "title": "科技大佬Gavin Baker：亚马逊芯片是黑马，太空数据中心快来了，台积电在帮所有人避泡沫",
+          "url": "https://wallstreetcn.com/articles/3772477",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时01分 ~ 19时02分]"
+        },
+        {
+          "title": "【每日收评】三大指数缩量整理小幅收跌，科技股有所回暖，存储芯片、机器人概念反复活跃",
+          "url": "https://www.cls.cn/detail/2374260",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时01分 ~ 19时02分]"
+        },
+        {
           "title": "瑞典首相：居住在瑞典的8万多名印度裔群体对我们的经济和社会做出了重大贡献，尤为值得一提的是，他们为瑞典各地的高科技领域带来了亟需的专业技能。",
           "url": "https://flash.jin10.com/detail/20260518031625378800",
           "source": "金十数据",
@@ -784,6 +929,17 @@
           "time_info": "[04时04分 ~ 05时48分]"
         },
         {
+          "title": "索辰科技：公司物理AI业务目前尚处于布局初期。物理AI技术研发投入大、技术迭代快，存在研发进度不及预期、核心技术迭代风险；同时下游行业应用场景拓展、商业化变现存在不确定性，若市场需求、行业政策、技术竞争格局发生不利变化，物理AI业务收入及盈利贡献存在不及预期风险。",
+          "url": "https://wallstreetcn.com/livenews/3105355",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
+        },
+        {
           "title": "AI高景气与盈利持续兑现，机构：资金或往科技方向进一步集中",
           "url": "https://wallstreetcn.com/livenews/3104924",
           "source": "华尔街见闻-快讯",
@@ -793,6 +949,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时53分"
+        },
+        {
+          "title": "群核科技与影石创新达成战略合作，联手打造新一代空间重建解决方案",
+          "url": "https://wallstreetcn.com/livenews/3105343",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
+        },
+        {
+          "title": "索辰科技：“物理合成数据核心技术基座构建与多领域场景示范应用项目”尚处于筹备阶段",
+          "url": "https://flash.jin10.com/detail/20260518183055529800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
         },
         {
           "title": "华泰证券：科技内部切换可考虑半导体设备、分立器件等方向",
@@ -823,7 +1001,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时50分"
         },
@@ -837,6 +1015,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时38分"
+        },
+        {
+          "title": "东风科技：董事长蔡士龙离任",
+          "url": "https://flash.jin10.com/detail/20260518182600272800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
         },
         {
           "title": "【中国证监会副主席李超：以更大力度推进北京证券交易所深化改革】中国证监会副主席李超5月18日在2026北京上市公司高质量发展大会暨投融资并购对接会上表示，将全力稳定和增强资本市场信心，并提出三点举措：以更大力度支持科技创新和产业创新深度融合、以更大力度推进北京证券交易所深化改革、以更大力度夯实上市公司高质量发展基础。（新华财经）",
@@ -909,7 +1098,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时50分"
         },
@@ -920,7 +1109,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时50分"
         },
@@ -964,6 +1153,18 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "中国4月规模以上工业增加值同比增长4.1%，装备和高技术制造业增长较快，集成电路产量增长22.1%",
+          "url": "https://wallstreetcn.com/articles/3772480",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时49分 ~ 19时02分]"
+        },
+        {
           "title": "美股和金银开盘大跌，但美国 4 月工业数据超预期，纽约联储制造业指数创近 4 年新高，对此你怎么看？",
           "url": "https://www.zhihu.com/question/2038737314017432936",
           "source": "知乎",
@@ -977,17 +1178,6 @@
           "time_info": "[06时45分 ~ 10时38分]"
         },
         {
-          "title": "中国4月规模以上工业增加值同比增长4.1%，装备和高技术制造业增长较快，集成电路产量增长22.1%",
-          "url": "https://wallstreetcn.com/articles/3772480",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时49分 ~ 14时50分]"
-        },
-        {
           "title": "国家统计局：1-4月份装备制造业增加值同比增长8.7% 对规模以上工业增长的贡献率超过7成",
           "url": "https://flash.jin10.com/detail/20260518102403917800",
           "source": "金十数据",
@@ -997,6 +1187,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时38分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "房价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "4月70城房价：一线城市二手房价环比连续第二个月上涨，二三线城市房价环比降幅收窄或持平",
+          "url": "https://wallstreetcn.com/articles/3772478",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时01分 ~ 19时02分]"
+        },
+        {
+          "title": "4 月一线城市房价环比上涨，二三线降幅收窄，怎样解读？楼市真稳住了吗？二三线城市何时跟涨？",
+          "url": "https://www.zhihu.com/question/2039647734639108645",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时01分 ~ 19时02分]"
         }
       ]
     },
@@ -1023,8 +1241,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时38分 ~ 14时50分]"
+          "appearance_count": 5,
+          "time_info": "[10时38分 ~ 19时02分]"
         }
       ]
     },
@@ -1033,22 +1251,23 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "金价银价大跌原因",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E5%A4%A7%E8%B7%8C%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时49分 ~ 19时02分]"
+        },
+        {
           "title": "印度限金令催生恐慌性抢购潮，高盛：年底金价仍看至5400美元",
           "url": "https://wallstreetcn.com/articles/3772448",
           "source": "华尔街见闻",
           "ranks": [
             10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时49分 ~ 14时50分]"
-        },
-        {
-          "title": "金价银价大跌原因",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E5%A4%A7%E8%B7%8C%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=14&Refer=top",
-          "source": "微博",
-          "ranks": [
-            14
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -1067,7 +1286,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时50分"
         }
