@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-21T05:46:19.555541+08:00",
-  "total_titles_processed": 483,
+  "generated_at": "2026-05-21T07:07:39.470149+08:00",
+  "total_titles_processed": 554,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 27,
+      "match_count": 30,
       "titles": [
         {
           "title": "美参议员格雷厄姆：希望伊朗冲突以外交方式解决",
@@ -41,6 +41,17 @@
           "time_info": "03时16分"
         },
         {
+          "title": "伊朗：将在“强烈不信任美国”的情况下继续推进谈判",
+          "url": "https://news.ifeng.com/c/8tHkNrUtZwa",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时46分 ~ 07时07分]"
+        },
+        {
           "title": "特朗普继续口头威胁伊朗",
           "url": "https://wallstreetcn.com/livenews/3106851",
           "source": "华尔街见闻-快讯",
@@ -50,17 +61,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时53分"
-        },
-        {
-          "title": "伊朗：将在“强烈不信任美国”的情况下继续推进谈判",
-          "url": "https://news.ifeng.com/c/8tHkNrUtZwa",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时46分"
         },
         {
           "title": "特朗普：海岸警卫队已总共扣押3艘伊朗船只。",
@@ -105,6 +105,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时53分"
+        },
+        {
+          "title": "美军在阿曼湾登船搜查一艘伊朗油轮",
+          "url": "https://wallstreetcn.com/livenews/3106964",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时07分"
+        },
+        {
+          "title": "伊朗重申其对霍尔木兹海峡“管理监督范围”",
+          "url": "https://flash.jin10.com/detail/20260521064008184800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时07分"
         },
         {
           "title": "特朗普：如果我没有得到关于伊朗的正确答案，事情会迅速发展；我需要伊朗提供完全100%的好答案。",
@@ -171,6 +193,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时16分"
+        },
+        {
+          "title": "美军在阿曼湾登船搜查一艘伊朗油轮",
+          "url": "https://flash.jin10.com/detail/20260521061556986800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时07分"
         },
         {
           "title": "机构：若伊朗冲突持续，油价恐将升至200美元",
@@ -300,7 +333,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时46分"
         }
@@ -350,7 +383,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时46分"
         },
@@ -401,6 +434,92 @@
       ]
     },
     {
+      "keyword_group": "科技",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "长鑫科技IPO将于5月27日上会，拟募资295亿元",
+          "url": "https://www.cls.cn/detail/2376986",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时53分 ~ 07时07分]"
+        },
+        {
+          "title": "周三（5月20日），美股信息科技指数涨2.97%，报384.54点。 成分股Astera Labs收涨17.69%，IREN涨10.41%，超微电脑涨9.49%，IonQ涨8.32%，Credo科技集团涨8.28%，AMD涨8.10%表现第六，英特尔涨7.36%，Workday则收跌2.11%跌幅第五大，Lumentum跌2.47%，Nebius集团跌2.99%，ADI跌3.92%，财捷INTU跌3.95%。",
+          "url": "https://wallstreetcn.com/livenews/3106949",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时46分 ~ 07时07分]"
+        },
+        {
+          "title": "周三（5月20日），美股存储芯片与硬件供应链指数涨3.17%，报179.14点，跳空高开之后整体持续高位震荡。 成分股全面收涨，Rambus涨9.45%，泰瑞达涨7.1%，拉姆研究涨6.84%，应用材料、美光至少涨4.76%，希捷科技涨2.42%，西部数据、闪迪至少涨0.67%。",
+          "url": "https://wallstreetcn.com/livenews/3106946",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时46分 ~ 07时07分]"
+        },
+        {
+          "title": "美股七巨头收盘播报｜周三（5月20日），美国科技股七巨头（Magnificent 7）指数涨1.17%，报225.84点。 “超大”市值科技股指数涨涨2.27%，报450.52点。",
+          "url": "https://wallstreetcn.com/livenews/3106945",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时46分 ~ 07时07分]"
+        },
+        {
+          "title": "美联储会议纪要：一季度实际GDP增速有所回升 高科技商品进口增长",
+          "url": "https://flash.jin10.com/detail/20260521025525935800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时16分"
+        },
+        {
+          "title": "纳指期货跌幅在亚太盘初扩大至0.9%，科技股AMD美股盘后跌2.6%，高通跌2%，美光跌1.6%，英特尔跌1.5%，英伟达跌1.5%。",
+          "url": "https://wallstreetcn.com/livenews/3106963",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时07分"
+        },
+        {
+          "title": "美联储拟推精简版支付账户，向金融科技公司开放其支付系统",
+          "url": "https://flash.jin10.com/detail/20260521061447533800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时07分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 6,
       "titles": [
@@ -420,11 +539,12 @@
           "url": "https://wallstreetcn.com/livenews/3106951",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时46分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时46分 ~ 07时07分]"
         },
         {
           "title": "如何评价 gemini 于 26 年 5 月 17 日实行的新限额形式？",
@@ -432,11 +552,12 @@
           "source": "知乎",
           "ranks": [
             18,
-            15
+            15,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时53分 ~ 05时46分]"
+          "appearance_count": 4,
+          "time_info": "[00时53分 ~ 07时07分]"
         },
         {
           "title": "谷歌在AI模型推出更有用的广告。",
@@ -474,67 +595,6 @@
       ]
     },
     {
-      "keyword_group": "科技",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "长鑫科技IPO将于5月27日上会，拟募资295亿元",
-          "url": "https://www.cls.cn/detail/2376986",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时53分 ~ 05时46分]"
-        },
-        {
-          "title": "周三（5月20日），美股信息科技指数涨2.97%，报384.54点。 成分股Astera Labs收涨17.69%，IREN涨10.41%，超微电脑涨9.49%，IonQ涨8.32%，Credo科技集团涨8.28%，AMD涨8.10%表现第六，英特尔涨7.36%，Workday则收跌2.11%跌幅第五大，Lumentum跌2.47%，Nebius集团跌2.99%，ADI跌3.92%，财捷INTU跌3.95%。",
-          "url": "https://wallstreetcn.com/livenews/3106949",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时46分"
-        },
-        {
-          "title": "周三（5月20日），美股存储芯片与硬件供应链指数涨3.17%，报179.14点，跳空高开之后整体持续高位震荡。 成分股全面收涨，Rambus涨9.45%，泰瑞达涨7.1%，拉姆研究涨6.84%，应用材料、美光至少涨4.76%，希捷科技涨2.42%，西部数据、闪迪至少涨0.67%。",
-          "url": "https://wallstreetcn.com/livenews/3106946",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时46分"
-        },
-        {
-          "title": "美股七巨头收盘播报｜周三（5月20日），美国科技股七巨头（Magnificent 7）指数涨1.17%，报225.84点。 “超大”市值科技股指数涨涨2.27%，报450.52点。",
-          "url": "https://wallstreetcn.com/livenews/3106945",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时46分"
-        },
-        {
-          "title": "美联储会议纪要：一季度实际GDP增速有所回升 高科技商品进口增长",
-          "url": "https://flash.jin10.com/detail/20260521025525935800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时16分"
-        }
-      ]
-    },
-    {
       "keyword_group": "金融",
       "match_count": 5,
       "titles": [
@@ -544,11 +604,12 @@
           "source": "知乎",
           "ranks": [
             6,
-            16
+            16,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时53分 ~ 03时16分]"
+          "appearance_count": 3,
+          "time_info": "[00时53分 ~ 07时07分]"
         },
         {
           "title": "英国财政大臣Reeves放弃推动食品价格上限的方案。 她不会在周四讲话中提及志愿（实施）上限构想。（英国金融时报）",
@@ -590,7 +651,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时46分"
         }
@@ -608,8 +669,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时53分 ~ 05时46分]"
+          "appearance_count": 4,
+          "time_info": "[00时53分 ~ 07时07分]"
         },
         {
           "title": "SpaceX：计划开展小行星采矿业务，从近地小行星和主带小行星中提取金属及其他关键资源。",
@@ -618,9 +679,37 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时46分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "消费",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "杨梅协会会长恳求消费者给果农生路",
+          "url": "https://www.baidu.com/s?wd=%E6%9D%A8%E6%A2%85%E5%8D%8F%E4%BC%9A%E4%BC%9A%E9%95%BF%E6%81%B3%E6%B1%82%E6%B6%88%E8%B4%B9%E8%80%85%E7%BB%99%E6%9E%9C%E5%86%9C%E7%94%9F%E8%B7%AF",
+          "source": "百度热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时53分"
+        },
+        {
+          "title": "面对高油价与消费疲软，美妆品牌e.l.f. Beauty计划下调部分受关税驱动的提价",
+          "url": "https://wallstreetcn.com/livenews/3106956",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时07分"
         }
       ]
     },
@@ -636,8 +725,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时53分 ~ 05时46分]"
+          "appearance_count": 4,
+          "time_info": "[00时53分 ~ 07时07分]"
         },
         {
           "title": "深圳暴雨",
@@ -654,19 +743,19 @@
       ]
     },
     {
-      "keyword_group": "消费",
+      "keyword_group": "制造业",
       "match_count": 1,
       "titles": [
         {
-          "title": "杨梅协会会长恳求消费者给果农生路",
-          "url": "https://www.baidu.com/s?wd=%E6%9D%A8%E6%A2%85%E5%8D%8F%E4%BC%9A%E4%BC%9A%E9%95%BF%E6%81%B3%E6%B1%82%E6%B6%88%E8%B4%B9%E8%80%85%E7%BB%99%E6%9E%9C%E5%86%9C%E7%94%9F%E8%B7%AF",
-          "source": "百度热搜",
+          "title": "澳大利亚5月标普全球制造业PMI初值 50.2，前值51.3。",
+          "url": "https://flash.jin10.com/detail/20260521070002159800",
+          "source": "金十数据",
           "ranks": [
-            13
+            3
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时53分"
+          "time_info": "07时07分"
         }
       ]
     },
