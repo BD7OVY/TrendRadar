@@ -1,12 +1,60 @@
 {
-  "generated_at": "2026-05-22T06:15:12.157192+08:00",
-  "total_titles_processed": 536,
+  "generated_at": "2026-05-22T07:55:34.579689+08:00",
+  "total_titles_processed": 637,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 27,
+      "match_count": 30,
       "titles": [
+        {
+          "title": "伊朗最高领袖下令：接近武器级的铀必须留在国内",
+          "url": "https://wallstreetcn.com/articles/3772837",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时56分 ~ 07时55分]"
+        },
+        {
+          "title": "伊朗最高领袖：接近武器级的铀得留下",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%EF%BC%9A%E6%8E%A5%E8%BF%91%E6%AD%A6%E5%99%A8%E7%BA%A7%E7%9A%84%E9%93%80%E5%BE%97%E7%95%99%E4%B8%8B",
+          "source": "百度热搜",
+          "ranks": [
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时40分 ~ 07时55分]"
+        },
+        {
+          "title": "伊朗最高领袖下令：接近武器级的铀必须留在国内",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33205517",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时40分 ~ 07时55分]"
+        },
+        {
+          "title": "伊朗局势主导市场，纳指惊险收涨，道指收创新高，原油冲高转跌，美债走势分化",
+          "url": "https://wallstreetcn.com/articles/3772777",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时55分"
+        },
         {
           "title": "伊朗外交部：伊朗外长与奥地利外长周四下午进行了电话交谈，讨论了最新的外交动态及双边关系相关问题，进行了意见交流。",
           "url": "https://flash.jin10.com/detail/20260522002235311800",
@@ -25,32 +73,9 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时15分"
-        },
-        {
-          "title": "伊朗最高领袖：接近武器级的铀得留下",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%EF%BC%9A%E6%8E%A5%E8%BF%91%E6%AD%A6%E5%99%A8%E7%BA%A7%E7%9A%84%E9%93%80%E5%BE%97%E7%95%99%E4%B8%8B",
-          "source": "百度热搜",
-          "ranks": [
-            13,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时40分 ~ 06时15分]"
-        },
-        {
-          "title": "伊朗最高领袖下令：接近武器级的铀必须留在国内",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33205517",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时40分 ~ 06时15分]"
         },
         {
           "title": "胡塞武装领导人：全力支持伊朗 以色列可以被击败",
@@ -70,23 +95,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            13
+            13,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时48分 ~ 06时15分]"
-        },
-        {
-          "title": "伊朗最高领袖下令：接近武器级的铀必须留在国内",
-          "url": "https://wallstreetcn.com/articles/3772837",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时56分 ~ 06时15分]"
+          "appearance_count": 3,
+          "time_info": "[04时48分 ~ 07时55分]"
         },
         {
           "title": "特朗普再威胁伊朗交出浓缩铀，称到手后或销毁",
@@ -94,11 +108,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            14
+            14,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时48分 ~ 06时15分]"
+          "appearance_count": 3,
+          "time_info": "[04时48分 ~ 07时55分]"
         },
         {
           "title": "特朗普再威胁伊朗交出浓缩铀 称到手后或销毁",
@@ -131,7 +146,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时15分"
         },
@@ -147,6 +162,17 @@
           "time_info": "02时56分"
         },
         {
+          "title": "伊朗：美方谈判文本在一定程度上“缩小了分歧”，伊方“正在回应”",
+          "url": "https://wallstreetcn.com/articles/3772830",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时55分"
+        },
+        {
           "title": "特朗普宣称，美国将获得伊朗的浓缩铀。 新华社此前援引路透报道称，伊朗最高领袖穆杰塔巴·哈梅内伊已下达指令，要求该国浓缩铀库存不得运往国外。",
           "url": "https://wallstreetcn.com/livenews/3107547",
           "source": "华尔街见闻-快讯",
@@ -156,6 +182,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时40分"
+        },
+        {
+          "title": "特朗普再威胁伊朗交出浓缩铀 欧盟被爆考虑重启与俄正式沟通 | 环球市场",
+          "url": "https://www.cls.cn/detail/2378520",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时55分"
         },
         {
           "title": "美国总统特朗普：正就伊朗问题进行谈判。 正在关注阿曼与霍尔木兹海峡通行费的问题。 我们（美国）完全掌控霍尔木兹海峡，封锁是100%有效的。 未经美国批准，任何船只都不能经过伊朗。 一旦伊朗（战争）结束，美国的汽油价格就会下降。 与伊朗的冲突很快就结束。",
@@ -315,7 +352,7 @@
     },
     {
       "keyword_group": "科技",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "A股放量回调，小作文惹祸？多家基金公司一线解读：高位科技兑现与海外利率扰动是主因",
@@ -325,8 +362,36 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时40分 ~ 06时15分]"
+          "appearance_count": 6,
+          "time_info": "[00时40分 ~ 07时55分]"
+        },
+        {
+          "title": "砺算科技 7g100 国产显卡开启预约，12GB 售 3299 元，其市场竞争力如何？",
+          "url": "https://www.zhihu.com/question/2040569394959491641",
+          "source": "知乎",
+          "ranks": [
+            14,
+            13,
+            15,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时40分 ~ 07时55分]"
+        },
+        {
+          "title": "投了长鑫科技 合肥赚了一个合肥",
+          "url": "https://www.toutiao.com/trending/7641330476858359827/",
+          "source": "今日头条",
+          "ranks": [
+            20,
+            15,
+            16,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时40分 ~ 07时55分]"
         },
         {
           "title": "苹果1.8亿美元玻璃亭有哪些黑科技",
@@ -340,43 +405,17 @@
           "time_info": "00时40分"
         },
         {
-          "title": "砺算科技 7g100 国产显卡开启预约，12GB 售 3299 元，其市场竞争力如何？",
-          "url": "https://www.zhihu.com/question/2040569394959491641",
-          "source": "知乎",
-          "ranks": [
-            14,
-            13,
-            15,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时40分 ~ 06时15分]"
-        },
-        {
-          "title": "投了长鑫科技 合肥赚了一个合肥",
-          "url": "https://www.toutiao.com/trending/7641330476858359827/",
-          "source": "今日头条",
-          "ranks": [
-            20,
-            15,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时40分 ~ 06时15分]"
-        },
-        {
           "title": "周四（5月21日），美股行业ETF多数收涨，全球航空业ETF涨2.12%，全球科技股指数ETF涨1.17%，公用事业ETF涨1.10%，网络股指数ETF、科技行业ETF至少涨0.82%，半导体ETF涨0.57%，能源业ETF跌1.12%。",
           "url": "https://wallstreetcn.com/livenews/3107625",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            12
+            12,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时48分 ~ 06时15分]"
+          "appearance_count": 3,
+          "time_info": "[04时48分 ~ 07时55分]"
         },
         {
           "title": "标普500指数的11个板块多数收涨，公用事业板块涨1.03%，可选消费板块涨0.77%，信息技术/科技板块涨0.28%，能源板块跌1.01%，日用消费品板块跌1.63%。",
@@ -391,15 +430,37 @@
           "time_info": "[04时48分 ~ 06时15分]"
         },
         {
+          "title": "A股科技行情调整，业内人士：整体风险或相对可控",
+          "url": "https://wallstreetcn.com/livenews/3107649",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时55分"
+        },
+        {
           "title": "据科技媒体TechCrunsh：Alphabet(GOOG.O)旗下Waymo已暂停在旧金山、洛杉矶、凤凰城和迈阿密的高速公路上提供Robotaxi服务。",
           "url": "https://flash.jin10.com/detail/20260522051629687800",
           "source": "金十数据",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时15分"
+        },
+        {
+          "title": "金十数据整理：每日科技要闻速递（5月22日）",
+          "url": "https://flash.jin10.com/detail/20260522071645202800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时55分"
         },
         {
           "title": "纳斯达克金龙中国指数收跌1.50%，报6659.19点。 热门中概股里，贝壳初步收跌6.5%，新东方跌4.5%，B站跌3.7%，万国数据跌3.5%，腾讯跌3.1%，百度跌2.9%，阿里跌2.1%，小米跌1.3%，大全新能源涨2.4%，文远知行涨3.4%，阿特斯太阳能涨8.5%。 ETF中，中国科技指数ETF（CQQQ）收跌1.92%，中概互联网指数ETF（KWEB）收跌1.74%。 XtrackersHarvest中证50（ASHS）收跌2.39%，德银嘉实沪深300指数ETF（ASHR）收跌0.73%，MSCI新兴市场ex中国ETF（EMXC）收涨1.40%。",
@@ -408,7 +469,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时15分"
         }
@@ -416,7 +477,7 @@
     },
     {
       "keyword_group": "消费",
-      "match_count": 5,
+      "match_count": 8,
       "titles": [
         {
           "title": "山姆会员店在济南、青岛同开，将如何影响山东消费升级？",
@@ -425,11 +486,23 @@
           "ranks": [
             10,
             11,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时40分 ~ 06时15分]"
+          "appearance_count": 6,
+          "time_info": "[00时40分 ~ 07时55分]"
+        },
+        {
+          "title": "英国5月GfK消费者信心指数 -23，预期 -28，前值 -25。",
+          "url": "https://wallstreetcn.com/livenews/3107654",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时55分"
         },
         {
           "title": "美国里士满联储主席Barkin（2027年FOMC票委）：当前政策处于应对持续冲击的有利位置。 当前政策处于应对持续冲击的有利位置。 美联储是否需要加息，取决于企业和消费者对不断发展的形势做出何种反应。 消费者虽然“很不高兴”，但仍在继续消费。 企业迄今为止主要通过自然减员（员工离职后不补缺）而非裁员来维持和提升生产率。 忽视/看穿供给端冲击的政策在过去行之有效，但不难预见，未来我们将面临更具挑战性的环境以及更频繁的冲击。 到目前为止，长期通胀预期似乎依然得到了有效遏制。",
@@ -465,21 +538,43 @@
           "time_info": "00时40分"
         },
         {
+          "title": "英国5月Gfk消费者信心指数 -23，预期-28，前值-25。",
+          "url": "https://flash.jin10.com/detail/20260522070102191800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时55分"
+        },
+        {
           "title": "韩国5月消费者信心指数 106.1，前值99.2。",
           "url": "https://flash.jin10.com/detail/20260522050002495800",
           "source": "金十数据",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时15分"
+        },
+        {
+          "title": "英国5月Gfk消费者信心指数将于十分钟后公布。",
+          "url": "https://flash.jin10.com/detail/20260522065100000800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时55分"
         }
       ]
     },
     {
       "keyword_group": "深圳",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "深圳男篮力克广厦大比分1:2",
@@ -487,22 +582,24 @@
           "source": "抖音",
           "ranks": [
             4,
-            5
+            5,
+            1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时40分 ~ 06时15分]"
+          "appearance_count": 6,
+          "time_info": "[00时40分 ~ 07时55分]"
         },
         {
           "title": "2026文化强国建设高峰论坛在深圳开幕",
           "url": "https://www.baidu.com/s?wd=2026%E6%96%87%E5%8C%96%E5%BC%BA%E5%9B%BD%E5%BB%BA%E8%AE%BE%E9%AB%98%E5%B3%B0%E8%AE%BA%E5%9D%9B%E5%9C%A8%E6%B7%B1%E5%9C%B3%E5%BC%80%E5%B9%95",
           "source": "百度热搜",
           "ranks": [
-            9
+            9,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时40分 ~ 06时15分]"
+          "appearance_count": 6,
+          "time_info": "[00时40分 ~ 07时55分]"
         },
         {
           "title": "普京确认将赴深圳参加APEC会议",
@@ -541,12 +638,34 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时40分 ~ 06时14分]"
+        },
+        {
+          "title": "媒体人：深圳下赛季一定会续约巴吉",
+          "url": "https://www.toutiao.com/trending/7641252521696657446/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时55分"
+        },
+        {
+          "title": "CBA季后赛深圳扳回一城",
+          "url": "https://www.toutiao.com/trending/7642032939261263899/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时55分"
         }
       ]
     },
     {
       "keyword_group": "金融",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "英伟达(NVDA.O)宣布即将面向金融界举办的活动。",
@@ -555,7 +674,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时15分"
         },
@@ -569,6 +688,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时56分"
+        },
+        {
+          "title": "美国国务卿鲁比奥：古巴军方控制的金融集团GAESA执行总裁的姐妹已被逮捕。",
+          "url": "https://flash.jin10.com/detail/20260522065243883800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时55分"
         },
         {
           "title": "土耳其财政部表示，土耳其金融稳定委员会将于周五召开会议。此次会议是在法院裁定解除反对派领导人职务之后召开的。",
@@ -596,18 +726,19 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "如何评价 OpenAI 称推翻困扰数学界近 80 年的「平面单位距离猜想」？这一结果的可信度如何？",
           "url": "https://www.zhihu.com/question/2040738759281473391",
           "source": "知乎",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时40分 ~ 06时15分]"
+          "appearance_count": 6,
+          "time_info": "[00时40分 ~ 07时55分]"
         },
         {
           "title": "报道：OpenAI在第一季度创造57亿美元收入",
@@ -641,6 +772,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时56分"
+        },
+        {
+          "title": "据The Information：OpenAI创始人奥尔特曼周三暗示，即使公司提交了IPO申请，也可能会推迟实际上市时间。",
+          "url": "https://flash.jin10.com/detail/20260522061919828800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时55分"
         }
       ]
     },
@@ -703,11 +845,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33205210",
           "source": "澎湃新闻",
           "ranks": [
-            19
+            19,
+            17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时40分 ~ 06时15分]"
+          "appearance_count": 6,
+          "time_info": "[00时40分 ~ 07时55分]"
         }
       ]
     }
