@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-22T10:40:02.430888+08:00",
-  "total_titles_processed": 831,
+  "generated_at": "2026-05-22T14:43:42.421555+08:00",
+  "total_titles_processed": 1013,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时56分 ~ 10时40分]"
+          "appearance_count": 8,
+          "time_info": "[02时56分 ~ 14时43分]"
         },
         {
           "title": "伊朗局势主导市场，纳指惊险收涨，道指收创新高，原油冲高转跌，美债走势分化",
@@ -29,8 +29,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时55分 ~ 10时40分]"
+          "appearance_count": 4,
+          "time_info": "[07时55分 ~ 14时43分]"
         },
         {
           "title": "伊朗最高领袖：接近武器级的铀得留下",
@@ -91,6 +91,18 @@
           "time_info": "[04时48分 ~ 06时15分]"
         },
         {
+          "title": "伊朗：美方谈判文本在一定程度上“缩小了分歧”，伊方“正在回应”",
+          "url": "https://wallstreetcn.com/articles/3772830",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时55分 ~ 14时43分]"
+        },
+        {
           "title": "沙特阿拉伯卫星电视台：伊朗媒体报道称美伊协议已达成并将此消息源归于本台的说法是捏造的。 伊朗媒体在未经核实的情况下将相关报道归于本台的行为属于新闻失实。",
           "url": "https://wallstreetcn.com/livenews/3107624",
           "source": "华尔街见闻-快讯",
@@ -104,18 +116,6 @@
           "time_info": "[04时48分 ~ 07时55分]"
         },
         {
-          "title": "伊朗：美方谈判文本在一定程度上“缩小了分歧”，伊方“正在回应”",
-          "url": "https://wallstreetcn.com/articles/3772830",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时55分 ~ 10时40分]"
-        },
-        {
           "title": "特朗普再威胁伊朗交出浓缩铀 欧盟被爆考虑重启与俄正式沟通 | 环球市场",
           "url": "https://www.cls.cn/detail/2378520",
           "source": "财联社热门",
@@ -124,8 +124,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时55分 ~ 10时40分]"
+          "appearance_count": 4,
+          "time_info": "[07时55分 ~ 14时43分]"
         },
         {
           "title": "特朗普再威胁伊朗交出浓缩铀，称到手后或销毁",
@@ -355,7 +355,7 @@
     },
     {
       "keyword_group": "科技",
-      "match_count": 17,
+      "match_count": 20,
       "titles": [
         {
           "title": "A股放量回调，小作文惹祸？多家基金公司一线解读：高位科技兑现与海外利率扰动是主因",
@@ -421,6 +421,17 @@
           "time_info": "[04时48分 ~ 07时55分]"
         },
         {
+          "title": "国网68亿采购引爆电力机器人赛道 申昊科技订单放量力争扭亏 | 直击股东会",
+          "url": "https://www.cls.cn/detail/2378518",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时39分 ~ 14时43分]"
+        },
+        {
           "title": "标普500指数的11个板块多数收涨，公用事业板块涨1.03%，可选消费板块涨0.77%，信息技术/科技板块涨0.28%，能源板块跌1.01%，日用消费品板块跌1.63%。",
           "url": "https://wallstreetcn.com/livenews/3107621",
           "source": "华尔街见闻-快讯",
@@ -433,24 +444,13 @@
           "time_info": "[04时48分 ~ 06时15分]"
         },
         {
-          "title": "国网68亿采购引爆电力机器人赛道 申昊科技订单放量力争扭亏 | 直击股东会",
-          "url": "https://www.cls.cn/detail/2378518",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时39分 ~ 10时40分]"
-        },
-        {
           "title": "A股机器人概念股反复活跃，龙星科技直线涨停，埃夫特涨近10%，欧科亿、卡倍亿、奥比中光、迅捷兴跟涨。",
           "url": "https://wallstreetcn.com/livenews/3107712",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时40分"
         },
@@ -466,13 +466,24 @@
           "time_info": "07时55分"
         },
         {
+          "title": "A股稀土永磁板块震荡走强，龙磁科技涨超16%，三祥新材涨超8%，方邦股份此前20CM涨停，金力永磁、焦作万方等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260522142348220800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时43分"
+        },
+        {
           "title": "PCB概念股延续强势，鹏鼎控股涨停，股价续创历史新高，兴森科技、天承科技、景旺电子、胜宏科技、深南电路涨幅居前。",
           "url": "https://wallstreetcn.com/livenews/3107702",
           "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时40分"
         },
@@ -494,9 +505,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时40分"
+        },
+        {
+          "title": "港股存储概念短线拉升，兆易创新一度涨近12%，澜起科技涨近7%。",
+          "url": "https://wallstreetcn.com/livenews/3107839",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时43分"
         },
         {
           "title": "金十数据整理：每日科技要闻速递（5月22日）",
@@ -516,7 +538,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时40分"
         },
@@ -527,9 +549,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时40分"
+        },
+        {
+          "title": "港股存储概念短线拉升，兆易创新(03986.HK)一度涨逾11%，澜起科技(06809.HK)涨超5%。",
+          "url": "https://flash.jin10.com/detail/20260522141655004800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时43分"
         },
         {
           "title": "纳斯达克金龙中国指数收跌1.50%，报6659.19点。 热门中概股里，贝壳初步收跌6.5%，新东方跌4.5%，B站跌3.7%，万国数据跌3.5%，腾讯跌3.1%，百度跌2.9%，阿里跌2.1%，小米跌1.3%，大全新能源涨2.4%，文远知行涨3.4%，阿特斯太阳能涨8.5%。 ETF中，中国科技指数ETF（CQQQ）收跌1.92%，中概互联网指数ETF（KWEB）收跌1.74%。 XtrackersHarvest中证50（ASHS）收跌2.39%，德银嘉实沪深300指数ETF（ASHR）收跌0.73%，MSCI新兴市场ex中国ETF（EMXC）收涨1.40%。",
@@ -549,7 +582,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时40分"
         }
@@ -557,7 +590,7 @@
     },
     {
       "keyword_group": "消费",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "山姆会员店在济南、青岛同开，将如何影响山东消费升级？",
@@ -592,8 +625,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时39分 ~ 10时40分]"
+          "appearance_count": 3,
+          "time_info": "[10时39分 ~ 14时43分]"
         },
         {
           "title": "美国里士满联储主席Barkin（2027年FOMC票委）：当前政策处于应对持续冲击的有利位置。 当前政策处于应对持续冲击的有利位置。 美联储是否需要加息，取决于企业和消费者对不断发展的形势做出何种反应。 消费者虽然“很不高兴”，但仍在继续消费。 企业迄今为止主要通过自然减员（员工离职后不补缺）而非裁员来维持和提升生产率。 忽视/看穿供给端冲击的政策在过去行之有效，但不难预见，未来我们将面临更具挑战性的环境以及更频繁的冲击。 到目前为止，长期通胀预期似乎依然得到了有效遏制。",
@@ -660,13 +693,47 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时55分"
+        },
+        {
+          "title": "德国6月消费者信心触底反弹，但中东战争影响仍存",
+          "url": "https://flash.jin10.com/detail/20260522140555395800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时43分"
+        },
+        {
+          "title": "德国6月GfK消费者信心指数 -29.8，预期 -34，前值 -33.3。",
+          "url": "https://wallstreetcn.com/livenews/3107817",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时43分"
         }
       ]
     },
     {
       "keyword_group": "深圳",
-      "match_count": 7,
+      "match_count": 10,
       "titles": [
+        {
+          "title": "2026文化强国建设高峰论坛在深圳开幕",
+          "url": "https://www.baidu.com/s?wd=2026%E6%96%87%E5%8C%96%E5%BC%BA%E5%9B%BD%E5%BB%BA%E8%AE%BE%E9%AB%98%E5%B3%B0%E8%AE%BA%E5%9D%9B%E5%9C%A8%E6%B7%B1%E5%9C%B3%E5%BC%80%E5%B9%95",
+          "source": "百度热搜",
+          "ranks": [
+            9,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时40分 ~ 14时43分]"
+        },
         {
           "title": "深圳男篮力克广厦大比分1:2",
           "url": "https://www.douyin.com/hot/2506846",
@@ -679,18 +746,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时40分 ~ 07时55分]"
-        },
-        {
-          "title": "2026文化强国建设高峰论坛在深圳开幕",
-          "url": "https://www.baidu.com/s?wd=2026%E6%96%87%E5%8C%96%E5%BC%BA%E5%9B%BD%E5%BB%BA%E8%AE%BE%E9%AB%98%E5%B3%B0%E8%AE%BA%E5%9D%9B%E5%9C%A8%E6%B7%B1%E5%9C%B3%E5%BC%80%E5%B9%95",
-          "source": "百度热搜",
-          "ranks": [
-            9,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时40分 ~ 10时40分]"
         },
         {
           "title": "普京确认将赴深圳参加APEC会议",
@@ -707,6 +762,19 @@
           "time_info": "[00时40分 ~ 06时15分]"
         },
         {
+          "title": "拉宏挑战从上海走回深圳",
+          "url": "https://www.douyin.com/hot/2507524",
+          "source": "抖音",
+          "ranks": [
+            21,
+            29,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时40分 ~ 14时43分]"
+        },
+        {
           "title": "女子在深圳水贝捡到11条黄金首饰",
           "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%9C%A8%E6%B7%B1%E5%9C%B3%E6%B0%B4%E8%B4%9D%E6%8D%A1%E5%88%B011%E6%9D%A1%E9%BB%84%E9%87%91%E9%A6%96%E9%A5%B0%23&t=31&band_rank=19&Refer=top",
           "source": "微博",
@@ -719,16 +787,26 @@
           "time_info": "[06时14分 ~ 06时15分]"
         },
         {
-          "title": "拉宏挑战从上海走回深圳",
-          "url": "https://www.douyin.com/hot/2507524",
-          "source": "抖音",
+          "title": "深圳：2026年智能家居和其他智能产品给予15%补贴 最高补贴1500元",
+          "url": "https://wallstreetcn.com/livenews/3107838",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            21,
-            29
+            12
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时40分 ~ 06时14分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时43分"
+        },
+        {
+          "title": "深圳：2026年智能家居和其他智能产品给予15%补贴 最高补贴不超1500元",
+          "url": "https://flash.jin10.com/detail/20260522141527698800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时43分"
         },
         {
           "title": "媒体人：深圳下赛季一定会续约巴吉",
@@ -740,6 +818,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时55分"
+        },
+        {
+          "title": "深圳开公司十年房租交了一千万",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B3%E5%BC%80%E5%85%AC%E5%8F%B8%E5%8D%81%E5%B9%B4%E6%88%BF%E7%A7%9F%E4%BA%A4%E4%BA%86%E4%B8%80%E5%8D%83%E4%B8%87%23&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时43分"
         },
         {
           "title": "CBA季后赛深圳扳回一城",
@@ -765,7 +854,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时40分"
         },
@@ -939,6 +1028,34 @@
       ]
     },
     {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "金价",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时39分 ~ 10时40分]"
+        },
+        {
+          "title": "金价又“坐过山车”",
+          "url": "https://www.douyin.com/hot/2507965",
+          "source": "抖音",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时43分"
+        }
+      ]
+    },
+    {
       "keyword_group": "资源",
       "match_count": 1,
       "titles": [
@@ -967,26 +1084,9 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时40分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "金价",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=7&Refer=top",
-          "source": "微博",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时39分 ~ 10时40分]"
         }
       ]
     }
