@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-24T10:35:07.625582+08:00",
-  "total_titles_processed": 645,
+  "generated_at": "2026-05-24T14:32:08.963351+08:00",
+  "total_titles_processed": 821,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 58,
+      "match_count": 69,
       "titles": [
         {
           "title": "美伊冲突升温！特朗普不参加儿子婚礼“坐镇白宫”，伊朗警告若再遭袭将开启战斗3.0，计划“以火力”封锁曼德海峡",
@@ -157,6 +157,18 @@
           "time_info": "[00时57分 ~ 07时52分]"
         },
         {
+          "title": "特朗普称美伊协议基本谈成，内容包括开放霍尔木兹海峡，伊媒称将继续由伊朗“管理”，以媒称“对以非常不利”",
+          "url": "https://wallstreetcn.com/articles/3772980",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时34分 ~ 14时32分]"
+        },
+        {
           "title": "美国总统特朗普：与多个穆斯林国家领导人就伊朗进行了交谈。",
           "url": "https://flash.jin10.com/detail/20260524043506321800",
           "source": "金十数据",
@@ -244,6 +256,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时45分 ~ 10时35分]"
+        },
+        {
+          "title": "伊朗战争距离真正结束，就差临门一脚了",
+          "url": "https://news.ifeng.com/c/8tNe0lCsxvr",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时34分 ~ 14时32分]"
         },
         {
           "title": "据Axios报道，一名以色列官员称，美国总统特朗普预计将在周六与以色列总理内塔尼亚胡通话，讨论正在酝酿中的伊朗协议。",
@@ -444,15 +467,15 @@
           "time_info": "[00时57分 ~ 03时10分]"
         },
         {
-          "title": "伊朗战争距离真正结束，就差临门一脚了",
-          "url": "https://news.ifeng.com/c/8tNe0lCsxvr",
-          "source": "凤凰网",
+          "title": "美媒称伊朗同意放弃高浓缩铀库存",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%AA%92%E7%A7%B0%E4%BC%8A%E6%9C%97%E5%90%8C%E6%84%8F%E6%94%BE%E5%BC%83%E9%AB%98%E6%B5%93%E7%BC%A9%E9%93%80%E5%BA%93%E5%AD%98",
+          "source": "bilibili 热搜",
           "ranks": [
             6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时34分 ~ 10时35分]"
+          "time_info": "[14时31分 ~ 14时32分]"
         },
         {
           "title": "据以色列第13频道：以色列军方对一些条款表示担忧，主要包括不停止铀浓缩和允许伊朗发展导弹。",
@@ -465,17 +488,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时59分 ~ 03时10分]"
-        },
-        {
-          "title": "特朗普称美伊协议基本谈成，内容包括开放霍尔木兹海峡，伊媒称将继续由伊朗“管理”，以媒称“对以非常不利”",
-          "url": "https://wallstreetcn.com/articles/3772980",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时34分 ~ 10时35分]"
         },
         {
           "title": "据AXIOS网站记者援引两位知情人士报道称，美国总统特朗普预计将在美东时间下午1点（北京时间次日凌晨1点）与海湾地区领导人举行电话会议，讨论伊朗局势。",
@@ -514,6 +526,17 @@
           "time_info": "[01时59分 ~ 03时10分]"
         },
         {
+          "title": "美媒称伊朗同意放弃高浓缩铀库存",
+          "url": "https://www.douyin.com/hot/2510293",
+          "source": "抖音",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时31分 ~ 14时32分]"
+        },
+        {
           "title": "伊朗：要观察未来3-4天的事态发展。",
           "url": "https://wallstreetcn.com/livenews/3108380",
           "source": "华尔街见闻-快讯",
@@ -547,6 +570,17 @@
           "time_info": "[00时57分 ~ 01时59分]"
         },
         {
+          "title": "美媒称伊朗同意放弃高浓缩铀库存",
+          "url": "https://www.toutiao.com/trending/7643303787972529670/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时31分 ~ 14时32分]"
+        },
+        {
           "title": "伊朗外交部发言人就美伊冲突、霍尔木兹海峡主权及黎巴嫩停火最新表态",
           "url": "https://wallstreetcn.com/livenews/3108375",
           "source": "华尔街见闻-快讯",
@@ -564,9 +598,64 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时35分"
+        },
+        {
+          "title": "土耳其总统埃尔多安办公室表示，埃尔多安向多国领导人表态，土耳其已准备好为伊朗潜在协议的落实提供各类支持。",
+          "url": "https://flash.jin10.com/detail/20260524134231876800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时32分"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社：伊朗革命卫队指挥官艾哈迈德·瓦希迪表示，伊朗武装力量在导弹、空中、海上、地面、太空及网络作战方面均处于最高级别的战备和积极威慑状态。",
+          "url": "https://flash.jin10.com/detail/20260524134053296800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时32分"
+        },
+        {
+          "title": "据伊朗迈赫尔通讯社：伊朗革命卫队指挥官艾哈迈德·瓦希迪表示，敌人若发动任何新的袭击，都将遭到毁灭性的回应，其范围将波及整个地区乃至更广。",
+          "url": "https://flash.jin10.com/detail/20260524133956776800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时32分"
+        },
+        {
+          "title": "美媒称伊朗同意放弃高浓缩铀库存",
+          "url": "https://wallstreetcn.com/livenews/3108452",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时32分"
+        },
+        {
+          "title": "据伊朗迈赫尔通讯社：伊朗革命卫队指挥官艾哈迈德·瓦希迪威胁称，任何对伊朗的新攻击都将招致来自该地区内外的回应，并表示伊朗武装力量已处于最高战备状态。",
+          "url": "https://flash.jin10.com/detail/20260524133935723800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时32分"
         },
         {
           "title": "据美国哥伦比亚广播公司（CBS）：美国总统特朗普称，我只会签署一个能让我们从伊朗获得所有想要的东西的协议。",
@@ -690,6 +779,17 @@
           "time_info": "00时57分"
         },
         {
+          "title": "伊朗队将世界杯驻地从美国改至墨西哥",
+          "url": "https://flash.jin10.com/detail/20260524120425817800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时32分"
+        },
+        {
           "title": "伊朗：谈判重点是结束战争 正努力敲定谅解备忘录",
           "url": "https://flash.jin10.com/detail/20260523231641818800",
           "source": "金十数据",
@@ -699,6 +799,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时57分"
+        },
+        {
+          "title": "美媒称伊朗同意放弃高浓缩铀库存",
+          "url": "https://flash.jin10.com/detail/20260524120141644800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时32分"
+        },
+        {
+          "title": "伊朗否认有关暂停铀浓缩10年的报道 称谈判重点只有“结束战争”",
+          "url": "https://flash.jin10.com/detail/20260524115756370800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时32分"
         },
         {
           "title": "伊朗与阿曼强调恢复自由安全航行的重要性",
@@ -753,11 +875,12 @@
             13,
             10,
             9,
-            7
+            7,
+            17
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时58分 ~ 10时35分]"
+          "appearance_count": 12,
+          "time_info": "[01时58分 ~ 14时32分]"
         },
         {
           "title": "闻泰科技起诉安世荷兰：索赔至少80亿元，要求恢复完整控制权",
@@ -767,8 +890,20 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时57分 ~ 10时35分]"
+          "appearance_count": 13,
+          "time_info": "[00时57分 ~ 14时32分]"
+        },
+        {
+          "title": "闻泰科技称安世荷兰阻挠审计",
+          "url": "https://www.douyin.com/hot/2509947",
+          "source": "抖音",
+          "ranks": [
+            11,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时34分 ~ 14时32分]"
         },
         {
           "title": "长鑫科技董事长拿出7.68亿股给员工",
@@ -781,17 +916,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时10分 ~ 06时45分]"
-        },
-        {
-          "title": "闻泰科技称安世荷兰阻挠审计",
-          "url": "https://www.douyin.com/hot/2509947",
-          "source": "抖音",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时34分 ~ 10时35分]"
         }
       ]
     },
@@ -904,11 +1028,12 @@
             12,
             10,
             9,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[04时41分 ~ 10时35分]"
+          "appearance_count": 9,
+          "time_info": "[04时41分 ~ 14时32分]"
         }
       ]
     }
