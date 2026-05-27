@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-28T04:05:08.321177+08:00",
-  "total_titles_processed": 384,
+  "generated_at": "2026-05-28T06:28:05.960240+08:00",
+  "total_titles_processed": 463,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 33,
+      "match_count": 37,
       "titles": [
         {
           "title": "伊朗官员称美国将在所有战线停火60天",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时54分 ~ 04时05分]"
+          "appearance_count": 5,
+          "time_info": "[01时54分 ~ 06时28分]"
         },
         {
           "title": "王毅谈当前伊朗局势僵局",
@@ -27,8 +27,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时54分 ~ 04时05分]"
+          "appearance_count": 5,
+          "time_info": "[01时54分 ~ 06时28分]"
         },
         {
           "title": "伊媒：文件披露，美军事力量将撤出伊朗周边",
@@ -38,8 +38,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时54分 ~ 04时05分]"
+          "appearance_count": 5,
+          "time_info": "[01时54分 ~ 06时28分]"
         },
         {
           "title": "伊朗情报部：敌方正通过“软战争”向伊朗施压",
@@ -49,8 +49,42 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时54分 ~ 04时05分]"
+          "appearance_count": 5,
+          "time_info": "[01时54分 ~ 06时28分]"
+        },
+        {
+          "title": "伊朗：美方承诺在所有战线停火60天，战争重新爆发的可能性\"低\"",
+          "url": "https://wallstreetcn.com/articles/3773227",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时54分 ~ 06时28分]"
+        },
+        {
+          "title": "伊美“停火框架”草案披露：美国解除“海上封锁”并部分撤军，伊朗于一个月内逐步通航",
+          "url": "https://wallstreetcn.com/articles/3773253",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时54分 ~ 06时28分]"
+        },
+        {
+          "title": "一份协议如何让双方“宣布胜利”？美国提出新要求，伊朗有两个目标",
+          "url": "https://wallstreetcn.com/articles/3773194",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时54分 ~ 06时28分]"
         },
         {
           "title": "特朗普暗示伊朗协议可能取决于阿拉伯国家是否加入亚伯拉罕协议",
@@ -62,39 +96,6 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时54分 ~ 04时05分]"
-        },
-        {
-          "title": "伊朗：美方承诺在所有战线停火60天，战争重新爆发的可能性\"低\"",
-          "url": "https://wallstreetcn.com/articles/3773227",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时54分 ~ 04时05分]"
-        },
-        {
-          "title": "伊美“停火框架”草案披露：美国解除“海上封锁”并部分撤军，伊朗于一个月内逐步通航",
-          "url": "https://wallstreetcn.com/articles/3773253",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时54分 ~ 04时05分]"
-        },
-        {
-          "title": "一份协议如何让双方“宣布胜利”？美国提出新要求，伊朗有两个目标",
-          "url": "https://wallstreetcn.com/articles/3773194",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
           "time_info": "[01时54分 ~ 04时05分]"
         },
         {
@@ -127,7 +128,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时05分"
         },
@@ -149,9 +150,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时05分"
+        },
+        {
+          "title": "伊朗称不因特朗普言论而退缩",
+          "url": "https://flash.jin10.com/detail/20260528052138235800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时28分"
         },
         {
           "title": "墨西哥央行行长Rodriguez：预计经济将在二季度重拾增长趋势。 伊朗战争加重了经济面临的下行风险。 世界杯对经济的利好效应可能会超过预期。",
@@ -160,7 +172,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时05分"
         },
@@ -193,7 +205,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时05分"
         },
@@ -220,6 +232,17 @@
           "time_info": "01时54分"
         },
         {
+          "title": "伊朗：特朗普为了摆脱僵局只能反复无常",
+          "url": "https://flash.jin10.com/detail/20260528045755535800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时28分"
+        },
+        {
           "title": "伊朗伊斯兰革命卫队：过去24小时23艘船只获准通过霍尔木兹海峡",
           "url": "https://wallstreetcn.com/livenews/3110201",
           "source": "华尔街见闻-快讯",
@@ -231,13 +254,24 @@
           "time_info": "01时54分"
         },
         {
+          "title": "伊朗：伊朗不会因特朗普的言辞而退让红线",
+          "url": "https://flash.jin10.com/detail/20260528045742064800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时28分"
+        },
+        {
           "title": "据伊朗学生通讯社：伊斯法罕国际机场在停运80天后将全面恢复运营。",
           "url": "https://flash.jin10.com/detail/20260528023644876800",
           "source": "金十数据",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时05分"
         },
@@ -262,6 +296,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时54分"
+        },
+        {
+          "title": "伊朗称不因特朗普言论而退缩",
+          "url": "https://wallstreetcn.com/livenews/3110265",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时28分"
         },
         {
           "title": "美国总统特朗普：（谈伊朗）他们表现好时，我们会让他们拿回资金。",
@@ -377,20 +422,8 @@
     },
     {
       "keyword_group": "科技",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
-        {
-          "title": "中国第一大 DRAM 厂商长鑫科技科创板 IPO 获上市委会议通过，会对国产芯片市场有怎样的影响？",
-          "url": "https://www.zhihu.com/question/2042900633947038528",
-          "source": "知乎",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时54分 ~ 04时05分]"
-        },
         {
           "title": "国产存储迎来里程碑时刻！长鑫科技过会 科创板首单 “预先审阅” 项目迈出重要一步",
           "url": "https://www.cls.cn/detail/2383105",
@@ -399,19 +432,44 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时54分 ~ 04时05分]"
+          "appearance_count": 5,
+          "time_info": "[01时54分 ~ 06时28分]"
+        },
+        {
+          "title": "中国第一大 DRAM 厂商长鑫科技科创板 IPO 获上市委会议通过，会对国产芯片市场有怎样的影响？",
+          "url": "https://www.zhihu.com/question/2042900633947038528",
+          "source": "知乎",
+          "ranks": [
+            1,
+            2,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时54分 ~ 06时28分]"
         },
         {
           "title": "长鑫科技，科创板IPO过会！",
           "url": "https://wallstreetcn.com/articles/3773236",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时54分 ~ 06时28分]"
+        },
+        {
+          "title": "【数据看盘】多路资金激烈博弈华天科技，量化资金联手游资抢筹光伏人气股",
+          "url": "https://www.cls.cn/detail/2383044",
+          "source": "财联社热门",
+          "ranks": [
+            13
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[01时54分 ~ 04时05分]"
+          "time_info": "[01时54分 ~ 06时28分]"
         },
         {
           "title": "长鑫科技科创板IPO获通过",
@@ -425,15 +483,15 @@
           "time_info": "[04时04分 ~ 04时05分]"
         },
         {
-          "title": "【数据看盘】多路资金激烈博弈华天科技，量化资金联手游资抢筹光伏人气股",
-          "url": "https://www.cls.cn/detail/2383044",
-          "source": "财联社热门",
+          "title": "戴尔科技美股盘后涨4.8%，该公司赢得防务合同。",
+          "url": "https://wallstreetcn.com/livenews/3110274",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            11
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时54分"
+          "time_info": "06时28分"
         },
         {
           "title": "恒生指数主连夜盘收跌0.02%，报25259点。 恒生科技指数主连夜盘收涨0.39%，报4922点。",
@@ -442,9 +500,70 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时05分"
+        },
+        {
+          "title": "迈威尔科技：预计2027财年销售115亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3110263",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时28分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "消费",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "【每日收评】沪指跌超1%失守4100点，全市场近4500股收绿，白酒等消费股逆势拉升",
+          "url": "https://www.cls.cn/detail/2383004",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时54分 ~ 06时28分]"
+        },
+        {
+          "title": "消费者投诉「五个女博士」喝后出现过敏起水泡等不良反应，商家拒绝退货退款‌，遇到这种情况该怎么办？",
+          "url": "https://www.zhihu.com/question/2042882491095015915",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时54分 ~ 06时28分]"
+        },
+        {
+          "title": "富国银行(WFC.N)CEO：消费者支出在最近几周有所改善，尽管企业仍然保持谨慎，但财务状况良好。",
+          "url": "https://flash.jin10.com/detail/20260528045836649800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时28分"
+        },
+        {
+          "title": "周三（5月27日），美股行业ETF涨跌各异，能源业ETF收跌1.49%，半导体ETF、区域银行ETF、银行业ETF至多跌1.10%，日常消费品ETF、可选消费ETF至多涨1.76%，全球航空业ETF涨2.90%。",
+          "url": "https://wallstreetcn.com/livenews/3110256",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时28分"
         }
       ]
     },
@@ -457,11 +576,12 @@
           "url": "https://www.cls.cn/detail/2383242",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时54分 ~ 04时05分]"
+          "appearance_count": 5,
+          "time_info": "[01时54分 ~ 06时28分]"
         },
         {
           "title": "加拿大自然资源部长：除了德国之外，欧洲其他买家也对加拿大液化天然气（LNG）感兴趣。",
@@ -470,7 +590,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时05分"
         },
@@ -481,7 +601,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时05分"
         }
@@ -498,7 +618,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时05分"
         },
@@ -527,36 +647,8 @@
       ]
     },
     {
-      "keyword_group": "消费",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "【每日收评】沪指跌超1%失守4100点，全市场近4500股收绿，白酒等消费股逆势拉升",
-          "url": "https://www.cls.cn/detail/2383004",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时54分 ~ 04时05分]"
-        },
-        {
-          "title": "消费者投诉「五个女博士」喝后出现过敏起水泡等不良反应，商家拒绝退货退款‌，遇到这种情况该怎么办？",
-          "url": "https://www.zhihu.com/question/2042882491095015915",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时54分"
-        }
-      ]
-    },
-    {
       "keyword_group": "制造业",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "前四月高技术制造业利润增44.8%",
@@ -566,8 +658,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时54分 ~ 04时05分]"
+          "appearance_count": 5,
+          "time_info": "[01时54分 ~ 06时28分]"
+        },
+        {
+          "title": "新西兰联储主席Anna Breman：正在密切关注“高成本与通胀导致的更疲软的需求”将在多大程度上抑制其他商品的价格上涨。 新西兰经济的某些部分表现依然良好，其中包括农业以及制造业的部分领域。 听说以出口为导向的企业目前经营状况良好，但它们对充满不确定性的外部环境感到担忧。",
+          "url": "https://wallstreetcn.com/livenews/3110254",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时28分"
         }
       ]
     },
@@ -581,11 +684,12 @@
           "source": "百度热搜",
           "ranks": [
             9,
-            18
+            18,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时54分 ~ 04时05分]"
+          "appearance_count": 5,
+          "time_info": "[01时54分 ~ 06时28分]"
         }
       ]
     },
@@ -619,8 +723,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时54分 ~ 04时05分]"
+          "appearance_count": 5,
+          "time_info": "[01时54分 ~ 06时28分]"
         }
       ]
     }
