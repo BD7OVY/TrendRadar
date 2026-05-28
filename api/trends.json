@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-28T07:56:54.546191+08:00",
-  "total_titles_processed": 549,
+  "generated_at": "2026-05-28T10:33:44.508882+08:00",
+  "total_titles_processed": 719,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 51,
+      "match_count": 63,
       "titles": [
         {
           "title": "王毅谈当前伊朗局势僵局",
@@ -62,8 +62,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时54分 ~ 07时56分]"
+          "appearance_count": 7,
+          "time_info": "[01时54分 ~ 10时33分]"
         },
         {
           "title": "伊美“停火框架”草案披露：美国解除“海上封锁”并部分撤军，伊朗于一个月内逐步通航",
@@ -74,8 +74,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时54分 ~ 07时56分]"
+          "appearance_count": 7,
+          "time_info": "[01时54分 ~ 10时33分]"
+        },
+        {
+          "title": "伊朗先发制人了",
+          "url": "https://news.ifeng.com/c/8tUFuNsH8BY",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时56分 ~ 10时33分]"
         },
         {
           "title": "一份协议如何让双方“宣布胜利”？美国提出新要求，伊朗有两个目标",
@@ -91,24 +102,13 @@
           "time_info": "[01时54分 ~ 07时56分]"
         },
         {
-          "title": "伊朗先发制人了",
-          "url": "https://news.ifeng.com/c/8tUFuNsH8BY",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时56分"
-        },
-        {
           "title": "美官员：美军对伊朗军事设施实施新打击",
           "url": "https://wallstreetcn.com/livenews/3110304",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时56分"
         },
@@ -119,7 +119,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时56分"
         },
@@ -130,20 +130,54 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时56分"
+        },
+        {
+          "title": "伊朗将浓缩铀运往中俄？特朗普回应",
+          "url": "https://news.ifeng.com/c/8tUQKRTEeEB",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时33分"
+        },
+        {
+          "title": "消息人士：4艘船在伊朗海军鸣枪示警后被迫返航",
+          "url": "https://wallstreetcn.com/livenews/3110386",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时33分"
+        },
+        {
+          "title": "美军对伊朗实施新一轮空袭，击落4架无人机",
+          "url": "https://news.ifeng.com/c/8tUKOkpz0DS",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时33分"
         },
         {
           "title": "美国伊朗开始爆发直接冲突",
           "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E4%BC%8A%E6%9C%97%E5%BC%80%E5%A7%8B%E7%88%86%E5%8F%91%E7%9B%B4%E6%8E%A5%E5%86%B2%E7%AA%81%23&t=31&band_rank=4&Refer=top",
           "source": "微博",
           "ranks": [
-            4
+            4,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时56分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时56分 ~ 10时33分]"
         },
         {
           "title": "特朗普暗示伊朗协议可能取决于阿拉伯国家是否加入亚伯拉罕协议",
@@ -156,6 +190,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时54分 ~ 04时05分]"
+        },
+        {
+          "title": "伊朗阿巴斯港附近传出爆炸声",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E9%98%BF%E5%B7%B4%E6%96%AF%E6%B8%AF%E9%99%84%E8%BF%91%E4%BC%A0%E5%87%BA%E7%88%86%E7%82%B8%E5%A3%B0",
+          "source": "百度热搜",
+          "ranks": [
+            7,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时56分 ~ 10时33分]"
         },
         {
           "title": "特朗普称伊朗“表现得当”后才能拿回资金",
@@ -198,20 +244,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时56分"
         },
         {
-          "title": "伊朗阿巴斯港附近传出爆炸声",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E9%98%BF%E5%B7%B4%E6%96%AF%E6%B8%AF%E9%99%84%E8%BF%91%E4%BC%A0%E5%87%BA%E7%88%86%E7%82%B8%E5%A3%B0",
-          "source": "百度热搜",
+          "title": "美以袭击伊朗进入第 90 天，当前局势如何？哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2043104464907629617",
+          "source": "知乎",
           "ranks": [
-            7
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时56分"
+          "time_info": "10时33分"
         },
         {
           "title": "美国总统特朗普：（谈伊朗）我们并不是为了政权而来。",
@@ -231,9 +277,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时56分"
+        },
+        {
+          "title": "美国财长贝森特：美国财政部继续对伊朗施加最大压力。",
+          "url": "https://wallstreetcn.com/livenews/3110377",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时33分"
         },
         {
           "title": "特朗普：如果阿曼在海峡问题上站在伊朗一边，将“炸掉”阿曼",
@@ -269,6 +326,28 @@
           "time_info": "04时05分"
         },
         {
+          "title": "美国政府当地时间27日将伊朗新设立的“波斯湾海峡管理局”列入制裁名单。（央视）",
+          "url": "https://wallstreetcn.com/livenews/3110374",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时33分"
+        },
+        {
+          "title": "特朗普称对谈判进程“不满意”、“不在意中选”，对“浓缩铀、制裁、霍尔木兹海峡”等划出红线，伊朗回应“不会退缩”",
+          "url": "https://wallstreetcn.com/articles/3773275",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时33分"
+        },
+        {
           "title": "美国总统特朗普：若《亚伯拉罕协议》无法落实，我不确定是否还要与伊朗达成协议。如果海湾国家不签署《亚伯拉罕协议》，我认为我们就不该和伊朗达成协议。",
           "url": "https://flash.jin10.com/detail/20260528011427030800",
           "source": "金十数据",
@@ -286,7 +365,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时56分"
         },
@@ -330,7 +409,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时56分"
         },
@@ -341,7 +420,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时56分"
         },
@@ -388,6 +467,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时28分"
+        },
+        {
+          "title": "伊媒：4艘船在伊朗海军鸣枪示警后被迫返航",
+          "url": "https://flash.jin10.com/detail/20260528100404969800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时33分"
+        },
+        {
+          "title": "美媒：美军再次短暂空袭伊朗",
+          "url": "https://www.toutiao.com/trending/7644203153613488174/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时33分"
         },
         {
           "title": "据伊朗学生通讯社：伊斯法罕国际机场在停运80天后将全面恢复运营。",
@@ -451,7 +552,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时56分"
         },
@@ -473,7 +574,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时56分"
         },
@@ -517,7 +618,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时56分"
         },
@@ -555,6 +656,17 @@
           "time_info": "01时54分"
         },
         {
+          "title": "美国财长贝森特：美国财政部将继续对伊朗施加最大压力。",
+          "url": "https://flash.jin10.com/detail/20260528095848586800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时33分"
+        },
+        {
           "title": "特朗普：伊朗即使放弃高浓缩铀也无法获得解除制裁",
           "url": "https://wallstreetcn.com/livenews/3110180",
           "source": "华尔街见闻-快讯",
@@ -575,12 +687,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时54分"
+        },
+        {
+          "title": "伊朗媒体称美军袭击阿巴斯港周围焦土，未造成损失",
+          "url": "https://wallstreetcn.com/livenews/3110343",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时33分"
+        },
+        {
+          "title": "伊朗媒体称一艘试图穿越霍尔木兹海峡的美国油轮被迫折返",
+          "url": "https://wallstreetcn.com/livenews/3110339",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时33分"
         }
       ]
     },
     {
       "keyword_group": "科技",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "国产存储迎来里程碑时刻！长鑫科技过会 科创板首单 “预先审阅” 项目迈出重要一步",
@@ -614,11 +748,12 @@
           "ranks": [
             10,
             9,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时54分 ~ 07时56分]"
+          "appearance_count": 7,
+          "time_info": "[01时54分 ~ 10时33分]"
         },
         {
           "title": "迈威尔科技预计定制芯片业务2029财年营收超100亿美元",
@@ -627,7 +762,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时56分"
         },
@@ -677,6 +812,17 @@
           "time_info": "04时05分"
         },
         {
+          "title": "A股算力租赁概念盘初活跃，大位科技一字涨停，天亿马、东方国信、平治信息、润泽科技、贵广网络涨幅居前。",
+          "url": "https://wallstreetcn.com/livenews/3110358",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时33分"
+        },
+        {
           "title": "迈威尔科技：预计2027财年销售115亿美元。",
           "url": "https://wallstreetcn.com/livenews/3110263",
           "source": "华尔街见闻-快讯",
@@ -686,6 +832,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时28分"
+        },
+        {
+          "title": "恒指低开0.39%，报25230.58点；恒生科技指数跌0.25%。快手、华虹半导体跌超1%。蔚来涨超7%，小鹏集团涨超1%。",
+          "url": "https://wallstreetcn.com/livenews/3110346",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时33分"
         }
       ]
     },
@@ -734,7 +891,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时56分"
         },
@@ -748,6 +905,57 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时28分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "资源",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "李强：加快建设大宗商品资源配置枢纽 为统筹发展和安全提供可靠保障",
+          "url": "https://www.cls.cn/detail/2383242",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时54分 ~ 07时56分]"
+        },
+        {
+          "title": "自然资源部：力争到2030年海洋创新药产业增加值突破1300亿元",
+          "url": "https://wallstreetcn.com/livenews/3110388",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时33分"
+        },
+        {
+          "title": "加拿大自然资源部长：除了德国之外，欧洲其他买家也对加拿大液化天然气（LNG）感兴趣。",
+          "url": "https://wallstreetcn.com/livenews/3110218",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时05分"
+        },
+        {
+          "title": "加拿大自然资源部长：其他欧洲买家对加拿大液化天然气表示兴趣。",
+          "url": "https://flash.jin10.com/detail/20260528021037983800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时05分"
         }
       ]
     },
@@ -773,7 +981,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时56分"
         },
@@ -802,46 +1010,6 @@
       ]
     },
     {
-      "keyword_group": "资源",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "李强：加快建设大宗商品资源配置枢纽 为统筹发展和安全提供可靠保障",
-          "url": "https://www.cls.cn/detail/2383242",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时54分 ~ 07时56分]"
-        },
-        {
-          "title": "加拿大自然资源部长：除了德国之外，欧洲其他买家也对加拿大液化天然气（LNG）感兴趣。",
-          "url": "https://wallstreetcn.com/livenews/3110218",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时05分"
-        },
-        {
-          "title": "加拿大自然资源部长：其他欧洲买家对加拿大液化天然气表示兴趣。",
-          "url": "https://flash.jin10.com/detail/20260528021037983800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时05分"
-        }
-      ]
-    },
-    {
       "keyword_group": "制造业",
       "match_count": 2,
       "titles": [
@@ -853,8 +1021,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时54分 ~ 07时56分]"
+          "appearance_count": 7,
+          "time_info": "[01时54分 ~ 10时33分]"
         },
         {
           "title": "新西兰联储主席Anna Breman：正在密切关注“高成本与通胀导致的更疲软的需求”将在多大程度上抑制其他商品的价格上涨。 新西兰经济的某些部分表现依然良好，其中包括农业以及制造业的部分领域。 听说以出口为导向的企业目前经营状况良好，但它们对充满不确定性的外部环境感到担忧。",
@@ -870,6 +1038,62 @@
       ]
     },
     {
+      "keyword_group": "金融",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "韩国央行：将实施政策以稳定通胀在目标水平。 将在监测通胀压力的同时做出决定。 需要关注汇率的剧烈波动。 中东战争加剧通胀压力和不确定性。 出口强劲推动经济增长强于预期。 金融稳定性风险依然存在。",
+          "url": "https://wallstreetcn.com/livenews/3110360",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时33分"
+        },
+        {
+          "title": "新西兰财长表示，将对银行、非银行存款机构、保险公司及其他金融市场参与者引入审慎税。",
+          "url": "https://flash.jin10.com/detail/20260528100248682800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时33分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "医药",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "我国首部海洋生物医药产业发展的政策文件发布",
+          "url": "https://wallstreetcn.com/livenews/3110381",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时33分"
+        },
+        {
+          "title": "我国首部海洋生物医药产业发展的政策文件发布",
+          "url": "https://flash.jin10.com/detail/20260528100136458800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时33分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 2,
       "titles": [
@@ -880,7 +1104,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时56分"
         },
@@ -891,7 +1115,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时56分"
         }
