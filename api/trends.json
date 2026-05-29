@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-05-29T06:29:29.595441+08:00",
-  "total_titles_processed": 470,
+  "generated_at": "2026-05-29T08:06:11.325528+08:00",
+  "total_titles_processed": 570,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 33,
+      "match_count": 34,
       "titles": [
         {
           "title": "特朗普称对谈判进程“不满意”、“不在意中选”，对“浓缩铀、制裁、霍尔木兹海峡”等划出红线，伊朗回应“不会退缩”",
           "url": "https://wallstreetcn.com/articles/3773275",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时59分 ~ 06时29分]"
+          "appearance_count": 5,
+          "time_info": "[01时59分 ~ 08时06分]"
         },
         {
           "title": "伊朗外交部谴责美国对阿曼的威胁",
@@ -25,7 +26,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时29分"
         },
@@ -58,7 +59,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时29分"
         },
@@ -69,11 +70,12 @@
           "ranks": [
             13,
             8,
-            6
+            6,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时59分 ~ 06时29分]"
+          "appearance_count": 5,
+          "time_info": "[01时59分 ~ 08时06分]"
         },
         {
           "title": "媒体称伊朗愿意将高浓缩铀转运至中国进行处理，国防部回应",
@@ -84,8 +86,19 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时59分 ~ 06时29分]"
+          "appearance_count": 5,
+          "time_info": "[01时59分 ~ 08时06分]"
+        },
+        {
+          "title": "伊朗否认“已敲定谅解备忘录”",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%90%A6%E8%AE%A4%E2%80%9C%E5%B7%B2%E6%95%B2%E5%AE%9A%E8%B0%85%E8%A7%A3%E5%A4%87%E5%BF%98%E5%BD%95%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时05分 ~ 08时06分]"
         },
         {
           "title": "美国官员：并没有美国飞机在伊朗Bushehr周边被击落。",
@@ -94,7 +107,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时29分"
         },
@@ -116,7 +129,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时29分"
         },
@@ -127,7 +140,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时29分"
         },
@@ -138,7 +151,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时29分"
         },
@@ -160,7 +173,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时29分"
         },
@@ -237,7 +250,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时29分"
         },
@@ -281,7 +294,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时29分"
         },
@@ -314,7 +327,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时29分"
         },
@@ -347,7 +360,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时29分"
         },
@@ -358,7 +371,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时29分"
         },
@@ -399,8 +412,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时59分 ~ 06时29分]"
+          "appearance_count": 5,
+          "time_info": "[01时59分 ~ 08时06分]"
         },
         {
           "title": "【焦点复盘】沪指午后深V回升小幅收涨，科技权重股全线发力，“易中天”三巨头齐创历史新高",
@@ -411,19 +424,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时59分 ~ 06时29分]"
+          "appearance_count": 5,
+          "time_info": "[01时59分 ~ 08时06分]"
         },
         {
           "title": "最亮的星致敬中国科技工作者",
           "url": "https://search.bilibili.com/all?keyword=%E6%9C%80%E4%BA%AE%E7%9A%84%E6%98%9F%E8%87%B4%E6%95%AC%E4%B8%AD%E5%9B%BD%E7%A7%91%E6%8A%80%E5%B7%A5%E4%BD%9C%E8%80%85",
           "source": "bilibili 热搜",
           "ranks": [
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时59分 ~ 06时29分]"
+          "appearance_count": 5,
+          "time_info": "[01时59分 ~ 08时06分]"
         },
         {
           "title": "戴尔科技一季度总体净营收438.4亿美元，分析师预期355.2亿美元。 一季度调整后运营利润42.4亿美元，分析师预期27.7亿美元。 一季度基础设施解决方案集团净营收290.1亿美元。 上调2027财年AI服务器营收预期至大约600亿美元，之前预计大约500亿美元。 预计全年营收1650亿-1690亿美元，公司原本预计1380亿-1420亿美元。 预计全年调整后EPS中位数为17.90美元，分析师预期13.14美元，公司原本预计12.90美元。 预计二季度营收440亿-450亿美元，分析师预期350.6亿美元。 戴尔盘后涨7%。",
@@ -454,7 +468,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时29分"
         },
@@ -476,7 +490,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时29分"
         }
@@ -543,7 +557,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时29分"
         },
@@ -565,7 +579,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时29分"
         }
@@ -583,8 +597,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时59分 ~ 06时29分]"
+          "appearance_count": 5,
+          "time_info": "[01时59分 ~ 08时06分]"
         },
         {
           "title": "泄露《主角》资源最高可判十年",
@@ -612,8 +626,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时59分 ~ 06时29分]"
+          "appearance_count": 5,
+          "time_info": "[01时59分 ~ 08时06分]"
         },
         {
           "title": "美国消费者保护监管机构召回全国所有员工至华盛顿总部",
@@ -622,9 +636,26 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时29分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金融",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "城市更新“十五五”规划：探索金融支持城镇老旧住房自主更新、原拆原建",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33256618",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时05分 ~ 08时06分]"
         }
       ]
     },
