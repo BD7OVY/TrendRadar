@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-29T08:06:11.325528+08:00",
-  "total_titles_processed": 570,
+  "generated_at": "2026-05-29T13:09:08.544125+08:00",
+  "total_titles_processed": 797,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 34,
+      "match_count": 38,
       "titles": [
         {
           "title": "特朗普称对谈判进程“不满意”、“不在意中选”，对“浓缩铀、制裁、霍尔木兹海峡”等划出红线，伊朗回应“不会退缩”",
@@ -20,6 +20,30 @@
           "time_info": "[01时59分 ~ 08时06分]"
         },
         {
+          "title": "媒体称伊朗愿意将高浓缩铀转运至中国进行处理，国防部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33254948",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            16,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时59分 ~ 13时09分]"
+        },
+        {
+          "title": "伊朗称击落一架美军飞机，美方回应",
+          "url": "https://news.ifeng.com/c/8tVu1gkD4Ca",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时08分 ~ 13时09分]"
+        },
+        {
           "title": "伊朗外交部谴责美国对阿曼的威胁",
           "url": "https://flash.jin10.com/detail/20260529061116002800",
           "source": "金十数据",
@@ -29,6 +53,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时29分"
+        },
+        {
+          "title": "伊朗总统表示，伊朗致力于外交途径。",
+          "url": "https://wallstreetcn.com/livenews/3111136",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时09分"
         },
         {
           "title": "伊朗塔斯尼姆通讯社（Tasnim）：海面上传来的声响是因向霍尔木兹海峡内的船只发出警告而进行交火所致。",
@@ -78,18 +113,6 @@
           "time_info": "[01时59分 ~ 08时06分]"
         },
         {
-          "title": "媒体称伊朗愿意将高浓缩铀转运至中国进行处理，国防部回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33254948",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时59分 ~ 08时06分]"
-        },
-        {
           "title": "伊朗否认“已敲定谅解备忘录”",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%90%A6%E8%AE%A4%E2%80%9C%E5%B7%B2%E6%95%B2%E5%AE%9A%E8%B0%85%E8%A7%A3%E5%A4%87%E5%BF%98%E5%BD%95%E2%80%9D",
           "source": "百度热搜",
@@ -99,6 +122,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时05分 ~ 08时06分]"
+        },
+        {
+          "title": "美称敲定“谅解备忘录”遭伊朗否认",
+          "url": "https://www.toutiao.com/trending/7645098099924323890/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时08分 ~ 13时09分]"
         },
         {
           "title": "美国官员：并没有美国飞机在伊朗Bushehr周边被击落。",
@@ -132,6 +166,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时29分"
+        },
+        {
+          "title": "伊朗总统：伊朗致力于外交途径。",
+          "url": "https://flash.jin10.com/detail/20260529122428576800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时09分"
         },
         {
           "title": "美国副总统万斯：我们还没有与伊朗达成协议，但已经很接近了。",
@@ -390,8 +435,20 @@
     },
     {
       "keyword_group": "科技",
-      "match_count": 9,
+      "match_count": 13,
       "titles": [
+        {
+          "title": "最亮的星致敬中国科技工作者",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9C%80%E4%BA%AE%E7%9A%84%E6%98%9F%E8%87%B4%E6%95%AC%E4%B8%AD%E5%9B%BD%E7%A7%91%E6%8A%80%E5%B7%A5%E4%BD%9C%E8%80%85",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时59分 ~ 13时09分]"
+        },
         {
           "title": "标普500指数的11个板块涨跌各异，保健板块收涨1.41%，信息技术/科技板块涨1.34%，能源板块跌0.14%，公用事业板块跌1.13%。",
           "url": "https://wallstreetcn.com/livenews/3110928",
@@ -428,18 +485,6 @@
           "time_info": "[01时59分 ~ 08时06分]"
         },
         {
-          "title": "最亮的星致敬中国科技工作者",
-          "url": "https://search.bilibili.com/all?keyword=%E6%9C%80%E4%BA%AE%E7%9A%84%E6%98%9F%E8%87%B4%E6%95%AC%E4%B8%AD%E5%9B%BD%E7%A7%91%E6%8A%80%E5%B7%A5%E4%BD%9C%E8%80%85",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时59分 ~ 08时06分]"
-        },
-        {
           "title": "戴尔科技一季度总体净营收438.4亿美元，分析师预期355.2亿美元。 一季度调整后运营利润42.4亿美元，分析师预期27.7亿美元。 一季度基础设施解决方案集团净营收290.1亿美元。 上调2027财年AI服务器营收预期至大约600亿美元，之前预计大约500亿美元。 预计全年营收1650亿-1690亿美元，公司原本预计1380亿-1420亿美元。 预计全年调整后EPS中位数为17.90美元，分析师预期13.14美元，公司原本预计12.90美元。 预计二季度营收440亿-450亿美元，分析师预期350.6亿美元。 戴尔盘后涨7%。",
           "url": "https://wallstreetcn.com/livenews/3110924",
           "source": "华尔街见闻-快讯",
@@ -462,6 +507,28 @@
           "time_info": "04时24分"
         },
         {
+          "title": "港股持续走高，恒指、恒生科技指数双双涨逾1%，恒生生物科技指数涨逾3%。",
+          "url": "https://wallstreetcn.com/livenews/3111117",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时09分"
+        },
+        {
+          "title": "港股午评：恒生科技指数收涨1.66% 联想系大涨",
+          "url": "https://flash.jin10.com/detail/20260529120959157800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时09分"
+        },
+        {
           "title": "戴尔科技美股盘后涨幅扩大至27%。",
           "url": "https://wallstreetcn.com/livenews/3110950",
           "source": "华尔街见闻-快讯",
@@ -471,6 +538,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时29分"
+        },
+        {
+          "title": "闻泰科技董事长杨沐：安世中国独立运营体系已基本完成搭建",
+          "url": "https://wallstreetcn.com/livenews/3111114",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时09分"
         },
         {
           "title": "恒生指数主连夜盘收涨0.60%，报24995点。 恒生科技指数主连夜盘收涨0.70%，报4907点。",
@@ -493,6 +571,79 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时29分"
+        },
+        {
+          "title": "Piper Sandler将戴尔科技目标股价从167美元上调至497美元。",
+          "url": "https://wallstreetcn.com/livenews/3111097",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时09分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金融",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "美国迎来“娃娃炒股”金融实验：千万新生儿一出生就开始买ETF",
+          "url": "https://www.cls.cn/detail/2384749",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时08分 ~ 13时09分]"
+        },
+        {
+          "title": "城市更新“十五五”规划：探索金融支持城镇老旧住房自主更新、原拆原建",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33256618",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时05分 ~ 13时09分]"
+        },
+        {
+          "title": "上海严打金融“黑灰产”",
+          "url": "https://www.toutiao.com/trending/7645099794259738687/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时08分 ~ 13时09分]"
+        },
+        {
+          "title": "小红书打击金融黑灰产：处置“非法境外开户”“债务重组”等违规账号1.6万个",
+          "url": "https://wallstreetcn.com/livenews/3111129",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时09分"
+        },
+        {
+          "title": "小红书打击金融黑灰产：处置“非法境外开户”“债务重组”等违规账号1.6万个",
+          "url": "https://flash.jin10.com/detail/20260529120925487800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时09分"
         }
       ]
     },
@@ -543,6 +694,45 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时24分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "消费",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "多元业态融合 拓展夏季消费新空间",
+          "url": "https://www.toutiao.com/trending/7644523614888869929/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时59分 ~ 08时06分]"
+        },
+        {
+          "title": "美国消费者保护监管机构召回全国所有员工至华盛顿总部",
+          "url": "https://wallstreetcn.com/livenews/3110951",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时29分"
+        },
+        {
+          "title": "5月29日午间收评：创业板指半日跌超1%，消费、地产股逆势走强",
+          "url": "https://wallstreetcn.com/livenews/3111110",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时09分"
         }
       ]
     },
@@ -615,47 +805,30 @@
       ]
     },
     {
-      "keyword_group": "消费",
+      "keyword_group": "金价",
       "match_count": 2,
       "titles": [
         {
-          "title": "多元业态融合 拓展夏季消费新空间",
-          "url": "https://www.toutiao.com/trending/7644523614888869929/",
-          "source": "今日头条",
+          "title": "美伊新一轮互袭，全球股市承压，Snowflake美股盘前涨近35%，油价拉升4%，金价跌破4400美元关口",
+          "url": "https://wallstreetcn.com/articles/3773313",
+          "source": "华尔街见闻",
           "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时59分 ~ 08时06分]"
-        },
-        {
-          "title": "美国消费者保护监管机构召回全国所有员工至华盛顿总部",
-          "url": "https://wallstreetcn.com/livenews/3110951",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时29分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金融",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "城市更新“十五五”规划：探索金融支持城镇老旧住房自主更新、原拆原建",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33256618",
-          "source": "澎湃新闻",
-          "ranks": [
-            13
+            1
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[08时05分 ~ 08时06分]"
+          "time_info": "[01时59分 ~ 04时24分]"
+        },
+        {
+          "title": "金价又跌麻了",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%8F%88%E8%B7%8C%E9%BA%BB%E4%BA%86%23&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时08分 ~ 13时09分]"
         }
       ]
     },
@@ -677,19 +850,19 @@
       ]
     },
     {
-      "keyword_group": "金价",
+      "keyword_group": "chatgpt openai",
       "match_count": 1,
       "titles": [
         {
-          "title": "美伊新一轮互袭，全球股市承压，Snowflake美股盘前涨近35%，油价拉升4%，金价跌破4400美元关口",
-          "url": "https://wallstreetcn.com/articles/3773313",
-          "source": "华尔街见闻",
+          "title": "OpenAI将通过亚洲云服务商Datasection进行最新模型部署",
+          "url": "https://flash.jin10.com/detail/20260529122311916800",
+          "source": "金十数据",
           "ranks": [
-            1
+            12
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时59分 ~ 04时24分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时09分"
         }
       ]
     }
