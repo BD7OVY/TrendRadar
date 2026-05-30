@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-30T19:15:38.230655+08:00",
-  "total_titles_processed": 1146,
+  "generated_at": "2026-05-30T21:09:56.042498+08:00",
+  "total_titles_processed": 1275,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 54,
+      "match_count": 60,
       "titles": [
         {
           "title": "伊朗议长：伊朗将通过导弹而非对话使对方让步",
@@ -28,8 +28,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时06分 ~ 19时15分]"
+          "appearance_count": 8,
+          "time_info": "[07时06分 ~ 21时09分]"
         },
         {
           "title": "伊朗撂下3句狠话",
@@ -78,6 +78,17 @@
           "time_info": "03时30分"
         },
         {
+          "title": "伊朗准备为哈梅内伊举行盛大葬礼",
+          "url": "https://news.ifeng.com/c/8tYL9HroZVj",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时09分"
+        },
+        {
           "title": "伊朗最高领袖军事顾问穆赫辛·雷扎伊：美国总统继续实施海上封锁并提出过分要求，这已是第三次背叛外交。",
           "url": "https://flash.jin10.com/detail/20260530165643081800",
           "source": "金十数据",
@@ -111,6 +122,17 @@
           "time_info": "00时39分"
         },
         {
+          "title": "伊媒：伊朗议会将通过霍尔木兹海峡“主权管辖”计划",
+          "url": "https://wallstreetcn.com/livenews/3111819",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时09分"
+        },
+        {
           "title": "伊朗指责美方说法与协议文本不符",
           "url": "https://wallstreetcn.com/livenews/3111693",
           "source": "华尔街见闻-快讯",
@@ -120,17 +142,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时28分"
-        },
-        {
-          "title": "英国海事部门表示，美国对伊朗港口的封锁正在严格执行。霍尔木兹海峡附近船只的船长必须表明其无前往伊朗港口的意图。船只若不服从美国海军在霍尔木兹海峡的命令，将面临危险。",
-          "url": "https://flash.jin10.com/detail/20260530185118096800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时15分"
         },
         {
           "title": "因伊朗战争受困的大型油轮中已有四分之一驶出海峡，不含伊朗相关船舶",
@@ -160,11 +171,24 @@
           "url": "https://www.zhihu.com/question/2043956365022814533",
           "source": "知乎",
           "ranks": [
-            6
+            6,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时11分 ~ 19时15分]"
+          "appearance_count": 4,
+          "time_info": "[17时11分 ~ 21时09分]"
+        },
+        {
+          "title": "英国海事部门表示，美国对伊朗港口的封锁正在严格执行。霍尔木兹海峡附近船只的船长必须表明其无前往伊朗港口的意图。船只若不服从美国海军在霍尔木兹海峡的命令，将面临危险。",
+          "url": "https://flash.jin10.com/detail/20260530185118096800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时15分 ~ 21时09分]"
         },
         {
           "title": "据伊朗Press TV：伊朗陆军防空部队今天早些时候在格什姆岛上空击落了一架“Orbiter”攻击型无人机。",
@@ -177,6 +201,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时12分 ~ 19时15分]"
+        },
+        {
+          "title": "据伊朗法尔斯通讯社：在过去的24小时内，20艘船在伊朗海军的协调下通过了霍尔木兹海峡。",
+          "url": "https://flash.jin10.com/detail/20260530184239283800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时15分 ~ 21时09分]"
         },
         {
           "title": "美国尚未证实伊朗在霍尔木兹海峡布雷。（NBC）",
@@ -257,6 +293,17 @@
           "time_info": "10时28分"
         },
         {
+          "title": "伊媒：伊朗议会将通过霍尔木兹海峡“主权管辖”计划",
+          "url": "https://flash.jin10.com/detail/20260530201304741800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时09分"
+        },
+        {
           "title": "【伊知情人士：伊朗尚未就伊美协议作出最终决定】伊朗法尔斯通讯社29日援引知情人士的话说，与美国的协议文本正处于伊朗国内审批的最后阶段，伊方尚未作出最终决定。（新华社）",
           "url": "https://wallstreetcn.com/livenews/3111552",
           "source": "华尔街见闻-快讯",
@@ -334,15 +381,15 @@
           "time_info": "10时28分"
         },
         {
-          "title": "据伊朗法尔斯通讯社：在过去的24小时内，20艘船在伊朗海军的协调下通过了霍尔木兹海峡。",
-          "url": "https://flash.jin10.com/detail/20260530184239283800",
+          "title": "据伊朗法尔斯通讯社：伊朗革命卫队霍尔木兹甘省军队称，从明天开始，将进行为期3天的敌方未爆弹药的排除作业。",
+          "url": "https://flash.jin10.com/detail/20260530200112317800",
           "source": "金十数据",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时15分"
+          "time_info": "21时09分"
         },
         {
           "title": "特朗普称对伊朗的海上封锁“即将被解除”",
@@ -395,7 +442,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时15分"
         },
@@ -505,7 +552,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时15分"
         },
@@ -527,7 +574,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时15分"
         },
@@ -538,7 +585,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时15分"
         },
@@ -576,6 +623,17 @@
           "time_info": "00时39分"
         },
         {
+          "title": "美军称针对伊朗港口的海上封锁仍在持续",
+          "url": "https://wallstreetcn.com/livenews/3111799",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时09分"
+        },
+        {
           "title": "伊朗外交部：仍在与美方沟通 尚未达成最终共识",
           "url": "https://wallstreetcn.com/livenews/3111625",
           "source": "华尔街见闻-快讯",
@@ -607,6 +665,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时30分"
+        },
+        {
+          "title": "伊朗国家电视台：过去24小时内有20艘船只穿越霍尔木兹海峡。",
+          "url": "https://wallstreetcn.com/livenews/3111796",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时09分"
         }
       ]
     },
@@ -648,8 +717,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时38分 ~ 19时15分]"
+          "appearance_count": 14,
+          "time_info": "[00时38分 ~ 21时09分]"
         },
         {
           "title": "美股收盘：三大股指续创新高 戴尔领衔科技股狂欢",
@@ -661,8 +730,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时28分 ~ 19时15分]"
+          "appearance_count": 6,
+          "time_info": "[10时28分 ~ 21时09分]"
         },
         {
           "title": "长鑫科技背后“稳赚”了八家券商！毛估460亿，科创投资正成券商第三条成长主线",
@@ -673,8 +742,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时18分 ~ 19时15分]"
+          "appearance_count": 5,
+          "time_info": "[14时18分 ~ 21时09分]"
         },
         {
           "title": "【每日收评】创业板指震荡下挫跌超2%，科技赛道集体陷入调整，电力、大消费逆势活跃",
@@ -717,7 +786,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时15分"
         },
@@ -889,6 +958,18 @@
           "time_info": "[00时38分 ~ 19时15分]"
         },
         {
+          "title": "【早报】丁向群任国家金融监管总局党委书记；上证50、科创50等重要指数调整样本",
+          "url": "https://www.cls.cn/detail/2385959",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时28分 ~ 21时09分]"
+        },
+        {
           "title": "中国人保董事长丁向群任国家金融监督管理总局党委书记",
           "url": "https://m.thepaper.cn/newsDetail_forward_33262511",
           "source": "澎湃新闻",
@@ -901,18 +982,6 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时38分 ~ 19时15分]"
-        },
-        {
-          "title": "【早报】丁向群任国家金融监管总局党委书记；上证50、科创50等重要指数调整样本",
-          "url": "https://www.cls.cn/detail/2385959",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时28分 ~ 19时15分]"
         },
         {
           "title": "金融监管总局迎首位女性“掌门人”",
@@ -983,11 +1052,12 @@
           "ranks": [
             7,
             5,
-            9
+            9,
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时18分 ~ 19时15分]"
+          "appearance_count": 5,
+          "time_info": "[14时18分 ~ 21时09分]"
         },
         {
           "title": "深圳原创基础软件取得新突破",
@@ -1049,7 +1119,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "18倍PS？Anthropic最新估值达9650亿美元，首超OpenAI！",
@@ -1074,6 +1144,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时48分 ~ 07时07分]"
+        },
+        {
+          "title": "报道：OpenAI在讨论将花旗、摩根大通纳入IPO承销商名单",
+          "url": "https://wallstreetcn.com/livenews/3111808",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时09分"
+        },
+        {
+          "title": "据悉OpenAI已与花旗、摩根大通讨论参与IPO事宜",
+          "url": "https://flash.jin10.com/detail/20260530193729860800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时09分"
         },
         {
           "title": "OpenAI确认推出Rosalind BioDefense Program。",
@@ -1114,11 +1206,12 @@
           "ranks": [
             3,
             1,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时28分 ~ 19时15分]"
+          "appearance_count": 6,
+          "time_info": "[10时28分 ~ 21时09分]"
         }
       ]
     },
