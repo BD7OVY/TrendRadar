@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-05-31T02:01:00.318063+08:00",
-  "total_titles_processed": 353,
+  "generated_at": "2026-05-31T03:21:01.708556+08:00",
+  "total_titles_processed": 388,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
-        {
-          "title": "特朗普称将作伊朗战事最终决定、霍尔木兹和伊核以外问题已达成一致，伊媒称其言论“真假参半”",
-          "url": "https://wallstreetcn.com/articles/3773469",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时54分 ~ 02时01分]"
-        },
         {
           "title": "伊朗准备为哈梅内伊举行盛大葬礼",
           "url": "https://news.ifeng.com/c/8tYL9HroZVj",
           "source": "凤凰网",
           "ranks": [
             2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时54分 ~ 03时21分]"
+        },
+        {
+          "title": "特朗普称将作伊朗战事最终决定、霍尔木兹和伊核以外问题已达成一致，伊媒称其言论“真假参半”",
+          "url": "https://wallstreetcn.com/articles/3773469",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -37,8 +37,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时54分 ~ 02时01分]"
+          "appearance_count": 3,
+          "time_info": "[00时54分 ~ 03时21分]"
         },
         {
           "title": "美国：无论是否支付费用，美国个人和实体均不得接受伊朗政府提供的服务",
@@ -48,8 +48,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时54分 ~ 02时01分]"
+          "appearance_count": 3,
+          "time_info": "[00时54分 ~ 03时21分]"
+        },
+        {
+          "title": "据伊朗国家电视台：伊朗已获得与美国的谅解备忘录非正式文本。文本显示，伊朗将有权决定霍尔木兹海峡船只的性质，并将决定霍尔木兹海峡的航线和费用。",
+          "url": "https://flash.jin10.com/detail/20260531024236027800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时21分"
         },
         {
           "title": "特朗普就结束伊朗战事提出条件，伊朗必须同意永远不拥有核武器，霍尔木兹海峡必须立即开放，伊方会接受吗？",
@@ -57,22 +68,24 @@
           "source": "知乎",
           "ranks": [
             10,
-            12
+            12,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时54分 ~ 02时01分]"
+          "appearance_count": 5,
+          "time_info": "[00时54分 ~ 03时21分]"
         },
         {
           "title": "美国没收伊朗 10 亿美元加密货币资产，切断伊朗航空公司获取降落点、加油和售票的渠道，对局势有何影响？",
           "url": "https://www.zhihu.com/question/2043976799139492397",
           "source": "知乎",
           "ranks": [
-            14
+            14,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时54分 ~ 02时01分]"
+          "appearance_count": 5,
+          "time_info": "[00时54分 ~ 03时21分]"
         },
         {
           "title": "伊媒：伊朗议会将通过霍尔木兹海峡“主权管辖”计划",
@@ -82,19 +95,31 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时54分 ~ 02时01分]"
+          "appearance_count": 3,
+          "time_info": "[00时54分 ~ 03时21分]"
         },
         {
           "title": "美国汽车协会：数据显示，美国全国汽油30日当天平均零售价为每加仑4.35美元，较前一日下降4美分，较一周前下降17美分，仍较伊朗战事前水平高出46%。",
           "url": "https://flash.jin10.com/detail/20260531012608857800",
           "source": "金十数据",
           "ranks": [
-            6
+            6,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时01分 ~ 03时21分]"
+        },
+        {
+          "title": "美媒：再拦截一艘赴伊朗商船 累计已达6艘",
+          "url": "https://flash.jin10.com/detail/20260531022332734800",
+          "source": "金十数据",
+          "ranks": [
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时01分"
+          "time_info": "03时21分"
         }
       ]
     },
@@ -111,8 +136,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时54分 ~ 02时01分]"
+          "appearance_count": 5,
+          "time_info": "[00时54分 ~ 03时21分]"
         },
         {
           "title": "美股收盘：三大股指续创新高 戴尔领衔科技股狂欢",
@@ -122,8 +147,21 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时54分 ~ 02时01分]"
+          "appearance_count": 5,
+          "time_info": "[00时54分 ~ 03时21分]"
+        },
+        {
+          "title": "“中国造”灭蚊黑科技走红",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%AD%E5%9B%BD%E9%80%A0%E2%80%9D%E7%81%AD%E8%9A%8A%E9%BB%91%E7%A7%91%E6%8A%80%E8%B5%B0%E7%BA%A2",
+          "source": "百度热搜",
+          "ranks": [
+            20,
+            15,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时54分 ~ 03时21分]"
         },
         {
           "title": "科技股究竟因何调整？四大原因讨论最多",
@@ -133,8 +171,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时54分 ~ 02时01分]"
+          "appearance_count": 5,
+          "time_info": "[00时54分 ~ 03时21分]"
         },
         {
           "title": "科技股突然杀跌意味着什么",
@@ -142,11 +180,12 @@
           "source": "今日头条",
           "ranks": [
             13,
-            15
+            15,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时54分 ~ 02时01分]"
+          "appearance_count": 5,
+          "time_info": "[00时54分 ~ 03时21分]"
         },
         {
           "title": "一个月烧掉5亿美元！科技巨头“AI Token消耗赛”踩下急刹",
@@ -156,20 +195,36 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时54分 ~ 02时01分]"
-        },
+          "appearance_count": 5,
+          "time_info": "[00时54分 ~ 03时21分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金融",
+      "match_count": 2,
+      "titles": [
         {
-          "title": "“中国造”灭蚊黑科技走红",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%AD%E5%9B%BD%E9%80%A0%E2%80%9D%E7%81%AD%E8%9A%8A%E9%BB%91%E7%A7%91%E6%8A%80%E8%B5%B0%E7%BA%A2",
-          "source": "百度热搜",
+          "title": "【早报】丁向群任国家金融监管总局党委书记；上证50、科创50等重要指数调整样本",
+          "url": "https://www.cls.cn/detail/2385959",
+          "source": "财联社热门",
           "ranks": [
-            20,
-            15
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时54分 ~ 02时01分]"
+          "appearance_count": 5,
+          "time_info": "[00时54分 ~ 03时21分]"
+        },
+        {
+          "title": "据英国金融时报：软银承诺投资750亿欧元在法国建设欧洲最大的人工智能设施。",
+          "url": "https://flash.jin10.com/detail/20260531024909031800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时21分"
         }
       ]
     },
@@ -182,11 +237,12 @@
           "url": "https://www.zhihu.com/question/2040472846393161206",
           "source": "知乎",
           "ranks": [
-            16
+            16,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时59分 ~ 02时01分]"
+          "appearance_count": 4,
+          "time_info": "[01时59分 ~ 03时21分]"
         },
         {
           "title": "报道：OpenAI在讨论将花旗、摩根大通纳入IPO承销商名单",
@@ -196,25 +252,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时54分 ~ 02时01分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金融",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "【早报】丁向群任国家金融监管总局党委书记；上证50、科创50等重要指数调整样本",
-          "url": "https://www.cls.cn/detail/2385959",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[00时54分 ~ 02时01分]"
+          "time_info": "[00时54分 ~ 03时21分]"
         }
       ]
     },
@@ -231,8 +270,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时54分 ~ 02时01分]"
+          "appearance_count": 5,
+          "time_info": "[00时54分 ~ 03时21分]"
         }
       ]
     }
