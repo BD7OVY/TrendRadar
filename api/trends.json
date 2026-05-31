@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-01T05:54:06.580757+08:00",
-  "total_titles_processed": 426,
+  "generated_at": "2026-06-01T06:54:00.337169+08:00",
+  "total_titles_processed": 472,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 26,
+      "match_count": 33,
       "titles": [
         {
           "title": "伊朗总统已向最高领袖提出辞职？官方回应",
@@ -15,30 +15,55 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时53分 ~ 05时54分]"
+          "appearance_count": 4,
+          "time_info": "[05时53分 ~ 06时54分]"
         },
         {
           "title": "美国财长贝森特：霍尔木兹海峡必须恢复至（美国和以色列挑起伊朗战争）之前的水平。 海峡关闭直接造成化肥价格上涨。",
           "url": "https://wallstreetcn.com/livenews/3111960",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            23
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时01分 ~ 05时54分]"
+          "appearance_count": 5,
+          "time_info": "[01时01分 ~ 06时54分]"
         },
         {
           "title": "伊朗国家媒体：伊朗伊斯兰革命卫队对伊拉克北部的“分离主义组织”据点实施了打击。",
           "url": "https://wallstreetcn.com/livenews/3111959",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            24
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时01分 ~ 05时54分]"
+          "appearance_count": 5,
+          "time_info": "[01时01分 ~ 06时54分]"
+        },
+        {
+          "title": "伊朗国家安全与外交政策委员会成员科萨里表示，核问题已被排除在谈判桌之外；目前尚未达成最终协议。（伊朗学生通讯社）",
+          "url": "https://wallstreetcn.com/livenews/3111958",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时01分 ~ 06时54分]"
+        },
+        {
+          "title": "战争阴霾笼罩世界杯，伊朗国家队运动员仍未获得赴美签证",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33276489",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[04时02分 ~ 06时54分]"
         },
         {
           "title": "伊朗外交部长：我们不应该重视猜测。",
@@ -63,17 +88,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时02分 ~ 05时54分]"
-        },
-        {
-          "title": "伊朗国家安全与外交政策委员会成员科萨里表示，核问题已被排除在谈判桌之外；目前尚未达成最终协议。（伊朗学生通讯社）",
-          "url": "https://wallstreetcn.com/livenews/3111958",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时01分 ~ 05时54分]"
         },
         {
           "title": "伊朗外交部长：在达成明确结果之前，我们无法对谈判做出判断。",
@@ -137,15 +151,16 @@
           "time_info": "[01时01分 ~ 04时02分]"
         },
         {
-          "title": "战争阴霾笼罩世界杯，伊朗国家队运动员仍未获得赴美签证",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33276489",
-          "source": "澎湃新闻",
+          "title": "贝森特：特朗普将严格执行潜在的伊朗协议 油价将继续走低",
+          "url": "https://flash.jin10.com/detail/20260601044554841800",
+          "source": "金十数据",
           "ranks": [
-            11
+            7,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时02分 ~ 05时54分]"
+          "appearance_count": 2,
+          "time_info": "[05时54分 ~ 06时54分]"
         },
         {
           "title": "美国财长贝森特：对伊朗的经济围困是施压行动的基本组成部分。",
@@ -219,6 +234,17 @@
           "time_info": "04时02分"
         },
         {
+          "title": "伊朗总统府再度否认佩泽希齐扬辞职传闻",
+          "url": "https://wallstreetcn.com/livenews/3111984",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时54分"
+        },
+        {
           "title": "伊朗军官：将与敌人的过分要求和霸权行径战斗到最后一刻",
           "url": "https://flash.jin10.com/detail/20260601023250830800",
           "source": "金十数据",
@@ -230,15 +256,15 @@
           "time_info": "04时02分"
         },
         {
-          "title": "贝森特：特朗普将严格执行潜在的伊朗协议 油价将继续走低",
-          "url": "https://flash.jin10.com/detail/20260601044554841800",
-          "source": "金十数据",
+          "title": "伊官员称伊朗不会对美退让妥协",
+          "url": "https://wallstreetcn.com/livenews/3111985",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时54分"
+          "time_info": "06时54分"
         },
         {
           "title": "伊朗袭击科威特美军基地致7人轻伤 均已恢复执勤",
@@ -258,9 +284,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时54分"
+        },
+        {
+          "title": "伊官员称伊朗在核问题上对美方没有任何承诺",
+          "url": "https://wallstreetcn.com/livenews/3111982",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时54分"
         },
         {
           "title": "伊朗总统已向最高领袖办公室提交辞职请求",
@@ -274,15 +311,59 @@
           "time_info": "04时02分"
         },
         {
+          "title": "知情人士称伊朗可能将对谅解备忘录文本提出新的修订意见",
+          "url": "https://wallstreetcn.com/livenews/3111977",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时54分"
+        },
+        {
           "title": "伊官员称伊朗不会对美退让妥协",
           "url": "https://flash.jin10.com/detail/20260601042445893800",
           "source": "金十数据",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时54分"
+        },
+        {
+          "title": "伊朗外长：谈判结果明确前 一切都是猜测",
+          "url": "https://wallstreetcn.com/livenews/3111973",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时54分"
+        },
+        {
+          "title": "伊朗袭击科威特美军基地致7人轻伤 均已恢复执勤",
+          "url": "https://wallstreetcn.com/livenews/3111974",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时54分"
+        },
+        {
+          "title": "伊朗军官：将与敌人的过分要求和霸权行径战斗到最后一刻",
+          "url": "https://wallstreetcn.com/livenews/3111975",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时54分"
         },
         {
           "title": "伊官员称伊朗在核问题上对美方没有任何承诺",
@@ -291,7 +372,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时54分"
         },
@@ -302,7 +383,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时54分"
         }
@@ -317,22 +398,24 @@
           "url": "https://www.cls.cn/detail/2386026",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时59分 ~ 05时54分]"
+          "appearance_count": 8,
+          "time_info": "[00时59分 ~ 06时54分]"
         },
         {
           "title": "鸿擎科技卫星互联网技术试验卫星成功入轨",
           "url": "https://wallstreetcn.com/livenews/3111966",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时01分 ~ 05时54分]"
+          "appearance_count": 5,
+          "time_info": "[01时01分 ~ 06时54分]"
         },
         {
           "title": "科技股为何下跌",
@@ -349,7 +432,7 @@
     },
     {
       "keyword_group": "制造业",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "5月份中国制造业采购经理指数公布",
@@ -359,8 +442,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时59分 ~ 05时54分]"
+          "appearance_count": 8,
+          "time_info": "[00时59分 ~ 06时54分]"
         },
         {
           "title": "中国5月官方制造业PMI 50，非制造业PMI回升至50.1",
@@ -371,8 +454,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时59分 ~ 05时54分]"
+          "appearance_count": 8,
+          "time_info": "[00时59分 ~ 06时54分]"
+        },
+        {
+          "title": "分析｜5月制造业PMI回落至临界点，高技术制造业PMI连续16个月位于扩张区间",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33277060",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时53分 ~ 06时54分]"
         }
       ]
     },
@@ -386,11 +480,12 @@
           "source": "知乎",
           "ranks": [
             10,
-            9
+            9,
+            13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时59分 ~ 05时54分]"
+          "appearance_count": 8,
+          "time_info": "[00时59分 ~ 06时54分]"
         }
       ]
     },
@@ -403,11 +498,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33274917",
           "source": "澎湃新闻",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时59分 ~ 05时54分]"
+          "appearance_count": 8,
+          "time_info": "[00时59分 ~ 06时54分]"
         }
       ]
     },
@@ -424,8 +520,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时59分 ~ 05时54分]"
+          "appearance_count": 8,
+          "time_info": "[00时59分 ~ 06时54分]"
         }
       ]
     },
@@ -441,8 +537,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时59分 ~ 05时54分]"
+          "appearance_count": 8,
+          "time_info": "[00时59分 ~ 06时54分]"
         }
       ]
     }
