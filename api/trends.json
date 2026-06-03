@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-04T05:45:33.330311+08:00",
-  "total_titles_processed": 396,
+  "generated_at": "2026-06-04T07:29:19.402344+08:00",
+  "total_titles_processed": 482,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://wallstreetcn.com/articles/3773781",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时19分 ~ 05时45分]"
+          "appearance_count": 4,
+          "time_info": "[02时19分 ~ 07时29分]"
         },
         {
           "title": "伊朗革命卫队：为回应美军袭击，已打击美以船只及美军基地",
@@ -26,8 +27,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时19分 ~ 05时45分]"
+          "appearance_count": 4,
+          "time_info": "[02时19分 ~ 07时29分]"
         },
         {
           "title": "【伊媒：伊美谅解备忘录若谈成，将分四阶段推进】伊朗法尔斯通讯社3日援引伊朗与美国间接谈判知情人士的话报道，伊美正在讨论的谅解备忘录若最终敲定，将分四个主要阶段依次推进，其中第三阶段将讨论核问题。（新华社）",
@@ -41,24 +42,13 @@
           "time_info": "02时20分"
         },
         {
-          "title": "美国众议院通过一项决议，限制美国总统特朗普对伊朗的战争权力。",
-          "url": "https://wallstreetcn.com/livenews/3114035",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时45分"
-        },
-        {
           "title": "据Axios：美国众议院以215票对208票通过限制伊朗战争权力的决议，4名共和党人议员与民主党人一起投票支持该措施。",
           "url": "https://flash.jin10.com/detail/20260604052011929800",
           "source": "金十数据",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时45分"
         },
@@ -69,7 +59,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时45分"
         },
@@ -83,6 +73,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时20分"
+        },
+        {
+          "title": "美国众议院通过一项决议，限制美国总统特朗普对伊朗的战争权力。",
+          "url": "https://wallstreetcn.com/livenews/3114035",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时45分 ~ 07时29分]"
         },
         {
           "title": "伊朗媒体Fars News援引德黑兰谈判团队媒体组成员的消息称，伊朗对美国最新草案的回应尚未发送至华盛顿。",
@@ -113,7 +115,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时45分"
         },
@@ -135,7 +137,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时45分"
         },
@@ -146,7 +148,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时45分"
         },
@@ -157,7 +159,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时45分"
         },
@@ -234,7 +236,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时45分"
         },
@@ -256,7 +258,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时45分"
         },
@@ -267,7 +269,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时45分"
         }
@@ -275,7 +277,7 @@
     },
     {
       "keyword_group": "科技",
-      "match_count": 2,
+      "match_count": 5,
       "titles": [
         {
           "title": "长线外资看好中国 持续加码硬科技",
@@ -285,25 +287,59 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时19分 ~ 05时45分]"
+          "appearance_count": 4,
+          "time_info": "[02时19分 ~ 07时29分]"
         },
         {
           "title": "【焦点复盘】市场延续极致二八分化，个股炸板率超四成，科技与能源板块再现跷跷板",
           "url": "https://www.cls.cn/detail/2389696",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时19分 ~ 05时45分]"
+          "appearance_count": 4,
+          "time_info": "[02时19分 ~ 07时29分]"
+        },
+        {
+          "title": "绩优科技主题基金频频限购，机构：后市关注标的估值与业绩匹配度",
+          "url": "https://wallstreetcn.com/livenews/3114048",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时29分"
+        },
+        {
+          "title": "A股再登新闻联播：长线外资看好中国，持续加码硬科技",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33302529",
+          "source": "澎湃新闻",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时29分"
+        },
+        {
+          "title": "投资长鑫科技与宇树科技，险资“耐心资本”布棋新质生产力",
+          "url": "https://wallstreetcn.com/livenews/3114047",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时29分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "如何评价 Codex 与 ChatGPT 两个独立 App 合并，这一举动有什么影响？",
@@ -311,11 +347,12 @@
           "source": "知乎",
           "ranks": [
             11,
-            9
+            9,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时19分 ~ 05时45分]"
+          "appearance_count": 4,
+          "time_info": "[02时19分 ~ 07时29分]"
         },
         {
           "title": "OpenAI 遭美国州政府起诉，ChatGPT 涉嫌帮助策划校园枪击案，诱导用户形成依赖，平台该不该担责？",
@@ -328,6 +365,56 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时19分 ~ 05时45分]"
+        },
+        {
+          "title": "OpenAI打算整合CodeX与ChatGPT。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3114043",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时29分"
+        },
+        {
+          "title": "电话会：博通为OpenAI开发芯片，将于2027财年部署1.3 GW。 到2028财年年底将向Meta部署3 GW。 围绕服务OpenAI与Anthropic，公司与阿波罗、黑石集团合作。",
+          "url": "https://wallstreetcn.com/livenews/3114027",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时29分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "博通首席执行官：预计第三季度非人工智能半导体收入约为45亿美元。谷歌合作关系仍然是非常重要的。",
+          "url": "https://flash.jin10.com/detail/20260604051716270800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时45分"
+        },
+        {
+          "title": "博通CEO：预计谷歌公司将采用多个芯片来源。",
+          "url": "https://wallstreetcn.com/livenews/3114037",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时29分"
         }
       ]
     },
@@ -353,7 +440,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时45分"
         }
@@ -406,25 +493,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时19分 ~ 05时45分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "博通首席执行官：预计第三季度非人工智能半导体收入约为45亿美元。谷歌合作关系仍然是非常重要的。",
-          "url": "https://flash.jin10.com/detail/20260604051716270800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时45分"
+          "appearance_count": 4,
+          "time_info": "[02时19分 ~ 07时29分]"
         }
       ]
     },
@@ -437,11 +507,12 @@
           "url": "https://www.toutiao.com/trending/7646967437870747187/",
           "source": "今日头条",
           "ranks": [
-            22
+            22,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时45分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时45分 ~ 07时29分]"
         }
       ]
     },
@@ -454,11 +525,12 @@
           "url": "https://www.douyin.com/hot/2522045",
           "source": "抖音",
           "ranks": [
-            24
+            24,
+            21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时19分 ~ 05时45分]"
+          "appearance_count": 4,
+          "time_info": "[02时19分 ~ 07时29分]"
         }
       ]
     }
