@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-04T10:55:16.482463+08:00",
-  "total_titles_processed": 681,
+  "generated_at": "2026-06-04T15:19:48.703978+08:00",
+  "total_titles_processed": 887,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 26,
+      "match_count": 28,
       "titles": [
         {
           "title": "特朗普：确实对内塔尼亚胡“爆粗口”，愿与伊朗最高领袖会面，正与伊朗达成协议，海上封锁或持续到9月",
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时19分 ~ 10时55分]"
+          "appearance_count": 6,
+          "time_info": "[02时19分 ~ 15时19分]"
         },
         {
           "title": "伊朗革命卫队：为回应美军袭击，已打击美以船只及美军基地",
@@ -37,9 +37,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时55分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时55分 ~ 15时19分]"
         },
         {
           "title": "【伊媒：伊美谅解备忘录若谈成，将分四阶段推进】伊朗法尔斯通讯社3日援引伊朗与美国间接谈判知情人士的话报道，伊美正在讨论的谅解备忘录若最终敲定，将分四个主要阶段依次推进，其中第三阶段将讨论核问题。（新华社）",
@@ -96,6 +96,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时45分 ~ 07时29分]"
+        },
+        {
+          "title": "在伊朗被击落的美军飞行员，被曝此前也在科威特遭误击",
+          "url": "https://news.ifeng.com/c/8tenpfE2zdL",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时19分"
         },
         {
           "title": "伊朗媒体Fars News援引德黑兰谈判团队媒体组成员的消息称，伊朗对美国最新草案的回应尚未发送至华盛顿。",
@@ -159,7 +170,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时55分"
         },
@@ -241,6 +252,17 @@
           "time_info": "02时20分"
         },
         {
+          "title": "马汉航空：中国往返伊朗航线全面恢复运营",
+          "url": "https://wallstreetcn.com/livenews/3114237",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时19分"
+        },
+        {
           "title": "伊朗外长：任何敌对行为都将遭到立刻和果断回应",
           "url": "https://wallstreetcn.com/livenews/3113932",
           "source": "华尔街见闻-快讯",
@@ -299,7 +321,7 @@
     },
     {
       "keyword_group": "科技",
-      "match_count": 8,
+      "match_count": 11,
       "titles": [
         {
           "title": "长线外资看好中国 持续加码硬科技",
@@ -331,22 +353,35 @@
           "source": "澎湃新闻",
           "ranks": [
             12,
-            8
+            8,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时29分 ~ 10时55分]"
+          "appearance_count": 3,
+          "time_info": "[07时29分 ~ 15时19分]"
         },
         {
           "title": "6月4日投资避雷针：2连板实益达公告 仅持有宇树科技约0.01%股权",
           "url": "https://www.cls.cn/detail/2390227",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时55分 ~ 15时19分]"
+        },
+        {
+          "title": "黄仁勋今晚抵韩！行程曝光：与科技大佬烤肉谈AI、首次亮相综艺……",
+          "url": "https://www.cls.cn/detail/2390517",
+          "source": "财联社热门",
+          "ranks": [
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时55分"
+          "time_info": "15时19分"
         },
         {
           "title": "A股超级电容概念再度走强，江海股份涨停，续创历史新高，此前华锋股份、祥和实业涨停，龙辰科技涨超10%，艾华集团、元力股份、新宙邦等跟涨。",
@@ -355,7 +390,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时55分"
         },
@@ -388,9 +423,31 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时55分"
+        },
+        {
+          "title": "新任湖北省委书记首次调研，关注科技创新和产业创新融合发展工作",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33303152",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时19分"
+        },
+        {
+          "title": "汇丰：投资者聚焦长期结构性机遇，看好亚洲科技创新潜力",
+          "url": "https://wallstreetcn.com/livenews/3114235",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时19分"
         }
       ]
     },
@@ -449,8 +506,19 @@
     },
     {
       "keyword_group": "金融",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "俄罗斯财长西卢安诺夫：俄罗斯已实现金融主权。尽管外部环境不利，俄罗斯在金融和经济政策方面仍保持独立性——这一点必须得到维护。",
+          "url": "https://flash.jin10.com/detail/20260604145159723800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时19分"
+        },
         {
           "title": "日本内阁官房长官木原稔：政府与日本央行在经济和金融趋势方面保持密切沟通，并将继续如此。",
           "url": "https://flash.jin10.com/detail/20260604101141281800",
@@ -458,7 +526,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时55分"
         },
@@ -476,9 +544,61 @@
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
+      "keyword_group": "深圳",
+      "match_count": 3,
       "titles": [
+        {
+          "title": "深圳商场工作人员讥讽顾客「穷逛」，称「K11 不是服务这类没钱的人」，反映出哪些问题？",
+          "url": "https://www.zhihu.com/question/2044770207110009136",
+          "source": "知乎",
+          "ranks": [
+            5,
+            4,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时19分 ~ 10时55分]"
+        },
+        {
+          "title": "农银投资等在深圳成立私募股权投资基金，出资额39.4亿",
+          "url": "https://flash.jin10.com/detail/20260604143857363800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时19分"
+        },
+        {
+          "title": "农银投资等在深圳成立私募股权投资基金，出资额39.4亿",
+          "url": "https://wallstreetcn.com/livenews/3114243",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时19分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "博通电话会：CEO坦言谷歌正“另寻新欢”，但需求旺盛订单排到2028年，将打造算力融资平台",
+          "url": "https://wallstreetcn.com/articles/3773814",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时19分"
+        },
         {
           "title": "博通首席执行官：预计第三季度非人工智能半导体收入约为45亿美元。谷歌合作关系仍然是非常重要的。",
           "url": "https://flash.jin10.com/detail/20260604051716270800",
@@ -526,7 +646,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时55分"
         }
@@ -561,6 +681,23 @@
       ]
     },
     {
+      "keyword_group": "制造业",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "工信部财务司、原材料工业司调研先进制造业增值税加计抵减政策落实情况",
+          "url": "https://wallstreetcn.com/livenews/3114242",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时19分"
+        }
+      ]
+    },
+    {
       "keyword_group": "消费",
       "match_count": 1,
       "titles": [
@@ -578,25 +715,6 @@
       ]
     },
     {
-      "keyword_group": "深圳",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "深圳商场工作人员讥讽顾客「穷逛」，称「K11 不是服务这类没钱的人」，反映出哪些问题？",
-          "url": "https://www.zhihu.com/question/2044770207110009136",
-          "source": "知乎",
-          "ranks": [
-            5,
-            4,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时19分 ~ 10时55分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "旅游",
       "match_count": 1,
       "titles": [
@@ -607,11 +725,12 @@
           "ranks": [
             24,
             21,
-            22
+            22,
+            20
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时19分 ~ 10时55分]"
+          "appearance_count": 6,
+          "time_info": "[02时19分 ~ 15时19分]"
         }
       ]
     }
