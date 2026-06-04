@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-06-05T00:51:21.987670+08:00",
-  "total_titles_processed": 309,
+  "generated_at": "2026-06-05T03:16:06.564109+08:00",
+  "total_titles_processed": 409,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "消费",
-      "match_count": 5,
+      "keyword_group": "伊朗",
+      "match_count": 10,
       "titles": [
         {
-          "title": "原价899的耐克降至429消费者仍不买账",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%8E%9F%E4%BB%B7899%E7%9A%84%E8%80%90%E5%85%8B%E9%99%8D%E8%87%B3429%E6%B6%88%E8%B4%B9%E8%80%85%E4%BB%8D%E4%B8%8D%E4%B9%B0%E8%B4%A6%23&t=31&band_rank=1&Refer=top",
-          "source": "微博",
+          "title": "据Axios：波士顿联储表示，伊朗战争对美国劳动力市场的冲击预计有限。",
+          "url": "https://flash.jin10.com/detail/20260605002309079800",
+          "source": "金十数据",
           "ranks": [
             1
           ],
@@ -19,44 +19,99 @@
           "time_info": "00时51分"
         },
         {
-          "title": "中国消费者抛弃耐克比想象中更快",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%B6%88%E8%B4%B9%E8%80%85%E6%8A%9B%E5%BC%83%E8%80%90%E5%85%8B%E6%AF%94%E6%83%B3%E8%B1%A1%E4%B8%AD%E6%9B%B4%E5%BF%AB",
-          "source": "百度热搜",
+          "title": "普京：俄罗斯希望伊朗冲突尽快结束。",
+          "url": "https://flash.jin10.com/detail/20260605024637794800",
+          "source": "金十数据",
           "ranks": [
-            2
+            4
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时51分"
+          "time_info": "03时16分"
         },
         {
-          "title": "【焦点复盘】科创50冲高回落涨0.69%，AI硬件端强者恒强，大消费板块遭重挫",
-          "url": "https://www.cls.cn/detail/2390870",
-          "source": "财联社热门",
+          "title": "俄罗斯总统普京：伊朗危机给俄罗斯带来的利益是暂时的。",
+          "url": "https://flash.jin10.com/detail/20260605024523661800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时16分"
+        },
+        {
+          "title": "伊朗“圣城旅”喊话以色列",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E2%80%9C%E5%9C%A3%E5%9F%8E%E6%97%85%E2%80%9D%E5%96%8A%E8%AF%9D%E4%BB%A5%E8%89%B2%E5%88%97",
+          "source": "百度热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时15分 ~ 03时16分]"
+        },
+        {
+          "title": "俄罗斯总统普京：希望美国与伊朗能够达成妥协，从而结束冲突。",
+          "url": "https://flash.jin10.com/detail/20260605024510184800",
+          "source": "金十数据",
           "ranks": [
             6
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时51分"
+          "time_info": "03时16分"
         },
         {
-          "title": "耐克正在被消费者抛弃",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%80%90%E5%85%8B%E6%AD%A3%E5%9C%A8%E8%A2%AB%E6%B6%88%E8%B4%B9%E8%80%85%E6%8A%9B%E5%BC%83%23&t=31&band_rank=16&Refer=top",
-          "source": "微博",
+          "title": "伊朗5月石油出口降至六年新低",
+          "url": "https://wallstreetcn.com/livenews/3114569",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            16
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时16分"
+        },
+        {
+          "title": "数据显示：伊朗石油出口降至六年来的最低水平",
+          "url": "https://flash.jin10.com/detail/20260605022126491800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时16分"
+        },
+        {
+          "title": "俄罗斯总统普京：希望伊朗冲突各方能够找到解决方案。",
+          "url": "https://flash.jin10.com/detail/20260605021812132800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时16分"
+        },
+        {
+          "title": "摩根大通 ：石油市场已找到代价高昂的方式消化伊朗冲击",
+          "url": "https://wallstreetcn.com/livenews/3114526",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时51分"
         },
         {
-          "title": "中国消费者抛弃耐克速度比想象中更快",
-          "url": "https://www.toutiao.com/trending/7646856575931432998/",
-          "source": "今日头条",
+          "title": "美国财长贝森特：当（美国和以色列挑起的）伊朗冲突结束时，能源价格将回落。 伊朗冲突“已经被暂停”。",
+          "url": "https://wallstreetcn.com/livenews/3114520",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            18
+            28
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -66,8 +121,19 @@
     },
     {
       "keyword_group": "科技",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "长鑫科技创始人朱一明自掏 7.68 亿股做员工激励，公司上市后预期市值 2-3 万亿，如何看待此举？",
+          "url": "https://www.zhihu.com/question/2041193028925264772",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时51分 ~ 03时16分]"
+        },
         {
           "title": "纳斯达克100指数跌幅收窄至0.5%，成分股博通目前仍然跌14.5%，美光科技跌6.1%，Lumentum跌2.3%，特斯拉跌1.1%，谷歌A则涨3.5%，迈威尔科技/美满科技、Doordash涨3.9%。",
           "url": "https://wallstreetcn.com/livenews/3114548",
@@ -80,15 +146,15 @@
           "time_info": "00时51分"
         },
         {
-          "title": "长鑫科技创始人朱一明自掏 7.68 亿股做员工激励，公司上市后预期市值 2-3 万亿，如何看待此举？",
-          "url": "https://www.zhihu.com/question/2041193028925264772",
-          "source": "知乎",
+          "title": "韩国资金押注A股科技股",
+          "url": "https://www.toutiao.com/trending/7647424442825572395/",
+          "source": "今日头条",
           "ranks": [
-            2
+            25
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时51分"
+          "appearance_count": 2,
+          "time_info": "[03时15分 ~ 03时16分]"
         },
         {
           "title": "并行科技：拟不超8163.35万元采购算力服务器及内存",
@@ -111,6 +177,70 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时51分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "消费",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "原价899的耐克降至429消费者仍不买账",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8E%9F%E4%BB%B7899%E7%9A%84%E8%80%90%E5%85%8B%E9%99%8D%E8%87%B3429%E6%B6%88%E8%B4%B9%E8%80%85%E4%BB%8D%E4%B8%8D%E4%B9%B0%E8%B4%A6%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时51分 ~ 03时16分]"
+        },
+        {
+          "title": "中国消费者抛弃耐克比想象中更快",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%B6%88%E8%B4%B9%E8%80%85%E6%8A%9B%E5%BC%83%E8%80%90%E5%85%8B%E6%AF%94%E6%83%B3%E8%B1%A1%E4%B8%AD%E6%9B%B4%E5%BF%AB",
+          "source": "百度热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时51分 ~ 03时16分]"
+        },
+        {
+          "title": "【焦点复盘】科创50冲高回落涨0.69%，AI硬件端强者恒强，大消费板块遭重挫",
+          "url": "https://www.cls.cn/detail/2390870",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时51分 ~ 03时16分]"
+        },
+        {
+          "title": "耐克正在被消费者抛弃",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%80%90%E5%85%8B%E6%AD%A3%E5%9C%A8%E8%A2%AB%E6%B6%88%E8%B4%B9%E8%80%85%E6%8A%9B%E5%BC%83%23&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时51分 ~ 03时16分]"
+        },
+        {
+          "title": "中国消费者抛弃耐克速度比想象中更快",
+          "url": "https://www.toutiao.com/trending/7646856575931432998/",
+          "source": "今日头条",
+          "ranks": [
+            18,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时51分 ~ 03时16分]"
         }
       ]
     },
@@ -165,47 +295,8 @@
       ]
     },
     {
-      "keyword_group": "伊朗",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "据Axios：波士顿联储表示，伊朗战争对美国劳动力市场的冲击预计有限。",
-          "url": "https://flash.jin10.com/detail/20260605002309079800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时51分"
-        },
-        {
-          "title": "摩根大通 ：石油市场已找到代价高昂的方式消化伊朗冲击",
-          "url": "https://wallstreetcn.com/livenews/3114526",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时51分"
-        },
-        {
-          "title": "美国财长贝森特：当（美国和以色列挑起的）伊朗冲突结束时，能源价格将回落。 伊朗冲突“已经被暂停”。",
-          "url": "https://wallstreetcn.com/livenews/3114520",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时51分"
-        }
-      ]
-    },
-    {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "博通电话会：CEO坦言谷歌正“另寻新欢”，但需求旺盛订单排到2028年，将打造算力融资平台",
@@ -215,8 +306,19 @@
             5
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时51分 ~ 03时16分]"
+        },
+        {
+          "title": "谷歌公司：与Intersect在美国得州建设Meitner Energy Center。 其中，一个新数据中心的电力供应将来自Gray County和Roberts County。",
+          "url": "https://wallstreetcn.com/livenews/3114563",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时51分"
+          "time_info": "03时16分"
         },
         {
           "title": "谷歌计划投放3200万只蚊子",
