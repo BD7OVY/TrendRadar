@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-06T01:09:25.215457+08:00",
-  "total_titles_processed": 308,
+  "generated_at": "2026-06-06T03:45:11.794637+08:00",
+  "total_titles_processed": 394,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "一图看懂｜主战还是主和？伊朗高层有什么分歧？",
@@ -15,8 +15,31 @@
             7
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时09分 ~ 03时45分]"
+        },
+        {
+          "title": "特朗普称若达成协议，不排除与伊朗最高领袖会晤",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33313125",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时09分 ~ 03时45分]"
+        },
+        {
+          "title": "消息人士：特朗普在铀浓缩处理时间及冻结资金问题上与伊朗存在分歧",
+          "url": "https://flash.jin10.com/detail/20260606030808995800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时09分"
+          "time_info": "03时45分"
         },
         {
           "title": "俄罗斯总统普京：伊朗没有请求武器，我们没有提供任何东西。",
@@ -30,6 +53,17 @@
           "time_info": "01时09分"
         },
         {
+          "title": "美媒：特朗普特使前往田纳西州密会核专家 以待在伊朗核谈判中发挥作用",
+          "url": "https://flash.jin10.com/detail/20260606030001354800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时45分"
+        },
+        {
           "title": "伊朗最高领袖顾问：伊美谈判因冻结资产而陷入僵局，否认最高领袖与特朗普的会晤",
           "url": "https://wallstreetcn.com/livenews/3115260",
           "source": "华尔街见闻-快讯",
@@ -39,17 +73,137 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时09分"
-        },
+        }
+      ]
+    },
+    {
+      "keyword_group": "消费",
+      "match_count": 4,
+      "titles": [
         {
-          "title": "特朗普称若达成协议，不排除与伊朗最高领袖会晤",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33313125",
-          "source": "澎湃新闻",
+          "title": "耐克原价 899 元几个月后变 429 元，奥特莱斯货架上堆积如山，为什么中国消费者现在都不穿耐克了？",
+          "url": "https://www.zhihu.com/question/2045926418442350993",
+          "source": "知乎",
           "ranks": [
-            16
+            10,
+            18
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时09分 ~ 03时45分]"
+        },
+        {
+          "title": "美国4月消费信贷变动 207.33亿美元，预期 180亿美元，前值 248.55亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3115303",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时09分"
+          "time_info": "03时45分"
+        },
+        {
+          "title": "美国4月消费信贷 207.3亿美元，预期180亿美元，前值由248.55亿美元修正为222.3亿美元。",
+          "url": "https://flash.jin10.com/detail/20260606030021423800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时45分"
+        },
+        {
+          "title": "Meta考虑对消费者AI智能体工具收费每个月200美元。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3115292",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时45分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "谷歌计划两年内释放 3200 万只蚊子，旨在减少蚊子数抑制疾病传播，放蚊为啥能灭蚊？背后是什么原理？",
+          "url": "https://www.zhihu.com/question/2045932866278895886",
+          "source": "知乎",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时09分 ~ 03时45分]"
+        },
+        {
+          "title": "SpaceX表示，谷歌将保留其人工智能模型及相关数据的所有权。",
+          "url": "https://flash.jin10.com/detail/20260606025532481800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时45分"
+        },
+        {
+          "title": "美国证券交易委员会（SEC）文件显示，SpaceX已在当地时间2026年6月5日与谷歌签署云服务协议，以获取算力支持。",
+          "url": "https://flash.jin10.com/detail/20260606024743263800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时45分"
+        },
+        {
+          "title": "市场消息：SpaceX与谷歌(GOOG.O)达成云服务协议。合作协议涉及11万块英伟达GPU、CPU以及内存。",
+          "url": "https://flash.jin10.com/detail/20260606024718460800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时45分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "科技",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "闻泰科技起诉安世荷兰已立案",
+          "url": "https://news.ifeng.com/c/8ti5dci0HPR",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时09分 ~ 03时45分]"
+        },
+        {
+          "title": "恒生指数主连夜盘收跌1.38%，报24544点。 恒生科技指数主连夜盘收跌2.15%，报4775点。",
+          "url": "https://wallstreetcn.com/livenews/3115306",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时45分"
         }
       ]
     },
@@ -65,8 +219,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时09分"
+          "appearance_count": 3,
+          "time_info": "[01时09分 ~ 03时45分]"
         },
         {
           "title": "深圳用电负荷九天三创历史新高，折射经济蓬勃发展",
@@ -82,15 +236,54 @@
       ]
     },
     {
-      "keyword_group": "科技",
-      "match_count": 1,
+      "keyword_group": "金价",
+      "match_count": 2,
       "titles": [
         {
-          "title": "闻泰科技起诉安世荷兰已立案",
-          "url": "https://news.ifeng.com/c/8ti5dci0HPR",
-          "source": "凤凰网",
+          "title": "美就业数据推动加息预期 金价承压并回吐年内涨幅",
+          "url": "https://flash.jin10.com/detail/20260606031454932800",
+          "source": "金十数据",
           "ranks": [
-            4
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时45分"
+        },
+        {
+          "title": "现货黄金回吐2026年稍早涨幅，美国5月非农就业报告推高投资者对美联储加息的预期。 金价跌约3.5%，在北京时间02:33刷新日低至4319.19美元——跌穿2025年12月31日底部4319.37美元，2026年3月23日曾跌至4099.17美元。",
+          "url": "https://wallstreetcn.com/livenews/3115302",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时45分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美元指数在非农日涨超0.6%，使得本周涨幅扩大至超过1.1%",
+          "url": "https://wallstreetcn.com/livenews/3115309",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时45分"
+        },
+        {
+          "title": "彭博美元指数涨0.5%，创最近两个月最大盘中涨幅。",
+          "url": "https://wallstreetcn.com/livenews/3115251",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -99,36 +292,36 @@
       ]
     },
     {
-      "keyword_group": "消费",
+      "keyword_group": "资源",
       "match_count": 1,
       "titles": [
         {
-          "title": "耐克原价 899 元几个月后变 429 元，奥特莱斯货架上堆积如山，为什么中国消费者现在都不穿耐克了？",
-          "url": "https://www.zhihu.com/question/2045926418442350993",
-          "source": "知乎",
+          "title": "SpaceX表示，如果在当地时间2026年9月30日前未交付算力资源，谷歌可以在一个月宽限期后终止GPU相关协议。",
+          "url": "https://flash.jin10.com/detail/20260606025236216800",
+          "source": "金十数据",
           "ranks": [
-            10
+            15
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时09分"
+          "time_info": "03时45分"
         }
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
+      "keyword_group": "金融",
       "match_count": 1,
       "titles": [
         {
-          "title": "谷歌计划两年内释放 3200 万只蚊子，旨在减少蚊子数抑制疾病传播，放蚊为啥能灭蚊？背后是什么原理？",
-          "url": "https://www.zhihu.com/question/2045932866278895886",
-          "source": "知乎",
+          "title": "据英国金融时报，Meta Platforms考虑股权融资，通过发行新股筹集数百亿美元。 Meta跌幅扩大还至6%。",
+          "url": "https://wallstreetcn.com/livenews/3115295",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            16
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时09分"
+          "time_info": "03时45分"
         }
       ]
     },
@@ -144,25 +337,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时09分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "彭博美元指数涨0.5%，创最近两个月最大盘中涨幅。",
-          "url": "https://wallstreetcn.com/livenews/3115251",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时09分"
+          "appearance_count": 3,
+          "time_info": "[01时09分 ~ 03时45分]"
         }
       ]
     }
