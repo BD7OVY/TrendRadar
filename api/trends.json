@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-06T15:42:58.052083+08:00",
-  "total_titles_processed": 946,
+  "generated_at": "2026-06-06T17:57:35.401278+08:00",
+  "total_titles_processed": 1082,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 44,
+      "match_count": 54,
       "titles": [
         {
           "title": "据CNN，一名美国官员表示伊朗已向霍尔木兹海峡方向发射了多架无人机。该官员表示，美军已击落了其中至少3架。",
@@ -18,6 +18,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时01分 ~ 08时12分]"
+        },
+        {
+          "title": "伊朗外长：哈梅内伊遇害那一刻，我就在他办公室里",
+          "url": "https://news.ifeng.com/c/8tjg7UwVKTV",
+          "source": "凤凰网",
+          "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时42分 ~ 17时57分]"
         },
         {
           "title": "美国总统特朗普：（伊朗）大部分无人机工厂、发射场和导弹制造区都被摧毁了。",
@@ -83,20 +95,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时42分"
         },
         {
-          "title": "伊朗外长：哈梅内伊遇害那一刻，我就在他办公室里",
-          "url": "https://news.ifeng.com/c/8tjg7UwVKTV",
-          "source": "凤凰网",
+          "title": "伊朗称在边境地区击毙6名恐怖分子",
+          "url": "https://wallstreetcn.com/livenews/3115446",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时42分"
+          "time_info": "17时57分"
         },
         {
           "title": "一图看懂｜主战还是主和？伊朗高层有什么分歧？",
@@ -108,6 +120,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时09分 ~ 07时01分]"
+        },
+        {
+          "title": "据伊朗迈赫尔通讯社：伊朗国家利益委员会主席萨迪克·阿梅利·拉里贾尼提到核谈判和地区局势时强调，与美国的任何协议都必须在地区和国际体系层面上体现出重大的战略性变革。",
+          "url": "https://flash.jin10.com/detail/20260606171956023800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时57分"
         },
         {
           "title": "美国总统特朗普：伊朗别无选择，但这需要一些时间。",
@@ -169,6 +192,18 @@
           "time_info": "[07时01分 ~ 08时12分]"
         },
         {
+          "title": "报道：多名伊朗世界杯工作人员被美国拒签",
+          "url": "https://wallstreetcn.com/livenews/3115430",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时42分 ~ 17时57分]"
+        },
+        {
           "title": "美国总统特朗普：伊朗保有21%至22%的导弹。",
           "url": "https://flash.jin10.com/detail/20260606054357490800",
           "source": "金十数据",
@@ -181,6 +216,18 @@
           "time_info": "[07时01分 ~ 08时12分]"
         },
         {
+          "title": "白宫：伊朗国足已获得签证",
+          "url": "https://wallstreetcn.com/livenews/3115427",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时42分 ~ 17时57分]"
+        },
+        {
           "title": "美国总统特朗普：伊朗还剩下21%-22%的导弹。 伊朗还剩下一些导弹，还剩下一些无人机，我们知道在哪里。 （谈伊朗为何不达成协议）这对他们来说非常艰难。 （除了达成协议）伊朗别无选择，这需要一些时间。",
           "url": "https://wallstreetcn.com/livenews/3115363",
           "source": "华尔街见闻-快讯",
@@ -191,6 +238,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时01分 ~ 08时12分]"
+        },
+        {
+          "title": "伊朗最高领袖军事顾问警告美国或将“损失惨重”",
+          "url": "https://wallstreetcn.com/livenews/3115423",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时42分 ~ 17时57分]"
         },
         {
           "title": "美国总统特朗普：伊朗冲突结束之后，我们“准备开干（古巴）”。",
@@ -262,17 +321,6 @@
           "time_info": "12时49分"
         },
         {
-          "title": "报道：多名伊朗世界杯工作人员被美国拒签",
-          "url": "https://wallstreetcn.com/livenews/3115430",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时42分"
-        },
-        {
           "title": "黎巴嫩总统指责伊朗将该国当作筹码 伊朗外长暗示其敌友不分",
           "url": "https://flash.jin10.com/detail/20260606120346153800",
           "source": "金十数据",
@@ -282,6 +330,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时49分"
+        },
+        {
+          "title": "据伊朗学生通讯社：在过去一个月内，巴基斯坦内政部长已两次前往德黑兰进行双边和区域磋商。",
+          "url": "https://flash.jin10.com/detail/20260606170003477800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时57分"
+        },
+        {
+          "title": "据伊朗迈赫尔通讯社：巴基斯坦内政部长将于周六前往德黑兰。",
+          "url": "https://flash.jin10.com/detail/20260606165323312800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时57分"
         },
         {
           "title": "伊朗外长阿拉格齐回应黎巴嫩总统称，如果黎巴嫩是“谈判筹码”，德黑兰早就可以与美国达成协议。",
@@ -295,15 +365,15 @@
           "time_info": "12时49分"
         },
         {
-          "title": "白宫：伊朗国足已获得签证",
-          "url": "https://wallstreetcn.com/livenews/3115427",
+          "title": "伊朗外长：我亲历已故最高领袖遇害瞬间",
+          "url": "https://wallstreetcn.com/livenews/3115437",
           "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时42分"
+          "time_info": "17时57分"
         },
         {
           "title": "俄罗斯总统普京：伊朗没有请求武器，我们没有提供任何东西。",
@@ -323,9 +393,31 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时42分"
+        },
+        {
+          "title": "伊朗副外长加里巴巴迪：如果国际原子能机构希望成为外交解决方案的一部分，就必须避免将技术报告变成政治施压的工具。",
+          "url": "https://flash.jin10.com/detail/20260606164755821800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时57分"
+        },
+        {
+          "title": "伊朗副外长加里巴巴迪：国际原子能机构正利用美国和以色列对伊朗核设施发动袭击所造成的后果，来制造有关伊朗核计划的“模糊性”。",
+          "url": "https://flash.jin10.com/detail/20260606164742931800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时57分"
         },
         {
           "title": "美媒：特朗普特使前往田纳西州密会核专家 以待在伊朗核谈判中发挥作用",
@@ -350,15 +442,26 @@
           "time_info": "01时09分"
         },
         {
-          "title": "伊朗最高领袖军事顾问警告美国或将“损失惨重”",
-          "url": "https://wallstreetcn.com/livenews/3115423",
-          "source": "华尔街见闻-快讯",
+          "title": "伊朗副外长加里巴巴迪：国际原子能机构在某些核设施失去监督是由于发生军事攻击，而非伊朗缺乏合作。",
+          "url": "https://flash.jin10.com/detail/20260606164614805800",
+          "source": "金十数据",
           "ranks": [
             14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时42分"
+          "time_info": "17时57分"
+        },
+        {
+          "title": "伊朗外长：亲历已故最高领袖遇害瞬间",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%A4%96%E9%95%BF%EF%BC%9A%E4%BA%B2%E5%8E%86%E5%B7%B2%E6%95%85%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E9%81%87%E5%AE%B3%E7%9E%AC%E9%97%B4",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时57分"
         },
         {
           "title": "美军称拦截伊朗导弹和无人机",
@@ -392,6 +495,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时49分"
+        },
+        {
+          "title": "伊朗边防指挥官阿里·阿克巴尔·贾维丹：昨晚，一支企图进入伊朗境内并袭击边防基地的恐怖组织小组与边防军发生了激烈交火，经过激烈的火力对抗，边防军成功对恐怖组织造成了重大损失，6名武装恐怖分子已被击毙，",
+          "url": "https://flash.jin10.com/detail/20260606162327329800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时57分"
         },
         {
           "title": "美国总统特朗普：伊朗局势似乎进行得相当不错。",
@@ -507,7 +621,7 @@
     },
     {
       "keyword_group": "科技",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "闻泰科技起诉安世荷兰已立案",
@@ -528,9 +642,9 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时42分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时42分 ~ 17时57分]"
         },
         {
           "title": "股民还在追光，股东开始减持：硬科技大涨后高管集体套现",
@@ -542,8 +656,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时12分 ~ 15时42分]"
+          "appearance_count": 4,
+          "time_info": "[08时12分 ~ 17时57分]"
         },
         {
           "title": "恒生指数主连夜盘收跌1.38%，报24544点。 恒生科技指数主连夜盘收跌2.15%，报4775点。",
@@ -575,7 +689,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时42分"
         },
@@ -644,6 +758,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时19分"
+        },
+        {
+          "title": "为何国内科技股龙头难走出独立行情",
+          "url": "https://www.toutiao.com/trending/7647892637445262889/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时57分"
         },
         {
           "title": "迈威尔科技（美满电子）美股盘后涨6%，该公司将被纳入标普500指数。 伟创力盘后上涨3.9%。",
@@ -868,7 +993,7 @@
     },
     {
       "keyword_group": "深圳",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "单价高达10.87万元/平 深圳楼面价“天花板”被捅破",
@@ -880,8 +1005,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时09分 ~ 15时42分]"
+          "appearance_count": 9,
+          "time_info": "[01时09分 ~ 17时57分]"
         },
         {
           "title": "楼面价首破10万、溢价150%，深圳新“单价地王”诞生",
@@ -917,6 +1042,17 @@
           "time_info": "07时01分"
         },
         {
+          "title": "深圳暴雨中惊现“水龙卷”",
+          "url": "https://www.toutiao.com/trending/7647786002928599046/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时57分"
+        },
+        {
           "title": "深圳用电负荷九天三创历史新高，折射经济蓬勃发展",
           "url": "https://wallstreetcn.com/livenews/3115243",
           "source": "华尔街见闻-快讯",
@@ -942,8 +1078,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时49分 ~ 15时42分]"
+          "appearance_count": 3,
+          "time_info": "[12时49分 ~ 17时57分]"
         },
         {
           "title": "美元指数在非农日涨超0.6%，使得本周涨幅扩大至超过1.1%",
@@ -998,6 +1134,18 @@
           "time_info": "03时45分"
         },
         {
+          "title": "金价跌回2025年",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E8%B7%8C%E5%9B%9E2025%E5%B9%B4%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时42分 ~ 17时57分]"
+        },
+        {
           "title": "现货黄金回吐2026年稍早涨幅，美国5月非农就业报告推高投资者对美联储加息的预期。 金价跌约3.5%，在北京时间02:33刷新日低至4319.19美元——跌穿2025年12月31日底部4319.37美元，2026年3月23日曾跌至4099.17美元。",
           "url": "https://wallstreetcn.com/livenews/3115302",
           "source": "华尔街见闻-快讯",
@@ -1007,17 +1155,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时45分"
-        },
-        {
-          "title": "金价跌回2025年",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E8%B7%8C%E5%9B%9E2025%E5%B9%B4%23&t=31&band_rank=28&Refer=top",
-          "source": "微博",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时42分"
         }
       ]
     },
@@ -1059,11 +1196,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            17
+            17,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时49分 ~ 15时42分]"
+          "appearance_count": 3,
+          "time_info": "[12时49分 ~ 17时57分]"
         },
         {
           "title": "据英国金融时报，Meta Platforms考虑股权融资，通过发行新股筹集数百亿美元。 Meta跌幅扩大还至6%。",
@@ -1099,11 +1237,12 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时49分 ~ 15时42分]"
+          "appearance_count": 3,
+          "time_info": "[12时49分 ~ 17时57分]"
         }
       ]
     }
