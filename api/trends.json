@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-08T02:02:09.434164+08:00",
-  "total_titles_processed": 399,
+  "generated_at": "2026-06-08T03:39:15.040510+08:00",
+  "total_titles_processed": 449,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 21,
+      "match_count": 31,
       "titles": [
         {
           "title": "消息人士：美计划动用伊朗资产修复海湾盟友损失",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时09分 ~ 02时02分]"
+          "appearance_count": 5,
+          "time_info": "[00时09分 ~ 03时39分]"
         },
         {
           "title": "英媒：伊朗收取的海峡通行费用大幅下降",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时09分 ~ 02时02分]"
+          "appearance_count": 5,
+          "time_info": "[00时09分 ~ 03时39分]"
         },
         {
           "title": "据以色列第15频道：以色列总理内塔尼亚胡与国防部长今日因伊朗威胁召开会议。",
@@ -41,15 +41,48 @@
           "time_info": "00时09分"
         },
         {
-          "title": "伊朗总统：我方谈判团队成员绝非退让之人，因此必须有力捍卫我们人民的权利。",
-          "url": "https://flash.jin10.com/detail/20260608015132054800",
+          "title": "伊朗革命卫队表示，以色列军队必须停止对黎巴嫩的攻击；如果以方扩大攻击范围或对伊朗的行动作出回应，将面临“更具毁灭性和更令人懊悔的打击”。",
+          "url": "https://flash.jin10.com/detail/20260608032039298800",
           "source": "金十数据",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时02分"
+          "time_info": "03时39分"
+        },
+        {
+          "title": "以军称监测到伊朗导弹来袭 多地响起防空警报",
+          "url": "https://flash.jin10.com/detail/20260608031813233800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时39分"
+        },
+        {
+          "title": "伊朗拒绝接受将其资产用于向美国盟友支付战争赔偿的设想",
+          "url": "https://wallstreetcn.com/livenews/3115603",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时39分"
+        },
+        {
+          "title": "以色列军方表示，他们监测到从伊朗向以色列发射的第二波导弹。",
+          "url": "https://flash.jin10.com/detail/20260608031645531800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时39分"
         },
         {
           "title": "伊朗要求解冻240亿美元资产后，美国拟将伊朗资产用于海湾国家重建",
@@ -60,8 +93,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时09分 ~ 02时02分]"
+          "appearance_count": 5,
+          "time_info": "[00时09分 ~ 03时39分]"
+        },
+        {
+          "title": "据以色列第13频道援引一名高级官员的话报道，从伊朗向以色列领土开火意味着重启战争的宣示。",
+          "url": "https://flash.jin10.com/detail/20260608030612709800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时39分"
         },
         {
           "title": "美国拟动用伊朗被冻结资产赔偿海湾国家损失 或成停火谈判“新刺激”",
@@ -71,8 +115,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时09分 ~ 02时02分]"
+          "appearance_count": 5,
+          "time_info": "[00时09分 ~ 03时39分]"
         },
         {
           "title": "世界杯签证问题持续，多国记者及伊朗队成员仍未获赴美签证",
@@ -83,8 +127,20 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时09分 ~ 02时02分]"
+          "appearance_count": 5,
+          "time_info": "[00时09分 ~ 03时39分]"
+        },
+        {
+          "title": "伊朗总统：我方谈判团队成员绝非退让之人，因此必须有力捍卫我们人民的权利。",
+          "url": "https://flash.jin10.com/detail/20260608015132054800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时02分 ~ 03时39分]"
         },
         {
           "title": "特朗普称解冻伊朗资产或解除制裁不是协议先决条件",
@@ -92,11 +148,48 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             12,
-            25
+            25,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时09分 ~ 03时39分]"
+        },
+        {
+          "title": "伊朗议员：伊朗从通过霍尔木兹海峡的每艘船获得150万-200万美元通行费。（伊朗国家电视台IRIB）",
+          "url": "https://wallstreetcn.com/livenews/3115595",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时09分 ~ 02时02分]"
+          "time_info": "[02时02分 ~ 03时39分]"
+        },
+        {
+          "title": "伊朗国足抵达墨西哥",
+          "url": "https://wallstreetcn.com/livenews/3115594",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时02分 ~ 03时39分]"
+        },
+        {
+          "title": "伊朗首席谈判代表/议长卡利巴夫：针对伊朗的海上封锁，以及美国今天对以色列大开绿灯的行为，已使美国和该政权（以色列）在区域内的基地与资产成为合法打击目标。正如以往一样，我们武装部队的手已经松开（已准备好随时出手）。 他们既不致力于停火，也不相信对话，而是通过海上封锁以及违反涉及黎巴嫩的相关协议，表明了他们唯一能听懂的只有实力的语言（强权语言）。",
+          "url": "https://wallstreetcn.com/livenews/3115587",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时02分 ~ 03时39分]"
         },
         {
           "title": "伊朗副外长：伊朗的资产既不是华盛顿的战利品，也不是其盟友的赔付基金。",
@@ -105,18 +198,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时02分"
-        },
-        {
-          "title": "伊朗议员：伊朗从通过霍尔木兹海峡的每艘船获得150万-200万美元通行费。（伊朗国家电视台IRIB）",
-          "url": "https://wallstreetcn.com/livenews/3115595",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
         },
@@ -127,18 +209,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时02分"
-        },
-        {
-          "title": "伊朗国足抵达墨西哥",
-          "url": "https://wallstreetcn.com/livenews/3115594",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
         },
@@ -154,15 +225,37 @@
           "time_info": "00时09分"
         },
         {
-          "title": "伊朗首席谈判代表/议长卡利巴夫：针对伊朗的海上封锁，以及美国今天对以色列大开绿灯的行为，已使美国和该政权（以色列）在区域内的基地与资产成为合法打击目标。正如以往一样，我们武装部队的手已经松开（已准备好随时出手）。 他们既不致力于停火，也不相信对话，而是通过海上封锁以及违反涉及黎巴嫩的相关协议，表明了他们唯一能听懂的只有实力的语言（强权语言）。",
-          "url": "https://wallstreetcn.com/livenews/3115587",
-          "source": "华尔街见闻-快讯",
+          "title": "以色列军方：监测到从伊朗向北部定居点发射的导弹。",
+          "url": "https://flash.jin10.com/detail/20260608030332453800",
+          "source": "金十数据",
           "ranks": [
-            12
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时02分"
+          "time_info": "03时39分"
+        },
+        {
+          "title": "以色列拉响导弹警报，伊朗发射了导弹。",
+          "url": "https://flash.jin10.com/detail/20260608030304837800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时39分"
+        },
+        {
+          "title": "伊朗最高领袖顾问兼助理穆罕默德·莫赫贝尔：敌人在调解方身处伊朗期间对黎巴嫩进行轰炸，已是第三次烧毁谈判桌。",
+          "url": "https://flash.jin10.com/detail/20260608021831010800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时39分"
         },
         {
           "title": "伊朗议员雷扎伊：将对以色列对贝鲁特的攻击作出“痛苦”的回应。",
@@ -174,6 +267,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时09分"
+        },
+        {
+          "title": "据以色列第12频道：一位美国安全消息人士表示，已做好防御准备，以应对伊朗可能发动的攻击。",
+          "url": "https://flash.jin10.com/detail/20260608021739259800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时39分"
+        },
+        {
+          "title": "据沙特阿拉比亚电视台：巴基斯坦陆军总司令呼吁伊朗把握当前时机达成协议。",
+          "url": "https://flash.jin10.com/detail/20260608021659114800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时39分"
         },
         {
           "title": "伊朗议会国家安全委员会：没有人应该认为战争已经结束。",
@@ -193,7 +308,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
         },
@@ -215,7 +330,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
         },
@@ -226,7 +341,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
         },
@@ -237,7 +352,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
         }
@@ -255,8 +370,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时09分 ~ 02时02分]"
+          "appearance_count": 5,
+          "time_info": "[00时09分 ~ 03时39分]"
         },
         {
           "title": "短期美股科技股调整，风险如何应对？十大券商策略来了",
@@ -264,11 +379,12 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时09分 ~ 02时02分]"
+          "appearance_count": 5,
+          "time_info": "[00时09分 ~ 03时39分]"
         },
         {
           "title": "黄玉峰谈2026上海高考作文：要注意科技与想象的辩证关系",
@@ -279,8 +395,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时09分 ~ 02时02分]"
+          "appearance_count": 5,
+          "time_info": "[00时09分 ~ 03时39分]"
         },
         {
           "title": "中信建投：当前海外科技板块整体维持择优增持、逢低布局的核心策略",
@@ -288,11 +404,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             11,
-            24
+            24,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时09分 ~ 02时02分]"
+          "appearance_count": 3,
+          "time_info": "[00时09分 ~ 03时39分]"
         },
         {
           "title": "英伟达CEO访韩深化合作 与SK海力士、三星电子等科技公司高层会面",
@@ -308,6 +425,36 @@
       ]
     },
     {
+      "keyword_group": "消费",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美联航CEO：富裕乘客消费势头依然强劲",
+          "url": "https://wallstreetcn.com/livenews/3115601",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时39分"
+        },
+        {
+          "title": "年轻时靠拼命存钱、克制消费，到三十岁真的会和别人拉开差距吗？",
+          "url": "https://www.zhihu.com/question/2032606359812843308",
+          "source": "知乎",
+          "ranks": [
+            20,
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时09分 ~ 03时39分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
       "match_count": 2,
       "titles": [
@@ -317,11 +464,12 @@
           "source": "知乎",
           "ranks": [
             8,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时09分 ~ 02时02分]"
+          "appearance_count": 5,
+          "time_info": "[00时09分 ~ 03时39分]"
         },
         {
           "title": "\"聊天已死\"！ChatGPT最大改版来了，OpenAI要造\"超级应用\"",
@@ -331,26 +479,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时09分 ~ 02时02分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "消费",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "年轻时靠拼命存钱、克制消费，到三十岁真的会和别人拉开差距吗？",
-          "url": "https://www.zhihu.com/question/2032606359812843308",
-          "source": "知乎",
-          "ranks": [
-            20,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时09分 ~ 02时02分]"
+          "appearance_count": 5,
+          "time_info": "[00时09分 ~ 03时39分]"
         }
       ]
     },
@@ -367,8 +497,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时09分 ~ 02时02分]"
+          "appearance_count": 5,
+          "time_info": "[00时09分 ~ 03时39分]"
         }
       ]
     },
@@ -398,11 +528,12 @@
           "url": "https://s.weibo.com/weibo?q=%E5%85%B3%E6%8E%89%E6%9C%8B%E5%8F%8B%E5%9C%88%E4%B9%8B%E5%90%8E%E5%8F%91%E7%8E%B0%E8%87%AA%E5%B7%B1%E4%B8%8D%E7%88%B1%E6%97%85%E6%B8%B8&t=31&band_rank=10&Refer=top",
           "source": "微博",
           "ranks": [
-            10
+            10,
+            29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时09分 ~ 02时02分]"
+          "appearance_count": 5,
+          "time_info": "[00时09分 ~ 03时39分]"
         }
       ]
     }
