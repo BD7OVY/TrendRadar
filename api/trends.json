@@ -1,12 +1,34 @@
 {
-  "generated_at": "2026-06-07T20:18:08.036570+08:00",
-  "total_titles_processed": 1084,
+  "generated_at": "2026-06-07T22:49:16.809063+08:00",
+  "total_titles_processed": 1237,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 52,
+      "match_count": 58,
       "titles": [
+        {
+          "title": "消息人士：美计划动用伊朗资产修复海湾盟友损失",
+          "url": "https://news.ifeng.com/c/8tlaJRmbbef",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时17分 ~ 22时49分]"
+        },
+        {
+          "title": "英媒：伊朗收取的海峡通行费用大幅下降",
+          "url": "https://news.ifeng.com/c/8tlcaP7Dqrp",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时17分 ~ 22时49分]"
+        },
         {
           "title": "巴基斯坦内政部长Naqvi抵达伊朗。（Tasnim）",
           "url": "https://wallstreetcn.com/livenews/3115487",
@@ -53,15 +75,17 @@
           "time_info": "[04时57分 ~ 15时03分]"
         },
         {
-          "title": "消息人士：美计划动用伊朗资产修复海湾盟友损失",
-          "url": "https://news.ifeng.com/c/8tlaJRmbbef",
-          "source": "凤凰网",
+          "title": "美国拟动用伊朗被冻结资产赔偿海湾国家损失 或成停火谈判“新刺激”",
+          "url": "https://www.cls.cn/detail/2392742",
+          "source": "财联社热门",
           "ranks": [
-            1
+            13,
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时17分 ~ 20时18分]"
+          "appearance_count": 7,
+          "time_info": "[15时02分 ~ 22时49分]"
         },
         {
           "title": "国际航空运输协会（IATA）中东区副总裁：令人担忧的是，在伊朗袭击中受损的科威特航站楼将至少瘫痪（停止运作）一年。 对此感到忧虑，因为此前所有非科威特的航空公司都使用该航站楼，因此目前该国仅剩科威特本土的航空公司仍在维持运营。 预计当前的成本形势不会对中东地区航空公司的飞机订单造成影响。 各航空公司在当前节点推迟飞机交付并非明智之举，因为这一决定可能会付出高昂的代价。",
@@ -92,17 +116,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[03时09分 ~ 15时03分]"
-        },
-        {
-          "title": "英媒：伊朗收取的海峡通行费用大幅下降",
-          "url": "https://news.ifeng.com/c/8tlcaP7Dqrp",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时17分 ~ 20时18分]"
         },
         {
           "title": "美国授意一个团队评估海湾盟友们遭受的损失情况。 美方将向它们开放伊朗资产。 伊朗资产将被用于修复伊朗在未来造成的损失。（路透）",
@@ -183,6 +196,19 @@
           "time_info": "[04时57分 ~ 10时48分]"
         },
         {
+          "title": "伊朗要求解冻240亿美元资产后，美国拟将伊朗资产用于海湾国家重建",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33327663",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            15,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时24分 ~ 22时49分]"
+        },
+        {
           "title": "世界杯伊朗代表团十余人遭美国拒签，伊朗足协将向国际足联申诉",
           "url": "https://m.thepaper.cn/newsDetail_forward_33326338",
           "source": "澎湃新闻",
@@ -190,18 +216,6 @@
             12,
             11,
             9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时02分 ~ 20时18分]"
-        },
-        {
-          "title": "美国拟动用伊朗被冻结资产赔偿海湾国家损失 或成停火谈判“新刺激”",
-          "url": "https://www.cls.cn/detail/2392742",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11
           ],
           "is_new": false,
           "appearance_count": 5,
@@ -320,6 +334,18 @@
           "time_info": "[10时48分 ~ 18时24分]"
         },
         {
+          "title": "世界杯签证问题持续，多国记者及伊朗队成员仍未获赴美签证",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33327810",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时17分 ~ 22时49分]"
+        },
+        {
           "title": "伊朗与巴基斯坦两国内政部长会面 讨论地区局势等问题",
           "url": "https://flash.jin10.com/detail/20260607040202315800",
           "source": "金十数据",
@@ -363,18 +389,6 @@
           "ranks": [
             14,
             12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时24分 ~ 20时18分]"
-        },
-        {
-          "title": "伊朗要求解冻240亿美元资产后，美国拟将伊朗资产用于海湾国家重建",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33327663",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            15
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -429,6 +443,18 @@
           "time_info": "[06时01分 ~ 07时08分]"
         },
         {
+          "title": "英媒披露伊朗收取的海峡通行费用大幅下降",
+          "url": "https://wallstreetcn.com/livenews/3115544",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时18分 ~ 22时49分]"
+        },
+        {
           "title": "美国财长贝森特指示小组评估海湾盟友的状况，评估伊朗造成的损失成本。",
           "url": "https://flash.jin10.com/detail/20260607044909694800",
           "source": "金十数据",
@@ -453,17 +479,6 @@
           "time_info": "[06时01分 ~ 07时08分]"
         },
         {
-          "title": "世界杯签证问题持续，多国记者及伊朗队成员仍未获赴美签证",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33327810",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时17分 ~ 20时18分]"
-        },
-        {
           "title": "伊朗称已起草《霍尔木兹海峡环境服务收费条例》",
           "url": "https://flash.jin10.com/detail/20260607173036236800",
           "source": "金十数据",
@@ -475,15 +490,15 @@
           "time_info": "18时24分"
         },
         {
-          "title": "英媒披露伊朗收取的海峡通行费用大幅下降",
-          "url": "https://wallstreetcn.com/livenews/3115544",
+          "title": "特朗普称解冻伊朗资产或解除制裁不是协议先决条件",
+          "url": "https://wallstreetcn.com/livenews/3115567",
           "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时18分"
+          "time_info": "22时49分"
         },
         {
           "title": "据伊朗伊斯兰共和国通讯社（IRNA）：黎巴嫩真主党谴责以色列对黎巴嫩军车的致命袭击。",
@@ -495,6 +510,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时03分"
+        },
+        {
+          "title": "特朗普称解冻伊朗资产或解除制裁不是协议先决条件",
+          "url": "https://flash.jin10.com/detail/20260607212819197800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
         },
         {
           "title": "据沙特媒体哈达斯（Alhadath）：高级外交消息人士透露，巴基斯坦内政部长向伊朗传达了美国同意放宽制裁的消息。",
@@ -514,9 +540,31 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时18分"
+        },
+        {
+          "title": "特朗普：若达成协议 或可与伊朗合作回收并销毁其高浓缩铀",
+          "url": "https://flash.jin10.com/detail/20260607212252758800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
+        },
+        {
+          "title": "特朗普：如果美国和伊朗达成协议，“我们将一起行动”。 如果没有达成协议，将以严厉的军事手段打击伊朗。 美国在伊朗问题上将等待军事行动。 不排除向国会山袭击案中被指控者支付赔偿。 暂时没有计划撤出美军。 哈梅内伊比其前任更理性。 与伊朗协议“还差几个要点”，“非常接近”（达成）。 希望以色列对真主党进行更多“外科手术式”打击。 在伊朗行动中维持驻军成本极低。 希望“在军事上更进一步”。（NBC）",
+          "url": "https://wallstreetcn.com/livenews/3115561",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
         },
         {
           "title": "据伊朗塔斯尼姆通讯社：巴基斯坦方面发出的特别信函已交给作为伊朗革命领袖代表的伊朗外长阿拉格齐。",
@@ -528,6 +576,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时24分"
+        },
+        {
+          "title": "据NBC新闻：特朗普表示，并不要求将黎巴嫩纳入与伊朗的短期协议，不会在任何协议中提前解冻伊朗资产或解除任何制裁。",
+          "url": "https://flash.jin10.com/detail/20260607211037787800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
         },
         {
           "title": "据伊朗塔斯尼姆通讯社：伊拉克总理透露，计划于近期对美国进行正式访问。此次访问将有一支由伊拉克商人和企业家组成的代表团随行。",
@@ -550,6 +609,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时03分"
+        },
+        {
+          "title": "国际航空运输协会：将2026年全球航空业利润预测下调至230亿美元，较之前的410亿美元大幅减少，原因是伊朗战争带来的干扰和燃料成本上升。",
+          "url": "https://flash.jin10.com/detail/20260607210321154800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
         },
         {
           "title": "世界杯伊朗代表团十余人遭美国拒签",
@@ -613,7 +683,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时18分"
         },
@@ -624,7 +694,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时18分"
         },
@@ -643,7 +713,7 @@
     },
     {
       "keyword_group": "科技",
-      "match_count": 8,
+      "match_count": 12,
       "titles": [
         {
           "title": "九大科技股一日蒸发万亿美元！一文纵览华尔街解读周五抛售",
@@ -656,19 +726,31 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时03分 ~ 20时18分]"
+          "appearance_count": 14,
+          "time_info": "[01时03分 ~ 22时49分]"
         },
         {
           "title": "全球科技股遭遇“黑色星期五”",
           "url": "https://www.toutiao.com/trending/7648563166284382250/",
           "source": "今日头条",
           "ranks": [
-            4
+            4,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时17分 ~ 20时18分]"
+          "appearance_count": 4,
+          "time_info": "[20时17分 ~ 22时49分]"
+        },
+        {
+          "title": "英伟达CEO访韩深化合作 与SK海力士、三星电子等科技公司高层会面",
+          "url": "https://flash.jin10.com/detail/20260607222604947800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
         },
         {
           "title": "中国航发动控所向时的科技交付“六合一”全集成航空电机",
@@ -680,6 +762,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时48分"
+        },
+        {
+          "title": "短期美股科技股调整，风险如何应对？十大券商策略来了",
+          "url": "https://www.cls.cn/detail/2392910",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时48分 ~ 22时49分]"
+        },
+        {
+          "title": "黄玉峰谈2026上海高考作文：要注意科技与想象的辩证关系",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33328819",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时48分 ~ 22时49分]"
         },
         {
           "title": "据The Information报道，美国白宫科技政策办公室人工智能高级政策顾问克里希南已讨论建立一个支持特朗普政府的政策机构。",
@@ -699,7 +803,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时18分"
         },
@@ -713,6 +817,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时48分"
+        },
+        {
+          "title": "中信建投：当前海外科技板块整体维持择优增持、逢低布局的核心策略",
+          "url": "https://wallstreetcn.com/livenews/3115568",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时49分"
         },
         {
           "title": "韩国投资者持续买入中国硬科技",
@@ -732,7 +847,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时18分"
         }
@@ -829,8 +944,20 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "\"聊天已死\"！ChatGPT最大改版来了，OpenAI要造\"超级应用\"",
+          "url": "https://wallstreetcn.com/articles/3774032",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时02分 ~ 22时49分]"
+        },
         {
           "title": "下一个是OpenAI？特朗普证实：政府考虑入股人工智能公司",
           "url": "https://www.cls.cn/detail/2392488",
@@ -844,18 +971,6 @@
           "time_info": "[01时03分 ~ 07时08分]"
         },
         {
-          "title": "\"聊天已死\"！ChatGPT最大改版来了，OpenAI要造\"超级应用\"",
-          "url": "https://wallstreetcn.com/articles/3774032",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时02分 ~ 20时18分]"
-        },
-        {
           "title": "OpenAI计划对ChatGPT进行发布以来最大规模改版",
           "url": "https://wallstreetcn.com/livenews/3115520",
           "source": "华尔街见闻-快讯",
@@ -867,6 +982,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[15时03分 ~ 20时18分]"
+        },
+        {
+          "title": "ChatGPT即将迎来大改造：告别单一聊天 变身“超级应用”",
+          "url": "https://www.cls.cn/detail/2392807",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时48分 ~ 22时49分]"
         },
         {
           "title": "OpenAI计划大幅升级ChatGPT 以创造更多收入",
@@ -923,8 +1049,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时24分 ~ 20时18分]"
+          "appearance_count": 5,
+          "time_info": "[18时24分 ~ 22时49分]"
         }
       ]
     },
@@ -937,11 +1063,12 @@
           "url": "https://wallstreetcn.com/livenews/3115552",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时18分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时18分 ~ 22时49分]"
         },
         {
           "title": "周生生老庙老凤祥金价集体大跌",
@@ -1019,11 +1146,12 @@
           "url": "https://s.weibo.com/weibo?q=%E5%85%B3%E6%8E%89%E6%9C%8B%E5%8F%8B%E5%9C%88%E4%B9%8B%E5%90%8E%E5%8F%91%E7%8E%B0%E8%87%AA%E5%B7%B1%E4%B8%8D%E7%88%B1%E6%97%85%E6%B8%B8&t=31&band_rank=7&Refer=top",
           "source": "微博",
           "ranks": [
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时17分 ~ 20时18分]"
+          "appearance_count": 4,
+          "time_info": "[20时17分 ~ 22时49分]"
         }
       ]
     }
