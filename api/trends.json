@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-10T07:14:50.916650+08:00",
-  "total_titles_processed": 555,
+  "generated_at": "2026-06-10T10:42:42.551813+08:00",
+  "total_titles_processed": 751,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 45,
+      "match_count": 71,
       "titles": [
         {
           "title": "伊朗队全员佩戴「168」纪念徽章出征世界杯，这一举动有何深远意义？",
@@ -14,22 +14,46 @@
           "ranks": [
             7,
             5,
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时10分 ~ 07时14分]"
+          "appearance_count": 4,
+          "time_info": "[03时10分 ~ 10时42分]"
         },
         {
           "title": "特朗普证实美军打击伊朗",
           "url": "https://news.ifeng.com/c/8tpnEaZn5yq",
           "source": "凤凰网",
           "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时14分 ~ 10时42分]"
+        },
+        {
+          "title": "美军称对伊朗发动“自卫性”打击",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%86%9B%E7%A7%B0%E5%AF%B9%E4%BC%8A%E6%9C%97%E5%8F%91%E5%8A%A8%E2%80%9C%E8%87%AA%E5%8D%AB%E6%80%A7%E2%80%9D%E6%89%93%E5%87%BB",
+          "source": "百度热搜",
+          "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时14分"
+          "time_info": "10时42分"
+        },
+        {
+          "title": "伊朗战争最新动态丨美国和伊朗又动手了，情况如何？",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时42分"
         },
         {
           "title": "据伊朗半官方媒体Mehr援引伊朗议员称，针对特朗普的威胁，伊朗军队处于全面戒备状态。",
@@ -93,7 +117,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时14分"
         },
@@ -115,7 +139,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时14分"
         },
@@ -142,6 +166,17 @@
           "time_info": "05时44分"
         },
         {
+          "title": "伊朗伊斯兰革命卫队称击中该地区21个美国空中和海上目标。",
+          "url": "https://wallstreetcn.com/livenews/3117159",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时42分"
+        },
+        {
           "title": "37次“即将达成”！特朗普不断预告伊朗协议，却一次次落空",
           "url": "https://wallstreetcn.com/articles/3774230",
           "source": "华尔街见闻",
@@ -153,15 +188,59 @@
           "time_info": "[05时44分 ~ 07时14分]"
         },
         {
+          "title": "伊朗袭击美军第五舰队",
+          "url": "https://www.toutiao.com/trending/7649563798306557482/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时42分"
+        },
+        {
+          "title": "美伊协议曙光风险并存：白宫放风核谈判取得积极成果，特朗普称必须回应伊朗击落美直升机，美军称发动打击报复",
+          "url": "https://wallstreetcn.com/articles/3774257",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时42分"
+        },
+        {
+          "title": "美军对伊朗发动打击",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%86%9B%E5%AF%B9%E4%BC%8A%E6%9C%97%E5%8F%91%E5%8A%A8%E6%89%93%E5%87%BB",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时42分"
+        },
+        {
           "title": "伊朗外长阿拉格齐：想要安全，就离开我们所在的地区。波斯湾的历史上，关于外来入侵者的悲惨命运，篇章众多。",
           "url": "https://flash.jin10.com/detail/20260610063225617800",
           "source": "金十数据",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时14分"
+        },
+        {
+          "title": "伊朗无人机袭击科威特美军基地",
+          "url": "https://flash.jin10.com/detail/20260610101526650800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时42分"
         },
         {
           "title": "据纽约时报，美国袭击伊朗军南部五个地方，袭击目标位军事基地和海军基地。 道指期货、标普股指期货跌0.3%，罗素2000股指期货跌0.4%。",
@@ -170,7 +249,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时14分"
         },
@@ -192,7 +271,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时14分"
         },
@@ -203,9 +282,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时14分"
+        },
+        {
+          "title": "美伊和谈又受扰？美军再对伊朗发动打击 特朗普称“行动非常强硬”",
+          "url": "https://www.cls.cn/detail/2395455",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时42分"
         },
         {
           "title": "伊朗外长阿拉格齐：尽管美国在战场上屡遭挫败，但仍选择试探我们的决心。",
@@ -214,9 +304,31 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时14分"
+        },
+        {
+          "title": "伊朗打击科威特美军基地",
+          "url": "https://flash.jin10.com/detail/20260610101247159800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时42分"
+        },
+        {
+          "title": "特朗普称对伊朗进行打击“非常重要” | 环球市场",
+          "url": "https://www.cls.cn/detail/2395421",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时42分"
         },
         {
           "title": "【以军总参谋长称袭击伊朗是为更大打击做准备】以色列国防军总参谋长扎米尔9日说，此前对伊朗的袭击是为“更大规模、更有力的打击”做准备，同时以军将继续加大对黎巴嫩真主党的打击力度。以军始终保持并将继续保持“随时恢复对伊朗作战”的战备状态，以军已对伊朗进行“迅速而有力的打击”，这是为“更大规模、更有力的”打击做准备。以军正继续在黎巴嫩南部“前沿防线”一带展开军事行动，摧毁黎真主党武装人员的基础设施。（新华社）",
@@ -230,15 +342,48 @@
           "time_info": "00时29分"
         },
         {
+          "title": "伊朗袭击美军第五舰队",
+          "url": "https://www.douyin.com/hot/2529144",
+          "source": "抖音",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时42分"
+        },
+        {
           "title": "据福克斯新闻：美国众议院议长约翰逊表示，他在白宫战情室与特朗普及高层官员进行了会面，随后美国军队发起了被描述为自卫的打击伊朗行动。 约翰逊也称此次行动“比例适当且有限”，目标是雷达、导弹和指挥控制设施。",
           "url": "https://flash.jin10.com/detail/20260610062852689800",
           "source": "金十数据",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时14分"
+        },
+        {
+          "title": "伊朗袭击约旦美军基地 包括F-35战斗机机库",
+          "url": "https://flash.jin10.com/detail/20260610100938995800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时42分"
+        },
+        {
+          "title": "伊朗称对美军第五舰队发动袭击",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E7%A7%B0%E5%AF%B9%E7%BE%8E%E5%86%9B%E7%AC%AC%E4%BA%94%E8%88%B0%E9%98%9F%E5%8F%91%E5%8A%A8%E8%A2%AD%E5%87%BB",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时42分"
         },
         {
           "title": "消息称伊朗无人机飞越伊拉克领空，对美目标发动袭击",
@@ -247,9 +392,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时14分"
+        },
+        {
+          "title": "特朗普指示美军打击伊朗 伊外长发警告",
+          "url": "https://www.toutiao.com/trending/7649536140243897906/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时42分"
         },
         {
           "title": "伊朗外交部长：武装部队已针对领空遭侵犯进入戒备状态。",
@@ -269,9 +425,31 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时14分"
+        },
+        {
+          "title": "据伊朗媒体称，伊朗革命卫队表示，已准备好对任何进一步的美国攻击作出“毁灭性和决定性的”回应。",
+          "url": "https://flash.jin10.com/detail/20260610100540617800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时42分"
+        },
+        {
+          "title": "伊朗击落一架美军阿帕奇直升机",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%87%BB%E8%90%BD%E4%B8%80%E6%9E%B6%E7%BE%8E%E5%86%9B%E9%98%BF%E5%B8%95%E5%A5%87%E7%9B%B4%E5%8D%87%E6%9C%BA",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时42分"
         },
         {
           "title": "美国能源信息署（EIA）：现在假设霍尔木兹海峡的石油运输将在2026年第三季度恢复。预计霍尔木兹海峡的交通在2027年初之前不会恢复到伊朗战争前的水平。",
@@ -285,13 +463,24 @@
           "time_info": "00时29分"
         },
         {
+          "title": "据伊朗媒体称，伊朗革命卫队表示，在对约旦的美国基地打击中使用了远程导弹。",
+          "url": "https://flash.jin10.com/detail/20260610100454662800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时42分"
+        },
+        {
           "title": "美国对于伊朗南部的袭击已经减弱。（伊朗国家电视台）",
           "url": "https://wallstreetcn.com/livenews/3117053",
           "source": "华尔街见闻-快讯",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时14分"
         },
@@ -313,7 +502,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时14分"
         },
@@ -324,9 +513,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时14分"
+        },
+        {
+          "title": "美军称完成对伊朗“自卫性打击”",
+          "url": "https://wallstreetcn.com/livenews/3117133",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时42分"
         },
         {
           "title": "美国官员：美军打击了霍尔木兹海峡周边伊朗防空和雷达系统",
@@ -335,9 +535,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时14分"
+        },
+        {
+          "title": "据伊朗媒体称，伊朗革命卫队表示，对约旦的美国基地的打击目标包括F-35机库和指挥控制中心。",
+          "url": "https://flash.jin10.com/detail/20260610100339209800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时42分"
         },
         {
           "title": "特朗普称对伊朗进行打击“非常重要”",
@@ -346,9 +557,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时14分"
+        },
+        {
+          "title": "据伊朗媒体称，伊朗革命卫队表示，对位于约旦的美国阿尔阿兹拉克基地四个目标进行打击。",
+          "url": "https://flash.jin10.com/detail/20260610100206477800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时42分"
         },
         {
           "title": "伊朗：以色列最新一轮袭击造成两名防控部队士兵丧生。",
@@ -360,6 +582,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时10分"
+        },
+        {
+          "title": "A股油服工程板块震荡回升，科力股份涨超9%，通源石油、惠博普、潜能恒信、中曼石油、贝肯能源等个股跟涨。伊朗媒体报道称，伊朗革命卫队对约旦的美国基地发起了导弹攻击。",
+          "url": "https://flash.jin10.com/detail/20260610100023664800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时42分"
         },
         {
           "title": "据纽约时报，美国与伊朗在磋商中聚焦于四个核问题。 美国认为，伊朗同意暂停铀浓缩活动15年。 标普500指数跌幅收窄至1.2%，道指跌幅不足0.5%，纳指跌2.1%，半导体指数跌幅也收窄至4.8%。",
@@ -379,7 +612,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时14分"
         },
@@ -401,7 +634,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时14分"
         },
@@ -445,7 +678,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时14分"
         },
@@ -461,13 +694,46 @@
           "time_info": "03时10分"
         },
         {
+          "title": "美媒称美军打击了伊朗境内20个目标",
+          "url": "https://flash.jin10.com/detail/20260610095530536800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时42分"
+        },
+        {
+          "title": "伊朗革命卫队称击落一架MQ-9无人机",
+          "url": "https://wallstreetcn.com/livenews/3117120",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时42分"
+        },
+        {
+          "title": "伊朗武装部队称“猛烈打击”中东地区美军基地",
+          "url": "https://wallstreetcn.com/livenews/3117119",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时42分"
+        },
+        {
           "title": "据Axios：美国官员称美军袭击了霍尔木兹海峡周边的数个伊朗防空系统和雷达系统。",
           "url": "https://flash.jin10.com/detail/20260610055413211800",
           "source": "金十数据",
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时14分"
         },
@@ -489,7 +755,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时14分"
         },
@@ -500,15 +766,37 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时14分"
+        },
+        {
+          "title": "美国完成就阿帕奇直升机被击落事件对伊朗实施的打击",
+          "url": "https://wallstreetcn.com/livenews/3117113",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时42分"
+        },
+        {
+          "title": "美军对伊朗发动报复性打击",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%86%9B%E5%AF%B9%E4%BC%8A%E6%9C%97%E5%8F%91%E5%8A%A8%E6%8A%A5%E5%A4%8D%E6%80%A7%E6%89%93%E5%87%BB%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时42分"
         }
       ]
     },
     {
       "keyword_group": "科技",
-      "match_count": 14,
+      "match_count": 22,
       "titles": [
         {
           "title": "美股指跳水，纳指跌超1%，科技股回落，迈威尔科技跌超8%，金银油齐跌",
@@ -550,9 +838,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时14分"
+        },
+        {
+          "title": "科技股抛售潮再袭，纳指跌破上周五低点，消费股撑道指收涨，金银油齐跌",
+          "url": "https://wallstreetcn.com/articles/3774176",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时42分"
         },
         {
           "title": "纳斯达克100指数跌幅扩大至3.22%，迈威尔科技跌超13%，Arm控股跌10.7%，Lumentum跌10.6%，高通跌9.2%，Strategy跌9.1%，AMD、美光、英特尔跌超7%，星巴克涨3%，CTAS涨3.3%。费城半导体跌7.25%。",
@@ -572,9 +871,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时14分"
+        },
+        {
+          "title": "贝莱德亚太区负责人：预计亚洲ETF市场将实现“巨大增长”。 科技股抛售是创造超额收益（Alpha）的机会。 对日本私募市场有浓厚兴趣。 传统的60-40资产配置表现不佳。 在私人信贷中看到特有风险问题。 私人信贷违约率非常低。 在中国看到“巨大价值”和投资兴趣。 亚洲信贷市场蕴藏着“巨大机遇”。",
+          "url": "https://wallstreetcn.com/livenews/3117165",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时42分"
         },
         {
           "title": "美股费城半导体指数跌幅扩大至6%，迈威尔科技/美满电子回撤超10%，Arm跌超10%，高通跌超9%，AMD、美光科技跌超7%，台积电跌2.6%，英伟达跌2.73%。 纳斯达克100指数跌超2.7%。",
@@ -586,6 +896,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时29分"
+        },
+        {
+          "title": "恒生科技指数日内跌幅扩大至1%。",
+          "url": "https://wallstreetcn.com/livenews/3117160",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时42分"
         },
         {
           "title": "【每日收评】创业板指震荡走高涨近4%，科技股迎集体反弹，PCB、芯片产业链联袂领涨",
@@ -612,6 +933,28 @@
           "time_info": "[00时29分 ~ 07时14分]"
         },
         {
+          "title": "半导体板块盘初拉升，中晶科技2连板，康强电子直线涨停，海光信息涨超10%，气派科技、富满微、杰华特跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3117144",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时42分"
+        },
+        {
+          "title": "恒生科技指数跌超1%，商业航天、CPO概念股跌幅居前。",
+          "url": "https://flash.jin10.com/detail/20260610100439936800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时42分"
+        },
+        {
           "title": "费城半导体指数跌超6%，成分股迈威尔科技(MRVL.O)、Arm(ARM.O)跌超10%，高通(QCOM.O)跌超9%，AMD(AMD.O)、美光科技(MU.O)跌超7%。",
           "url": "https://flash.jin10.com/detail/20260610001121922800",
           "source": "金十数据",
@@ -634,6 +977,17 @@
           "time_info": "05时44分"
         },
         {
+          "title": "恒指低开0.50%，报24442.52点；恒生科技指数跌0.38%。蔚来跌4%，联想跌2.5%。",
+          "url": "https://wallstreetcn.com/livenews/3117127",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时42分"
+        },
+        {
           "title": "周二（6月9日），美股行业ETF多数收涨，全球航空业ETF涨3.10%，生物科技指数ETF、银行业ETF、医疗业ETF、区域银行ETF、日常消费品ETF、公用事业ETF至多涨1.46%，网络股指数ETF、半导体ETF至多收跌1.20%，全球科技股指数ETF、能源业ETF、科技行业ETF至多跌1.85%。",
           "url": "https://wallstreetcn.com/livenews/3117012",
           "source": "华尔街见闻-快讯",
@@ -643,6 +997,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时44分"
+        },
+        {
+          "title": "港股芯片股局部走强，天数智芯(09903.HK)涨超12%，壁仞科技(06082.HK)、华虹宏力(01347.HK)、中芯国际(00981.HK)、中兴通讯(00763.HK)等个股跟涨。",
+          "url": "https://flash.jin10.com/detail/20260610095655599800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时42分"
+        },
+        {
+          "title": "A股化学原料板块短线拉升，三孚股份涨停，金牛化工、金煤科技、恒光股份、红星发展、氯碱化工等纷纷走高。",
+          "url": "https://flash.jin10.com/detail/20260610095529276800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时42分"
         },
         {
           "title": "纳斯达克金龙中国指数收跌0.39%，报6298.64点，在持续下挫的行情中、北京时间00:42刷新日低至6220.58点，之后收复部分失地。 热门中概股里，小马智行初步收跌3.7%，蔚来、理想跌2.7%，日月光半导体跌1.4%，美团、网易、百度、腾讯涨超1%，世纪互联涨4.8%，亿珑能源涨54.3%。 ETF中，中概互联网指数ETF（KWEB）收涨0.31%，中国科技指数ETF（CQQQ）收涨2.25%。 MSCI新兴市场ex中国ETF（EMXC）收涨0.21%，XtrackersHarvest中证50（ASHS）收涨0.95%，德银嘉实沪深300指数ETF（ASHR）收涨1.27%。",
@@ -743,8 +1119,19 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "金价下跌黄金却卖不动了吗",
+          "url": "https://www.douyin.com/hot/2528192",
+          "source": "抖音",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时42分"
+        },
         {
           "title": "金价调整导致相关ETF规模缩水，业内人士：黄金结构性支撑力量仍存",
           "url": "https://wallstreetcn.com/livenews/3117058",
@@ -752,9 +1139,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时14分"
+        },
+        {
+          "title": "国际油价金价大跌",
+          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E9%99%85%E6%B2%B9%E4%BB%B7%E9%87%91%E4%BB%B7%E5%A4%A7%E8%B7%8C",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时42分"
         },
         {
           "title": "金价到“底”了吗",
@@ -770,25 +1168,8 @@
       ]
     },
     {
-      "keyword_group": "消费",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "金饰消费持续承压，倒逼黄金珠宝企业提升品牌力",
-          "url": "https://wallstreetcn.com/livenews/3117061",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时14分"
-        }
-      ]
-    },
-    {
       "keyword_group": "chatgpt openai",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "OpenAI提交上市申请，“三大超级IPO”考验美股承受力",
@@ -803,6 +1184,34 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时29分 ~ 07时14分]"
+        },
+        {
+          "title": "据The Information：OpenAI正在洽谈一项为期20年的租赁协议，这将成为其迄今为止最大的基础设施投资承诺。英伟达已讨论为该项目提供信贷支持。",
+          "url": "https://flash.jin10.com/detail/20260610101124136800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时42分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "消费",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金饰消费持续承压，倒逼黄金珠宝企业提升品牌力",
+          "url": "https://wallstreetcn.com/livenews/3117061",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时14分"
         }
       ]
     }
