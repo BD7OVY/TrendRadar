@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-11T13:24:50.041566+08:00",
-  "total_titles_processed": 834,
+  "generated_at": "2026-06-11T18:11:42.759353+08:00",
+  "total_titles_processed": 1047,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 99,
+      "match_count": 104,
       "titles": [
         {
           "title": "特朗普威胁打击伊朗电厂、桥梁，油价应声攀升，俄外交部：袭击民用设施“绝对不可接受”",
@@ -15,11 +15,12 @@
             7,
             6,
             5,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时57分 ~ 13时24分]"
+          "appearance_count": 6,
+          "time_info": "[01时57分 ~ 18时11分]"
         },
         {
           "title": "【早报】美军空袭伊朗；黄金、白银继续大跌",
@@ -54,6 +55,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时49分"
+        },
+        {
+          "title": "约旦称击落20枚伊朗导弹",
+          "url": "https://wallstreetcn.com/livenews/3118090",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时11分"
         },
         {
           "title": "美军袭击致伊朗逾2万人供水中断",
@@ -111,17 +123,6 @@
           "time_info": "08时11分"
         },
         {
-          "title": "伊朗：用12枚导弹摧毁美军大量战机",
-          "url": "https://news.ifeng.com/c/8trqmYEuo1k",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时24分"
-        },
-        {
           "title": "以媒：以色列现阶段并未打击伊朗",
           "url": "https://flash.jin10.com/detail/20260611061750762800",
           "source": "金十数据",
@@ -164,6 +165,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时57分 ~ 08时11分]"
+        },
+        {
+          "title": "伊朗：用12枚导弹摧毁美军大量战机",
+          "url": "https://news.ifeng.com/c/8trqmYEuo1k",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时24分 ~ 18时11分]"
         },
         {
           "title": "伊朗Kangan港口传来多次爆炸声。（伊朗媒体MEHR）",
@@ -227,6 +240,18 @@
           "time_info": "[01时57分 ~ 06时49分]"
         },
         {
+          "title": "伊朗宣布对所有船只关闭霍尔木兹海峡，打击两艘非法通过海峡船只，如何解读？可能会带来哪些连锁反应？",
+          "url": "https://www.zhihu.com/question/2048301839200642048",
+          "source": "知乎",
+          "ranks": [
+            6,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时24分 ~ 18时11分]"
+        },
+        {
           "title": "伊朗全面关闭霍尔木兹海峡",
           "url": "https://www.toutiao.com/trending/7649365955310718483/",
           "source": "今日头条",
@@ -237,6 +262,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时11分 ~ 13时24分]"
+        },
+        {
+          "title": "伊朗宣布对所有船只关闭霍尔木兹海峡",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33355478",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时24分 ~ 18时11分]"
         },
         {
           "title": "伊朗对所有船只关闭霍尔木兹海峡 国际原油价格持续走高 | 环球市场",
@@ -251,17 +288,6 @@
           "time_info": "[08时11分 ~ 13时24分]"
         },
         {
-          "title": "伊朗宣布对所有船只关闭霍尔木兹海峡，打击两艘非法通过海峡船只，如何解读？可能会带来哪些连锁反应？",
-          "url": "https://www.zhihu.com/question/2048301839200642048",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时24分"
-        },
-        {
           "title": "伊朗对所有船只关闭霍尔木兹海峡",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%AF%B9%E6%89%80%E6%9C%89%E8%88%B9%E5%8F%AA%E5%85%B3%E9%97%AD%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1",
           "source": "百度热搜",
@@ -271,6 +297,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时11分"
+        },
+        {
+          "title": "伊朗：用12枚导弹摧毁美军大量战机",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%EF%BC%9A%E7%94%A812%E6%9E%9A%E5%AF%BC%E5%BC%B9%E6%91%A7%E6%AF%81%E7%BE%8E%E5%86%9B%E5%A4%A7%E9%87%8F%E6%88%98%E6%9C%BA",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时11分"
         },
         {
           "title": "美军称没有美军舰被伊朗击中",
@@ -328,6 +365,17 @@
           "time_info": "06时49分"
         },
         {
+          "title": "伊朗再次称霍尔木兹海峡暂时关闭",
+          "url": "https://wallstreetcn.com/livenews/3118073",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时11分"
+        },
+        {
           "title": "据伊朗塔斯尼姆通讯社：伊朗高级官员表示，特朗普关于与伊朗官员接触的“虚假说法”是为了“避免对伊朗开战而寻找的掩护”。",
           "url": "https://flash.jin10.com/detail/20260611073512150800",
           "source": "金十数据",
@@ -337,6 +385,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时11分"
+        },
+        {
+          "title": "克里姆林宫：（就伊朗局势升级）我们呼吁冲突双方保持克制，继续谈判。",
+          "url": "https://flash.jin10.com/detail/20260611173521905800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时11分"
         },
         {
           "title": "据伊朗媒体：霍尔木兹海峡附近的美国船只已成为伊朗武装部队导弹和无人机袭击的目标。",
@@ -436,17 +495,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时49分"
-        },
-        {
-          "title": "伊朗宣布对所有船只关闭霍尔木兹海峡",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33355478",
-          "source": "澎湃新闻",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时24分"
         },
         {
           "title": "美媒：特朗普向伊朗提出两项额外要求导致协议推迟达成",
@@ -977,6 +1025,17 @@
           "time_info": "08时11分"
         },
         {
+          "title": "土耳其外交部长：伊朗和美国必须停止攻击，回到谈判桌上达成协议。",
+          "url": "https://flash.jin10.com/detail/20260611172304411800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时11分"
+        },
+        {
           "title": "伊朗外交部：美国袭击了重要的民用水利基础设施。",
           "url": "https://wallstreetcn.com/livenews/3117657",
           "source": "华尔街见闻-快讯",
@@ -1049,7 +1108,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时24分"
         },
@@ -1082,7 +1141,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时24分"
         },
@@ -1112,8 +1171,20 @@
     },
     {
       "keyword_group": "科技",
-      "match_count": 13,
+      "match_count": 17,
       "titles": [
+        {
+          "title": "伊朗局势骤然升级，原油大涨，科技股抛售拖累美股，盘后甲骨文跳水9%，黄金暴跌",
+          "url": "https://wallstreetcn.com/articles/3774300",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时11分 ~ 18时11分]"
+        },
         {
           "title": "科技股抛售潮再袭，纳指跌破上周五低点，消费股撑道指收涨，金银油齐跌",
           "url": "https://wallstreetcn.com/articles/3774176",
@@ -1124,18 +1195,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时57分 ~ 06时49分]"
-        },
-        {
-          "title": "伊朗局势骤然升级，原油大涨，科技股抛售拖累美股，盘后甲骨文跳水9%，黄金暴跌",
-          "url": "https://wallstreetcn.com/articles/3774300",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时11分 ~ 13时24分]"
         },
         {
           "title": "标普500指数初步收跌1.4%，工业板块跌3.2%，原材料、可选消费、科技板块至少跌2%，能源板块涨1.7%。 纳斯达克100指数初步收跌1.7%，成分股中，Insmed初步收跌7.7%，高通跌6.3%，西部数据跌5.4%，Arm控股跌4.9%，博通跌4.7%，特斯拉跌3.5%，英伟达跌3.2%，Lumentum则涨4.4%。 卡特彼勒初步收跌6.1%，霍尼韦尔跌4.3%，亚马逊、波音、高盛、Salesforce跌超2%，与英伟达领跌道指成分股，雪佛龙、VZ、可口可乐涨超2%。半导体指数跌3.2%。",
@@ -1149,6 +1208,18 @@
           "time_info": "04时24分"
         },
         {
+          "title": "韩国投资者持续加码中国硬科技，增持资产曝光",
+          "url": "https://www.cls.cn/detail/2396870",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时24分 ~ 18时11分]"
+        },
+        {
           "title": "【每日收评】深成指与创业板指双双跌超2%，科技股分化加剧，半导体材料逆势走强",
           "url": "https://www.cls.cn/detail/2396047",
           "source": "财联社热门",
@@ -1159,6 +1230,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时57分 ~ 08时11分]"
+        },
+        {
+          "title": "美银：美股净抛售创纪录，科技板块外流达2008年以来最高",
+          "url": "https://wallstreetcn.com/articles/3774357",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时24分 ~ 18时11分]"
         },
         {
           "title": "美国通胀创三年新高，美股低开，科技股普跌，光通信股反弹，油价攀升",
@@ -1184,28 +1266,6 @@
           "time_info": "06时49分"
         },
         {
-          "title": "美银：美股净抛售创纪录，科技板块外流达2008年以来最高",
-          "url": "https://wallstreetcn.com/articles/3774357",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时24分"
-        },
-        {
-          "title": "韩国投资者持续加码中国硬科技，增持资产曝光",
-          "url": "https://www.cls.cn/detail/2396870",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时24分"
-        },
-        {
           "title": "恒生指数主连夜盘收涨0.12%，报24307点。 恒生科技指数主连夜盘收涨0.21%，报4720点。",
           "url": "https://wallstreetcn.com/livenews/3117671",
           "source": "华尔街见闻-快讯",
@@ -1228,13 +1288,46 @@
           "time_info": "04时24分"
         },
         {
+          "title": "雅克科技：公司关注到近期网络上有关于公司特种气体业务的相关讨论，公司的含氟类特种气体产品主要为四氟化碳和六氟化硫，目前没有六氟化钨相关业务。2025年度，公司含氟类特种气体的营业收入占公司总体营业收入的5.79%。",
+          "url": "https://wallstreetcn.com/livenews/3118060",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时11分"
+        },
+        {
+          "title": "道通科技澄清多项涉公司不实传闻",
+          "url": "https://flash.jin10.com/detail/20260611172858170800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时11分"
+        },
+        {
+          "title": "纳指科技ETF景顺：本基金将于6月12日开市起至当日10:30停牌。",
+          "url": "https://flash.jin10.com/detail/20260611172607757800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时11分"
+        },
+        {
           "title": "宇树科技合作英伟达引争议",
           "url": "https://s.weibo.com/weibo?q=%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80%E5%90%88%E4%BD%9C%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%BC%95%E4%BA%89%E8%AE%AE&t=31&band_rank=23&Refer=top",
           "source": "微博",
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时24分"
         },
@@ -1259,6 +1352,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时11分"
+        },
+        {
+          "title": "小米汽车科技有限公司增加增程式电动乘用车产品品种",
+          "url": "https://wallstreetcn.com/livenews/3118042",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时11分"
         }
       ]
     },
@@ -1284,7 +1388,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时24分"
         },
@@ -1317,7 +1421,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时24分"
         },
@@ -1388,11 +1492,12 @@
           "url": "https://www.cls.cn/detail/2396831",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时24分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时24分 ~ 18时11分]"
         },
         {
           "title": "OpenAI与甲骨文构建合作伙伴关系。 双方将围绕面向OCI（甲骨文云基础设施建设）客户的Codex进行合作。",
@@ -1404,6 +1509,57 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时11分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "消费",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "世界杯开幕在即 消费品公司迎来赛事营销热潮",
+          "url": "https://www.cls.cn/detail/2396299",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时57分 ~ 06时49分]"
+        },
+        {
+          "title": "经济日报：中国5月份物价“剪刀差”扩大，专家称促消费政策有加力空间",
+          "url": "https://wallstreetcn.com/livenews/3117765",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时11分"
+        },
+        {
+          "title": "北京海淀市监局：正对“鹅腿阿姨”涉嫌误导消费者等行为进一步核查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33357694",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时11分"
+        },
+        {
+          "title": "家电、家具等超百种品类产量世界前列，我国消费品工业持续向好",
+          "url": "https://wallstreetcn.com/livenews/3117667",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时24分"
         }
       ]
     },
@@ -1436,6 +1592,17 @@
           "time_info": "[01时57分 ~ 06时49分]"
         },
         {
+          "title": "金价跌破4100美元",
+          "url": "https://www.douyin.com/hot/2530456",
+          "source": "抖音",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时24分 ~ 18时11分]"
+        },
+        {
           "title": "金价抹去今年全部涨幅",
           "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E6%8A%B9%E5%8E%BB%E4%BB%8A%E5%B9%B4%E5%85%A8%E9%83%A8%E6%B6%A8%E5%B9%85",
           "source": "百度热搜",
@@ -1446,57 +1613,46 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时11分 ~ 13时24分]"
-        },
-        {
-          "title": "金价跌破4100美元",
-          "url": "https://www.douyin.com/hot/2530456",
-          "source": "抖音",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时24分"
         }
       ]
     },
     {
-      "keyword_group": "消费",
+      "keyword_group": "旅游",
       "match_count": 3,
       "titles": [
         {
-          "title": "世界杯开幕在即 消费品公司迎来赛事营销热潮",
-          "url": "https://www.cls.cn/detail/2396299",
-          "source": "财联社热门",
+          "title": "今起儿童旅客可买铁路旅游计次票",
+          "url": "https://www.douyin.com/hot/2530891",
+          "source": "抖音",
           "ranks": [
-            12,
-            11
+            3
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时57分 ~ 06时49分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时11分"
         },
         {
-          "title": "经济日报：中国5月份物价“剪刀差”扩大，专家称促消费政策有加力空间",
-          "url": "https://wallstreetcn.com/livenews/3117765",
-          "source": "华尔街见闻-快讯",
+          "title": "旅游热度很低却很夯的城市",
+          "url": "https://s.weibo.com/weibo?q=%E6%97%85%E6%B8%B8%E7%83%AD%E5%BA%A6%E5%BE%88%E4%BD%8E%E5%8D%B4%E5%BE%88%E5%A4%AF%E7%9A%84%E5%9F%8E%E5%B8%82&t=31&band_rank=4&Refer=top",
+          "source": "微博",
           "ranks": [
-            13
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时11分"
         },
         {
-          "title": "家电、家具等超百种品类产量世界前列，我国消费品工业持续向好",
-          "url": "https://wallstreetcn.com/livenews/3117667",
-          "source": "华尔街见闻-快讯",
+          "title": "富贵小羊成新疆旅游落地签",
+          "url": "https://www.douyin.com/hot/2528224",
+          "source": "抖音",
           "ranks": [
-            16
+            19,
+            18
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时24分"
+          "appearance_count": 2,
+          "time_info": "[01时57分 ~ 08时11分]"
         }
       ]
     },
@@ -1525,35 +1681,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时57分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "旅游",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "旅游热度很低却很夯的城市",
-          "url": "https://s.weibo.com/weibo?q=%E6%97%85%E6%B8%B8%E7%83%AD%E5%BA%A6%E5%BE%88%E4%BD%8E%E5%8D%B4%E5%BE%88%E5%A4%AF%E7%9A%84%E5%9F%8E%E5%B8%82&t=31&band_rank=4&Refer=top",
-          "source": "微博",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时11分"
-        },
-        {
-          "title": "富贵小羊成新疆旅游落地签",
-          "url": "https://www.douyin.com/hot/2528224",
-          "source": "抖音",
-          "ranks": [
-            19,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时57分 ~ 08时11分]"
         }
       ]
     },
@@ -1617,11 +1744,12 @@
           "url": "https://www.zhihu.com/question/2048003050531558553",
           "source": "知乎",
           "ranks": [
-            15
+            15,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时24分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时24分 ~ 18时11分]"
         }
       ]
     }
