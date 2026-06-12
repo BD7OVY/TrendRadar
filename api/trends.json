@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-12T10:48:57.740898+08:00",
-  "total_titles_processed": 730,
+  "generated_at": "2026-06-12T15:17:42.026047+08:00",
+  "total_titles_processed": 945,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 82,
+      "match_count": 84,
       "titles": [
         {
           "title": "国际油价飙升！特朗普：今晚将重创伊朗，“在不久的将来”将占领哈尔克岛",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时09分 ~ 10时48分]"
+          "appearance_count": 5,
+          "time_info": "[02时09分 ~ 15时17分]"
         },
         {
           "title": "【早报】特朗普取消打击伊朗；黄金、白银大涨；世界杯开幕，墨西哥2比0战胜南非",
@@ -26,9 +26,33 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时48分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时48分 ~ 15时17分]"
+        },
+        {
+          "title": "几小时内反转！特朗普称取消打击伊朗计划，协议基本定稿、伊朗各方批准，或周末在欧洲签署",
+          "url": "https://wallstreetcn.com/articles/3774457",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时48分 ~ 15时17分]"
+        },
+        {
+          "title": "特朗普为何在夺取伊朗岛屿问题上反复横跳？",
+          "url": "https://news.ifeng.com/c/8ttDG767op3",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时48分 ~ 15时17分]"
         },
         {
           "title": "伊朗阿巴斯港传出爆炸声",
@@ -75,17 +99,6 @@
           "time_info": "02时09分"
         },
         {
-          "title": "几小时内反转！特朗普称取消打击伊朗计划，协议基本定稿、伊朗各方批准，或周末在欧洲签署",
-          "url": "https://wallstreetcn.com/articles/3774457",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时48分"
-        },
-        {
           "title": "伊朗国家媒体援引军方消息报道称：一艘油轮得到伊斯兰革命卫队海军警告，被迫遵守“霍尔木兹海峡禁航法”。",
           "url": "https://wallstreetcn.com/livenews/3118443",
           "source": "华尔街见闻-快讯",
@@ -103,7 +116,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时48分"
         },
@@ -120,15 +133,15 @@
           "time_info": "[02时09分 ~ 07时17分]"
         },
         {
-          "title": "特朗普为何在夺取伊朗岛屿问题上反复横跳？",
-          "url": "https://news.ifeng.com/c/8ttDG767op3",
+          "title": "美军袭击油轮致3名印度船员死亡，伊朗：海盗行径",
+          "url": "https://news.ifeng.com/c/8ttEGd5sAPh",
           "source": "凤凰网",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时48分"
+          "time_info": "15时17分"
         },
         {
           "title": "伊朗外交部发言人：一旦我们达成结论，认为谅解备忘录的文本能够保障伊朗人民的利益，我们就会予以公布。",
@@ -181,7 +194,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时48分"
         },
@@ -231,6 +244,18 @@
           "time_info": "[02时09分 ~ 10时48分]"
         },
         {
+          "title": "美伊局势再陷“迷雾”：特朗普称有望周末签署协议，伊朗“光速否认”！",
+          "url": "https://www.cls.cn/detail/2397803",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时48分 ~ 15时17分]"
+        },
+        {
           "title": "世界银行警告：伊朗战争冲击下 全球经济增速将降至疫情以来最低水平",
           "url": "https://www.cls.cn/detail/2397642",
           "source": "财联社热门",
@@ -269,6 +294,18 @@
           "time_info": "[02时09分 ~ 07时17分]"
         },
         {
+          "title": "伊朗战争推高通胀压力，欧洲央行近三年来首次加息！",
+          "url": "https://wallstreetcn.com/articles/3774438",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时48分 ~ 15时17分]"
+        },
+        {
           "title": "特朗普称取消打击伊朗行动",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%8F%96%E6%B6%88%E6%89%93%E5%87%BB%E4%BC%8A%E6%9C%97%E8%A1%8C%E5%8A%A8%23&t=31&band_rank=9&Refer=top",
           "source": "微博",
@@ -279,6 +316,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时15分 ~ 07时17分]"
+        },
+        {
+          "title": "特朗普称有望周末签署美伊协议 伊朗称尚未达成最终结论 | 环球市场",
+          "url": "https://www.cls.cn/detail/2397778",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时48分 ~ 15时17分]"
         },
         {
           "title": "美军称再次对伊朗目标实施“自卫性”打击",
@@ -311,7 +360,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时48分"
         },
@@ -336,17 +385,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时09分"
-        },
-        {
-          "title": "伊朗战争推高通胀压力，欧洲央行近三年来首次加息！",
-          "url": "https://wallstreetcn.com/articles/3774438",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时48分"
         },
         {
           "title": "伊朗外交部发言人：有关协议的事宜均为猜测，尚未达成任何最终决定。",
@@ -437,17 +475,6 @@
           "time_info": "07时17分"
         },
         {
-          "title": "美伊局势再陷“迷雾”：特朗普称有望周末签署协议，伊朗“光速否认”！",
-          "url": "https://www.cls.cn/detail/2397803",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时48分"
-        },
-        {
           "title": "金十提示：美国总统特朗普将此前取消打击伊朗的帖子置顶。",
           "url": "https://flash.jin10.com/detail/20260612064451567800",
           "source": "金十数据",
@@ -465,7 +492,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时48分"
         },
@@ -514,15 +541,15 @@
           "time_info": "05时15分"
         },
         {
-          "title": "特朗普称有望周末签署美伊协议 伊朗称尚未达成最终结论 | 环球市场",
-          "url": "https://www.cls.cn/detail/2397778",
+          "title": "特朗普称取消原定对伊朗的打击行动",
+          "url": "https://www.cls.cn/detail/2397723",
           "source": "财联社热门",
           "ranks": [
             13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时48分"
+          "time_info": "15时17分"
         },
         {
           "title": "伊朗外交部发言人： 谈判的形势从一开始对我们就是明确的，大部分文本已经敲定，但美国人不断改变自己的立场。 伊朗已经证明，在划定的红线问题上绝不容忍迁就。",
@@ -619,7 +646,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时48分"
         },
@@ -663,7 +690,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时48分"
         },
@@ -685,7 +712,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时48分"
         },
@@ -751,7 +778,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时48分"
         },
@@ -916,7 +943,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时48分"
         }
@@ -955,7 +982,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时48分"
         },
@@ -966,9 +993,21 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时48分"
+        },
+        {
+          "title": "6月12日投资避雷针：中巨芯、昊华科技等六氟化钨概念股密集提示风险",
+          "url": "https://www.cls.cn/detail/2397810",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时48分 ~ 15时17分]"
         },
         {
           "title": "美银：美股净抛售创纪录，科技板块外流达2008年以来最高",
@@ -982,24 +1021,13 @@
           "time_info": "02时09分"
         },
         {
-          "title": "6月12日投资避雷针：中巨芯、昊华科技等六氟化钨概念股密集提示风险",
-          "url": "https://www.cls.cn/detail/2397810",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时48分"
-        },
-        {
           "title": "A股商业航天概念集体走强，航天发展、中航西飞、天奥电子、中天火箭等多股涨停，创远信科、索辰科技涨超10%。",
           "url": "https://wallstreetcn.com/livenews/3118514",
           "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时48分"
         },
@@ -1010,7 +1038,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时48分"
         },
@@ -1032,7 +1060,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时48分"
         },
@@ -1043,7 +1071,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时48分"
         },
@@ -1076,7 +1104,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时48分"
         },
@@ -1101,6 +1129,85 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时15分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金融",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "国家金融监管总局局长丁向群将出席2026陆家嘴论坛开幕式 致开幕辞并作主题演讲",
+          "url": "https://wallstreetcn.com/livenews/3118657",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时17分"
+        },
+        {
+          "title": "中小银行资产配置逻辑新变化：金融市场业务成稳营收重要抓手",
+          "url": "https://wallstreetcn.com/livenews/3118434",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时17分"
+        },
+        {
+          "title": "国家金融监管总局局长丁向群将出席2026陆家嘴论坛开幕式 致开幕辞并作主题演讲",
+          "url": "https://flash.jin10.com/detail/20260612145957641800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时17分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "补贴→Token计费→降价！OpenAI打响价格战，Token经济学拐点将至？",
+          "url": "https://wallstreetcn.com/articles/3774400",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时09分 ~ 15时17分]"
+        },
+        {
+          "title": "OpenAI 考虑大幅降价以与 Anthropic 竞争，此举将如何影响 AI 市场格局？",
+          "url": "https://www.zhihu.com/question/2048342346048213458",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时48分"
+        },
+        {
+          "title": "瞄准AI代理赛道 OpenAI收购云端平台强化Codex竞争力",
+          "url": "https://www.cls.cn/detail/2397742",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时17分"
         }
       ]
     },
@@ -1144,35 +1251,6 @@
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "补贴→Token计费→降价！OpenAI打响价格战，Token经济学拐点将至？",
-          "url": "https://wallstreetcn.com/articles/3774400",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时09分 ~ 10时48分]"
-        },
-        {
-          "title": "OpenAI 考虑大幅降价以与 Anthropic 竞争，此举将如何影响 AI 市场格局？",
-          "url": "https://www.zhihu.com/question/2048342346048213458",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时48分"
-        }
-      ]
-    },
-    {
       "keyword_group": "资源",
       "match_count": 1,
       "titles": [
@@ -1207,23 +1285,6 @@
       ]
     },
     {
-      "keyword_group": "金融",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "中小银行资产配置逻辑新变化：金融市场业务成稳营收重要抓手",
-          "url": "https://wallstreetcn.com/livenews/3118434",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时17分"
-        }
-      ]
-    },
-    {
       "keyword_group": "消费",
       "match_count": 1,
       "titles": [
@@ -1234,11 +1295,29 @@
           "ranks": [
             9,
             10,
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时09分 ~ 10时48分]"
+          "appearance_count": 5,
+          "time_info": "[02时09分 ~ 15时17分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金价回落女子一口气买入90克金手镯",
+          "url": "https://www.toutiao.com/trending/7649567619948822578/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时17分"
         }
       ]
     }
