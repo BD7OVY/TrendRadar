@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-13T14:53:54.833366+08:00",
-  "total_titles_processed": 878,
+  "generated_at": "2026-06-13T17:53:57.263137+08:00",
+  "total_titles_processed": 1024,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 72,
+      "match_count": 79,
       "titles": [
         {
           "title": "霍尔木兹将重开？伊朗曝光14点协议草案",
@@ -80,7 +80,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时53分"
         },
@@ -94,6 +94,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时34分"
+        },
+        {
+          "title": "黎巴嫩外长：即使伊朗政权没有垮台，黎巴嫩也有能力终结真主党的武器问题。",
+          "url": "https://flash.jin10.com/detail/20260613173245745800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时53分"
         },
         {
           "title": "美国政府高级官员：我们有一份伊朗和美国都满意的文本。",
@@ -209,6 +220,19 @@
           "time_info": "[07时10分 ~ 14时53分]"
         },
         {
+          "title": "美军称伊朗发射多架单向攻击无人机",
+          "url": "https://wallstreetcn.com/livenews/3119115",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            13,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时41分 ~ 17时53分]"
+        },
+        {
           "title": "美官员称有信心未来几天内与伊朗签署谅解备忘录",
           "url": "https://wallstreetcn.com/livenews/3119085",
           "source": "华尔街见闻-快讯",
@@ -234,18 +258,6 @@
           "time_info": "[03时58分 ~ 05时43分]"
         },
         {
-          "title": "美军称伊朗发射多架单向攻击无人机",
-          "url": "https://wallstreetcn.com/livenews/3119115",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时41分 ~ 14时53分]"
-        },
-        {
           "title": "美以袭击伊朗进入第 105 天，当前局势如何？有哪些值得关注的信息？",
           "url": "https://www.zhihu.com/question/2048669431962625669",
           "source": "知乎",
@@ -257,6 +269,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时58分 ~ 07时10分]"
+        },
+        {
+          "title": "伊朗外长披露伊美谅解备忘录草案部分内容",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33372202",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时40分 ~ 17时53分]"
         },
         {
           "title": "油价下挫5%！伊朗公布伊美谅解备忘录新细节，霍尔木兹海峡或30天内重开",
@@ -271,16 +296,15 @@
           "time_info": "[10时40分 ~ 14时53分]"
         },
         {
-          "title": "伊朗外长披露伊美谅解备忘录草案部分内容",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33372202",
-          "source": "澎湃新闻",
+          "title": "多名伊朗国足代表团成员签证被拒，美国回应",
+          "url": "https://news.ifeng.com/c/8tvGP2lQey4",
+          "source": "凤凰网",
           "ranks": [
-            19,
-            16
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时40分 ~ 14时53分]"
+          "appearance_count": 2,
+          "time_info": "[14时53分 ~ 17时53分]"
         },
         {
           "title": "渣打银行驻纽约经济学家Dan Pan：（美国与伊朗达成）协议前景仍存在大量不确定性。 如果我们看到风险情绪因突发新闻而出现回调，我也不会感到惊讶。",
@@ -350,6 +374,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时43分 ~ 07时10分]"
+        },
+        {
+          "title": "伊朗外长：伊朗仅接受在境内“稀释处理”浓缩铀库存",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33372320",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时53分 ~ 17时53分]"
         },
         {
           "title": "伊朗外长：霍尔木兹海峡相关服务将收费",
@@ -451,17 +487,6 @@
           "time_info": "[05时43分 ~ 07时10分]"
         },
         {
-          "title": "多名伊朗国足代表团成员签证被拒，美国回应",
-          "url": "https://news.ifeng.com/c/8tvGP2lQey4",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时53分"
-        },
-        {
           "title": "美国政府高级官员：一些伊朗强硬派希望破坏协议。",
           "url": "https://flash.jin10.com/detail/20260613012446661800",
           "source": "金十数据",
@@ -471,6 +496,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时34分"
+        },
+        {
+          "title": "世界杯伊朗队训练场旁发现腐尸",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%96%E7%95%8C%E6%9D%AF%E4%BC%8A%E6%9C%97%E9%98%9F%E8%AE%AD%E7%BB%83%E5%9C%BA%E6%97%81%E5%8F%91%E7%8E%B0%E8%85%90%E5%B0%B8",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时53分"
         },
         {
           "title": "伊朗外长阿拉格齐：以色列等敌对势力反对伊朗与美国达成协议。",
@@ -583,6 +619,17 @@
           "time_info": "03时58分"
         },
         {
+          "title": "黎巴嫩总理：我们要求黎巴嫩真主党拯救国家，将黎巴嫩的利益置于伊朗的利益之上。",
+          "url": "https://flash.jin10.com/detail/20260613170428114800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时53分"
+        },
+        {
           "title": "美国政府高级官员：伊朗方面已经表示“可以接受（协议）相关表述措辞”。协议签署的日期和地点尚未最终确认。我认为我们已经接近确定签署日期和地点。",
           "url": "https://flash.jin10.com/detail/20260613011859806800",
           "source": "金十数据",
@@ -611,7 +658,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时53分"
         },
@@ -669,17 +716,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时34分"
-        },
-        {
-          "title": "伊朗外长：伊朗仅接受在境内“稀释处理”浓缩铀库存",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33372320",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时53分"
         },
         {
           "title": "美国政府高级官员：伊朗人表现越好，他们能获得的就越多。",
@@ -754,9 +790,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时53分"
+        },
+        {
+          "title": "市场消息：伊朗司法总监称，德黑兰与美国及其盟友的对抗不会结束，并借12天战争周年纪念之际警告人们不要信任华盛顿。",
+          "url": "https://flash.jin10.com/detail/20260613163628836800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时53分"
         },
         {
           "title": "【伊朗外交部：伊方正在审议谅解备忘录草案】伊朗外交部发言人巴加埃表示，目前伊美双方已经在大多数问题上达成谅解，伊朗内部正在对谅解备忘录文本进行最后阶段的汇总。因此，伊朗外长阿拉格齐此前关于“双方已非常接近达成谅解”的表态是准确且值得关注的。相关决策机构的会议正在举行，这是一个持续推进的过程。为达成一个最终且具有决定性的结果，决策机构和相关部门之间必须形成共识。 巴加埃还表示，目前有关协议文本内容的各种猜测均未获得证实。虽然外交进程中的具体细节暂不便公开讨论，但这并不意味着公众没有知情权。（央视）",
@@ -768,6 +815,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时58分"
+        },
+        {
+          "title": "伊朗议会国家安全委员会主席易卜拉欣·阿齐兹：该计划正式名称为《波斯湾和霍尔木兹海峡安全、发展与进步法案》，如果获得议会通过，将成为一项“完备且全面”的法律。",
+          "url": "https://flash.jin10.com/detail/20260613163318012800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时53分"
         },
         {
           "title": "伊朗外长：伊朗仅接受在境内“稀释处理”浓缩铀库存",
@@ -792,6 +850,17 @@
           "time_info": "10时41分"
         },
         {
+          "title": "伊朗议会国家安全委员会主席易卜拉欣·阿齐兹：一项关于霍尔木兹海峡管理的拟议法案将涵盖过境规则以及伊朗民族的权利。",
+          "url": "https://flash.jin10.com/detail/20260613163308586800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时53分"
+        },
+        {
           "title": "以防长暗示未来以色列或再动武阻止伊朗拥核",
           "url": "https://wallstreetcn.com/livenews/3119033",
           "source": "华尔街见闻-快讯",
@@ -801,6 +870,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时58分"
+        },
+        {
+          "title": "美军称击落伊朗发射的多架无人机",
+          "url": "https://www.toutiao.com/trending/7650431459140583475/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时53分"
         },
         {
           "title": "伊朗外长：美国在谅解备忘录中承诺不发动战争，霍尔木兹海峡相关服务将收费",
@@ -817,7 +897,7 @@
     },
     {
       "keyword_group": "科技",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
           "title": "165天！长鑫科技IPO注册生效 科创板迎来国产DRAM龙头",
@@ -840,8 +920,19 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时34分 ~ 14时53分]"
+          "appearance_count": 9,
+          "time_info": "[01时34分 ~ 17时53分]"
+        },
+        {
+          "title": "北京科技型企业孵化器达133家 新认定27家",
+          "url": "https://wallstreetcn.com/livenews/3119138",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时53分"
         },
         {
           "title": "周五（6月12日），美股存储芯片与硬件供应链指数涨3.91%，报233.15点，美股早盘显著上涨，北京时间22:00以来持续交投于2340点附近、高位窄幅震荡，本周累计上涨17.34%。 成分股普遍走高，希捷科技涨7.25%，西部数据涨6.35%，泰瑞达、闪迪至少涨5.24%，应用材料、Rambus、拉姆研究至少涨1.18%，美光科技则收跌1.43%。",
@@ -939,6 +1030,17 @@
           "time_info": "[05时43分 ~ 07时10分]"
         },
         {
+          "title": "中国证券报：要发挥科创板“硬科技”成色足优势，持续丰富为科技型企业提供的全生命周期金融服务",
+          "url": "https://wallstreetcn.com/livenews/3119128",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时53分"
+        },
+        {
           "title": "恒生指数主连夜盘收涨0.02%，报24706点。 恒生科技指数主连夜盘收跌0.38%，报4694点。",
           "url": "https://wallstreetcn.com/livenews/3119045",
           "source": "华尔街见闻-快讯",
@@ -956,7 +1058,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时53分"
         },
@@ -974,20 +1076,59 @@
       ]
     },
     {
-      "keyword_group": "深圳",
+      "keyword_group": "金融",
       "match_count": 4,
       "titles": [
         {
-          "title": "TVB: 在深圳设立前海总部",
-          "url": "https://wallstreetcn.com/livenews/3119126",
-          "source": "华尔街见闻-快讯",
+          "title": "5月金融数据出炉：社融存量同比增7.7%，融资结构出现明显变化",
+          "url": "https://www.cls.cn/detail/2398400",
+          "source": "财联社热门",
           "ranks": [
             2
           ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时34分 ~ 07时10分]"
+        },
+        {
+          "title": "【早报】5月金融数据出炉；马斯克成万亿美元富豪",
+          "url": "https://www.cls.cn/detail/2398924",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时40分 ~ 17时53分]"
+        },
+        {
+          "title": "网信办：金融信息服务数据的业务属性进行分类，其中一级分类为业务数据、用户数据和企业数据3类",
+          "url": "https://wallstreetcn.com/livenews/3119132",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时53分"
+          "time_info": "17时53分"
         },
+        {
+          "title": "《金融信息服务数据分类分级指南》印发",
+          "url": "https://wallstreetcn.com/livenews/3119131",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时53分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "深圳",
+      "match_count": 4,
+      "titles": [
         {
           "title": "深圳前海诞生新单价地王 楼面价逼近9.6万/平",
           "url": "https://www.cls.cn/detail/2398746",
@@ -1002,15 +1143,28 @@
           "time_info": "[01时34分 ~ 07时10分]"
         },
         {
+          "title": "TVB: 在深圳设立前海总部",
+          "url": "https://wallstreetcn.com/livenews/3119126",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时53分 ~ 17时53分]"
+        },
+        {
           "title": "深圳市市场监督管理局召开“6·18”集中促销网络交易合规行政指导会",
           "url": "https://wallstreetcn.com/livenews/3119117",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            11,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时53分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时53分 ~ 17时53分]"
         },
         {
           "title": "深圳市市场监督管理局召开“6·18”集中促销网络交易合规行政指导会",
@@ -1019,7 +1173,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时53分"
         }
@@ -1061,37 +1215,9 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时53分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金融",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "5月金融数据出炉：社融存量同比增7.7%，融资结构出现明显变化",
-          "url": "https://www.cls.cn/detail/2398400",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时34分 ~ 07时10分]"
-        },
-        {
-          "title": "【早报】5月金融数据出炉；马斯克成万亿美元富豪",
-          "url": "https://www.cls.cn/detail/2398924",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时40分 ~ 14时53分]"
         }
       ]
     },
@@ -1120,6 +1246,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时43分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "消费",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美国消费者信心从历史低位反弹 汽油价格回落带来喘息空间",
+          "url": "https://www.cls.cn/detail/2398882",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时53分"
         }
       ]
     },
