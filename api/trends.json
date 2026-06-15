@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-15T16:58:09.401457+08:00",
-  "total_titles_processed": 970,
+  "generated_at": "2026-06-15T23:11:48.694688+08:00",
+  "total_titles_processed": 1196,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 103,
+      "match_count": 120,
       "titles": [
         {
           "title": "美被曝同意伊朗稀释浓缩铀库存",
@@ -65,23 +65,23 @@
           "time_info": "[01时13分 ~ 07时02分]"
         },
         {
-          "title": "伊朗军方称羞辱了美国和以色列",
-          "url": "https://news.ifeng.com/c/8tyC3sQn3RO",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时57分 ~ 16时58分]"
-        },
-        {
           "title": "美伊协议“达成”！特朗普称“霍尔木兹海峡周五免费开放”，抨击内塔尼亚胡“失去理智”，伊朗称“所获成果远大于承诺”",
           "url": "https://wallstreetcn.com/articles/3774634",
           "source": "华尔街见闻",
           "ranks": [
             4,
             1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时57分 ~ 23时11分]"
+        },
+        {
+          "title": "伊朗军方称羞辱了美国和以色列",
+          "url": "https://news.ifeng.com/c/8tyC3sQn3RO",
+          "source": "凤凰网",
+          "ranks": [
+            2
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -130,6 +130,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
+        },
+        {
+          "title": "分析师：英国央行利率决议公布前，伊朗和平协议降低通胀风险",
+          "url": "https://flash.jin10.com/detail/20260615224717379800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时11分"
         },
         {
           "title": "英国、法国、德国和意大利四国领导人联合声明：我们热烈欢迎美国与伊朗宣布达成谅解备忘录。 伊朗绝不能获得核武器。 作为对伊朗在其核计划上采取明确、可验证步骤的回应，我们准备解除相关制裁。",
@@ -188,6 +199,17 @@
           "time_info": "07时02分"
         },
         {
+          "title": "录音显示美军仍在执行对伊朗海上封锁",
+          "url": "https://news.ifeng.com/c/8tyu4XVxrh4",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时11分"
+        },
+        {
           "title": "伊朗最高联合军事指挥部：'随时准备开火，瞄准敌人心脏'。",
           "url": "https://flash.jin10.com/detail/20260615005256655800",
           "source": "金十数据",
@@ -232,6 +254,17 @@
           "time_info": "07时02分"
         },
         {
+          "title": "美军方称美伊协议正式签署前将继续封锁伊朗港口",
+          "url": "https://flash.jin10.com/detail/20260615224203368800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时11分"
+        },
+        {
           "title": "伊朗媒体公布美伊14条谅解备忘录草案细节",
           "url": "https://wallstreetcn.com/livenews/3119302",
           "source": "华尔街见闻-快讯",
@@ -241,6 +274,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
+        },
+        {
+          "title": "报道：伊朗将允许霍尔木兹海峡自由过境60天",
+          "url": "https://wallstreetcn.com/articles/3774682",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时11分"
+        },
+        {
+          "title": "特朗普：将允许伊朗进行低水平铀浓缩",
+          "url": "https://www.cls.cn/detail/2400213",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时11分"
         },
         {
           "title": "据今日以色列：伊朗领空已关闭。",
@@ -263,6 +318,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时03分"
+        },
+        {
+          "title": "美军方称美伊协议正式签署前将继续封锁伊朗港口",
+          "url": "https://wallstreetcn.com/livenews/3119774",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时11分"
         },
         {
           "title": "美国须提出3000亿美元伊朗重建计划",
@@ -312,6 +378,19 @@
           "time_info": "[05时03分 ~ 07时02分]"
         },
         {
+          "title": "伊朗副外长：核实美方履行承诺后将启动60天谈判",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33379862",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时57分 ~ 23时11分]"
+        },
+        {
           "title": "伊朗总统：战争和谈判的决定权在伊领导层",
           "url": "https://wallstreetcn.com/livenews/3119261",
           "source": "华尔街见闻-快讯",
@@ -338,16 +417,16 @@
           "time_info": "[01时13分 ~ 05时03分]"
         },
         {
-          "title": "伊朗副外长：核实美方履行承诺后将启动60天谈判",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33379862",
+          "title": "伊朗媒体披露伊美谅解备忘录14个条款",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33380163",
           "source": "澎湃新闻",
           "ranks": [
             15,
-            13
+            11
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[10时57分 ~ 16时58分]"
+          "time_info": "[16时57分 ~ 23时11分]"
         },
         {
           "title": "美国战争部长赫格塞斯：美方处于“周日签署伊朗协议”的正轨之上。 伊朗核材料将被销毁。 “文件”显示，伊朗永远都不会拥有、寻求、购买核武器。 “自由计划”（project Freedom）从未停止。 可能会在30天内清除霍尔木兹海峡的水雷。（CBS）",
@@ -415,17 +494,6 @@
           "time_info": "[01时13分 ~ 05时03分]"
         },
         {
-          "title": "伊朗媒体披露伊美谅解备忘录14个条款",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33380163",
-          "source": "澎湃新闻",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时57分 ~ 16时58分]"
-        },
-        {
           "title": "伊朗球员问美国记者安全问题",
           "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E6%9C%97%E7%90%83%E5%91%98%E9%97%AE%E7%BE%8E%E5%9B%BD%E8%AE%B0%E8%80%85%E5%AE%89%E5%85%A8%E9%97%AE%E9%A2%98",
           "source": "bilibili 热搜",
@@ -460,6 +528,17 @@
           "time_info": "[16时57分 ~ 16时58分]"
         },
         {
+          "title": "伊朗用AI让球员牵遇难儿童入场",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E7%94%A8AI%E8%AE%A9%E7%90%83%E5%91%98%E7%89%B5%E9%81%87%E9%9A%BE%E5%84%BF%E7%AB%A5%E5%85%A5%E5%9C%BA",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时11分"
+        },
+        {
           "title": "据AXIOS网站记者报道，伊朗官员尚未确认今天将签署协议。",
           "url": "https://flash.jin10.com/detail/20260615003750983800",
           "source": "金十数据",
@@ -488,9 +567,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时58分"
+        },
+        {
+          "title": "停火协议达成，但伊朗战争远未结束？",
+          "url": "https://flash.jin10.com/detail/20260615223503312800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时11分"
         },
         {
           "title": "美国须提出3000亿美元伊朗重建计划",
@@ -532,9 +622,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时58分"
+        },
+        {
+          "title": "伊朗用AI让球员牵遇难儿童入场",
+          "url": "https://www.toutiao.com/trending/7651542350414037011/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时11分"
         },
         {
           "title": "俄罗斯总统助理乌沙科夫：特朗普向普京表示伊朗协议即将达成，普京对冲突行将结束表示满意。",
@@ -609,7 +710,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时58分"
         },
@@ -669,6 +770,17 @@
           "time_info": "07时02分"
         },
         {
+          "title": "航运通告：美国对伊朗港口封锁将在停火协议签署前维持",
+          "url": "https://wallstreetcn.com/livenews/3119767",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时11分"
+        },
+        {
           "title": "伊朗议会国家安全委员会主席：在以色列对贝鲁特南郊的袭击后，'强有力的回应即将到来'。",
           "url": "https://flash.jin10.com/detail/20260615001736327800",
           "source": "金十数据",
@@ -697,9 +809,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时58分"
+        },
+        {
+          "title": "英法德意发表联合声明称，美伊达成协议后，各方准备解除对伊朗相关制裁，伊朗未来发展会迎来转机吗？",
+          "url": "https://www.zhihu.com/question/2049822674235438895",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时11分"
         },
         {
           "title": "伊朗武装部队：成功使美以承认失败",
@@ -755,6 +878,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
+        },
+        {
+          "title": "伊朗将对霍尔木兹海峡航运服务收费",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%B0%86%E5%AF%B9%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1%E8%88%AA%E8%BF%90%E6%9C%8D%E5%8A%A1%E6%94%B6%E8%B4%B9%23&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时11分"
+        },
+        {
+          "title": "伊朗与美国将于19日签署谅解备忘录",
+          "url": "https://www.toutiao.com/trending/7650835102884675630/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时11分"
         },
         {
           "title": "英法德意四国将解除对伊朗制裁",
@@ -821,6 +966,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时03分"
+        },
+        {
+          "title": "美国军方通报称，在定于6月19日与伊朗达成协议之前，美国对伊朗港口的封锁措施继续有效。美国军方公告指出，受封锁影响的船只在收到“明确指示”之前，不应试图穿越封锁区域。",
+          "url": "https://flash.jin10.com/detail/20260615221939876800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时11分"
+        },
+        {
+          "title": "伊朗队限时参赛踢完几小时内得离境",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E9%98%9F%E9%99%90%E6%97%B6%E5%8F%82%E8%B5%9B%E8%B8%A2%E5%AE%8C%E5%87%A0%E5%B0%8F%E6%97%B6%E5%86%85%E5%BE%97%E7%A6%BB%E5%A2%83",
+          "source": "百度热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时11分"
         },
         {
           "title": "美国副总统万斯：伊朗向美国保证不会对以色列采取报复措施。",
@@ -966,6 +1133,17 @@
           "time_info": "07时02分"
         },
         {
+          "title": "美军：对伊朗港口的封锁仍然有效",
+          "url": "https://wallstreetcn.com/livenews/3119756",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时11分"
+        },
+        {
           "title": "伊朗总统佩泽希齐扬：我们对邻国受到军事行动影响表示遗憾。",
           "url": "https://flash.jin10.com/detail/20260614235429415800",
           "source": "金十数据",
@@ -1032,6 +1210,17 @@
           "time_info": "10时57分"
         },
         {
+          "title": "美国伊朗达成和平协议",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E4%BC%8A%E6%9C%97%E8%BE%BE%E6%88%90%E5%92%8C%E5%B9%B3%E5%8D%8F%E8%AE%AE%23&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时11分"
+        },
+        {
           "title": "伊朗总统：与邻国发展关系是国家外交政策的重点。",
           "url": "https://flash.jin10.com/detail/20260614235320349800",
           "source": "金十数据",
@@ -1060,7 +1249,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时58分"
         },
@@ -1093,7 +1282,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时58分"
         },
@@ -1115,7 +1304,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时58分"
         },
@@ -1159,7 +1348,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时58分"
         }
@@ -1167,7 +1356,7 @@
     },
     {
       "keyword_group": "科技",
-      "match_count": 13,
+      "match_count": 18,
       "titles": [
         {
           "title": "摩根大通降稀宇科技评级 大降目标价逾60%",
@@ -1179,6 +1368,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时57分"
+        },
+        {
+          "title": "习近平：一体推进教育科技人才发展",
+          "url": "https://www.cls.cn/detail/2399978",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时11分"
         },
         {
           "title": "A股人形机器人概念板块盘中拉升，信质集团封板涨停，奥比中光、斯菱智驱、金发科技、卧龙电驱、五洲新春、大洋电机跟涨。",
@@ -1198,9 +1398,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时58分"
+        },
+        {
+          "title": "安德利：拟收购甬强科技控制权 交易对价6-8亿元",
+          "url": "https://flash.jin10.com/detail/20260615223847585800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时11分"
         },
         {
           "title": "港股光通信股盘中再度走强，曦智科技-P(01879.HK)涨超16.5%，华虹宏力(01347.HK)涨超13%，汇聚科技(01729.HK)涨超11%，剑桥科技(06166.HK)涨超7.5%，舜宇光学科技(02382.HK)等跟涨。",
@@ -1220,9 +1431,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时58分"
+        },
+        {
+          "title": "【焦点复盘】硬科技、小金属携手发力，沪指日线6连阳收复20日均线，全市场超280股涨逾10%",
+          "url": "https://www.cls.cn/detail/2400159",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时11分"
         },
         {
           "title": "盘中大跌超17%，申昊科技回应11.67亿元智算中心运维大单",
@@ -1231,9 +1453,31 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时58分"
+        },
+        {
+          "title": "燧原科技、粤芯半导体, 同日过会！现场问询紧扣“盈利预期”",
+          "url": "https://www.cls.cn/detail/2400342",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时11分"
+        },
+        {
+          "title": "信披整改承诺仅保持九个月 国晟科技再收监管“双罚单”|速读公告",
+          "url": "https://www.cls.cn/detail/2400460",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时11分"
         },
         {
           "title": "A股PCB概念股震荡走强，天承科技、逸豪新材、崇达技术、华正新材、宝鼎科技、光华科技、诺德股份等多股涨停，方邦股份、瑞华泰、铜冠铜箔、同宇新材、嘉元科技、中医科技、泰金新能涨超10%。",
@@ -1275,7 +1519,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时58分"
         },
@@ -1308,7 +1552,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时58分"
         }
