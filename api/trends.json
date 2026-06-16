@@ -1,12 +1,27 @@
 {
-  "generated_at": "2026-06-16T14:27:59.449797+08:00",
-  "total_titles_processed": 786,
+  "generated_at": "2026-06-16T20:06:24.075815+08:00",
+  "total_titles_processed": 1008,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 61,
+      "match_count": 72,
       "titles": [
+        {
+          "title": "美副总统：霍尔木兹海峡将“长期开放、免费通行”，伊朗：将收取航运服务费，核谈判和解除制裁将在60天内开始",
+          "url": "https://wallstreetcn.com/articles/3774714",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5,
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时39分 ~ 20时06分]"
+        },
         {
           "title": "录音显示美军仍在执行对伊朗海上封锁",
           "url": "https://news.ifeng.com/c/8tyu4XVxrh4",
@@ -30,20 +45,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时39分 ~ 08时25分]"
-        },
-        {
-          "title": "美副总统：霍尔木兹海峡将“长期开放、免费通行”，伊朗：将收取航运服务费，核谈判和解除制裁将在60天内开始",
-          "url": "https://wallstreetcn.com/articles/3774714",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时39分 ~ 14时27分]"
         },
         {
           "title": "特朗普：将允许伊朗进行低水平铀浓缩",
@@ -81,6 +82,17 @@
           "time_info": "[03时39分 ~ 14时27分]"
         },
         {
+          "title": "伊朗主帅：球队被勒令立即离开美国",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E4%B8%BB%E5%B8%85%EF%BC%9A%E7%90%83%E9%98%9F%E8%A2%AB%E5%8B%92%E4%BB%A4%E7%AB%8B%E5%8D%B3%E7%A6%BB%E5%BC%80%E7%BE%8E%E5%9B%BD",
+          "source": "百度热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时06分"
+        },
+        {
           "title": "经济学家：若伊朗协议得以落实，美国通胀最严重的时期可能已经过去",
           "url": "https://flash.jin10.com/detail/20260616054906195800",
           "source": "金十数据",
@@ -92,24 +104,24 @@
           "time_info": "06时12分"
         },
         {
+          "title": "伊朗队被勒令离开美国",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E9%98%9F%E8%A2%AB%E5%8B%92%E4%BB%A4%E7%A6%BB%E5%BC%80%E7%BE%8E%E5%9B%BD%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时06分"
+        },
+        {
           "title": "伊朗2-2新西兰",
           "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E6%9C%972-2%E6%96%B0%E8%A5%BF%E5%85%B0",
           "source": "bilibili 热搜",
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时27分"
-        },
-        {
-          "title": "伊朗2:2新西兰",
-          "url": "https://www.douyin.com/hot/2535961",
-          "source": "抖音",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时27分"
         },
@@ -123,6 +135,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时39分"
+        },
+        {
+          "title": "翻脸不认球,美国驱赶伊朗队",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355210&amp;topic_name=%E7%BF%BB%E8%84%B8%E4%B8%8D%E8%AE%A4%E7%90%83%2C%E7%BE%8E%E5%9B%BD%E9%A9%B1%E8%B5%B6%E4%BC%8A%E6%9C%97%E9%98%9F",
+          "source": "贴吧",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时06分"
         },
         {
           "title": "伊媒：伊朗格什姆岛以南等地传出爆炸声",
@@ -147,6 +170,17 @@
           "time_info": "08时25分"
         },
         {
+          "title": "伊朗队突然被勒令离开美国",
+          "url": "https://www.toutiao.com/trending/7651870551576677938/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时06分"
+        },
+        {
           "title": "以总理：无论有没有协议 伊朗都不会拥有核武器",
           "url": "https://flash.jin10.com/detail/20260616031224220800",
           "source": "金十数据",
@@ -164,7 +198,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时27分"
         },
@@ -189,6 +223,30 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时12分"
+        },
+        {
+          "title": "伊朗2:2新西兰",
+          "url": "https://www.douyin.com/hot/2535961",
+          "source": "抖音",
+          "ranks": [
+            2,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时27分 ~ 20时06分]"
+        },
+        {
+          "title": "两度扳平!伊朗2-2新西兰",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355198&amp;topic_name=%E4%B8%A4%E5%BA%A6%E6%89%B3%E5%B9%B3%21%E4%BC%8A%E6%9C%972-2%E6%96%B0%E8%A5%BF%E5%85%B0",
+          "source": "贴吧",
+          "ranks": [
+            10,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时27分 ~ 20时06分]"
         },
         {
           "title": "伊朗媒体披露伊美谅解备忘录14个条款",
@@ -238,6 +296,18 @@
           "time_info": "[03时39分 ~ 06时12分]"
         },
         {
+          "title": "伊朗2比2新西兰，本届世界杯“亚洲球队”保持不败",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33388299",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时27分 ~ 20时06分]"
+        },
+        {
           "title": "伊朗副外长：核实美方履行承诺后将启动60天谈判",
           "url": "https://m.thepaper.cn/newsDetail_forward_33379862",
           "source": "澎湃新闻",
@@ -279,7 +349,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时27分"
         },
@@ -323,7 +393,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时27分"
         },
@@ -334,7 +404,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时27分"
         },
@@ -367,7 +437,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时27分"
         },
@@ -378,7 +448,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时27分"
         },
@@ -389,7 +459,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时27分"
         },
@@ -405,26 +475,15 @@
           "time_info": "03时39分"
         },
         {
-          "title": "两度扳平!伊朗2-2新西兰",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355198&amp;topic_name=%E4%B8%A4%E5%BA%A6%E6%89%B3%E5%B9%B3%21%E4%BC%8A%E6%9C%972-2%E6%96%B0%E8%A5%BF%E5%85%B0",
-          "source": "贴吧",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时27分"
-        },
-        {
-          "title": "伊朗2比2新西兰，本届世界杯“亚洲球队”保持不败",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33388299",
-          "source": "澎湃新闻",
+          "title": "伊朗队，在美国进球了",
+          "url": "https://www.cls.cn/detail/2400858",
+          "source": "财联社热门",
           "ranks": [
             11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时27分"
+          "time_info": "20时06分"
         },
         {
           "title": "伊朗总统：伊美谅解备忘录是停止战争开启谈判的重要一步",
@@ -438,6 +497,17 @@
           "time_info": "03时39分"
         },
         {
+          "title": "伊朗队匆匆地来又匆匆地被赶走",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E9%98%9F%E5%8C%86%E5%8C%86%E5%9C%B0%E6%9D%A5%E5%8F%88%E5%8C%86%E5%8C%86%E5%9C%B0%E8%A2%AB%E8%B5%B6%E8%B5%B0",
+          "source": "百度热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时06分"
+        },
+        {
           "title": "现货黄金涨超2%，重拾4300美元关口，美国和伊朗达成协议以恢复霍尔木兹海峡通行",
           "url": "https://wallstreetcn.com/livenews/3119877",
           "source": "华尔街见闻-快讯",
@@ -449,13 +519,24 @@
           "time_info": "06时12分"
         },
         {
+          "title": "伊朗副外长：美国已一定程度上解除对伊朗封锁",
+          "url": "https://wallstreetcn.com/livenews/3120278",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时06分"
+        },
+        {
           "title": "2026 年美加墨世界杯小组赛 G 组，伊朗 2-2 新西兰，如何评价本场比赛？",
           "url": "https://www.zhihu.com/question/2049905904623907774",
           "source": "知乎",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时27分"
         },
@@ -502,6 +583,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时25分"
+        },
+        {
+          "title": "伊朗队赛后被要求立即离开美国",
+          "url": "https://www.douyin.com/hot/2536552",
+          "source": "抖音",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时06分"
         },
         {
           "title": "伊媒：数艘伊朗船只“穿越海上封锁线”",
@@ -609,7 +701,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时27分"
         },
@@ -658,15 +750,48 @@
           "time_info": "03时39分"
         },
         {
+          "title": "博主：伊朗队站上球场就是一种胜利",
+          "url": "https://www.toutiao.com/trending/7651925047216442886/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时06分"
+        },
+        {
           "title": "伊朗2比2战平新西兰",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%972%E6%AF%942%E6%88%98%E5%B9%B3%E6%96%B0%E8%A5%BF%E5%85%B0",
           "source": "百度热搜",
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时27分"
+        },
+        {
+          "title": "美伊正式签署协议前 两艘与伊朗有关联的油轮驶过霍尔木兹海峡",
+          "url": "https://wallstreetcn.com/livenews/3120258",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时06分"
+        },
+        {
+          "title": "特朗普称即使以色列攻击黎巴嫩 也破坏不了伊朗协议",
+          "url": "https://wallstreetcn.com/livenews/3120254",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时06分"
         },
         {
           "title": "伊朗队限时参赛踢完几小时内得离境",
@@ -694,8 +819,41 @@
     },
     {
       "keyword_group": "科技",
-      "match_count": 16,
+      "match_count": 25,
       "titles": [
+        {
+          "title": "金富科技：拟定增募资不超过3亿元用于液冷散热组件扩产",
+          "url": "https://flash.jin10.com/detail/20260616195351244800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时06分"
+        },
+        {
+          "title": "金富科技：拟定增募资不超过3亿元用于液冷散热组件扩产",
+          "url": "https://wallstreetcn.com/livenews/3120298",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时06分"
+        },
+        {
+          "title": "富信科技：公司近期未新增通信领域重大客户，亦未获取新增大额订单",
+          "url": "https://flash.jin10.com/detail/20260616195338869800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时06分"
+        },
         {
           "title": "【焦点复盘】硬科技、小金属携手发力，沪指日线6连阳收复20日均线，全市场超280股涨逾10%",
           "url": "https://www.cls.cn/detail/2400159",
@@ -707,6 +865,28 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时39分 ~ 08时25分]"
+        },
+        {
+          "title": "行云科技：深圳行云签订算力服务协议，金额10.14亿元",
+          "url": "https://wallstreetcn.com/livenews/3120295",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时06分"
+        },
+        {
+          "title": "一博科技：公司光模块PCBA业务已进入量产阶段",
+          "url": "https://wallstreetcn.com/livenews/3120294",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时06分"
         },
         {
           "title": "200亿美元！英伟达五年来首度发行公司债，AI科技巨头借贷热潮延续",
@@ -744,6 +924,17 @@
           "time_info": "[03时39分 ~ 08时25分]"
         },
         {
+          "title": "闻泰科技向下修正“闻泰转债”转股价格至18.36元/股 6月18日生效",
+          "url": "https://wallstreetcn.com/livenews/3120293",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时06分"
+        },
+        {
           "title": "恒生指数主连夜盘收跌0.13%，报24799点。 恒生科技指数主连夜盘收跌0.15%，报4763点。",
           "url": "https://wallstreetcn.com/livenews/3119839",
           "source": "华尔街见闻-快讯",
@@ -761,7 +952,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时27分"
         },
@@ -772,7 +963,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时27分"
         },
@@ -794,9 +985,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时27分"
+        },
+        {
+          "title": "昀冢科技：目前公司MLCC产品暂未应用于车规安全系统、AI算力服务器等",
+          "url": "https://wallstreetcn.com/livenews/3120277",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时06分"
         },
         {
           "title": "周一（6月15日），美股信息科技指数涨5.44%，报460.94点。 人工智能（AI）赢家指数涨5.65%，报448.13点。 AI软件先驱指数涨2.19%，报110.89点。 北美科技软件股指数ETF收涨2.20%，报92.68美元。",
@@ -808,6 +1010,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时12分"
+        },
+        {
+          "title": "返利科技：实际控制人及其一致行动人正在筹划公司股份协议转让事宜，该事项可能导致公司控制权发生变更，股票停牌。",
+          "url": "https://wallstreetcn.com/livenews/3120272",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时06分"
         },
         {
           "title": "美股七巨头收盘播报｜周一（6月15日），美国科技股七巨头（Magnificent 7）指数涨2.74%，报216.22点。 “超大”市值科技股指数涨3.48%，报448.96点。",
@@ -852,6 +1065,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时25分"
+        },
+        {
+          "title": "中粮科技：拟公开挂牌转让所持子公司吉林中粮生化包装有限公司100%股权",
+          "url": "https://flash.jin10.com/detail/20260616193417937800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时06分"
         },
         {
           "title": "周一（6月15日），美股行业ETF多数收涨，半导体ETF涨4.38%，全球科技股指数ETF、科技行业ETF、全球航空业ETF至少涨3.15%，银行业ETF、区域银行ETF则至多收跌1.61%，能源业ETF跌3.48%。",
@@ -910,7 +1134,46 @@
           "ranks": [
             17
           ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时27分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "深圳",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "深圳全市停课",
+          "url": "https://www.toutiao.com/trending/7651514722760441866/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
           "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时06分"
+        },
+        {
+          "title": "深圳停课",
+          "url": "https://www.douyin.com/hot/2536392",
+          "source": "抖音",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时06分"
+        },
+        {
+          "title": "深圳全市紧急停课",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B3%E5%85%A8%E5%B8%82%E7%B4%A7%E6%80%A5%E5%81%9C%E8%AF%BE%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时27分"
         }
@@ -993,23 +1256,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时25分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "深圳",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "深圳全市紧急停课",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B3%E5%85%A8%E5%B8%82%E7%B4%A7%E6%80%A5%E5%81%9C%E8%AF%BE%23&t=31&band_rank=28&Refer=top",
-          "source": "微博",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时27分"
         }
       ]
     },
