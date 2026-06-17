@@ -1,12 +1,26 @@
 {
-  "generated_at": "2026-06-17T14:04:36.828144+08:00",
-  "total_titles_processed": 852,
+  "generated_at": "2026-06-17T19:32:02.075598+08:00",
+  "total_titles_processed": 1083,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 33,
+      "match_count": 43,
       "titles": [
+        {
+          "title": "翻脸不认球,美国驱赶伊朗队",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355210&amp;topic_name=%E7%BF%BB%E8%84%B8%E4%B8%8D%E8%AE%A4%E7%90%83%2C%E7%BE%8E%E5%9B%BD%E9%A9%B1%E8%B5%B6%E4%BC%8A%E6%9C%97%E9%98%9F",
+          "source": "贴吧",
+          "ranks": [
+            3,
+            4,
+            10,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时58分 ~ 19时32分]"
+        },
         {
           "title": "美国勒令伊朗队立刻离境，为何此时突然变脸？",
           "url": "https://v.ifeng.com/c/8tyNCvcMxI6",
@@ -19,17 +33,18 @@
           "time_info": "[01时58分 ~ 08时12分]"
         },
         {
-          "title": "翻脸不认球,美国驱赶伊朗队",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355210&amp;topic_name=%E7%BF%BB%E8%84%B8%E4%B8%8D%E8%AE%A4%E7%90%83%2C%E7%BE%8E%E5%9B%BD%E9%A9%B1%E8%B5%B6%E4%BC%8A%E6%9C%97%E9%98%9F",
+          "title": "美国或赔偿伊朗3千亿",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355216&amp;topic_name=%E7%BE%8E%E5%9B%BD%E6%88%96%E8%B5%94%E5%81%BF%E4%BC%8A%E6%9C%973%E5%8D%83%E4%BA%BF",
           "source": "贴吧",
           "ranks": [
-            3,
-            4,
-            10
+            5,
+            6,
+            7,
+            17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时58分 ~ 14时04分]"
+          "appearance_count": 7,
+          "time_info": "[01时58分 ~ 19时32分]"
         },
         {
           "title": "伊朗队赛前获准在美国过夜，赛后却被勒令立即离开，如何看待此事？风波背后折射出美伊关系怎样的冰与火？",
@@ -59,17 +74,29 @@
           "time_info": "[01时58分 ~ 08时12分]"
         },
         {
-          "title": "美国或赔偿伊朗3千亿",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355216&amp;topic_name=%E7%BE%8E%E5%9B%BD%E6%88%96%E8%B5%94%E5%81%BF%E4%BC%8A%E6%9C%973%E5%8D%83%E4%BA%BF",
+          "title": "两度扳平!伊朗2-2新西兰",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355198&amp;topic_name=%E4%B8%A4%E5%BA%A6%E6%89%B3%E5%B9%B3%21%E4%BC%8A%E6%9C%972-2%E6%96%B0%E8%A5%BF%E5%85%B0",
           "source": "贴吧",
           "ranks": [
-            5,
-            6,
-            7
+            7,
+            8,
+            13,
+            23
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时58分 ~ 14时04分]"
+          "appearance_count": 7,
+          "time_info": "[01时58分 ~ 19时32分]"
+        },
+        {
+          "title": "伊朗队教练说我们孤立无援",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E6%9C%97%E9%98%9F%E6%95%99%E7%BB%83%E8%AF%B4%E6%88%91%E4%BB%AC%E5%AD%A4%E7%AB%8B%E6%97%A0%E6%8F%B4",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时31分 ~ 19时32分]"
         },
         {
           "title": "伊朗议会国家安全委员会负责人：任何违反行为将遭到果断、毁灭性的回应。",
@@ -100,7 +127,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时04分"
         },
@@ -133,22 +160,9 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时04分"
-        },
-        {
-          "title": "两度扳平!伊朗2-2新西兰",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355198&amp;topic_name=%E4%B8%A4%E5%BA%A6%E6%89%B3%E5%B9%B3%21%E4%BC%8A%E6%9C%972-2%E6%96%B0%E8%A5%BF%E5%85%B0",
-          "source": "贴吧",
-          "ranks": [
-            7,
-            8,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时58分 ~ 14时04分]"
         },
         {
           "title": "伊朗队主帅：球队突然被勒令立即离开美国，此前获准在美过夜",
@@ -210,9 +224,54 @@
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时04分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时04分 ~ 19时32分]"
+        },
+        {
+          "title": "美伊协议核心条款曝光：伊朗石油出口即刻解禁，核项目维持现状，海峡快速重启仍存变数",
+          "url": "https://wallstreetcn.com/articles/3774848",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时04分 ~ 19时32分]"
+        },
+        {
+          "title": "美方回应勒令伊朗国足连夜离境",
+          "url": "https://www.toutiao.com/trending/7652270116297690634/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时31分 ~ 19时32分]"
+        },
+        {
+          "title": "美方回应“伊朗队被勒令连夜离境”",
+          "url": "https://www.cls.cn/detail/2402204",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时31分 ~ 19时32分]"
+        },
+        {
+          "title": "中方决定向伊朗等国提供援助",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%86%B3%E5%AE%9A%E5%90%91%E4%BC%8A%E6%9C%97%E7%AD%89%E5%9B%BD%E6%8F%90%E4%BE%9B%E6%8F%B4%E5%8A%A9%23&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时31分 ~ 19时32分]"
         },
         {
           "title": "据伊朗塔斯尼姆通讯社：伊朗武装部队指挥部就以色列违反黎巴嫩停火协议发出严厉警告。",
@@ -221,7 +280,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时04分"
         },
@@ -232,20 +291,53 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时04分"
         },
         {
-          "title": "美伊协议核心条款曝光：伊朗石油出口即刻解禁，核项目维持现状，海峡快速重启仍存变数",
-          "url": "https://wallstreetcn.com/articles/3774848",
-          "source": "华尔街见闻",
+          "title": "俄罗斯外长拉夫罗夫与伊朗外长阿拉格齐举行电话会谈。",
+          "url": "https://flash.jin10.com/detail/20260617190304644800",
+          "source": "金十数据",
           "ranks": [
-            9
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时04分"
+          "time_info": "19时32分"
+        },
+        {
+          "title": "特朗普：有关设立3000亿美元伊朗重建基金的报道不实。 美国没有基金投资伊朗。 美国不会在伊朗投资“10美分”（即一分钱也不投）。 油价保持低位是因为我们正在将船只运出（海峡）。 伊朗谅解备忘录尚未最终定稿。 如果我对看到的不满意，我们会再次袭击。",
+          "url": "https://wallstreetcn.com/livenews/3120964",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时32分"
+        },
+        {
+          "title": "特朗普称赞股市上涨、油价下跌，称油价下跌将对购买力产生积极影响，油价可能会降至伊朗冲突前水平以下。",
+          "url": "https://wallstreetcn.com/livenews/3120960",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时32分"
+        },
+        {
+          "title": "特朗普：昨晚在七国集团晚宴上很开心。 七国集团之行非常成功。 市场对伊朗协议非常满意。 将在今天的新闻发布会上讨论伊朗协议的细节。 油价正在下跌。 霍尔木兹海峡将在未来一两天内开放。 海峡已部分开放，将全面开放。 没有什么比市场更聪明。",
+          "url": "https://wallstreetcn.com/livenews/3120957",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时32分"
         },
         {
           "title": "海事情报公司称伊朗近两月来首次出口原油",
@@ -270,6 +362,17 @@
           "time_info": "08时12分"
         },
         {
+          "title": "美国总统特朗普：伊朗人嘲笑奥巴马，称他是\"愚蠢的混蛋\" 。",
+          "url": "https://flash.jin10.com/detail/20260617185958382800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时32分"
+        },
+        {
           "title": "G7重申伊朗绝不能获得核武器",
           "url": "https://flash.jin10.com/detail/20260617073023901800",
           "source": "金十数据",
@@ -287,7 +390,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时04分"
         },
@@ -334,6 +437,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时58分"
+        },
+        {
+          "title": "第三艘伊朗关联原油油轮突破美国封锁驶向亚洲",
+          "url": "https://wallstreetcn.com/livenews/3120933",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时32分"
         },
         {
           "title": "美政府或将为伊朗设3000亿美元基金",
@@ -394,7 +508,7 @@
     },
     {
       "keyword_group": "科技",
-      "match_count": 12,
+      "match_count": 18,
       "titles": [
         {
           "title": "市场静待沃什\"首秀\"，美股指涨跌互现，道指再新高，科技股承压，美油跌近6%",
@@ -405,8 +519,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时50分 ~ 14时04分]"
+          "appearance_count": 5,
+          "time_info": "[06时50分 ~ 19时32分]"
+        },
+        {
+          "title": "证监会实质举措推动科技革命，三类企业受益，一线解读来了",
+          "url": "https://www.cls.cn/detail/2402254",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时31分 ~ 19时32分]"
         },
         {
           "title": "科创50指数涨幅扩大至4%，半导体板块持续拉升，盛美上海20cm涨停，此前赛腾股份、盛剑科技涨停，拓荆科技涨超10%，华峰测控、华海清科、精智达、长川科技、中微公司等涨超6%。",
@@ -415,7 +540,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时04分"
         },
@@ -426,7 +551,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时04分"
         },
@@ -437,7 +562,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时04分"
         },
@@ -459,9 +584,31 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时04分"
+        },
+        {
+          "title": "【焦点复盘】沪指尾盘翻红收复4100点，科技上游通胀行情持续火爆，4000亿存储龙头午后涨停",
+          "url": "https://www.cls.cn/detail/2402510",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时31分 ~ 19时32分]"
+        },
+        {
+          "title": "中核科技：公司生产经营体系聚焦工业阀门，未涉及硅-28的研发、提纯、生产、加工等相关业务。",
+          "url": "https://wallstreetcn.com/livenews/3120968",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时32分"
         },
         {
           "title": "A股科创50指数午后涨超3%，盛美上海涨超19%，拓荆科技涨超10%。",
@@ -470,7 +617,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时04分"
         },
@@ -481,9 +628,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时04分"
+        },
+        {
+          "title": "英国首相斯塔默在法国与科技巨头会晤。",
+          "url": "https://flash.jin10.com/detail/20260617190009376800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时32分"
         },
         {
           "title": "纳斯达克金龙中国指数收跌2.50%，报6192.86点，跌穿2025年4月8日收盘位6198.18点、逼近2024年9月23日收盘位5917.72点。 热门中概股里，日月光半导体跌4.5%，小马智行、小鹏跌超4%，腾讯、美团、蔚来、百度、网易跌超3%。 ETF中，中概互联网指数ETF（KWEB）收跌2.78%，中国科技指数ETF（CQQQ）收跌1.62%。 MSCI新兴市场ex中国ETF（EMXC）收跌1.51%，德银嘉实沪深300指数ETF（ASHR）收跌0.50%，XtrackersHarvest中证50（ASHS）收涨0.61%。",
@@ -508,13 +666,24 @@
           "time_info": "08时12分"
         },
         {
+          "title": "中材科技：2025年子公司泰山玻纤销售特种纤维布产品销售收入占比2.08% 总体占比较小",
+          "url": "https://flash.jin10.com/detail/20260617185956365800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时32分"
+        },
+        {
           "title": "A股存储芯片板块午后持续活跃，香农芯创涨超15%，盛美上海、普冉股份、澜起科技、德明利、紫光国微、兆易创新等跟涨。",
           "url": "https://flash.jin10.com/detail/20260617130732246800",
           "source": "金十数据",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时04分"
         },
@@ -528,12 +697,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时47分"
+        },
+        {
+          "title": "花旗将美光科技目标价从840美元上调至1200美元。",
+          "url": "https://wallstreetcn.com/livenews/3120928",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时32分"
         }
       ]
     },
     {
       "keyword_group": "金融",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "据英国金融时报：美国商务部长卢特尼克与欧洲外交官讨论了建立“可信伙伴”计划。",
@@ -572,6 +752,17 @@
           "time_info": "[01时58分 ~ 08时12分]"
         },
         {
+          "title": "宣布六项政策，央行行长潘功胜详解中国金融结构变迁和金融市场现代化",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33397624",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时31分 ~ 19时32分]"
+        },
+        {
           "title": "半导体ETF收跌4.8%，领跌美股行业ETF，标普金融板块收涨将近1.5%",
           "url": "https://wallstreetcn.com/livenews/3120489",
           "source": "华尔街见闻-快讯",
@@ -589,7 +780,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时04分"
         },
@@ -600,66 +791,38 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时04分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 4,
-      "titles": [
+        },
         {
-          "title": "OpenAI第一季度消耗现金37亿美元，同比增加两倍",
-          "url": "https://wallstreetcn.com/livenews/3120560",
+          "title": "新加坡金融管理局行长谢啇真：全球股权投资估值高度依赖于AI 但相关营收回报不确定性强",
+          "url": "https://wallstreetcn.com/livenews/3120947",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时12分"
-        },
-        {
-          "title": "SpaceX期权首个交易日碾压纪录 ChatGPT市场份额跌破50% | 环球市场",
-          "url": "https://www.cls.cn/detail/2401773",
-          "source": "财联社热门",
-          "ranks": [
-            13
+            19
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时04分"
-        },
-        {
-          "title": "据The Information：OpenAI表示，已向特朗普政府表明，外国人才对美国人工智能发展至关重要。",
-          "url": "https://flash.jin10.com/detail/20260617051721170800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时50分"
-        },
-        {
-          "title": "据The Information：OpenAI在2026年前三个烧钱37亿美元。",
-          "url": "https://flash.jin10.com/detail/20260617072915805800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时12分"
+          "time_info": "19时32分"
         }
       ]
     },
     {
       "keyword_group": "消费",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "从5月数据看消费 这些亮点值得关注",
+          "url": "https://www.toutiao.com/trending/7651807572874444810/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时31分 ~ 19时32分]"
+        },
         {
           "title": "北京市统计局：前5月全市市场总消费额同比增长1.5%",
           "url": "https://wallstreetcn.com/livenews/3120749",
@@ -667,7 +830,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时04分"
         },
@@ -696,6 +859,56 @@
       ]
     },
     {
+      "keyword_group": "chatgpt openai",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "OpenAI第一季度消耗现金37亿美元，同比增加两倍",
+          "url": "https://wallstreetcn.com/livenews/3120560",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时12分"
+        },
+        {
+          "title": "SpaceX期权首个交易日碾压纪录 ChatGPT市场份额跌破50% | 环球市场",
+          "url": "https://www.cls.cn/detail/2401773",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时04分"
+        },
+        {
+          "title": "据The Information：OpenAI表示，已向特朗普政府表明，外国人才对美国人工智能发展至关重要。",
+          "url": "https://flash.jin10.com/detail/20260617051721170800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时50分"
+        },
+        {
+          "title": "据The Information：OpenAI在2026年前三个烧钱37亿美元。",
+          "url": "https://flash.jin10.com/detail/20260617072915805800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时12分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 3,
       "titles": [
@@ -717,7 +930,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时04分"
         },
@@ -784,9 +997,26 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时04分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "制造业",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "济南：对脑机接口、具身智能、6G等制造业企业贷款补贴，最高比例70%",
+          "url": "https://flash.jin10.com/detail/20260617190400434800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时32分"
         }
       ]
     },
@@ -801,7 +1031,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时04分"
         }
