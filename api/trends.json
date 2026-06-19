@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-20T03:29:59.094406+08:00",
-  "total_titles_processed": 368,
+  "generated_at": "2026-06-20T05:04:17.666923+08:00",
+  "total_titles_processed": 418,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 20,
+      "match_count": 24,
       "titles": [
         {
           "title": "伊朗推迟赴瑞士行程！黎巴嫩问题成变数 万斯指责以色列对美缺乏信任",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时55分 ~ 03时29分]"
+          "appearance_count": 4,
+          "time_info": "[01时55分 ~ 05时04分]"
         },
         {
           "title": "伊朗据称因以军持续袭击黎推迟赴瑞士谈判，万斯指责以色列：醒醒认清现实，不可能通过杀戮解决所有国家安全问题",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时55分 ~ 03时29分]"
+          "appearance_count": 4,
+          "time_info": "[01时55分 ~ 05时04分]"
         },
         {
           "title": "【早报】芯片股暴涨；伊朗推迟赴瑞士行程；瑞士4-1波黑",
@@ -38,8 +38,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时55分 ~ 03时29分]"
+          "appearance_count": 4,
+          "time_info": "[01时55分 ~ 05时04分]"
         },
         {
           "title": "伊朗宣布霍尔木兹海峡通行新规",
@@ -49,19 +49,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时55分 ~ 03时29分]"
-        },
-        {
-          "title": "美国总统特朗普：今天稍早与以色列对话。 （为了伊朗协议）要求以色列同意与黎巴嫩真主党停火。（NBC）",
-          "url": "https://wallstreetcn.com/livenews/3122171",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时29分"
+          "appearance_count": 4,
+          "time_info": "[01时55分 ~ 05时04分]"
         },
         {
           "title": "法国外交部：真主党不应成为伊朗的工具。",
@@ -75,15 +64,26 @@
           "time_info": "01时56分"
         },
         {
-          "title": "伊朗宣布霍尔木兹海峡通行新规",
-          "url": "https://www.toutiao.com/trending/7652618813883744282/",
-          "source": "今日头条",
+          "title": "伊朗外交部副部长赛义德·哈提卜扎德：伊朗将继续在与阿曼协调并在国际法规则下提供航行服务。在谅解备忘录所规定的60天期限内，伊朗不会收取通行费用，但之后将引入新的航道管理机制，并提交给地区国家。 未来要达成的任何协议都必须包括解冻所有伊朗被冻结资金。（央视）",
+          "url": "https://wallstreetcn.com/livenews/3122185",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            3
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时55分 ~ 03时29分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时04分"
+        },
+        {
+          "title": "伊朗副外长：美国必须确保以色列遵守谅解备忘录",
+          "url": "https://wallstreetcn.com/livenews/3122184",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时04分"
         },
         {
           "title": "日企掏钱,伊朗白捡三千亿",
@@ -93,8 +93,32 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时55分 ~ 03时29分]"
+          "appearance_count": 4,
+          "time_info": "[01时55分 ~ 05时04分]"
+        },
+        {
+          "title": "美国总统特朗普：今天稍早与以色列对话。 （为了伊朗协议）要求以色列同意与黎巴嫩真主党停火。（NBC）",
+          "url": "https://wallstreetcn.com/livenews/3122171",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时29分 ~ 05时04分]"
+        },
+        {
+          "title": "伊朗宣布霍尔木兹海峡通行新规",
+          "url": "https://www.toutiao.com/trending/7652618813883744282/",
+          "source": "今日头条",
+          "ranks": [
+            6,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时55分 ~ 05时04分]"
         },
         {
           "title": "霍尔木兹海峡已重开，但伊朗收费吗、找得到油轮吗？",
@@ -105,8 +129,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时55分 ~ 03时29分]"
+          "appearance_count": 4,
+          "time_info": "[01时55分 ~ 05时04分]"
         },
         {
           "title": "消息人士：因以军持续袭击黎巴嫩，伊朗推迟赴瑞士行程",
@@ -116,8 +140,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时55分 ~ 03时29分]"
+          "appearance_count": 4,
+          "time_info": "[01时55分 ~ 05时04分]"
         },
         {
           "title": "伊朗足协正式投诉美国",
@@ -127,8 +151,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时55分 ~ 03时29分]"
+          "appearance_count": 4,
+          "time_info": "[01时55分 ~ 05时04分]"
         },
         {
           "title": "美国情报部门警告特朗普政府：以色列可能会破坏美国与伊朗的协议。（华盛顿邮报）",
@@ -166,6 +190,17 @@
           "time_info": "[01时55分 ~ 01时56分]"
         },
         {
+          "title": "美国总统特朗普：我结束了8场战争，与伊朗的战争是最艰难的。",
+          "url": "https://flash.jin10.com/detail/20260620035757098800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时04分"
+        },
+        {
           "title": "伊朗外交部副部长：60天后，我们将采用新的机制来管理霍尔木兹海峡，并向该地区国家提出特别倡议。",
           "url": "https://flash.jin10.com/detail/20260620005722575800",
           "source": "金十数据",
@@ -188,13 +223,24 @@
           "time_info": "01时56分"
         },
         {
+          "title": "特朗普：约700艘船正在海峡通行 伊朗必须在60天内达成协议",
+          "url": "https://flash.jin10.com/detail/20260620034905170800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时04分"
+        },
+        {
           "title": "据AXIOS：美国总统特朗普表示，（关于伊朗战争）这种事可能引发全球性大萧条，达成的协议避免了这一命运。",
           "url": "https://flash.jin10.com/detail/20260620021212398800",
           "source": "金十数据",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时29分"
         },
@@ -245,8 +291,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时55分 ~ 03时29分]"
+          "appearance_count": 4,
+          "time_info": "[01时55分 ~ 05时04分]"
         },
         {
           "title": "金价银价双双下跌",
@@ -260,6 +306,17 @@
           "time_info": "[01时55分 ~ 03时29分]"
         },
         {
+          "title": "沃什“鹰派首秀”，高盛下调黄金目标价，“如果今年真加息，金价会进一步下跌”",
+          "url": "https://wallstreetcn.com/articles/3775075",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时29分 ~ 05时04分]"
+        },
+        {
           "title": "金价陷入低迷",
           "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E9%99%B7%E5%85%A5%E4%BD%8E%E8%BF%B7%23&t=31&band_rank=28&Refer=top",
           "source": "微博",
@@ -269,17 +326,56 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时55分 ~ 01时56分]"
-        },
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 4,
+      "titles": [
         {
-          "title": "沃什“鹰派首秀”，高盛下调黄金目标价，“如果今年真加息，金价会进一步下跌”",
-          "url": "https://wallstreetcn.com/articles/3775075",
+          "title": "美伊瑞士会谈生变，韩股收跌0.1%，印度IT股大跌，纳指期货跌1%，美元指数站上101关口",
+          "url": "https://wallstreetcn.com/articles/3775074",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时55分 ~ 05时04分]"
+        },
+        {
+          "title": "霍尔木兹海峡重开提振股债，半导体指数收创新高，原油走V，美元两连涨，黄金承压",
+          "url": "https://wallstreetcn.com/articles/3774963",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时55分 ~ 05时04分]"
+        },
+        {
+          "title": "美元指数19日下跌",
+          "url": "https://flash.jin10.com/detail/20260620035724024800",
+          "source": "金十数据",
+          "ranks": [
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时29分"
+          "time_info": "05时04分"
+        },
+        {
+          "title": "美元指数本周涨约1%",
+          "url": "https://wallstreetcn.com/livenews/3122179",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时04分"
         }
       ]
     },
@@ -293,11 +389,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            5
+            5,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时56分 ~ 03时29分]"
+          "appearance_count": 3,
+          "time_info": "[01时56分 ~ 05时04分]"
         },
         {
           "title": "美国联邦住房金融局局长普尔特：房利美和房地美目前流动性强劲。",
@@ -324,6 +421,34 @@
       ]
     },
     {
+      "keyword_group": "科技",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美股收盘：科技题材迎新高浪潮 存储、半导体设备牛股带头冲锋",
+          "url": "https://www.cls.cn/detail/2404196",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时55分 ~ 05时04分]"
+        },
+        {
+          "title": "吴清表示「严查严处借科技之名蹭热点、炒概念甚至操纵市场，内幕交易等违法违规行为」，释放了什么监管信号？",
+          "url": "https://www.zhihu.com/question/2050541541630940368",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时04分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 2,
       "titles": [
@@ -332,11 +457,12 @@
           "url": "https://flash.jin10.com/detail/20260620030401727800",
           "source": "金十数据",
           "ranks": [
-            2
+            2,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时29分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时29分 ~ 05时04分]"
         },
         {
           "title": "Faker拍谷歌广告血赚7个亿",
@@ -346,36 +472,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时55分 ~ 03时29分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美伊瑞士会谈生变，韩股收跌0.1%，印度IT股大跌，纳指期货跌1%，美元指数站上101关口",
-          "url": "https://wallstreetcn.com/articles/3775074",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时55分 ~ 03时29分]"
-        },
-        {
-          "title": "霍尔木兹海峡重开提振股债，半导体指数收创新高，原油走V，美元两连涨，黄金承压",
-          "url": "https://wallstreetcn.com/articles/3774963",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时55分 ~ 03时29分]"
+          "appearance_count": 4,
+          "time_info": "[01时55分 ~ 05时04分]"
         }
       ]
     },
@@ -392,25 +490,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时55分 ~ 03时29分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "科技",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美股收盘：科技题材迎新高浪潮 存储、半导体设备牛股带头冲锋",
-          "url": "https://www.cls.cn/detail/2404196",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时55分 ~ 03时29分]"
+          "appearance_count": 4,
+          "time_info": "[01时55分 ~ 05时04分]"
         }
       ]
     }
