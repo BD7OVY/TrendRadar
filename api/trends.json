@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-19T20:52:20.985278+08:00",
-  "total_titles_processed": 1200,
+  "generated_at": "2026-06-19T23:58:36.934517+08:00",
+  "total_titles_processed": 1376,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 60,
+      "match_count": 76,
       "titles": [
         {
           "title": "伊朗称要成为中国真正的伙伴，外交部表态",
@@ -28,8 +28,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时35分 ~ 20时52分]"
+          "appearance_count": 6,
+          "time_info": "[11时35分 ~ 23时58分]"
         },
         {
           "title": "【早报】芯片股暴涨；伊朗推迟赴瑞士行程；瑞士4-1波黑",
@@ -41,8 +41,22 @@
             1
           ],
           "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时48分 ~ 23时58分]"
+        },
+        {
+          "title": "伊朗推迟赴瑞士行程！黎巴嫩问题成变数 万斯指责以色列对美缺乏信任",
+          "url": "https://www.cls.cn/detail/2404208",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            4,
+            2,
+            1
+          ],
+          "is_new": false,
           "appearance_count": 6,
-          "time_info": "[07时48分 ~ 20时52分]"
+          "time_info": "[11时35分 ~ 23时58分]"
         },
         {
           "title": "透露伊朗最高领袖罕见涉华举动，伊中商会会长答凤凰",
@@ -56,17 +70,16 @@
           "time_info": "[01时08分 ~ 07时48分]"
         },
         {
-          "title": "伊朗推迟赴瑞士行程！黎巴嫩问题成变数 万斯指责以色列对美缺乏信任",
-          "url": "https://www.cls.cn/detail/2404208",
-          "source": "财联社热门",
+          "title": "日企掏钱,伊朗白捡三千亿",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355283&amp;topic_name=%E6%97%A5%E4%BC%81%E6%8E%8F%E9%92%B1%2C%E4%BC%8A%E6%9C%97%E7%99%BD%E6%8D%A1%E4%B8%89%E5%8D%83%E4%BA%BF",
+          "source": "贴吧",
           "ranks": [
-            7,
-            4,
-            2
+            3,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时35分 ~ 20时52分]"
+          "appearance_count": 4,
+          "time_info": "[17时01分 ~ 23时58分]"
         },
         {
           "title": "临时改由美伊总统签协议，伊朗发言人透露原因",
@@ -75,18 +88,6 @@
           "ranks": [
             4,
             2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时01分 ~ 20时52分]"
-        },
-        {
-          "title": "日企掏钱,伊朗白捡三千亿",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355283&amp;topic_name=%E6%97%A5%E4%BC%81%E6%8E%8F%E9%92%B1%2C%E4%BC%8A%E6%9C%97%E7%99%BD%E6%8D%A1%E4%B8%89%E5%8D%83%E4%BA%BF",
-          "source": "贴吧",
-          "ranks": [
-            3,
-            5
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -123,9 +124,33 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时52分"
+        },
+        {
+          "title": "特朗普对伊朗协议定调 旨在驳斥美国失败论",
+          "url": "https://flash.jin10.com/detail/20260619235405420800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时58分"
+        },
+        {
+          "title": "消息人士：因以军持续袭击黎巴嫩，伊朗推迟赴瑞士行程",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33413010",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时35分 ~ 23时58分]"
         },
         {
           "title": "伊朗外交部发言人表示，美国对以色列袭击黎巴嫩负有直接责任。",
@@ -134,9 +159,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时52分"
+        },
+        {
+          "title": "市场消息：特朗普对伊朗协议定调，意在驳斥美国失败论。",
+          "url": "https://flash.jin10.com/detail/20260619235253993800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时58分"
         },
         {
           "title": "美国参议院Scott：对与伊朗协议的某些方面存在担忧。",
@@ -161,15 +197,37 @@
           "time_info": "17时02分"
         },
         {
+          "title": "市场消息：美国向盟友发布了一系列谈话要点，旨在将伊朗协议包装成一项政治胜利，尽管美国仅仅确保了霍尔木兹海峡的重新开放。",
+          "url": "https://flash.jin10.com/detail/20260619235204278800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时58分"
+        },
+        {
           "title": "美国告知伊朗，以色列不会升级对黎巴嫩的袭击。（CNN）",
           "url": "https://wallstreetcn.com/livenews/3122090",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时52分"
+        },
+        {
+          "title": "伊朗宣布霍尔木兹海峡通行新规",
+          "url": "https://news.ifeng.com/c/8u5aeRTiPZD",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时58分"
         },
         {
           "title": "伊朗外交部发言人谴责以色列对黎巴嫩的袭击，并警告这将对地区安全造成后果。",
@@ -178,7 +236,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时52分"
         },
@@ -189,22 +247,9 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时52分"
-        },
-        {
-          "title": "消息人士：因以军持续袭击黎巴嫩，伊朗推迟赴瑞士行程",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33413010",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            13,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时35分 ~ 20时52分]"
         },
         {
           "title": "美特使：伊朗将邀请国际原子能机构检查其核设施",
@@ -242,6 +287,17 @@
           "time_info": "[06时01分 ~ 07时48分]"
         },
         {
+          "title": "伊朗足协正式投诉美国",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E8%B6%B3%E5%8D%8F%E6%AD%A3%E5%BC%8F%E6%8A%95%E8%AF%89%E7%BE%8E%E5%9B%BD",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时52分 ~ 23时58分]"
+        },
+        {
           "title": "新西兰华裔边锋贾斯特世界杯对阵伊朗梅开二度，一战成名，为何我们从来未关注到这位华裔球员？",
           "url": "https://www.zhihu.com/question/2050210872241476932",
           "source": "知乎",
@@ -275,6 +331,17 @@
           "time_info": "[01时08分 ~ 01时09分]"
         },
         {
+          "title": "伊朗宣布霍尔木兹海峡通行新规",
+          "url": "https://www.toutiao.com/trending/7652618813883744282/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时58分"
+        },
+        {
           "title": "伊朗：霍尔木兹海峡60天内免费通行",
           "url": "https://flash.jin10.com/detail/20260619052549302800",
           "source": "金十数据",
@@ -284,6 +351,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时01分"
+        },
+        {
+          "title": "伊朗外长：美国应对任何违反谅解备忘录条款的行为负责",
+          "url": "https://flash.jin10.com/detail/20260619234334423800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时58分"
         },
         {
           "title": "美国五角大楼告诉议员，它需要800亿美元用于伊朗战争。（华尔街日报）",
@@ -314,9 +392,31 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时52分"
+        },
+        {
+          "title": "伊朗伊斯兰革命卫队说“坚定支持国家领导层”",
+          "url": "https://wallstreetcn.com/livenews/3122136",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时58分"
+        },
+        {
+          "title": "伊朗否认邀请国际原子能机构对其核设施进行检查",
+          "url": "https://wallstreetcn.com/livenews/3122135",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时58分"
         },
         {
           "title": "伊朗宣布霍尔木兹海峡通行新规：须提前48小时提交申请",
@@ -325,9 +425,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时52分"
+        },
+        {
+          "title": "霍尔木兹海峡已重开，但伊朗收费吗、找得到油轮吗？",
+          "url": "https://wallstreetcn.com/articles/3775066",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时58分"
         },
         {
           "title": "伊朗：60天内霍尔木兹海峡过境船只免费通行",
@@ -347,9 +458,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时52分"
+        },
+        {
+          "title": "本周已有11艘油轮运载2000万桶原油驶离伊朗港口",
+          "url": "https://wallstreetcn.com/livenews/3122133",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时58分"
         },
         {
           "title": "伊朗最高国家安全委员会：清除水雷的措施将在伊斯兰堡谅解备忘录下实施。",
@@ -380,7 +502,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时52分"
         },
@@ -407,6 +529,17 @@
           "time_info": "11时36分"
         },
         {
+          "title": "伊朗外长向巴基斯坦外长表示，美国应对结束包括黎巴嫩在内的所有战线的战争以及任何违反谅解备忘录的行为负责。",
+          "url": "https://flash.jin10.com/detail/20260619233208612800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时58分"
+        },
+        {
           "title": "伊朗最高国家安全委员会：霍尔木兹海峡的交通将逐步增加。",
           "url": "https://flash.jin10.com/detail/20260619025016578800",
           "source": "金十数据",
@@ -427,6 +560,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时36分"
+        },
+        {
+          "title": "伊朗外交部否认霍尔木兹海峡关闭",
+          "url": "https://wallstreetcn.com/livenews/3122130",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时58分"
         },
         {
           "title": "据伊朗国家电视台：伊朗最高领袖将很快就谅解备忘录发表讲话。",
@@ -473,17 +617,6 @@
           "time_info": "06时01分"
         },
         {
-          "title": "伊朗足协正式投诉美国",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E8%B6%B3%E5%8D%8F%E6%AD%A3%E5%BC%8F%E6%8A%95%E8%AF%89%E7%BE%8E%E5%9B%BD",
-          "source": "百度热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时52分"
-        },
-        {
           "title": "伊朗最高国家安全委员会：已责成波斯湾海峡管理局尽快发放通行许可。",
           "url": "https://flash.jin10.com/detail/20260619024735217800",
           "source": "金十数据",
@@ -504,6 +637,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时02分"
+        },
+        {
+          "title": "伊朗外交部否认霍尔木兹海峡已关闭。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3122128",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时58分"
         },
         {
           "title": "伊朗最高国家安全委员会：根据与美国的谅解备忘录，经过霍尔木兹海峡的船只在60天内将不收取费用。在此期间费用将由伊朗承担。",
@@ -537,6 +681,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时50分"
+        },
+        {
+          "title": "伊朗外交部证实伊美谈判推迟：正讨论未来几天举行",
+          "url": "https://wallstreetcn.com/livenews/3122126",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时58分"
         },
         {
           "title": "伊朗将获准动用60亿美元被冻结资金 仅限购买美国产品",
@@ -638,6 +793,17 @@
           "time_info": "03时50分"
         },
         {
+          "title": "美议员批美政府在伊朗搞灾难艺术",
+          "url": "https://wallstreetcn.com/livenews/3122122",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时58分"
+        },
+        {
           "title": "美国副总统万斯：周三夜间，有1250万桶原油经过霍尔木兹海峡运输。 将近12艘船只穿越美军在海峡的封锁线。 迄今，伊朗遵守了协议。 伊朗获利的唯一方式就是好好表现，否则他们捞不到一点好处。 不知道伊朗最终是否会改变行为方式。 今天启动与伊朗的60天谈判期。 从昨天开始与伊朗接触。",
           "url": "https://wallstreetcn.com/livenews/3121805",
           "source": "华尔街见闻-快讯",
@@ -671,6 +837,17 @@
           "time_info": "03时50分"
         },
         {
+          "title": "伊朗证实伊美谈判推迟",
+          "url": "https://www.toutiao.com/trending/7652009495614472228/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时58分"
+        },
+        {
           "title": "伊朗最高国家安全委员会秘书处：伊朗将密切监督伊美谅解备忘录的执行情况，如美方违反，伊朗将采取坚决的反制措施。",
           "url": "https://flash.jin10.com/detail/20260619101223743800",
           "source": "金十数据",
@@ -685,7 +862,7 @@
     },
     {
       "keyword_group": "科技",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "【焦点复盘】极致两极分化行情再现，硬科技方向多点开花，大金融板块全线重挫",
@@ -711,8 +888,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时48分 ~ 20时52分]"
+          "appearance_count": 7,
+          "time_info": "[07时48分 ~ 23时58分]"
         },
         {
           "title": "【每日收评】科创50放量涨近4%，AI硬件与半导体持续火爆，多只科技权重续创历史新高",
@@ -801,9 +978,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时52分"
+        },
+        {
+          "title": "全球科技升温，公募加速布局韩国赛道",
+          "url": "https://flash.jin10.com/detail/20260619232734545800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时58分"
         },
         {
           "title": "标普500指数的11个板块中，能源板块收跌1.73%，金融板块跌0.91%，电信板块涨1.13%，可选消费板块涨1.76%，信息技术/科技板块涨2.68%。",
@@ -848,6 +1036,103 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时48分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金融",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "金融监管总局：鼓励有条件的大型金融机构向中小金融机构输出算力服务",
+          "url": "https://www.cls.cn/detail/2403832",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10,
+            9,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时08分 ~ 11时36分]"
+        },
+        {
+          "title": "乌克兰总统泽连斯基：欧洲的安全依赖于对乌克兰军队的金融保障，欧盟和“自愿联盟”可以为此开发金融工具。",
+          "url": "https://flash.jin10.com/detail/20260619051711760800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时01分"
+        },
+        {
+          "title": "英国金融时报：英国交通大臣亚历山大呼吁英国首相斯塔默辞职。",
+          "url": "https://flash.jin10.com/detail/20260619233734283800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时58分"
+        },
+        {
+          "title": "艾伯维接近达成近110亿美元收购Apogee Therapeutics的交易。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3122131",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时58分"
+        },
+        {
+          "title": "日本央行副行长冰见野良三：在指导货币政策时，日本央行还必须关注金融状况，例如银行的放贷态度。",
+          "url": "https://flash.jin10.com/detail/20260619103405964800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时36分"
+        },
+        {
+          "title": "据英国金融时报报道，根据美伊之间达成的临时协议，特朗普政府将允许伊朗动用存放在卡塔尔的60亿美元石油收入，用于购买美国的人道主义物资及非受制裁商品。",
+          "url": "https://flash.jin10.com/detail/20260619001546386800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时09分"
+        },
+        {
+          "title": "据英国金融时报：欧盟将取消银行跨境资本流动的障碍。",
+          "url": "https://flash.jin10.com/detail/20260619061427747800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时48分"
+        },
+        {
+          "title": "日本央行副行长冰见野良三：日本经济正在温和复苏。 日本央行预计将根据经济、价格和金融发展情况继续加息。 日本央行将考虑进一步加息的速度、时机，关注其基准情景实现的可能性，以及风险。 潜在通胀率接近2%。 最近的物价上涨不仅仅是由暂时的供应冲击驱动的，潜在通胀有偏离我们的价格目标的风险。 尽管油价上涨拖累经济增长，但由于企业利润和家庭收入高企，日本经济整体稳健。 外汇走势是影响日本经济和物价的关键因素之一。 货币政策不以外汇变动为目标，但与过去相比，由于企业行为的变化，外汇变动对通货膨胀的影响更大。 外汇走势可能对通胀预期和潜在通胀产生影响，因此我们将继续密切关注事态发展。",
+          "url": "https://wallstreetcn.com/livenews/3121939",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时36分"
         }
       ]
     },
@@ -946,83 +1231,8 @@
       ]
     },
     {
-      "keyword_group": "金融",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "金融监管总局：鼓励有条件的大型金融机构向中小金融机构输出算力服务",
-          "url": "https://www.cls.cn/detail/2403832",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10,
-            9,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时08分 ~ 11时36分]"
-        },
-        {
-          "title": "乌克兰总统泽连斯基：欧洲的安全依赖于对乌克兰军队的金融保障，欧盟和“自愿联盟”可以为此开发金融工具。",
-          "url": "https://flash.jin10.com/detail/20260619051711760800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时01分"
-        },
-        {
-          "title": "日本央行副行长冰见野良三：在指导货币政策时，日本央行还必须关注金融状况，例如银行的放贷态度。",
-          "url": "https://flash.jin10.com/detail/20260619103405964800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时36分"
-        },
-        {
-          "title": "据英国金融时报报道，根据美伊之间达成的临时协议，特朗普政府将允许伊朗动用存放在卡塔尔的60亿美元石油收入，用于购买美国的人道主义物资及非受制裁商品。",
-          "url": "https://flash.jin10.com/detail/20260619001546386800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时09分"
-        },
-        {
-          "title": "据英国金融时报：欧盟将取消银行跨境资本流动的障碍。",
-          "url": "https://flash.jin10.com/detail/20260619061427747800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时48分"
-        },
-        {
-          "title": "日本央行副行长冰见野良三：日本经济正在温和复苏。 日本央行预计将根据经济、价格和金融发展情况继续加息。 日本央行将考虑进一步加息的速度、时机，关注其基准情景实现的可能性，以及风险。 潜在通胀率接近2%。 最近的物价上涨不仅仅是由暂时的供应冲击驱动的，潜在通胀有偏离我们的价格目标的风险。 尽管油价上涨拖累经济增长，但由于企业利润和家庭收入高企，日本经济整体稳健。 外汇走势是影响日本经济和物价的关键因素之一。 货币政策不以外汇变动为目标，但与过去相比，由于企业行为的变化，外汇变动对通货膨胀的影响更大。 外汇走势可能对通胀预期和潜在通胀产生影响，因此我们将继续密切关注事态发展。",
-          "url": "https://wallstreetcn.com/livenews/3121939",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时36分"
-        }
-      ]
-    },
-    {
       "keyword_group": "金价",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "高盛将金价目标下调500美元",
@@ -1034,6 +1244,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时36分"
+        },
+        {
+          "title": "国际金价再跳水失守4200美元，国内金饰克价破1300元",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33415889",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时52分 ~ 23时58分]"
         },
         {
           "title": "金价银价大跌 国际油价涨跌不一",
@@ -1058,24 +1280,13 @@
           "time_info": "[17时01分 ~ 17时02分]"
         },
         {
-          "title": "国际金价再跳水失守4200美元，国内金饰克价破1300元",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33415889",
-          "source": "澎湃新闻",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时52分"
-        },
-        {
           "title": "周大福老凤祥老庙金价又跌了",
           "url": "https://s.weibo.com/weibo?q=%23%E5%91%A8%E5%A4%A7%E7%A6%8F%E8%80%81%E5%87%A4%E7%A5%A5%E8%80%81%E5%BA%99%E9%87%91%E4%BB%B7%E5%8F%88%E8%B7%8C%E4%BA%86%23&t=31&band_rank=24&Refer=top",
           "source": "微博",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时52分"
         },
@@ -1089,6 +1300,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时08分"
+        },
+        {
+          "title": "金价陷入低迷",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E9%99%B7%E5%85%A5%E4%BD%8E%E8%BF%B7%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时58分"
         }
       ]
     },
@@ -1102,11 +1324,12 @@
           "source": "华尔街见闻",
           "ranks": [
             1,
-            3
+            3,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时48分 ~ 20时52分]"
+          "appearance_count": 7,
+          "time_info": "[07时48分 ~ 23时58分]"
         },
         {
           "title": "美伊瑞士会谈生变，韩股收跌0.1%，印度IT股大跌，纳指期货跌1%，美元指数站上101关口",
@@ -1117,8 +1340,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时01分 ~ 20时52分]"
+          "appearance_count": 4,
+          "time_info": "[17时01分 ~ 23时58分]"
         },
         {
           "title": "周四（6月18日）纽约尾盘，彭博谷物分类指数跌0.92%，报29.7383点。 CBOT玉米期货跌1%，CBOT小麦期货跌跌1.19%。 CBOT大豆期货跌0.63%，报11.42美元/蒲式耳，豆粕期货跌0.88%，豆油期货跌1.75%。",
@@ -1203,7 +1426,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时52分"
         },
@@ -1263,11 +1486,12 @@
             13,
             14,
             21,
-            23
+            23,
+            24
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时08分 ~ 20时52分]"
+          "appearance_count": 11,
+          "time_info": "[01时08分 ~ 23时58分]"
         },
         {
           "title": "周四（6月18日），美股超大规模云服务商（Hyperscalers）涨1.39%，报95.20点。 成分股中，亚马逊收涨2.90%，Meta涨1.70%，谷歌A涨1.17%，甲骨文涨0.41%，微软涨0.13%。",
@@ -1308,6 +1532,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时48分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "房价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "如何看待房价上涨的城市越来越多了",
+          "url": "https://www.toutiao.com/trending/7652978384745532934/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时58分"
         }
       ]
     }
