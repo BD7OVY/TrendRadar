@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-22T16:58:11.747740+08:00",
-  "total_titles_processed": 962,
+  "generated_at": "2026-06-22T22:35:29.738434+08:00",
+  "total_titles_processed": 1188,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 113,
+      "match_count": 123,
       "titles": [
         {
           "title": "伊朗外交部发言人：美国未执行谅解备忘录第一条",
@@ -74,6 +74,19 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时21分 ~ 07时04分]"
+        },
+        {
+          "title": "美伊艰难谈判：万斯称“取得巨大进展”，特朗普威胁“谈不好就炸”，伊朗强硬“合照不拍，抗议离场”",
+          "url": "https://wallstreetcn.com/articles/3775145",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时58分 ~ 22时35分]"
         },
         {
           "title": "以色列财政部长放话：巴勒斯坦国比伊朗更危险",
@@ -162,16 +175,17 @@
           "time_info": "[03时19分 ~ 07时04分]"
         },
         {
-          "title": "美伊艰难谈判：万斯称“取得巨大进展”，特朗普威胁“谈不好就炸”，伊朗强硬“合照不拍，抗议离场”",
-          "url": "https://wallstreetcn.com/articles/3775145",
-          "source": "华尔街见闻",
+          "title": "伊媒：伊朗代表团拒绝继续在瑞士进行伊美谈判",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33426063",
+          "source": "澎湃新闻",
           "ranks": [
-            6,
+            15,
+            8,
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时58分 ~ 16时58分]"
+          "appearance_count": 5,
+          "time_info": "[10时58分 ~ 22时35分]"
         },
         {
           "title": "美媒称对伊朗开战近四个月几乎没成果，特朗普怒了",
@@ -297,6 +311,17 @@
           "time_info": "07时04分"
         },
         {
+          "title": "王毅会见伊朗最高国家安全委员会副秘书",
+          "url": "https://news.ifeng.com/c/8uASwuIqJQf",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时35分"
+        },
+        {
           "title": "伊朗议长回应特朗普最新威胁",
           "url": "https://flash.jin10.com/detail/20260622010423515800",
           "source": "金十数据",
@@ -331,6 +356,19 @@
           "time_info": "01时22分"
         },
         {
+          "title": "比利时0-0伊朗",
+          "url": "https://search.bilibili.com/all?keyword=%E6%AF%94%E5%88%A9%E6%97%B60-0%E4%BC%8A%E6%9C%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8,
+            6,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时58分 ~ 22时35分]"
+        },
+        {
           "title": "伊朗门将单场7次扑救",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E9%97%A8%E5%B0%86%E5%8D%95%E5%9C%BA7%E6%AC%A1%E6%89%91%E6%95%91",
           "source": "百度热搜",
@@ -340,6 +378,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时04分"
+        },
+        {
+          "title": "伊朗公布哈梅内伊葬礼安排",
+          "url": "https://news.ifeng.com/c/8uAe6Rs4IDL",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时35分"
         },
         {
           "title": "伊朗：伊朗石油制裁豁免草案将很快出台",
@@ -353,6 +402,32 @@
           "time_info": "01时22分"
         },
         {
+          "title": "伊朗代表团暂停伊美谈判，抗议特朗普威胁言论",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33425956",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时58分 ~ 22时35分]"
+        },
+        {
+          "title": "伊朗队再次控诉不公待遇，队医只能在返程飞机上为球员治疗",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33425388",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时58分 ~ 22时35分]"
+        },
+        {
           "title": "伊朗因球员跑不动多次换人",
           "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%9B%A0%E7%90%83%E5%91%98%E8%B7%91%E4%B8%8D%E5%8A%A8%E5%A4%9A%E6%AC%A1%E6%8D%A2%E4%BA%BA%23&t=31&band_rank=10&Refer=top",
           "source": "微博",
@@ -364,18 +439,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时21分 ~ 05时07分]"
-        },
-        {
-          "title": "比利时0-0伊朗",
-          "url": "https://search.bilibili.com/all?keyword=%E6%AF%94%E5%88%A9%E6%97%B60-0%E4%BC%8A%E6%9C%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时58分 ~ 16时58分]"
         },
         {
           "title": "【特朗普就黎巴嫩问题再度威胁伊朗】美国总统特朗普21日在社交媒体上发文称，伊朗必须立即停止在黎巴嫩的“代理人”行动，否则美国将会再次对伊朗发起猛烈打击，“就像上周那样，而且会更猛烈”。（新华社）",
@@ -451,18 +514,6 @@
           "time_info": "[03时20分 ~ 05时07分]"
         },
         {
-          "title": "伊媒：伊朗代表团拒绝继续在瑞士进行伊美谈判",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33426063",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时58分 ~ 16时58分]"
-        },
-        {
           "title": "伊朗谈判团队成员称伊石油制裁豁免草案已敲定",
           "url": "https://wallstreetcn.com/livenews/3122375",
           "source": "华尔街见闻-快讯",
@@ -473,30 +524,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时20分 ~ 05时07分]"
-        },
-        {
-          "title": "伊朗代表团暂停伊美谈判，抗议特朗普威胁言论",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33425956",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时58分 ~ 16时58分]"
-        },
-        {
-          "title": "伊朗队再次控诉不公待遇，队医只能在返程飞机上为球员治疗",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33425388",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时58分 ~ 16时58分]"
         },
         {
           "title": "伊朗球员上场前体能已透支",
@@ -549,6 +576,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时22分 ~ 05时07分]"
+        },
+        {
+          "title": "头条世界杯｜贝兰万德封神！坚硬的不是球门，是这支伊朗的命",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33426003",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时57分 ~ 22时35分]"
         },
         {
           "title": "美国总统特朗普：Pezeshkian（伊朗总统）要管好自己的嘴。",
@@ -785,17 +824,6 @@
           "time_info": "[16时57分 ~ 16时58分]"
         },
         {
-          "title": "头条世界杯｜贝兰万德封神！坚硬的不是球门，是这支伊朗的命",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33426003",
-          "source": "澎湃新闻",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时57分 ~ 16时58分]"
-        },
-        {
           "title": "美国总统特朗普：必要时，美国可能会接管霍尔木兹海峡，可能会收取海峡通行费。 接管海峡将意味着美国攫取20%的石油（收益）。 我昨夜与伊朗官员们通话，用了脏话（expletive）。 告诉伊朗人，如果关闭海峡，伊朗人民将没有国家。（福克斯新闻）",
           "url": "https://wallstreetcn.com/livenews/3122357",
           "source": "华尔街见闻-快讯",
@@ -934,6 +962,28 @@
           "time_info": "[01时21分 ~ 01时22分]"
         },
         {
+          "title": "伊朗队在洛杉矶更衣室留下感谢信",
+          "url": "https://www.toutiao.com/trending/7654111669110669353/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时35分"
+        },
+        {
+          "title": "伊朗谈判团队称伊美谈判达成5项要点",
+          "url": "https://wallstreetcn.com/articles/3775177",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时35分"
+        },
+        {
           "title": "据伊朗国家媒体：伊朗谈判团队一名成员表示，关于伊朗被冻结资金释放的执行程序已经启动，卡塔尔代表团参与其中。",
           "url": "https://flash.jin10.com/detail/20260622003814040800",
           "source": "金十数据",
@@ -943,6 +993,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时22分"
+        },
+        {
+          "title": "伊朗总统佩泽希齐扬将率团访问巴基斯坦",
+          "url": "https://wallstreetcn.com/livenews/3122907",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时35分"
         },
         {
           "title": "据伊朗国家媒体：伊朗谈判团队一名成员表示，如果黎巴嫩的战争无法结束，那么关于其他议题的谈判将不会进行。",
@@ -998,6 +1059,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时07分"
+        },
+        {
+          "title": "伊朗总统佩泽希齐扬将率团访问巴基斯坦",
+          "url": "https://flash.jin10.com/detail/20260622220603259800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时35分"
         },
         {
           "title": "伊朗议会议长卡利巴夫：我们对美方的威胁毫不在意。他们最好管好自己的言辞，我们的武装力量已做好准备，将以另一种方式予以回应。无论他们说什么，真正采取行动的是我们。",
@@ -1088,6 +1160,17 @@
           "time_info": "07时04分"
         },
         {
+          "title": "美财政部放宽对伊朗能源相关交易限制",
+          "url": "https://wallstreetcn.com/livenews/3122896",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时35分"
+        },
+        {
           "title": "布油、WTI原油期货周一亚洲盘初上涨逾2%，此前，特朗普的最新威胁激怒伊朗。",
           "url": "https://wallstreetcn.com/livenews/3122396",
           "source": "华尔街见闻-快讯",
@@ -1110,6 +1193,17 @@
           "time_info": "07时04分"
         },
         {
+          "title": "巴基斯坦政府：伊朗总统将于6月23日访问巴基斯坦。",
+          "url": "https://flash.jin10.com/detail/20260622215950483800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时35分"
+        },
+        {
           "title": "据黎巴嫩电视台Al-Mayadeen：伊朗代表团不会重返谈判，除非特朗普为其威胁道歉，并且以色列从黎巴嫩南部撤军。",
           "url": "https://flash.jin10.com/detail/20260622015926521800",
           "source": "金十数据",
@@ -1119,6 +1213,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时20分"
+        },
+        {
+          "title": "伊朗外交部：伊美将继续在专家和技术层面磋商",
+          "url": "https://wallstreetcn.com/livenews/3122890",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时35分"
         },
         {
           "title": "据Axios记者：一名美国官员称，伊朗代表此前已同意在会议开始时安排媒体简报活动。“他们甚至带来了本国国家媒体进行报道，这些媒体已在活动现场提前就位。但尽管如此，他们在看到现场媒体数量后仍离开了会议，随后通过国家媒体发布了对情况的不准确描述，”该美方官员称。",
@@ -1149,7 +1254,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时58分"
         },
@@ -1259,7 +1364,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时58分"
         },
@@ -1297,6 +1402,17 @@
           "time_info": "01时22分"
         },
         {
+          "title": "伊朗向中方通报伊美谈判最新情况",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%90%91%E4%B8%AD%E6%96%B9%E9%80%9A%E6%8A%A5%E4%BC%8A%E7%BE%8E%E8%B0%88%E5%88%A4%E6%9C%80%E6%96%B0%E6%83%85%E5%86%B5",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时35分"
+        },
+        {
           "title": "伊朗总统：不会制造核武器 不会放弃铀浓缩权利",
           "url": "https://wallstreetcn.com/livenews/3122333",
           "source": "华尔街见闻-快讯",
@@ -1311,7 +1427,7 @@
     },
     {
       "keyword_group": "科技",
-      "match_count": 13,
+      "match_count": 17,
       "titles": [
         {
           "title": "知名基金经理最新调仓显现，医药分歧扩大，硬科技、电网获增持",
@@ -1384,6 +1500,17 @@
           "time_info": "[01时21分 ~ 07时04分]"
         },
         {
+          "title": "罕见券商股与科技股共振，这一波行情或许不同？",
+          "url": "https://www.cls.cn/detail/2405663",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时35分"
+        },
+        {
           "title": "环球下周看点：美伊谈判进入二阶段博弈 美光科技发布财报",
           "url": "https://www.cls.cn/detail/2404712",
           "source": "财联社热门",
@@ -1393,6 +1520,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时21分 ~ 07时04分]"
+        },
+        {
+          "title": "美股盘初，主要行业ETF多数上涨，生物科技指数ETF、科技行业ETF、半导体ETF均涨超1%。",
+          "url": "https://wallstreetcn.com/livenews/3122908",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时35分"
         },
         {
           "title": "香港恒生指数跌幅扩大至1.86%，恒生科技指数跌1.53%。智谱涨超30%。",
@@ -1406,15 +1544,37 @@
           "time_info": "10时59分"
         },
         {
+          "title": "美股期指小幅上涨 美光科技盘前涨超4% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2405983",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时35分"
+        },
+        {
           "title": "通威股份：向全资子公司通威太阳能科技增资50.6亿元",
           "url": "https://wallstreetcn.com/livenews/3122678",
           "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时58分"
+        },
+        {
+          "title": "兴业科技：拟收购磷化铟业务预计2026年收入占2025年收入比例极小，对当期营收和净利润影响极小",
+          "url": "https://flash.jin10.com/detail/20260622220700176800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时35分"
         },
         {
           "title": "香港恒生指数开盘跌0.47%，恒生科技指数跌0.2%。",
@@ -1434,7 +1594,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时58分"
         },
@@ -1456,7 +1616,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时58分"
         }
@@ -1464,7 +1624,7 @@
     },
     {
       "keyword_group": "金融",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "三部门： 稳步提升金融业开放水平",
@@ -1482,11 +1642,23 @@
           "url": "https://wallstreetcn.com/articles/3775154",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时57分 ~ 16时58分]"
+          "appearance_count": 3,
+          "time_info": "[16时57分 ~ 22时35分]"
+        },
+        {
+          "title": "【每日收评】创业板指大涨2.52%，大金融板块集体爆发，两市成交额创历史第二大量",
+          "url": "https://www.cls.cn/detail/2405667",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时35分"
         },
         {
           "title": "韩国金融监管机构负责人后悔让三星、SK海力士杠杆ETF上线",
@@ -1495,9 +1667,59 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时58分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "消费",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "消费龙头们跨界半导体、算力赛道 多家公司出现股价异动",
+          "url": "https://www.cls.cn/detail/2404619",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时21分 ~ 07时04分]"
+        },
+        {
+          "title": "欧元区6月消费者信心指数初值 -17.7，前值 -19。",
+          "url": "https://wallstreetcn.com/livenews/3122909",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时35分"
+        },
+        {
+          "title": "欧元区6月消费者信心指数初值 -17.7，预期-17.5，前值-19。",
+          "url": "https://flash.jin10.com/detail/20260622220210702800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时35分"
+        },
+        {
+          "title": "欧元区6月消费者信心指数初值将于十分钟后公布。",
+          "url": "https://flash.jin10.com/detail/20260622215000001800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时35分"
         }
       ]
     },
@@ -1530,6 +1752,34 @@
       ]
     },
     {
+      "keyword_group": "深圳",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "2026年APEC中小企业工商论坛将在深圳开幕",
+          "url": "https://flash.jin10.com/detail/20260622220440218800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时35分"
+        },
+        {
+          "title": "据港交所文件：盯盯拍（深圳）技术股份有限公司向港交所提交上市申请书。",
+          "url": "https://flash.jin10.com/detail/20260622215240056800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时35分"
+        }
+      ]
+    },
+    {
       "keyword_group": "金价",
       "match_count": 2,
       "titles": [
@@ -1558,19 +1808,36 @@
       ]
     },
     {
-      "keyword_group": "消费",
+      "keyword_group": "制造业",
       "match_count": 1,
       "titles": [
         {
-          "title": "消费龙头们跨界半导体、算力赛道 多家公司出现股价异动",
-          "url": "https://www.cls.cn/detail/2404619",
+          "title": "李强：要大力发展高端装备制造业，加快建设现代化产业体系",
+          "url": "https://www.cls.cn/detail/2405926",
           "source": "财联社热门",
           "ranks": [
-            2
+            3
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时21分 ~ 07时04分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时35分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "谷歌公司对电影工作室“Backrooms”Stuido A24投资大约0.75亿美元。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3122906",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时35分"
         }
       ]
     },
@@ -1589,6 +1856,23 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时21分 ~ 07时04分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美元指数DXY短线下挫约15点，报100.97。",
+          "url": "https://flash.jin10.com/detail/20260622221300744800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时35分"
         }
       ]
     },
