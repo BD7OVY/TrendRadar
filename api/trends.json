@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-23T14:43:08.866826+08:00",
-  "total_titles_processed": 916,
+  "generated_at": "2026-06-23T18:32:09.981373+08:00",
+  "total_titles_processed": 1134,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 58,
+      "match_count": 65,
       "titles": [
         {
           "title": "伊朗谈判团队称伊美谈判达成5项要点",
@@ -20,6 +20,21 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[02时43分 ~ 14时43分]"
+        },
+        {
+          "title": "比利时0-0伊朗",
+          "url": "https://search.bilibili.com/all?keyword=%E6%AF%94%E5%88%A9%E6%97%B60-0%E4%BC%8A%E6%9C%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            17,
+            19,
+            15,
+            22,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[02时43分 ~ 18时32分]"
         },
         {
           "title": "美伊艰难谈判：万斯称“取得巨大进展”，特朗普威胁“谈不好就炸”，伊朗强硬“合照不拍，抗议离场”",
@@ -70,6 +85,17 @@
           "time_info": "[02时43分 ~ 07时15分]"
         },
         {
+          "title": "伊朗公布首批解冻资金用途",
+          "url": "https://news.ifeng.com/c/8uBeuEEfSWu",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时42分 ~ 18时32分]"
+        },
+        {
           "title": "伊朗的抗争是否在实际意义上阻止了第三次世界大战的爆发？",
           "url": "https://www.zhihu.com/question/2050890957483202069",
           "source": "知乎",
@@ -78,20 +104,6 @@
             12,
             10,
             11
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时43分 ~ 14时43分]"
-        },
-        {
-          "title": "比利时0-0伊朗",
-          "url": "https://search.bilibili.com/all?keyword=%E6%AF%94%E5%88%A9%E6%97%B60-0%E4%BC%8A%E6%9C%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            17,
-            19,
-            15,
-            22
           ],
           "is_new": false,
           "appearance_count": 8,
@@ -118,17 +130,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时14分 ~ 10时34分]"
-        },
-        {
-          "title": "伊朗公布首批解冻资金用途",
-          "url": "https://news.ifeng.com/c/8uBeuEEfSWu",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时42分 ~ 14时43分]"
         },
         {
           "title": "顽强战平比利时队，伊朗议长、外长发图致敬球队",
@@ -312,6 +313,17 @@
           "time_info": "02时43分"
         },
         {
+          "title": "伊朗称将继续追究参与侵略伊朗者的责任",
+          "url": "https://flash.jin10.com/detail/20260623181400763800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时32分"
+        },
+        {
           "title": "伊朗议长：伊美应共同保障黎巴嫩领土完整",
           "url": "https://wallstreetcn.com/livenews/3123030",
           "source": "华尔街见闻-快讯",
@@ -439,7 +451,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时43分"
         },
@@ -488,6 +500,28 @@
           "time_info": "02时43分"
         },
         {
+          "title": "伊朗：近期通过海峡运输了大量石油。",
+          "url": "https://wallstreetcn.com/livenews/3123346",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时32分"
+        },
+        {
+          "title": "伊朗称霍尔木兹海峡对商船完全开放。（ISNA）",
+          "url": "https://wallstreetcn.com/livenews/3123343",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时32分"
+        },
+        {
           "title": "当足球穿过战争阴霾：伊朗队的世界杯坎坷之路",
           "url": "https://m.thepaper.cn/newsDetail_forward_33421321",
           "source": "澎湃新闻",
@@ -516,7 +550,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时43分"
         },
@@ -543,6 +577,17 @@
           "time_info": "07时15分"
         },
         {
+          "title": "丹麦驻伊朗大使馆重新开放",
+          "url": "https://wallstreetcn.com/livenews/3123333",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时32分"
+        },
+        {
           "title": "特朗普称伊朗将同意接受重大武器核查",
           "url": "https://wallstreetcn.com/livenews/3122966",
           "source": "华尔街见闻-快讯",
@@ -552,6 +597,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时43分"
+        },
+        {
+          "title": "伊朗称在卢比奥海湾之行前120亿美元将解冻",
+          "url": "https://wallstreetcn.com/livenews/3123332",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时32分"
         },
         {
           "title": "美国副总统万斯：必须让检查员进入伊朗核设施。",
@@ -631,6 +687,17 @@
           "time_info": "02时43分"
         },
         {
+          "title": "伊朗外交部发言人：伊朗导弹计划从未纳入谈判范围。",
+          "url": "https://wallstreetcn.com/livenews/3123329",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时32分"
+        },
+        {
           "title": "特朗普：伊朗被冻结资金将用于购买美国农产品，必要时可重新封锁海峡",
           "url": "https://wallstreetcn.com/livenews/3123007",
           "source": "华尔街见闻-快讯",
@@ -659,16 +726,38 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时43分"
+        },
+        {
+          "title": "伊朗称导弹和国防不会成为谈判议题",
+          "url": "https://wallstreetcn.com/livenews/3123321",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时32分"
         }
       ]
     },
     {
       "keyword_group": "科技",
-      "match_count": 23,
+      "match_count": 25,
       "titles": [
+        {
+          "title": "科技巨头下挫拖累美股大盘，芯片股指新高，原油转跌，美债收益率“补涨”",
+          "url": "https://wallstreetcn.com/articles/3775156",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时34分 ~ 18时32分]"
+        },
         {
           "title": "罕见券商股与科技股共振，这一波行情或许不同？",
           "url": "https://www.cls.cn/detail/2405663",
@@ -681,17 +770,6 @@
           "time_info": "[02时43分 ~ 07时15分]"
         },
         {
-          "title": "科技巨头下挫拖累美股大盘，芯片股指新高，原油转跌，美债收益率“补涨”",
-          "url": "https://wallstreetcn.com/articles/3775156",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时34分 ~ 14时43分]"
-        },
-        {
           "title": "科技巨头下挫拖累美股大盘，芯片股指、小盘股指逆市新高，原油高开走跌，美债收益率“补涨”",
           "url": "https://wallstreetcn.com/articles/3775156",
           "source": "华尔街见闻",
@@ -701,6 +779,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时14分 ~ 07时15分]"
+        },
+        {
+          "title": "科技热潮降温 ，全球股市“黑色星期二”，纳指期货跌2%，美光盘前跌超10%，韩股收跌10%，现货黄金失守4100",
+          "url": "https://wallstreetcn.com/articles/3775262",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时31分 ~ 18时32分]"
         },
         {
           "title": "美股期指小幅上涨 美光科技盘前涨超4% | 今夜看点",
@@ -733,7 +822,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时43分"
         },
@@ -766,7 +855,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时43分"
         },
@@ -782,13 +871,24 @@
           "time_info": "[14时42分 ~ 14时43分]"
         },
         {
+          "title": "这轮科技牛市走到头了吗",
+          "url": "https://www.toutiao.com/trending/7654516652532354623/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时31分 ~ 18时32分]"
+        },
+        {
           "title": "韩国和日本股市因科技股大幅抛售而下跌",
           "url": "https://flash.jin10.com/detail/20260623142319115800",
           "source": "金十数据",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时43分"
         },
@@ -832,7 +932,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时43分"
         },
@@ -843,7 +943,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时43分"
         },
@@ -887,7 +987,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时43分"
         },
@@ -920,7 +1020,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时43分"
         }
@@ -928,7 +1028,7 @@
     },
     {
       "keyword_group": "金融",
-      "match_count": 4,
+      "match_count": 7,
       "titles": [
         {
           "title": "沪指涨近2%，全市场成交额历史第二，培育钻石飙升，大金融崛起，恒科指跌超1%，智谱暴涨15%市值破万亿港元",
@@ -943,6 +1043,17 @@
           "time_info": "[02时43分 ~ 14时43分]"
         },
         {
+          "title": "中国央行等印发《关于进一步加强金融支持妇女就业发展的实施意见》",
+          "url": "https://wallstreetcn.com/livenews/3123370",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时32分"
+        },
+        {
           "title": "【每日收评】创业板指大涨2.52%，大金融板块集体爆发，两市成交额创历史第二大量",
           "url": "https://www.cls.cn/detail/2405667",
           "source": "财联社热门",
@@ -952,6 +1063,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时43分 ~ 05时30分]"
+        },
+        {
+          "title": "创业板跌逾3%，算力硬件、有色金属重挫，创新药、大金融拉升，港股“大模型双雄”大跌",
+          "url": "https://wallstreetcn.com/articles/3775254",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时31分 ~ 18时32分]"
         },
         {
           "title": "金融法草案首次提请全国人大常委会会议审议",
@@ -974,12 +1096,84 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时30分"
+        },
+        {
+          "title": "央行等三部门印发《关于进一步加强金融支持妇女就业发展的实施意见》",
+          "url": "https://flash.jin10.com/detail/20260623180240662800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时32分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "消费",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "韩国6月消费者信心指数 106.6，前值106.1。",
+          "url": "https://flash.jin10.com/detail/20260623050002153800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时30分"
+        },
+        {
+          "title": "网红卤菜店生客消费要看身份证",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BD%91%E7%BA%A2%E5%8D%A4%E8%8F%9C%E5%BA%97%E7%94%9F%E5%AE%A2%E6%B6%88%E8%B4%B9%E8%A6%81%E7%9C%8B%E8%BA%AB%E4%BB%BD%E8%AF%81%23&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时31分 ~ 18时32分]"
+        },
+        {
+          "title": "华为宣布对智驾系统进行「兜底」，此举将对智能驾驶行业和消费者带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2052658991981973630",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时31分 ~ 18时32分]"
+        },
+        {
+          "title": "40城将迎汽车消费大变化",
+          "url": "https://www.baidu.com/s?wd=40%E5%9F%8E%E5%B0%86%E8%BF%8E%E6%B1%BD%E8%BD%A6%E6%B6%88%E8%B4%B9%E5%A4%A7%E5%8F%98%E5%8C%96",
+          "source": "百度热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时31分 ~ 18时32分]"
+        },
+        {
+          "title": "商务部等8部门：公布40个汽车流通消费改革试点城市",
+          "url": "https://wallstreetcn.com/livenews/3123202",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时43分"
         }
       ]
     },
     {
       "keyword_group": "金价",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "【早报】SpaceX三日暴跌23%；油价下挫、金价收涨；梅西梅开二度，加冕世界杯历史射手王",
@@ -1000,8 +1194,19 @@
             10
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时42分 ~ 18时32分]"
+        },
+        {
+          "title": "金价狂泻30%",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E7%8B%82%E6%B3%BB30%25%23&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时42分 ~ 14时43分]"
+          "time_info": "[18时31分 ~ 18时32分]"
         },
         {
           "title": "国际金价“高台跳水” 金饰价格降了",
@@ -1029,7 +1234,7 @@
     },
     {
       "keyword_group": "资源",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "港股有色金属股持续走低，洛阳钼业(03993.HK)、江西铜业股份(00358.HK)跌超6%，五矿资源(01208.HK)跌超5%，金力永磁(06680.HK)跌超4%。",
@@ -1047,11 +1252,12 @@
           "url": "https://www.zhihu.com/question/2049458434265855778",
           "source": "知乎",
           "ranks": [
-            15
+            15,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时42分 ~ 14时43分]"
+          "appearance_count": 4,
+          "time_info": "[14时42分 ~ 18时32分]"
         },
         {
           "title": "李登科聊迪丽热巴杨紫没有电影资源",
@@ -1063,6 +1269,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时34分"
+        },
+        {
+          "title": "自然资源部与中国气象局6月23日18时联合发布橙色地质灾害气象风险预警",
+          "url": "https://flash.jin10.com/detail/20260623180014552800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时32分"
         }
       ]
     },
@@ -1142,34 +1359,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时30分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "消费",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "韩国6月消费者信心指数 106.6，前值106.1。",
-          "url": "https://flash.jin10.com/detail/20260623050002153800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时30分"
-        },
-        {
-          "title": "商务部等8部门：公布40个汽车流通消费改革试点城市",
-          "url": "https://wallstreetcn.com/livenews/3123202",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时43分"
         }
       ]
     },
