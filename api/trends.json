@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-23T07:15:12.704810+08:00",
-  "total_titles_processed": 503,
+  "generated_at": "2026-06-23T10:34:23.410039+08:00",
+  "total_titles_processed": 695,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 46,
+      "match_count": 52,
       "titles": [
         {
           "title": "美伊艰难谈判：万斯称“取得巨大进展”，特朗普威胁“谈不好就炸”，伊朗强硬“合照不拍，抗议离场”",
@@ -31,6 +31,20 @@
           "time_info": "[02时43分 ~ 07时15分]"
         },
         {
+          "title": "如何看待伊朗队在洛杉矶更衣室留下的感谢信？",
+          "url": "https://www.zhihu.com/question/2052442119843701055",
+          "source": "知乎",
+          "ranks": [
+            8,
+            3,
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[02时43分 ~ 10时34分]"
+        },
+        {
           "title": "伊媒：伊朗代表团拒绝继续在瑞士进行伊美谈判",
           "url": "https://m.thepaper.cn/newsDetail_forward_33426063",
           "source": "澎湃新闻",
@@ -42,29 +56,17 @@
           "time_info": "[02时43分 ~ 07时15分]"
         },
         {
-          "title": "如何看待伊朗队在洛杉矶更衣室留下的感谢信？",
-          "url": "https://www.zhihu.com/question/2052442119843701055",
-          "source": "知乎",
-          "ranks": [
-            8,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时43分 ~ 07时15分]"
-        },
-        {
           "title": "伊朗谈判团队称伊美谈判达成5项要点",
           "url": "https://wallstreetcn.com/articles/3775177",
           "source": "华尔街见闻",
           "ranks": [
             6,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时43分 ~ 07时15分]"
+          "appearance_count": 6,
+          "time_info": "[02时43分 ~ 10时34分]"
         },
         {
           "title": "伊朗公布哈梅内伊葬礼安排",
@@ -85,8 +87,35 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时14分 ~ 07时15分]"
+          "appearance_count": 3,
+          "time_info": "[07时14分 ~ 10时34分]"
+        },
+        {
+          "title": "伊朗的抗争是否在实际意义上阻止了第三次世界大战的爆发？",
+          "url": "https://www.zhihu.com/question/2050890957483202069",
+          "source": "知乎",
+          "ranks": [
+            20,
+            12,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[02时43分 ~ 10时34分]"
+        },
+        {
+          "title": "比利时0-0伊朗",
+          "url": "https://search.bilibili.com/all?keyword=%E6%AF%94%E5%88%A9%E6%97%B60-0%E4%BC%8A%E6%9C%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            17,
+            19,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[02时43分 ~ 10时34分]"
         },
         {
           "title": "万斯否认被伊朗高级官员冷落",
@@ -155,24 +184,22 @@
           "time_info": "05时30分"
         },
         {
+          "title": "美总统称若伊朗不遵守协议将采取必要行动",
+          "url": "https://wallstreetcn.com/livenews/3123124",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
+        },
+        {
           "title": "头条世界杯｜贝兰万德封神！坚硬的不是球门，是这支伊朗的命",
           "url": "https://m.thepaper.cn/newsDetail_forward_33426003",
           "source": "澎湃新闻",
           "ranks": [
             9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时43分 ~ 07时15分]"
-        },
-        {
-          "title": "伊朗的抗争是否在实际意义上阻止了第三次世界大战的爆发？",
-          "url": "https://www.zhihu.com/question/2050890957483202069",
-          "source": "知乎",
-          "ranks": [
-            20,
-            12,
-            10
           ],
           "is_new": false,
           "appearance_count": 5,
@@ -192,18 +219,6 @@
           "time_info": "[02时43分 ~ 07时15分]"
         },
         {
-          "title": "比利时0-0伊朗",
-          "url": "https://search.bilibili.com/all?keyword=%E6%AF%94%E5%88%A9%E6%97%B60-0%E4%BC%8A%E6%9C%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            17,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时43分 ~ 07时15分]"
-        },
-        {
           "title": "伊朗代表团暂停伊美谈判，抗议特朗普威胁言论",
           "url": "https://m.thepaper.cn/newsDetail_forward_33425956",
           "source": "澎湃新闻",
@@ -213,6 +228,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时43分 ~ 05时30分]"
+        },
+        {
+          "title": "特朗普威胁伊朗,美伊谈判暂停",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355324&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E5%A8%81%E8%83%81%E4%BC%8A%E6%9C%97%2C%E7%BE%8E%E4%BC%8A%E8%B0%88%E5%88%A4%E6%9A%82%E5%81%9C",
+          "source": "贴吧",
+          "ranks": [
+            6,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时14分 ~ 10时34分]"
         },
         {
           "title": "伊朗向中方通报伊美谈判最新情况",
@@ -227,26 +254,16 @@
           "time_info": "[02时43分 ~ 05时30分]"
         },
         {
-          "title": "特朗普威胁伊朗,美伊谈判暂停",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355324&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E5%A8%81%E8%83%81%E4%BC%8A%E6%9C%97%2C%E7%BE%8E%E4%BC%8A%E8%B0%88%E5%88%A4%E6%9A%82%E5%81%9C",
-          "source": "贴吧",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时14分 ~ 07时15分]"
-        },
-        {
           "title": "日企掏钱,伊朗白捡三千亿",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355283&amp;topic_name=%E6%97%A5%E4%BC%81%E6%8E%8F%E9%92%B1%2C%E4%BC%8A%E6%9C%97%E7%99%BD%E6%8D%A1%E4%B8%89%E5%8D%83%E4%BA%BF",
           "source": "贴吧",
           "ranks": [
-            20
+            20,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时14分 ~ 07时15分]"
+          "appearance_count": 3,
+          "time_info": "[07时14分 ~ 10时34分]"
         },
         {
           "title": "伊朗将在已故最高领袖葬礼期间实施航班管制",
@@ -271,6 +288,28 @@
           "time_info": "05时30分"
         },
         {
+          "title": "伊朗总统致敬伊朗国家队",
+          "url": "https://www.toutiao.com/trending/7654016350054613011/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
+        },
+        {
+          "title": "伊朗世界杯特种兵式参赛",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E6%9C%97%E4%B8%96%E7%95%8C%E6%9D%AF%E7%89%B9%E7%A7%8D%E5%85%B5%E5%BC%8F%E5%8F%82%E8%B5%9B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
+        },
+        {
           "title": "据Newsweek：特朗普的前盟友、美国知名保守派媒体人塔克·卡尔森宣布与共和党决裂。他的这一举动表明，随着伊朗战争和美以政策成为共和党内部辩论的焦点，右翼内部的分裂正在加深。",
           "url": "https://flash.jin10.com/detail/20260623022102004800",
           "source": "金十数据",
@@ -288,7 +327,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
         },
@@ -310,7 +349,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
         },
@@ -321,7 +360,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
         },
@@ -348,13 +387,24 @@
           "time_info": "05时30分"
         },
         {
+          "title": "美总统称若伊朗不遵守协议将采取必要行动",
+          "url": "https://flash.jin10.com/detail/20260623095835566800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
+        },
+        {
           "title": "伊朗原油重返市场预期升温 油价回归平静",
           "url": "https://flash.jin10.com/detail/20260623063758383800",
           "source": "金十数据",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
         },
@@ -392,6 +442,17 @@
           "time_info": "02时43分"
         },
         {
+          "title": "当足球穿过战争阴霾：伊朗队的世界杯坎坷之路",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33421321",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
+        },
+        {
           "title": "美国副总统万斯：如果没有进展，伊朗的资金不会被解冻。",
           "url": "https://flash.jin10.com/detail/20260623014054479800",
           "source": "金十数据",
@@ -420,7 +481,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
         },
@@ -453,7 +514,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
         },
@@ -486,9 +547,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
+        },
+        {
+          "title": "日本财务大臣片山皋月：周一已与美国财长贝森特通话。 重申美日有关外汇的协议。 通话还提及霍尔木兹海峡和伊朗。",
+          "url": "https://wallstreetcn.com/livenews/3123091",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
         },
         {
           "title": "美国副总统万斯：（谈伊朗）对我们取得的进展感到非常满意。建立机制确保霍尔木兹通道保持开放。",
@@ -519,7 +591,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
         }
@@ -527,7 +599,7 @@
     },
     {
       "keyword_group": "科技",
-      "match_count": 8,
+      "match_count": 15,
       "titles": [
         {
           "title": "罕见券商股与科技股共振，这一波行情或许不同？",
@@ -552,16 +624,83 @@
           "time_info": "[07时14分 ~ 07时15分]"
         },
         {
+          "title": "科技巨头下挫拖累美股大盘，芯片股指新高，原油转跌，美债收益率“补涨”",
+          "url": "https://wallstreetcn.com/articles/3775156",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
+        },
+        {
           "title": "美股期指小幅上涨 美光科技盘前涨超4% | 今夜看点",
           "url": "https://www.cls.cn/detail/2405983",
           "source": "财联社热门",
           "ranks": [
             10,
-            9
+            9,
+            13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时43分 ~ 07时15分]"
+          "appearance_count": 6,
+          "time_info": "[02时43分 ~ 10时34分]"
+        },
+        {
+          "title": "恒生科技指数跌超1%，恒生指数跌0.36%。",
+          "url": "https://flash.jin10.com/detail/20260623100411521800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
+        },
+        {
+          "title": "机器人概念股异动拉升，巨轮智能直线涨停，方正电机、联诚精密此前封板，国民技术、万通液压、华是科技、拓斯达、金道科技跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3123128",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
+        },
+        {
+          "title": "港股人工智能板块走低，智谱跌超13%，曦智科技-P、群核科技跌超7%，MINIMAX-W跌超6%，澜起科技、兆易创新跌超5%。",
+          "url": "https://wallstreetcn.com/livenews/3123126",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
+        },
+        {
+          "title": "港股人工智能股持续走低，智谱(02513.HK)跌超11%，曦智科技-P(01879.HK)、群核科技(00068.HK)、MINIMAX-W(00100.HK)均跌超7%，澜起科技(06809.HK)、兆易创新(03986.HK)跌超6%。",
+          "url": "https://flash.jin10.com/detail/20260623095648574800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
+        },
+        {
+          "title": "液冷概念股开盘活跃，英维克、大元泵业、康盛股份、金富科技涨停，高澜股份涨超18%，飞龙股份、强瑞技术、川环科技、淳中科技、佳力图、新朋股份纷纷高开，消息上，英伟达发文详细介绍了即将量产的Vera Rubin平台所使用的45℃全面液冷技术，表示其帮助AI数据中心大幅降低能耗，并称Rubin是全球首个实现100%液冷的AI计算平台。",
+          "url": "https://wallstreetcn.com/livenews/3123106",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
         },
         {
           "title": "标普500指数的11个板块中，电信板块收跌3.83%，可选消费板块跌2.33%，信息技术/科技板块跌0.04%，能源板块涨1.24%，房地产板块涨1.38%。",
@@ -586,13 +725,24 @@
           "time_info": "05时30分"
         },
         {
+          "title": "香港恒生指数开盘涨0.13%，恒生科技指数涨0.04%。",
+          "url": "https://wallstreetcn.com/livenews/3123099",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
+        },
+        {
           "title": "科技链从“数字”升级为“数智”，第四届链博会折射AI产业重心跃迁",
           "url": "https://wallstreetcn.com/livenews/3123050",
           "source": "华尔街见闻-快讯",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
         },
@@ -622,7 +772,7 @@
     },
     {
       "keyword_group": "金融",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "沪指涨近2%，全市场成交额历史第二，培育钻石飙升，大金融崛起，恒科指跌超1%，智谱暴涨15%市值破万亿港元",
@@ -633,8 +783,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时43分 ~ 07时15分]"
+          "appearance_count": 6,
+          "time_info": "[02时43分 ~ 10时34分]"
         },
         {
           "title": "【每日收评】创业板指大涨2.52%，大金融板块集体爆发，两市成交额创历史第二大量",
@@ -646,6 +796,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时43分 ~ 05时30分]"
+        },
+        {
+          "title": "金融法草案首次提请全国人大常委会会议审议",
+          "url": "https://wallstreetcn.com/livenews/3123115",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
         },
         {
           "title": "美联储主席沃什将于7月14日美国东部时间上午（北京时间晚上）10点，在众议院金融服务委员会作证。",
@@ -662,7 +823,7 @@
     },
     {
       "keyword_group": "制造业",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "李强：要大力发展高端装备制造业，加快建设现代化产业体系",
@@ -672,8 +833,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时43分 ~ 07时15分]"
+          "appearance_count": 6,
+          "time_info": "[02时43分 ~ 10时34分]"
         },
         {
           "title": "澳大利亚6月标普全球制造业PMI初值 51.2，前值50.7。",
@@ -682,16 +843,38 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
+        },
+        {
+          "title": "日本6月制造业PMI初值 54.9，前值 54.5。",
+          "url": "https://wallstreetcn.com/livenews/3123087",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "OpenAI、Anthropic左右开弓挖人 谷歌遭遇近一年最惨一跌",
+          "url": "https://www.cls.cn/detail/2406155",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
+        },
         {
           "title": "谷歌Deepmind与24A构建研究领域的合作伙伴。 谷歌公司已经投资该公司。",
           "url": "https://wallstreetcn.com/livenews/3122970",
@@ -713,6 +896,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时30分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "资源",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "港股有色金属股持续走低，洛阳钼业(03993.HK)、江西铜业股份(00358.HK)跌超6%，五矿资源(01208.HK)跌超5%，金力永磁(06680.HK)跌超4%。",
+          "url": "https://flash.jin10.com/detail/20260623100339300800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
+        },
+        {
+          "title": "李登科聊迪丽热巴杨紫没有电影资源",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%99%BB%E7%A7%91%E8%81%8A%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E6%9D%A8%E7%B4%AB%E6%B2%A1%E6%9C%89%E7%94%B5%E5%BD%B1%E8%B5%84%E6%BA%90%23&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
         }
       ]
     },
@@ -741,6 +952,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时30分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "【早报】SpaceX三日暴跌23%；油价下挫、金价收涨；梅西梅开二度，加冕世界杯历史射手王",
+          "url": "https://www.cls.cn/detail/2406212",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
+        },
+        {
+          "title": "金价暴跌黄金该买还是该卖",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E6%9A%B4%E8%B7%8C%E9%BB%84%E9%87%91%E8%AF%A5%E4%B9%B0%E8%BF%98%E6%98%AF%E8%AF%A5%E5%8D%96",
+          "source": "百度热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
         }
       ]
     },
@@ -786,6 +1025,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时30分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "医药",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "港股药品股多数上涨，山东新华制药股份(00719.HK)涨超21%，海普瑞(09989.HK)涨超11%，英矽智能(03696.HK)涨超6%，恒瑞医药(01276.HK)涨超5%。",
+          "url": "https://flash.jin10.com/detail/20260623095520286800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时34分"
         }
       ]
     }
