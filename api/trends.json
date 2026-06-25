@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-25T12:58:57.109294+08:00",
-  "total_titles_processed": 948,
+  "generated_at": "2026-06-25T16:23:32.263186+08:00",
+  "total_titles_processed": 1134,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "科技",
-      "match_count": 37,
+      "match_count": 46,
       "titles": [
         {
           "title": "国家国防科技工业局党组成员、副局长卞志刚被查",
@@ -76,8 +76,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时11分 ~ 12时58分]"
+          "appearance_count": 4,
+          "time_info": "[06时11分 ~ 16时23分]"
         },
         {
           "title": "科技股承压，美股指涨跌互现，美债美元齐涨，黄金暴跌，美光盘后暴涨12%",
@@ -113,6 +113,17 @@
           "time_info": "04时31分"
         },
         {
+          "title": "商汤科技正研发新图像模型：代号U1 Pro，内部称将对标OpenAI",
+          "url": "https://wallstreetcn.com/livenews/3124540",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时23分"
+        },
+        {
           "title": "美光科技业绩亮眼 盘后涨近10%",
           "url": "https://flash.jin10.com/detail/20260625041232266800",
           "source": "金十数据",
@@ -122,6 +133,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时31分"
+        },
+        {
+          "title": "香港恒生指数6月25日（周四）收盘下跌335.27点，跌幅1.43%，报23076.91点；<br/>香港恒生科技指数6月25日（周四）收盘下跌73.1点，跌幅1.63%，报4405.92点；<br/>国企指数6月25日（周四）收盘下跌156.59点，跌幅2.02%，报7608.38点；<br/>红筹指数6月25日（周四）收盘下跌61.13点，跌幅1.58%，报3797.03点。",
+          "url": "https://flash.jin10.com/detail/20260625161349828800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时23分"
         },
         {
           "title": "科技股热潮下私募业绩分化，宁泉等就业绩承压向投资人致歉",
@@ -141,9 +163,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时58分"
+        },
+        {
+          "title": "恒生指数收盘跌1.43%，恒生科技指数跌1.63%",
+          "url": "https://wallstreetcn.com/livenews/3124536",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时23分"
         },
         {
           "title": "【每日收评】科创50指数涨近4%，科技赛道全线回暖，半导体芯片产业链领涨",
@@ -176,9 +209,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时58分"
+        },
+        {
+          "title": "港股收评：恒生指数跌1.43%，恒生科技指数跌1.63%",
+          "url": "https://flash.jin10.com/detail/20260625161250257800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时23分"
         },
         {
           "title": "美股期指小幅上涨 科技股反弹迎接美光财报“大考” | 今夜看点",
@@ -269,7 +313,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时58分"
         },
@@ -291,7 +335,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时58分"
         },
@@ -318,6 +362,17 @@
           "time_info": "04时31分"
         },
         {
+          "title": "美股盘前：存储板块大涨，美光科技涨约18%",
+          "url": "https://wallstreetcn.com/livenews/3124530",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时23分"
+        },
+        {
           "title": "美光科技(MU.O)2026财年Q3EPS 24.67美元，市场预期20.42美元，上年同期1.68美元。",
           "url": "https://flash.jin10.com/detail/20260625040310941800",
           "source": "金十数据",
@@ -327,6 +382,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时31分"
+        },
+        {
+          "title": "港股收盘，恒指收跌1.43%，科指收跌1.63%。有色金属股、机器人概念股多数下跌，舜宇光学科技(02382.HK)跌超11%，招金矿业(01818.HK)跌超8%。携程集团-S(09961.HK)绩后跌约11%。",
+          "url": "https://flash.jin10.com/detail/20260625160846853800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时23分"
         },
         {
           "title": "美光科技(MU.O)第四财季营收展望为500亿美元，市场预期为429.15亿美元。",
@@ -379,9 +445,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时58分"
+        },
+        {
+          "title": "美国内存芯片股盘前走强，闪迪(SNDK.O)上涨12.4%，西部数据(WDC.O)上涨12.1%，希捷科技(STX.O)上涨8.7%。",
+          "url": "https://flash.jin10.com/detail/20260625160633975800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时23分"
         },
         {
           "title": "港交所文件显示，安徽华恒生物科技股份有限公司通过港交所上市聆讯。",
@@ -401,9 +478,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时58分"
+        },
+        {
+          "title": "港股算力硬件股继续走强，壁仞科技涨超15%，建滔积层板、国民技术、兆易创新涨超10%，长飞光纤光缆涨超9%。",
+          "url": "https://wallstreetcn.com/livenews/3124513",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时23分"
         },
         {
           "title": "恒生指数主连夜盘收跌0.29%，报23322点。 恒生科技指数主连夜盘收跌0.31%，报4464点。",
@@ -417,13 +505,24 @@
           "time_info": "04时31分"
         },
         {
+          "title": "振芯科技：公司不涉及PCB生产制造",
+          "url": "https://flash.jin10.com/detail/20260625160115662800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时23分"
+        },
+        {
           "title": "瑞银：有迹象表明中国AI科技上行周期逐步接近顶部 但撤离还为时过早",
           "url": "https://wallstreetcn.com/livenews/3124407",
           "source": "华尔街见闻-快讯",
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时58分"
         }
@@ -431,7 +530,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
         {
           "title": "美媒担忧：白宫想用制裁逼伊朗让步，却把人民币“送”上桌",
@@ -480,6 +579,18 @@
           "time_info": "[00时11分 ~ 04时31分]"
         },
         {
+          "title": "美飞行员曝伊朗「创新武器」，简直是外星来的东西，具体情况如何？伊朗无人机研发是什么水平？",
+          "url": "https://www.zhihu.com/question/2053109056487822677",
+          "source": "知乎",
+          "ranks": [
+            12,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时58分 ~ 16时23分]"
+        },
+        {
           "title": "美国总统特朗普：伊朗战争权力投票毫无意义。",
           "url": "https://flash.jin10.com/detail/20260625045743220800",
           "source": "金十数据",
@@ -502,15 +613,15 @@
           "time_info": "00时11分"
         },
         {
-          "title": "美飞行员曝伊朗「创新武器」，简直是外星来的东西，具体情况如何？伊朗无人机研发是什么水平？",
-          "url": "https://www.zhihu.com/question/2053109056487822677",
-          "source": "知乎",
+          "title": "美国国务卿鲁比奥：希望与伊朗的谈判能取得积极成果。 我们并不想不惜一切代价与伊朗达成协议。 霍尔木兹海峡不属于任何国家。 霍尔木兹海峡是国际水道。 对霍尔木兹海峡通行收费将开创不可接受的先例。 特朗普在通行收费问题上的立场一贯明确无误。",
+          "url": "https://wallstreetcn.com/livenews/3124528",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时58分"
+          "time_info": "16时23分"
         },
         {
           "title": "美总统称或无法查明谁袭击了伊朗小学",
@@ -519,7 +630,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时58分"
         },
@@ -533,6 +644,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时31分"
+        },
+        {
+          "title": "世界杯生死战前伊朗队被迫滞留机场",
+          "url": "https://www.toutiao.com/trending/7655006558115512326/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时23分"
         },
         {
           "title": "白宫要求美国国会山围绕伊朗和埃博拉疫情拨款876亿美元。",
@@ -625,6 +747,89 @@
       ]
     },
     {
+      "keyword_group": "金融",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "明晟公司MSCI北欧国家指数大致持平，报384.81点。 在十个板块中，北欧金融板块领跌。 博利登跌3.6%，在一众北欧个股里表现最差。",
+          "url": "https://wallstreetcn.com/livenews/3124138",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时11分"
+        },
+        {
+          "title": "礼邦医药通过在香港的首次公开募股(IPO)筹集了13亿港元。（IFR国际金融评论）",
+          "url": "https://wallstreetcn.com/livenews/3124533",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时23分"
+        },
+        {
+          "title": "6月25日午间收评：科创50指数半日涨超4%，芯片、金融股集体走强",
+          "url": "https://wallstreetcn.com/livenews/3124421",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时58分"
+        },
+        {
+          "title": "欧洲央行：非金融企业信贷资产组合将纳入一般抵押品框架。",
+          "url": "https://flash.jin10.com/detail/20260625160419009800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时23分"
+        },
+        {
+          "title": "Kalshi洽谈按400亿美元估值融资，本轮融资最快可能会在三季度完成。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3124207",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时31分"
+        },
+        {
+          "title": "欧洲央行：欧洲央行将把非金融信用债权投资组合纳入一般抵押品框架，并逐步淘汰临时措施。",
+          "url": "https://flash.jin10.com/detail/20260625160326814800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时23分"
+        },
+        {
+          "title": "直接融资势头超过信贷，金融“脱媒”深化倒逼银行转型",
+          "url": "https://wallstreetcn.com/livenews/3124269",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时02分"
+        }
+      ]
+    },
+    {
       "keyword_group": "消费",
       "match_count": 6,
       "titles": [
@@ -650,9 +855,9 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时58分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时58分 ~ 16时23分]"
         },
         {
           "title": "保护消费者免受数据中心成本影响的美国法案获推进",
@@ -664,6 +869,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时11分"
+        },
+        {
+          "title": "食安科普进超市 辟除谣言理性消费",
+          "url": "https://www.toutiao.com/trending/7655180616992931859/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时58分 ~ 16时23分]"
         },
         {
           "title": "加拿大第一季度汽油消费量创历史新高",
@@ -683,120 +899,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时58分"
-        },
-        {
-          "title": "食安科普进超市 辟除谣言理性消费",
-          "url": "https://www.toutiao.com/trending/7655180616992931859/",
-          "source": "今日头条",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时58分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金融",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "明晟公司MSCI北欧国家指数大致持平，报384.81点。 在十个板块中，北欧金融板块领跌。 博利登跌3.6%，在一众北欧个股里表现最差。",
-          "url": "https://wallstreetcn.com/livenews/3124138",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时11分"
-        },
-        {
-          "title": "6月25日午间收评：科创50指数半日涨超4%，芯片、金融股集体走强",
-          "url": "https://wallstreetcn.com/livenews/3124421",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时58分"
-        },
-        {
-          "title": "Kalshi洽谈按400亿美元估值融资，本轮融资最快可能会在三季度完成。（英国金融时报）",
-          "url": "https://wallstreetcn.com/livenews/3124207",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时31分"
-        },
-        {
-          "title": "直接融资势头超过信贷，金融“脱媒”深化倒逼银行转型",
-          "url": "https://wallstreetcn.com/livenews/3124269",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时02分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "现货黄金价格跌破4000美元大关",
-          "url": "https://www.douyin.com/hot/2546511",
-          "source": "抖音",
-          "ranks": [
-            12,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时11分 ~ 02时29分]"
-        },
-        {
-          "title": "贵金属全线暴跌金价失守4000美元关口 日本大举押注AI与半导体 | 环球市场",
-          "url": "https://www.cls.cn/detail/2408544",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时02分 ~ 12时58分]"
-        },
-        {
-          "title": "金价跌至去年10月水平",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E8%B7%8C%E8%87%B3%E5%8E%BB%E5%B9%B410%E6%9C%88%E6%B0%B4%E5%B9%B3%23&t=31&band_rank=13&Refer=top",
-          "source": "微博",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时58分"
-        },
-        {
-          "title": "现货黄金价格跌破4000美元大关",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33446112",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
           "appearance_count": 1,
           "time_info": "12时58分"
         }
@@ -804,7 +907,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "报道：谷歌另外两名主要的AI员工恐将跳槽至Anthropic",
@@ -816,6 +919,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时29分"
+        },
+        {
+          "title": "谷歌前CEO批中国AI开源",
+          "url": "https://s.weibo.com/weibo?q=%E8%B0%B7%E6%AD%8C%E5%89%8DCEO%E6%89%B9%E4%B8%AD%E5%9B%BDAI%E5%BC%80%E6%BA%90&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时23分"
+        },
+        {
+          "title": "美股AI芯片股盘前涨跌不一，高通(QCOM.O)大涨13%，英特尔(INTC.O)涨近6%，AMD(AMD.O)涨近4%，百度(BIDU.O)跌2%，谷歌(GOOG.O)跌1.4%。",
+          "url": "https://flash.jin10.com/detail/20260625160211701800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时23分"
         },
         {
           "title": "STT与塔塔通信德里数据中心起火：客户担忧数十年数据丢失，谷歌云受波及",
@@ -838,6 +963,70 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时31分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "现货黄金价格跌破4000美元大关",
+          "url": "https://www.douyin.com/hot/2546511",
+          "source": "抖音",
+          "ranks": [
+            12,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时11分 ~ 02时29分]"
+        },
+        {
+          "title": "贵金属全线暴跌金价失守4000美元关口 日本大举押注AI与半导体 | 环球市场",
+          "url": "https://www.cls.cn/detail/2408544",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时02分 ~ 16时23分]"
+        },
+        {
+          "title": "现货黄金价格跌破4000美元大关",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33446112",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时58分 ~ 16时23分]"
+        },
+        {
+          "title": "金价跌至去年10月水平",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E8%B7%8C%E8%87%B3%E5%8E%BB%E5%B9%B410%E6%9C%88%E6%B0%B4%E5%B9%B3%23&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时58分"
+        },
+        {
+          "title": "黄金价格年内下跌超5%",
+          "url": "https://www.toutiao.com/trending/7655161705609039366/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时23分"
         }
       ]
     },
@@ -909,7 +1098,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时58分"
         }
