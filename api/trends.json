@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-29T18:27:54.756058+08:00",
-  "total_titles_processed": 1087,
+  "generated_at": "2026-06-29T22:45:16.697073+08:00",
+  "total_titles_processed": 1286,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 43,
+      "match_count": 47,
       "titles": [
         {
           "title": "特朗普威胁：伊朗或将不复存在；美军连续第二天空袭伊朗，伊朗革命卫队威胁对美军基地发起“地狱”式打击",
@@ -94,11 +94,12 @@
             14,
             15,
             22,
-            27
+            27,
+            30
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时05分 ~ 18时27分]"
+          "appearance_count": 14,
+          "time_info": "[00时05分 ~ 22时45分]"
         },
         {
           "title": "伊朗最后时刻无缘淘汰赛，一图速览世界杯32强",
@@ -136,6 +137,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时05分 ~ 07时00分]"
+        },
+        {
+          "title": "伊朗副外长：本周在多哈进行伊美技术性谈判不属实",
+          "url": "https://news.ifeng.com/c/8uM7iWAJLGu",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时44分 ~ 22时45分]"
         },
         {
           "title": "伊朗锡里克地区传出爆炸声，美军称再对伊实施打击",
@@ -193,7 +205,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时27分"
         },
@@ -204,7 +216,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时27分"
         },
@@ -390,13 +402,24 @@
           "time_info": "08时11分"
         },
         {
+          "title": "阿曼伊朗联合工作组就霍尔木兹海峡问题举行首次会议",
+          "url": "https://wallstreetcn.com/livenews/3126219",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时45分"
+        },
+        {
           "title": "据伊朗塔斯尼姆通讯社：伊朗方面表示与美国在多哈的会谈地点尚未确认。",
           "url": "https://flash.jin10.com/detail/20260629175656558800",
           "source": "金十数据",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时27分"
         },
@@ -418,7 +441,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时27分"
         },
@@ -445,6 +468,17 @@
           "time_info": "00时05分"
         },
         {
+          "title": "美国国务卿鲁比奥和美国总统特使威特科夫今天将向众议院和参议院汇报伊朗局势。（PunchBowl）",
+          "url": "https://wallstreetcn.com/livenews/3126211",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时45分"
+        },
+        {
           "title": "人民日报：伊朗队昂着头告别世界杯",
           "url": "https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%EF%BC%9A%E4%BC%8A%E6%9C%97%E9%98%9F%E6%98%82%E7%9D%80%E5%A4%B4%E5%91%8A%E5%88%AB%E4%B8%96%E7%95%8C%E6%9D%AF",
           "source": "百度热搜",
@@ -462,7 +496,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时27分"
         },
@@ -476,6 +510,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时57分"
+        },
+        {
+          "title": "阿曼伊朗联合工作组就霍尔木兹海峡问题举行首次会议",
+          "url": "https://flash.jin10.com/detail/20260629220503256800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时45分"
         },
         {
           "title": "伊朗外交部长阿拉格齐28日在伊拉克表示，伊美谅解备忘录包括在所有战线停火，尤其是在黎巴嫩，这是美国政府的责任。 他强调，以色列必须停止对黎巴嫩的袭击，并从黎巴嫩被占领土撤军。（新华社）",
@@ -525,7 +570,7 @@
     },
     {
       "keyword_group": "科技",
-      "match_count": 12,
+      "match_count": 18,
       "titles": [
         {
           "title": "专访｜前白宫科技顾问：特朗普政策逆风，难阻美国清洁能源的市场扩张",
@@ -579,6 +624,19 @@
           "time_info": "[02时02分 ~ 07时00分]"
         },
         {
+          "title": "“买券商等于买一篮子打折科技股”交易逻辑发酵，券商股上演价值重估行情",
+          "url": "https://wallstreetcn.com/articles/3775715",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时25分 ~ 22时45分]"
+        },
+        {
           "title": "全球科技股同步回调，券商研报：AI主线地位不改但再平衡需求上升",
           "url": "https://wallstreetcn.com/livenews/3125724",
           "source": "华尔街见闻-快讯",
@@ -591,16 +649,26 @@
           "time_info": "[07时00分 ~ 08时11分]"
         },
         {
-          "title": "“买券商等于买一篮子打折科技股”交易逻辑发酵，券商股上演价值重估行情",
-          "url": "https://wallstreetcn.com/articles/3775715",
-          "source": "华尔街见闻",
+          "title": "特朗普坚称美伊周二会谈 科技板块起势反弹 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2412084",
+          "source": "财联社热门",
           "ranks": [
-            8,
-            5
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时25分 ~ 18时27分]"
+          "time_info": "[22时44分 ~ 22时45分]"
+        },
+        {
+          "title": "裁员12万还不够？美科技白领与AI展开生存赛，学者建议缩短周工时保就业",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33472508",
+          "source": "澎湃新闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时44分 ~ 22时45分]"
         },
         {
           "title": "据港交所文件显示，盛威時代科技股份有限公司向港交所提交上市申请书。",
@@ -623,6 +691,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时00分"
+        },
+        {
+          "title": "费城半导体指数跌幅扩大至2.5%，美光科技(MU.O)、Arm(ARM.O)跌超8%，英特尔(INTC.O)跌7%，迈威尔科技(MRVL.O)跌超5%，英伟达(NVDA.O)跌0.7%。",
+          "url": "https://flash.jin10.com/detail/20260629221452634800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时45分"
         },
         {
           "title": "据港交所文件：盛威時代科技股份有限公司向港交所提交上市申请书。",
@@ -658,6 +737,39 @@
           "time_info": "13时25分"
         },
         {
+          "title": "美光科技股价跌幅扩大至3.5%，闪迪跌超5%。",
+          "url": "https://wallstreetcn.com/livenews/3126205",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时45分"
+        },
+        {
+          "title": "北美科技软件股指数ETF美股盘初涨约2.1%，进入连续第二个交易日反弹，报90.02美元，",
+          "url": "https://wallstreetcn.com/livenews/3126202",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时45分"
+        },
+        {
+          "title": "美股三大指数集体高开，纳指涨0.8%，标普500指数涨0.5%，道指涨0.23%。科技股涨跌不一，英伟达涨0.66%，部分存储概念股走低，美光科技跌超2%，闪迪跌超1%。Strategy涨近5%，此前公司宣布授权10亿美元优先股回购计划。康卡斯特上涨12%，公司计划分拆NBC环球。",
+          "url": "https://wallstreetcn.com/livenews/3126200",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时45分"
+        },
+        {
           "title": "恒生指数涨幅扩大至2%，恒生科技指数现涨3.4%，恒生生物科技指数涨超7%。",
           "url": "https://wallstreetcn.com/livenews/3125842",
           "source": "华尔街见闻-快讯",
@@ -672,8 +784,19 @@
     },
     {
       "keyword_group": "消费",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "龚正市长调研促消费工作，更大力度激发消费活力",
+          "url": "https://wallstreetcn.com/livenews/3126204",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时45分"
+        },
         {
           "title": "6月29日午间收评：创业板指冲高回落跌1.28%，医药、消费股集体走强",
           "url": "https://wallstreetcn.com/livenews/3125848",
@@ -692,7 +815,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时27分"
         },
@@ -703,7 +826,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时27分"
         },
@@ -714,7 +837,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时27分"
         }
@@ -771,22 +894,24 @@
           "ranks": [
             19,
             15,
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时10分 ~ 18时27分]"
+          "appearance_count": 6,
+          "time_info": "[08时10分 ~ 22时45分]"
         },
         {
           "title": "深圳警方：男子造谣“东鹏特饮创始人不喝自家品牌饮料”被刑拘",
           "url": "https://m.thepaper.cn/newsDetail_forward_33475151",
           "source": "澎湃新闻",
           "ranks": [
-            9
+            9,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时27分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时27分 ~ 22时45分]"
         },
         {
           "title": "万科Ａ：5月份公司在深圳等城市的项目来访量、认购量有明显增长",
@@ -830,6 +955,51 @@
       ]
     },
     {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "国际金价跳水",
+          "url": "https://www.douyin.com/hot/2552234",
+          "source": "抖音",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时44分 ~ 22时45分]"
+        },
+        {
+          "title": "PCE只带来喘息，金价修复仍等就业验证",
+          "url": "https://flash.jin10.com/detail/20260629120148011800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时25分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "房价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "房价什么时候能涨",
+          "url": "https://www.toutiao.com/trending/7656790297124277796/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时44分 ~ 22时45分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "资源",
       "match_count": 1,
       "titles": [
@@ -865,19 +1035,19 @@
       ]
     },
     {
-      "keyword_group": "金价",
+      "keyword_group": "探险",
       "match_count": 1,
       "titles": [
         {
-          "title": "PCE只带来喘息，金价修复仍等就业验证",
-          "url": "https://flash.jin10.com/detail/20260629120148011800",
-          "source": "金十数据",
+          "title": "和平精英夏日探险派对",
+          "url": "https://www.douyin.com/hot/2551808",
+          "source": "抖音",
           "ranks": [
-            27
+            2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时25分"
+          "appearance_count": 2,
+          "time_info": "[22时44分 ~ 22时45分]"
         }
       ]
     }
