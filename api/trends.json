@@ -1,34 +1,12 @@
 {
-  "generated_at": "2026-07-02T05:21:23.348893+08:00",
-  "total_titles_processed": 497,
+  "generated_at": "2026-07-02T07:06:07.772730+08:00",
+  "total_titles_processed": 558,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 19,
+      "match_count": 22,
       "titles": [
-        {
-          "title": "卡塔尔外交大臣：卡塔尔与巴基斯坦调解人今日在多哈分别与美国和伊朗谈判代表举行会晤。",
-          "url": "https://flash.jin10.com/detail/20260702044814695800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时21分"
-        },
-        {
-          "title": "卡塔尔：各方同意推进讨论 下次会晤将在前伊朗最高领袖葬礼后举行",
-          "url": "https://flash.jin10.com/detail/20260702044739454800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时21分"
-        },
         {
           "title": "美国总统特朗普：美国与伊朗关系非常融洽。",
           "url": "https://flash.jin10.com/detail/20260702030012797800",
@@ -52,13 +30,37 @@
           "time_info": "01时09分"
         },
         {
+          "title": "卡塔尔外交大臣：卡塔尔与巴基斯坦调解人今日在多哈分别与美国和伊朗谈判代表举行会晤。",
+          "url": "https://flash.jin10.com/detail/20260702044814695800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时21分 ~ 07时06分]"
+        },
+        {
+          "title": "卡塔尔：各方同意推进讨论 下次会晤将在前伊朗最高领袖葬礼后举行",
+          "url": "https://flash.jin10.com/detail/20260702044739454800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时21分 ~ 07时06分]"
+        },
+        {
           "title": "据纽约时报：美国副总统万斯为特朗普在伊朗相关的战争与谈判立场进行辩护，称美国正在以军事力量作为和平谈判中的重要筹码。他同时表示，特朗普对军方提出的要求明显高于历任前总统。",
           "url": "https://flash.jin10.com/detail/20260702043036201800",
           "source": "金十数据",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时21分"
         },
@@ -107,6 +109,17 @@
           "time_info": "01时09分"
         },
         {
+          "title": "伊朗议会议长：不允许核查人员进入受损核设施",
+          "url": "https://flash.jin10.com/detail/20260702054957594800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时06分"
+        },
+        {
           "title": "报道：伊朗准备向除以色列以外的所有国家出售石油",
           "url": "https://wallstreetcn.com/livenews/3127527",
           "source": "华尔街见闻-快讯",
@@ -116,6 +129,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时09分"
+        },
+        {
+          "title": "伊朗议会议长：不允许核查人员进入受损核设施",
+          "url": "https://wallstreetcn.com/livenews/3127632",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时06分"
         },
         {
           "title": "美国官员：（阐述政府对霍尔木兹海峡的看法）美方评估霍尔木兹海峡约1000万桶石油流量或削弱伊朗石油影响力。",
@@ -149,6 +173,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时09分"
+        },
+        {
+          "title": "据伊拉克安全消息人士称，一架携带爆炸物的无人机袭击了伊拉克埃尔比勒以东地区的一个伊朗库尔德反对组织营地。",
+          "url": "https://flash.jin10.com/detail/20260702052233657800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时06分"
         },
         {
           "title": "欧洲央行管委Stournaras：不认为7月份会发生任何（与货币政策调整有关的）事。 央行继续加息的可能性降低。 在一段时期内维持现状可能是适宜的。 必须监控（美国+以色列对伊朗发动的）战争对于价格的间接影响。（彭博）",
@@ -212,7 +247,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时21分"
         }
@@ -220,7 +255,7 @@
     },
     {
       "keyword_group": "科技",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
         {
           "title": "恒生指数主连夜盘收涨0.63%，报22990点。 恒生科技指数主连夜盘收涨0.94%，报4510点。",
@@ -234,6 +269,19 @@
           "time_info": "03时43分"
         },
         {
+          "title": "【每日收评】全市场超200股涨停！大金融引领沪指放量收红，科技权重陷入调整",
+          "url": "https://www.cls.cn/detail/2414258",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时09分 ~ 07时06分]"
+        },
+        {
           "title": "美银：机构客户抛售科技股 连续第四周成为美股主要净卖方",
           "url": "https://wallstreetcn.com/livenews/3127538",
           "source": "华尔街见闻-快讯",
@@ -243,18 +291,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时09分"
-        },
-        {
-          "title": "【每日收评】全市场超200股涨停！大金融引领沪指放量收红，科技权重陷入调整",
-          "url": "https://www.cls.cn/detail/2414258",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时09分 ~ 05时21分]"
         },
         {
           "title": "A 股下半年第一个交易日，221 股涨停创年内新高，高位科技股出现扎堆「对子顶」，如何看待当下行情？",
@@ -278,6 +314,28 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时09分 ~ 05时21分]"
+        },
+        {
+          "title": "“翻倍基”全面爆发，卡位科技投资各显神通",
+          "url": "https://wallstreetcn.com/livenews/3127641",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时06分"
+        },
+        {
+          "title": "科技主题表现突出，约七成权益类保险资管产品上半年实现正回报",
+          "url": "https://wallstreetcn.com/livenews/3127638",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时06分"
         },
         {
           "title": "美国总统特朗普：美光科技宣布对“特朗普账户”投资2.5亿美元。",
@@ -319,7 +377,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时21分"
         },
@@ -363,7 +421,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时21分"
         },
@@ -374,7 +432,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时21分"
         },
@@ -385,9 +443,59 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时21分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "资源",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "盘前涨逾5%！报道：Meta筹划进军云计算市场，以出售富余的AI算力资源",
+          "url": "https://wallstreetcn.com/articles/3775980",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时09分 ~ 07时06分]"
+        },
+        {
+          "title": "澳大利亚矿砂公司澳禄卡资源（Iluka）：VHM将在18年内向公司供应14.6万吨稀土精矿，这相当于每年平均约8,320吨稀土精矿。",
+          "url": "https://flash.jin10.com/detail/20260702063327306800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时06分"
+        },
+        {
+          "title": "澳大利亚矿砂公司澳禄卡资源（Iluka）：VHM授予公司对Cannie和Nowie项目任何稀土的优先购买权。",
+          "url": "https://flash.jin10.com/detail/20260702063244721800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时06分"
+        },
+        {
+          "title": "澳大利亚矿砂公司澳禄卡资源（Iluka）：VHM授予公司对Goschen地区任何额外稀土的优先购买权。",
+          "url": "https://flash.jin10.com/detail/20260702063141764800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时06分"
         }
       ]
     },
@@ -401,11 +509,12 @@
           "source": "知乎",
           "ranks": [
             10,
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时09分 ~ 05时21分]"
+          "appearance_count": 5,
+          "time_info": "[01时09分 ~ 07时06分]"
         },
         {
           "title": "金价",
@@ -414,28 +523,12 @@
           "ranks": [
             21,
             23,
-            24
+            24,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时09分 ~ 05时21分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "资源",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "盘前涨逾5%！报道：Meta筹划进军云计算市场，以出售富余的AI算力资源",
-          "url": "https://wallstreetcn.com/articles/3775980",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时09分 ~ 05时21分]"
+          "appearance_count": 5,
+          "time_info": "[01时09分 ~ 07时06分]"
         }
       ]
     },
@@ -450,7 +543,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时21分"
         }
@@ -466,11 +559,12 @@
           "source": "知乎",
           "ranks": [
             19,
-            16
+            16,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时43分 ~ 05时21分]"
+          "appearance_count": 4,
+          "time_info": "[03时43分 ~ 07时06分]"
         }
       ]
     },
@@ -502,7 +596,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时21分"
         }
@@ -519,7 +613,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时21分"
         }
@@ -535,11 +629,12 @@
           "source": "抖音",
           "ranks": [
             29,
-            26
+            26,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时43分 ~ 05时21分]"
+          "appearance_count": 4,
+          "time_info": "[03时43分 ~ 07时06分]"
         }
       ]
     }
