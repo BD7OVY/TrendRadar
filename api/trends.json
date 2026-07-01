@@ -1,117 +1,23 @@
 {
-  "generated_at": "2026-07-02T01:09:44.590326+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-07-02T03:43:39.223392+08:00",
+  "total_titles_processed": 422,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "科技",
-      "match_count": 9,
-      "titles": [
-        {
-          "title": "美银：机构客户抛售科技股 连续第四周成为美股主要净卖方",
-          "url": "https://wallstreetcn.com/livenews/3127538",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时09分"
-        },
-        {
-          "title": "【每日收评】全市场超200股涨停！大金融引领沪指放量收红，科技权重陷入调整",
-          "url": "https://www.cls.cn/detail/2414258",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时09分"
-        },
-        {
-          "title": "A 股下半年第一个交易日，221 股涨停创年内新高，高位科技股出现扎堆「对子顶」，如何看待当下行情？",
-          "url": "https://www.zhihu.com/question/2055569067063375363",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时09分"
-        },
-        {
-          "title": "美国总统特朗普：美光科技宣布对“特朗普账户”投资2.5亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3127532",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时09分"
-        },
-        {
-          "title": "美国总统特朗普：美光科技(MU.O)正在直接投资美国工人和家庭。",
-          "url": "https://flash.jin10.com/detail/20260702002937500800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时09分"
-        },
-        {
-          "title": "美国总统特朗普：美光科技(MU.O)对“特朗普账户”的2.5亿美元投资是“同类投资中规模最大的企业投资”。",
-          "url": "https://flash.jin10.com/detail/20260702002924479800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时09分"
-        },
-        {
-          "title": "A股科技股真的过热了吗",
-          "url": "https://www.toutiao.com/trending/7657519502266994230/",
-          "source": "今日头条",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时09分"
-        },
-        {
-          "title": "蓝箭航天IPO恢复审核，金风科技年内再度涨停站上千亿市值",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33488166",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时09分"
-        },
-        {
-          "title": "美国总统特朗普：美光科技(MU.O)宣布向“特朗普账户”投资2.5亿美元。",
-          "url": "https://flash.jin10.com/detail/20260702002047001800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时09分"
-        }
-      ]
-    },
-    {
       "keyword_group": "伊朗",
-      "match_count": 9,
+      "match_count": 15,
       "titles": [
+        {
+          "title": "美国总统特朗普：美国与伊朗关系非常融洽。",
+          "url": "https://flash.jin10.com/detail/20260702030012797800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时43分"
+        },
         {
           "title": "据AXIOS网站：美国在多哈谈判中试图劝说伊朗放弃霍尔木兹海峡“通行收费”机制。",
           "url": "https://flash.jin10.com/detail/20260702005138997800",
@@ -190,6 +96,17 @@
           "time_info": "01时09分"
         },
         {
+          "title": "伊朗称美方违反谅解备忘录承诺，将建立监督机制审查违规行为",
+          "url": "https://wallstreetcn.com/livenews/3127569",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时43分"
+        },
+        {
           "title": "据伊朗伊斯兰共和国通讯社（IRNA）：伊朗航空公司恢复“德黑兰—孟买—德黑兰”航线的运营，此前该航线已暂停5个月。",
           "url": "https://flash.jin10.com/detail/20260702002249112800",
           "source": "金十数据",
@@ -201,6 +118,28 @@
           "time_info": "01时09分"
         },
         {
+          "title": "欧洲央行管委Stournaras：不认为7月份会发生任何（与货币政策调整有关的）事。 央行继续加息的可能性降低。 在一段时期内维持现状可能是适宜的。 必须监控（美国+以色列对伊朗发动的）战争对于价格的间接影响。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3127565",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时43分"
+        },
+        {
+          "title": "伊朗副外长表示，伊朗代表团在多哈的会谈已结束。（伊朗伊斯兰共和国通讯社IRNA）",
+          "url": "https://wallstreetcn.com/livenews/3127562",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时43分"
+        },
+        {
           "title": "美国副总统万斯：技术谈判代表正在就伊朗问题展开讨论。",
           "url": "https://flash.jin10.com/detail/20260702000930829800",
           "source": "金十数据",
@@ -210,6 +149,157 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时09分"
+        },
+        {
+          "title": "消息人士：伊朗要求分阶段执行美伊谅解备忘录，重点推动资产解冻",
+          "url": "https://wallstreetcn.com/livenews/3127554",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时43分"
+        },
+        {
+          "title": "美方试图劝说伊朗放弃征收通行费，称解除制裁后收益将高出“百倍”。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3127553",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时43分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "科技",
+      "match_count": 11,
+      "titles": [
+        {
+          "title": "恒生指数主连夜盘收涨0.63%，报22990点。 恒生科技指数主连夜盘收涨0.94%，报4510点。",
+          "url": "https://wallstreetcn.com/livenews/3127583",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时43分"
+        },
+        {
+          "title": "美银：机构客户抛售科技股 连续第四周成为美股主要净卖方",
+          "url": "https://wallstreetcn.com/livenews/3127538",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时09分"
+        },
+        {
+          "title": "【每日收评】全市场超200股涨停！大金融引领沪指放量收红，科技权重陷入调整",
+          "url": "https://www.cls.cn/detail/2414258",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时09分 ~ 03时43分]"
+        },
+        {
+          "title": "A 股下半年第一个交易日，221 股涨停创年内新高，高位科技股出现扎堆「对子顶」，如何看待当下行情？",
+          "url": "https://www.zhihu.com/question/2055569067063375363",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时09分 ~ 03时43分]"
+        },
+        {
+          "title": "蓝箭航天IPO恢复审核，金风科技年内再度涨停站上千亿市值",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33488166",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时09分 ~ 03时43分]"
+        },
+        {
+          "title": "美国总统特朗普：美光科技宣布对“特朗普账户”投资2.5亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3127532",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时09分"
+        },
+        {
+          "title": "美国总统特朗普：美光科技(MU.O)正在直接投资美国工人和家庭。",
+          "url": "https://flash.jin10.com/detail/20260702002937500800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时09分"
+        },
+        {
+          "title": "美国总统特朗普：美光科技(MU.O)对“特朗普账户”的2.5亿美元投资是“同类投资中规模最大的企业投资”。",
+          "url": "https://flash.jin10.com/detail/20260702002924479800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时09分"
+        },
+        {
+          "title": "A股科技股真的过热了吗",
+          "url": "https://www.toutiao.com/trending/7657519502266994230/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时09分"
+        },
+        {
+          "title": "美国总统特朗普：美光科技(MU.O)宣布向“特朗普账户”投资2.5亿美元。",
+          "url": "https://flash.jin10.com/detail/20260702002047001800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时09分"
+        },
+        {
+          "title": "费城半导体指数扩大跌幅至5.87%，泛林集团(LRCX.O)跌11.24%，应用材料(AMAT.O)跌11.24%，美光科技(MU.O)跌9.42%，英特尔(INTC.O)跌8.11%，阿斯麦(ASML.O)跌7.51%。",
+          "url": "https://flash.jin10.com/detail/20260702022742162800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时43分"
         }
       ]
     },
@@ -222,22 +312,24 @@
           "url": "https://www.zhihu.com/question/2053257491765581754",
           "source": "知乎",
           "ranks": [
-            10
+            10,
+            13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时09分"
+          "appearance_count": 2,
+          "time_info": "[01时09分 ~ 03时43分]"
         },
         {
           "title": "金价",
           "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=21&Refer=top",
           "source": "微博",
           "ranks": [
-            21
+            21,
+            23
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时09分"
+          "appearance_count": 2,
+          "time_info": "[01时09分 ~ 03时43分]"
         }
       ]
     },
@@ -253,8 +345,59 @@
             8
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时09分 ~ 03时43分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "消费",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "苹果全球涨价，授权店要求已预付消费者「补差价」，这合理吗？",
+          "url": "https://www.zhihu.com/question/2055358841626308640",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时09分"
+          "time_info": "03时43分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "继美国司法部官司之后，Yelp在针对谷歌公司的反垄断诉讼中获胜。 联邦法院认定，谷歌网络搜索构成垄断。（彭博法律Blaw）",
+          "url": "https://wallstreetcn.com/livenews/3127564",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时43分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "旅游",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "佛得角把世界杯踢成了旅游宣传片",
+          "url": "https://www.douyin.com/hot/2554178",
+          "source": "抖音",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时43分"
         }
       ]
     }
