@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-02T10:35:15.158564+08:00",
-  "total_titles_processed": 770,
+  "generated_at": "2026-07-02T14:34:55.114627+08:00",
+  "total_titles_processed": 958,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "科技",
-      "match_count": 24,
+      "match_count": 32,
       "titles": [
         {
           "title": "恒生指数主连夜盘收涨0.63%，报22990点。 恒生科技指数主连夜盘收涨0.94%，报4510点。",
@@ -25,7 +25,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时35分"
         },
@@ -54,6 +54,18 @@
           "time_info": "01时09分"
         },
         {
+          "title": "韩国投资者加仓中国资产！上半年扫货科技ETF，半导体赛道获重点配置",
+          "url": "https://www.cls.cn/detail/2414865",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时34分 ~ 14时34分]"
+        },
+        {
           "title": "A 股下半年第一个交易日，221 股涨停创年内新高，高位科技股出现扎堆「对子顶」，如何看待当下行情？",
           "url": "https://www.zhihu.com/question/2055569067063375363",
           "source": "知乎",
@@ -77,17 +89,6 @@
           "time_info": "[01时09分 ~ 05时21分]"
         },
         {
-          "title": "韩国投资者加仓中国资产！上半年扫货科技ETF，半导体赛道获重点配置",
-          "url": "https://www.cls.cn/detail/2414865",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时34分 ~ 10时35分]"
-        },
-        {
           "title": "“翻倍基”全面爆发，卡位科技投资各显神通",
           "url": "https://wallstreetcn.com/livenews/3127641",
           "source": "华尔街见闻-快讯",
@@ -97,6 +98,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时06分"
+        },
+        {
+          "title": "深度复盘长鑫科技发展史",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E5%A4%8D%E7%9B%98%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%E5%8F%91%E5%B1%95%E5%8F%B2",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时34分"
+        },
+        {
+          "title": "前一日涨停，今日大跌，振华科技回应",
+          "url": "https://wallstreetcn.com/livenews/3127838",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时34分"
         },
         {
           "title": "科技主题表现突出，约七成权益类保险资管产品上半年实现正回报",
@@ -121,13 +144,24 @@
           "time_info": "01时09分"
         },
         {
+          "title": "A股创新药板块午后回暖，科伦药业、泽璟制药盘中创新高，海南海药4连板，石药景峰、联化科技涨停，热景生物涨超15%，石药创新、万邦医药、津药药业、康芝药业、双鹭药业跟涨。",
+          "url": "https://flash.jin10.com/detail/20260702140208280800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时34分"
+        },
+        {
           "title": "PCB、CPO等算力硬件股盘初下挫，剑桥科技触及跌停，泰金新能、方邦股份跌超10%，东山精密、中京电子等跌幅居前。",
           "url": "https://wallstreetcn.com/livenews/3127720",
           "source": "华尔街见闻-快讯",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时35分"
         },
@@ -138,7 +172,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时35分"
         },
@@ -171,7 +205,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时35分"
         },
@@ -193,9 +227,31 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时35分"
+        },
+        {
+          "title": "前一日涨停，今日大跌 振华科技回应",
+          "url": "https://flash.jin10.com/detail/20260702135436985800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时34分"
+        },
+        {
+          "title": "港股AI硬件股持续下挫，剑桥科技港股、广合科技港股跌超20%，长飞光纤光缆港股跌超19%，ASAMT、天数智芯跌超17%。",
+          "url": "https://wallstreetcn.com/livenews/3127828",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时34分"
         },
         {
           "title": "A股科技股真的过热了吗",
@@ -248,9 +304,42 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时35分"
+        },
+        {
+          "title": "A股存储芯片板块持续走弱，兆易创新触及跌停，江丰电子、精测电子、中科飞测、珂玛科技、华海清科、芯源微、香农芯创、利和兴、神工股份跌超10%。",
+          "url": "https://wallstreetcn.com/livenews/3127823",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时34分"
+        },
+        {
+          "title": "A股CPO概念午后持续走弱，新易盛跌近10%，此前东山精密跌停，光迅科技逼近跌停，长芯博创、剑桥科技、天孚通信、华工科技、中际旭创均跌超5%。",
+          "url": "https://wallstreetcn.com/livenews/3127820",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时34分"
+        },
+        {
+          "title": "A股兴业科技午后触及涨停，上演“地天板”，成交近9亿元。该股此前连续2日报收跌停，今早一度触及跌停。",
+          "url": "https://flash.jin10.com/detail/20260702133711672800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时34分"
         },
         {
           "title": "标普500指数收跌16.13点，跌幅0.22%，报7483.23点。 道琼斯工业平均指数收跌13.96点，跌幅0.03%，报52305.24点。 纳斯达克综合指数（纳指）收跌173.688点，跌幅0.66%，报26040.031点。 纳斯达克100指数收跌467.216点，跌幅1.54%，报29809.133点。 纳斯达克科技市值加权指数收跌1.33%，报2921.0461点，跳空低开之后持续低位震荡。 费城半导体指数收跌893.682点，跌幅6.27%，报13353.279点，跳空低开之后持续扩大跌幅，北京时间02:56刷新日低至13322.630点。 费城证交所KBW银行指数收涨1.79%，报184.54点，突破6月25日所创收盘历史最高位184.64点、逼近当天所创盘中历史最高位187.55点。 道琼斯KBW地区银行指数收涨1.70%，报147.88点，美股早盘持续上扬、00:40刷新盘中历史高位至148.38点，收盘突破6月26日所创收盘历史最高位146.21点。 罗素2000指数收跌0.39%，报3012.59点。 纳斯达克生物科技指数收跌0.05%，报6561.65点。 标普中盘股400指数收跌0.86%，纳斯达克美国中等市值指数跌0.12%，双双低开之后冲高回落。 恐慌指数VIX收涨0.73%，报16.57，欧股盘初跳空高开至17关口上方，随后持续回吐涨幅、21:35刷新日高至17.30、之后快速转跌。",
@@ -278,7 +367,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 22,
+      "match_count": 24,
       "titles": [
         {
           "title": "美国总统特朗普：美国与伊朗关系非常融洽。",
@@ -360,6 +449,17 @@
           "time_info": "01时09分"
         },
         {
+          "title": "伊朗队回国，接机现场人山人海，仪仗队奏响国歌迎接",
+          "url": "https://news.ifeng.com/c/8uQaMfSWpO8",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时34分"
+        },
+        {
           "title": "据沙特阿拉伯阿拉比亚电视台：伊朗要求在处理其他事项之前，先实施谅解备忘录中的5项内容。",
           "url": "https://flash.jin10.com/detail/20260702002949607800",
           "source": "金十数据",
@@ -369,6 +469,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时09分"
+        },
+        {
+          "title": "伊朗石油海上库存飙至5800万桶，九成未售出、亚洲买家观望",
+          "url": "https://flash.jin10.com/detail/20260702140124676800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时34分"
         },
         {
           "title": "美国副总统万斯重申，伊朗海军和军队已被摧毁。 伊朗向船只开火后，我们几天前投下了一些炸弹。 过去三天商业通航自由。 如果伊朗试图重建核计划，美国有多种选项。 我们不能为了投掷炸弹而投掷炸弹。",
@@ -549,8 +660,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时34分 ~ 10时35分]"
+          "appearance_count": 3,
+          "time_info": "[10时34分 ~ 14时34分]"
         },
         {
           "title": "澳大利亚矿砂公司澳禄卡资源（Iluka）：VHM将在18年内向公司供应14.6万吨稀土精矿，这相当于每年平均约8,320吨稀土精矿。",
@@ -592,9 +703,37 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时35分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金融",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "韩国金融监管机构将于7月13日与资管公司举行会议",
+          "url": "https://wallstreetcn.com/livenews/3127836",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时34分"
+        },
+        {
+          "title": "市场消息：消息人士称，软银正与多家贷款机构谈判，拟筹集100亿美元保证金贷款，以OpenAI持股及还款担保作为支持。高盛、摩根大通及瑞穗金融集团预计将加入该贷款银团。",
+          "url": "https://flash.jin10.com/detail/20260702041320467800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时21分"
         }
       ]
     },
@@ -607,11 +746,12 @@
           "url": "https://www.cls.cn/detail/2414683",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时34分 ~ 10时35分]"
+          "appearance_count": 3,
+          "time_info": "[10时34分 ~ 14时34分]"
         },
         {
           "title": "继美国司法部官司之后，Yelp在针对谷歌公司的反垄断诉讼中获胜。 联邦法院认定，谷歌网络搜索构成垄断。（彭博法律Blaw）",
@@ -638,8 +778,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时34分 ~ 10时35分]"
+          "appearance_count": 3,
+          "time_info": "[10时34分 ~ 14时34分]"
         },
         {
           "title": "消息人士：软银就以OpenAI股权为抵押的贷款谈判重启，并作出更多让步",
@@ -688,19 +828,32 @@
       ]
     },
     {
-      "keyword_group": "金融",
-      "match_count": 1,
+      "keyword_group": "旅游",
+      "match_count": 2,
       "titles": [
         {
-          "title": "市场消息：消息人士称，软银正与多家贷款机构谈判，拟筹集100亿美元保证金贷款，以OpenAI持股及还款担保作为支持。高盛、摩根大通及瑞穗金融集团预计将加入该贷款银团。",
-          "url": "https://flash.jin10.com/detail/20260702041320467800",
-          "source": "金十数据",
+          "title": "佛得角把世界杯踢成了旅游宣传片",
+          "url": "https://www.douyin.com/hot/2554178",
+          "source": "抖音",
           "ranks": [
-            14
+            29,
+            26,
+            25
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时43分 ~ 07时06分]"
+        },
+        {
+          "title": "阿布扎比迎接中国旅游业高管访问团，中国内地往返阿布扎比每周航班总数将达到35班",
+          "url": "https://wallstreetcn.com/livenews/3127815",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时21分"
+          "time_info": "14时34分"
         }
       ]
     },
@@ -735,9 +888,26 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时35分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "深圳",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "深圳画了个千亿圈",
+          "url": "https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E7%94%BB%E4%BA%86%E4%B8%AA%E5%8D%83%E4%BA%BF%E5%9C%88",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时34分"
         }
       ]
     },
@@ -755,25 +925,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时21分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "旅游",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "佛得角把世界杯踢成了旅游宣传片",
-          "url": "https://www.douyin.com/hot/2554178",
-          "source": "抖音",
-          "ranks": [
-            29,
-            26,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时43分 ~ 07时06分]"
         }
       ]
     }
