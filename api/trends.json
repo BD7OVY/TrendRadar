@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-03T03:13:41.933030+08:00",
-  "total_titles_processed": 375,
+  "generated_at": "2026-07-03T04:57:52.121867+08:00",
+  "total_titles_processed": 452,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "科技",
-      "match_count": 7,
+      "match_count": 13,
       "titles": [
         {
           "title": "104天！宇树科技科创板IPO注册生效 A股“人形机器人第一股”诞生在即",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时33分 ~ 03时13分]"
+          "appearance_count": 3,
+          "time_info": "[01时33分 ~ 04时57分]"
         },
         {
           "title": "【每日收评】创业板指跌近6%，机器人概念股逆势活跃，AI硬件、 半导体等科技权重批量跌停",
@@ -26,8 +26,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时33分 ~ 03时13分]"
+          "appearance_count": 3,
+          "time_info": "[01时33分 ~ 04时57分]"
         },
         {
           "title": "2008年以来最大波动率差距 科技牛市出现降温信号",
@@ -36,7 +36,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时13分"
         },
@@ -48,8 +48,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时33分 ~ 03时13分]"
+          "appearance_count": 3,
+          "time_info": "[01时33分 ~ 04时57分]"
         },
         {
           "title": "宇树科技IPO注册获批",
@@ -59,8 +59,21 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时33分 ~ 03时13分]"
+          "appearance_count": 3,
+          "time_info": "[01时33分 ~ 04时57分]"
+        },
+        {
+          "title": "深度复盘长鑫科技发展史",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E5%A4%8D%E7%9B%98%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%E5%8F%91%E5%B1%95%E5%8F%B2",
+          "source": "bilibili 热搜",
+          "ranks": [
+            16,
+            25,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时33分 ~ 04时57分]"
         },
         {
           "title": "纳斯达克100指数跌幅扩大至2%，半导体指数跌5.9%。 存储芯片指数重挫超10%，成分股闪迪跌13.4%、泰瑞达跌12.8%、西部数据跌9.6%。 纳指100的成分股中，除了上述个股之外，科磊跌11.8%，迈威尔科技/美满电子跌9.6%，Lumentum跌9.3%，Nebius Group跌8.5%，特斯拉跌7.8%，Meta跌4.2%。",
@@ -75,16 +88,131 @@
           "time_info": "[01时33分 ~ 03时13分]"
         },
         {
-          "title": "深度复盘长鑫科技发展史",
-          "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E5%A4%8D%E7%9B%98%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%E5%8F%91%E5%B1%95%E5%8F%B2",
-          "source": "bilibili 热搜",
+          "title": "北美科技软件股指数ETF涨0.25%，报93.57美元，整体高开低走。 Global X网络安全ETF涨0.38%，纳斯达克网络安全ETF跌0.48%，ETFMG网络安全ETF跌0.12%",
+          "url": "https://wallstreetcn.com/livenews/3128214",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            16,
-            25
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时57分"
+        },
+        {
+          "title": "标普500指数的11个板块多数上涨，保健板块收涨2.7%，日用消费品、公用事业、原材料板块至多涨2.41%，可选消费、电信板块至多收跌0.83%，信息技术/科技板块跌1.46%。",
+          "url": "https://wallstreetcn.com/livenews/3128213",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时57分"
+        },
+        {
+          "title": "美股行业ETF涨跌各异，生物科技ETF收涨超2.9%，半导体ETF跌超4.5%",
+          "url": "https://wallstreetcn.com/livenews/3128212",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时57分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收跌1.77%，结束此前连续四个交易日反弹的趋势，报5912.23点，本周迄今累涨3.18%。 热门中概股里，百度初步收跌约4%，蔚来、小鹏跌超3%，日月光半导体跌2.7%，网易跌1.9%，腾讯跌1.8%，阿里跌1.5%，美团涨1.6%，小米涨2.7%，比亚迪涨3.1%。 ETF中，中国科技指数ETF（CQQQ）收跌5.26%，本周迄今累跌0.37%； XtrackersHarvest中证50（ASHS）收跌4.31%，本周迄今累跌1.32%； 德银嘉实沪深300指数ETF（ASHR）收跌3.25%，本周迄今累跌1.96%，延续上周跌1.29%的表现； MSCI新兴市场ex中国ETF（EMXC）收跌1.57%，本周迄今累跌3.07%，延续上周回撤5.39%的表现； 中概互联网指数ETF（KWEB）收跌0.52%，本周迄今反弹4.39%。",
+          "url": "https://wallstreetcn.com/livenews/3128207",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时57分"
+        },
+        {
+          "title": "美股存储芯片指数初步收跌约11%，费城半导体指数跌约6%。 标普500指数初步大致收平，科技板块跌1.7%，电信板块跌0.8%，可选消费板块跌0.7%，公用事业、保健、日用消费品板块涨超2%。 纳斯达克100指数初步收跌1.6%，成分股中，闪迪初步收跌15.3%，泰瑞达、科磊、迈威尔科技/美满电子、拉姆研究、希捷科技、西部数据至少跌约10%，特斯拉重挫8%，Adobe涨3.9%，苹果涨4.7%，汤森路透涨5.7%，Strategy涨7.9%。",
+          "url": "https://wallstreetcn.com/livenews/3128205",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时57分"
+        },
+        {
+          "title": "恒生指数主连夜盘收涨0.04%，报23061点。 恒生科技指数主连夜盘收跌0.31%，报4447点。",
+          "url": "https://wallstreetcn.com/livenews/3128191",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时57分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "伊朗外长：只有在全面、包容且不受外部干涉的情况下，本地区的和平才能得以维系。",
+          "url": "https://flash.jin10.com/detail/20260703024121722800",
+          "source": "金十数据",
+          "ranks": [
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时33分 ~ 03时13分]"
+          "appearance_count": 1,
+          "time_info": "03时13分"
+        },
+        {
+          "title": "据以色列 i24News：以色列安全官员回应《纽约时报》相关报道时表示，“如果以色列想清除任何人，就一定做得到。”（此前报道称，美国官员在美伊谈判期间曾担忧以色列可能对伊朗谈判关键人物采取暗杀行动。）",
+          "url": "https://flash.jin10.com/detail/20260703040541565800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时57分"
+        },
+        {
+          "title": "伊朗外长：美军中央司令部究竟是给本地区带来了安全还是动荡？答案显而易见。同样，我们强大的武装力量也已证明，域外势力甚至连自身都无法保护。",
+          "url": "https://flash.jin10.com/detail/20260703024118684800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时13分"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社：奥地利驻德黑兰大使馆恢复运营。",
+          "url": "https://flash.jin10.com/detail/20260703002320925800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时33分"
+        },
+        {
+          "title": "美官员曾担忧以色列暗杀伊朗谈判代表",
+          "url": "https://flash.jin10.com/detail/20260703031850277800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时57分"
         }
       ]
     },
@@ -101,8 +229,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时33分 ~ 03时13分]"
+          "appearance_count": 3,
+          "time_info": "[01时33分 ~ 04时57分]"
         },
         {
           "title": "“深圳将全域开放无人驾驶”系误读",
@@ -112,8 +240,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时33分 ~ 03时13分]"
+          "appearance_count": 3,
+          "time_info": "[01时33分 ~ 04时57分]"
         },
         {
           "title": "“深圳全域开放无人驾驶”系误读",
@@ -123,8 +251,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时33分 ~ 03时13分]"
+          "appearance_count": 3,
+          "time_info": "[01时33分 ~ 04时57分]"
         },
         {
           "title": "“深圳开放无人驾驶”系误读",
@@ -134,47 +262,61 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时33分 ~ 03时13分]"
+          "appearance_count": 3,
+          "time_info": "[01时33分 ~ 04时57分]"
         }
       ]
     },
     {
-      "keyword_group": "伊朗",
-      "match_count": 3,
+      "keyword_group": "美元",
+      "match_count": 4,
       "titles": [
         {
-          "title": "伊朗外长：只有在全面、包容且不受外部干涉的情况下，本地区的和平才能得以维系。",
-          "url": "https://flash.jin10.com/detail/20260703024121722800",
-          "source": "金十数据",
+          "title": "韩国 KOSPI 指数大跌 8%，SK 海力士暴跌 14%，单日蒸发 1600 亿美元市值，如何解读？",
+          "url": "https://www.zhihu.com/question/2056021886144864275",
+          "source": "知乎",
           "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时13分"
-        },
-        {
-          "title": "伊朗外长：美军中央司令部究竟是给本地区带来了安全还是动荡？答案显而易见。同样，我们强大的武装力量也已证明，域外势力甚至连自身都无法保护。",
-          "url": "https://flash.jin10.com/detail/20260703024118684800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时13分"
-        },
-        {
-          "title": "据伊朗塔斯尼姆通讯社：奥地利驻德黑兰大使馆恢复运营。",
-          "url": "https://flash.jin10.com/detail/20260703002320925800",
-          "source": "金十数据",
-          "ranks": [
-            20
+            9,
+            8,
+            5
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时33分 ~ 04时57分]"
+        },
+        {
+          "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨2.05%，暂报2187.21点，整体持续震荡上行。 MarketVectorTM数字资产100中盘指数涨3.35%，报2532.09点。 MarketVector数字资产100指数涨3.33%，报12304.78点。 目前，Solana涨4.41%，狗狗币涨2.28%，XRP涨2.96%。 比特币涨2.59%，暂报61616.63美元，整体呈现出长尾W形走势；以太坊涨5.05%，暂报1699美元。",
+          "url": "https://wallstreetcn.com/livenews/3128161",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时33分 ~ 03时13分]"
+        },
+        {
+          "title": "美元指数在非农日跌超0.4%",
+          "url": "https://wallstreetcn.com/livenews/3128198",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时33分"
+          "time_info": "04时57分"
+        },
+        {
+          "title": "周四（7月2日）纽约尾盘，彭博谷物分类指数涨0.04%，报29.5199点，亚太早盘维持微幅上涨状态，北京时间15:00过后持续扩大涨幅，21:42刷新日高至29.7725点，随后持续回吐涨幅并多次转跌。 CBOT玉米期货跌0.34%，报4.4075美元/蒲式耳。 CBOT小麦期货涨0.04%，报6.0025美元/蒲式耳。 CBOT大豆期货跌0.22%，报11.4675美元/蒲式耳，豆粕期货跌0.10%，豆油期货涨0.21%。",
+          "url": "https://wallstreetcn.com/livenews/3128193",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时57分"
         }
       ]
     },
@@ -189,7 +331,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时13分"
         },
@@ -219,8 +361,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时33分 ~ 03时13分]"
+          "appearance_count": 3,
+          "time_info": "[01时33分 ~ 04时57分]"
         },
         {
           "title": "微软正合并其企业与消费者端AI聊天机器人。 该公司正将多个Copilot AI聊天机器人整合到一个APP。（The Information）",
@@ -229,39 +371,9 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时13分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "韩国 KOSPI 指数大跌 8%，SK 海力士暴跌 14%，单日蒸发 1600 亿美元市值，如何解读？",
-          "url": "https://www.zhihu.com/question/2056021886144864275",
-          "source": "知乎",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时33分 ~ 03时13分]"
-        },
-        {
-          "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨2.05%，暂报2187.21点，整体持续震荡上行。 MarketVectorTM数字资产100中盘指数涨3.35%，报2532.09点。 MarketVector数字资产100指数涨3.33%，报12304.78点。 目前，Solana涨4.41%，狗狗币涨2.28%，XRP涨2.96%。 比特币涨2.59%，暂报61616.63美元，整体呈现出长尾W形走势；以太坊涨5.05%，暂报1699美元。",
-          "url": "https://wallstreetcn.com/livenews/3128161",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时33分 ~ 03时13分]"
         }
       ]
     },
@@ -277,8 +389,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时33分 ~ 03时13分]"
+          "appearance_count": 3,
+          "time_info": "[01时33分 ~ 04时57分]"
         }
       ]
     },
