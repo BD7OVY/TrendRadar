@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-03T07:59:03.782543+08:00",
-  "total_titles_processed": 633,
+  "generated_at": "2026-07-03T10:52:39.743266+08:00",
+  "total_titles_processed": 835,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "科技",
-      "match_count": 21,
+      "match_count": 30,
       "titles": [
         {
           "title": "104天！宇树科技科创板IPO注册生效 A股“人形机器人第一股”诞生在即",
@@ -138,15 +138,37 @@
           "time_info": "[01时33分 ~ 03时13分]"
         },
         {
+          "title": "南方科技大学毕业典礼",
+          "url": "https://search.bilibili.com/all?keyword=%E5%8D%97%E6%96%B9%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%A6%E6%AF%95%E4%B8%9A%E5%85%B8%E7%A4%BC",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时52分"
+        },
+        {
           "title": "“解放日”关税掀市场巨震，特朗普账户却在疯狂扫货科技股",
           "url": "https://flash.jin10.com/detail/20260703065821847800",
           "source": "金十数据",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时59分"
+        },
+        {
+          "title": "A股电网设备板块震荡走强，华明装备涨停，金智科技、金冠电气、明阳电气、神马电力、思源电气跟涨。",
+          "url": "https://flash.jin10.com/detail/20260703102626704800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时52分"
         },
         {
           "title": "纳斯达克金龙中国指数收跌1.77%，结束此前连续四个交易日反弹的趋势，报5912.23点，本周迄今累涨3.18%。 热门中概股里，百度初步收跌约4%，蔚来、小鹏跌超3%，日月光半导体跌2.7%，网易跌1.9%，腾讯跌1.8%，阿里跌1.5%，美团涨1.6%，小米涨2.7%，比亚迪涨3.1%。 ETF中，中国科技指数ETF（CQQQ）收跌5.26%，本周迄今累跌0.37%； XtrackersHarvest中证50（ASHS）收跌4.31%，本周迄今累跌1.32%； 德银嘉实沪深300指数ETF（ASHR）收跌3.25%，本周迄今累跌1.96%，延续上周跌1.29%的表现； MSCI新兴市场ex中国ETF（EMXC）收跌1.57%，本周迄今累跌3.07%，延续上周回撤5.39%的表现； 中概互联网指数ETF（KWEB）收跌0.52%，本周迄今反弹4.39%。",
@@ -166,7 +188,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时59分"
         },
@@ -188,9 +210,31 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时59分"
+        },
+        {
+          "title": "宇树科技IPO注册获批",
+          "url": "https://www.douyin.com/hot/2555844",
+          "source": "抖音",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时52分"
+        },
+        {
+          "title": "Meta卖算力引科技股大跌",
+          "url": "https://search.bilibili.com/all?keyword=Meta%E5%8D%96%E7%AE%97%E5%8A%9B%E5%BC%95%E7%A7%91%E6%8A%80%E8%82%A1%E5%A4%A7%E8%B7%8C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时52分"
         },
         {
           "title": "“大空头”Michael Burry表示，周三在1051.87美元狙空美光科技。 周四（非农日），美光收跌5.49%，报975.56美元。",
@@ -204,6 +248,17 @@
           "time_info": "06时06分"
         },
         {
+          "title": "A股液冷服务器概念震荡拉升，飞龙股份涨停，申菱环境涨超10%，腾龙股份、强瑞技术、川环科技、南方泵业、英维克跟涨。",
+          "url": "https://flash.jin10.com/detail/20260703101239152800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时52分"
+        },
+        {
           "title": "恒生指数主连夜盘收涨0.04%，报23061点。 恒生科技指数主连夜盘收跌0.31%，报4447点。",
           "url": "https://wallstreetcn.com/livenews/3128191",
           "source": "华尔街见闻-快讯",
@@ -215,15 +270,37 @@
           "time_info": "04时57分"
         },
         {
+          "title": "恒生科技指数盘中涨2%。",
+          "url": "https://wallstreetcn.com/livenews/3128350",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时52分"
+        },
+        {
           "title": "美国总统特朗普：美光科技(MU.O)是一家“炙手可热的公司”，由一位“很棒的人”经营。",
           "url": "https://flash.jin10.com/detail/20260703055641484800",
           "source": "金十数据",
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时59分"
+        },
+        {
+          "title": "A股军工板块震荡走强，航发科技、甘化科工、铖昌科技、航天发展涨停，爱乐达、超捷股份涨超10%，理工导航、隆达股份、航天环宇、立航科技跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3128348",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时52分"
         },
         {
           "title": "周四（7月2日），美股人工智能（AI）赢家指数跌5.63%，报405.59点，本周累跌4.17%。 成分股闪迪、泰瑞达、科磊、康宁公司、希捷科技、拉姆研究至少收跌10.19%表现最差，在收涨的六只成分股中，核电股CEG涨1.16%表现第四，微软涨1.62%，公共服务企业集团（PEG）涨1.68%，Palantir涨2.84%。 AI软件先驱指数跌0.03%，报109.97点，本周累涨4.70%。 成分股C3.ai收跌3.92%，新思科技跌3.82%，甲骨文跌1.56%跌幅第三大，HubSpot则涨2.34%、与Palantir、Adobe领跑。",
@@ -232,9 +309,20 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时59分"
+        },
+        {
+          "title": "A股贵金属板块再度拉升，赤峰黄金、招金黄金2连板，山金国际涨停，晓程科技涨超10%，四川黄金、西部黄金跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3128341",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时52分"
         },
         {
           "title": "周四（7月2日），美股信息科技指数跌5.79%，报413.81点，本周累跌4.92%。 周四当天，成分股闪迪、泰瑞达、科磊、康宁公司、IREN、希捷科技、拉姆研究收跌14.13%-10.19%表现最差，西部数据、迈威尔科技/美满电子、高意公司Coherent、Lumentum、Ciena至少跌8.65%紧随其后，微软则涨1.62%，Adobe涨4.14%表现第四，埃森哲涨4.74%，苹果涨4.84%，FICO涨5.32%。 在标普科技板块，伟创力国际收跌10.86%，与闪迪、泰瑞达、科磊、康宁公司、希捷科技、拉姆研究、西部数据等领跌，Tyler科技涨5.45%，与FICO、苹果、埃森哲、Adobe领涨。",
@@ -243,9 +331,20 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时59分"
+        },
+        {
+          "title": "A股机器人概念股继续活跃，北纬科技、雷赛智能、首开股份竞价涨停，景兴纸业、中大力德、日盈电子、卧龙电驱跟涨，消息上，证监会同意宇树科技股份有限公司首次公开发行股票并在科创板上市的注册申请。",
+          "url": "https://wallstreetcn.com/livenews/3128339",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时52分"
         }
       ]
     },
@@ -315,7 +414,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时59分"
         },
@@ -337,7 +436,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时59分"
         }
@@ -368,8 +467,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时33分 ~ 07时59分]"
+          "appearance_count": 7,
+          "time_info": "[01时33分 ~ 10时52分]"
         },
         {
           "title": "“深圳全域开放无人驾驶”系误读",
@@ -379,8 +478,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时33分 ~ 07时59分]"
+          "appearance_count": 7,
+          "time_info": "[01时33分 ~ 10时52分]"
         },
         {
           "title": "“深圳开放无人驾驶”系误读",
@@ -390,8 +489,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时33分 ~ 07时59分]"
+          "appearance_count": 7,
+          "time_info": "[01时33分 ~ 10时52分]"
         },
         {
           "title": "据港交所文件：深圳宏芯宇电子股份有限公司向港交所提交上市申请书。",
@@ -400,7 +499,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时59分"
         }
@@ -515,7 +614,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时59分"
         }
@@ -554,7 +653,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时59分"
         }
@@ -571,11 +670,12 @@
           "ranks": [
             6,
             5,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时33分 ~ 07时59分]"
+          "appearance_count": 7,
+          "time_info": "[01时33分 ~ 10时52分]"
         },
         {
           "title": "微软正合并其企业与消费者端AI聊天机器人。 该公司正将多个Copilot AI聊天机器人整合到一个APP。（The Information）",
@@ -587,6 +687,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时13分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "徒步",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "男子罗浮山徒步意外坠亡：事发地属未开放区域，民宿称当地不正规进山口众多",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33501968",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时52分"
+        },
+        {
+          "title": "爸爸带弱视儿子徒步2年改善视力",
+          "url": "https://www.toutiao.com/trending/7657745742479540287/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时52分"
         }
       ]
     },
@@ -604,6 +732,23 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时33分 ~ 04时57分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金十图示：2026年07月03日（周五）上海金早盘价为911.31元/克，较国际金价(911.57元/克)，低0.26元/克",
+          "url": "https://flash.jin10.com/detail/20260703102229667800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时52分"
         }
       ]
     }
