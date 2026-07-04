@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-05T06:51:57.333698+08:00",
-  "total_titles_processed": 506,
+  "generated_at": "2026-07-05T07:56:32.528379+08:00",
+  "total_titles_processed": 557,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时06分 ~ 06时51分]"
+          "appearance_count": 9,
+          "time_info": "[00时06分 ~ 07时56分]"
         },
         {
           "title": "伊朗外长会晤黎真主党及哈马斯代表",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时06分 ~ 06时51分]"
+          "appearance_count": 7,
+          "time_info": "[00时06分 ~ 07时56分]"
         },
         {
           "title": "伊朗称捣毁多个与美以有关的“恐怖和极端组织”窝点",
@@ -37,8 +37,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时06分 ~ 06时51分]"
+          "appearance_count": 7,
+          "time_info": "[00时06分 ~ 07时56分]"
         },
         {
           "title": "阿里·阿兹马伊被任命为伊朗伊斯兰革命卫队海军司令",
@@ -48,8 +48,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时06分 ~ 06时51分]"
+          "appearance_count": 7,
+          "time_info": "[00时06分 ~ 07时56分]"
         },
         {
           "title": "伊朗警告域外国家勿在霍尔木兹海峡制造危机",
@@ -59,8 +59,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时06分 ~ 06时51分]"
+          "appearance_count": 7,
+          "time_info": "[00时06分 ~ 07时56分]"
         },
         {
           "title": "伊朗驻华大使：中国等友好国家将享有“特殊待遇”",
@@ -70,8 +70,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时45分 ~ 06时51分]"
+          "appearance_count": 5,
+          "time_info": "[04时45分 ~ 07时56分]"
         },
         {
           "title": "上千万伊朗人参与哈梅内伊告别仪式",
@@ -81,8 +81,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时06分 ~ 06时51分]"
+          "appearance_count": 7,
+          "time_info": "[00时06分 ~ 07时56分]"
         },
         {
           "title": "伊朗民众泪别哈梅内伊",
@@ -92,8 +92,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时06分 ~ 06时51分]"
+          "appearance_count": 7,
+          "time_info": "[00时06分 ~ 07时56分]"
         },
         {
           "title": "伊朗传统两派对立格局被打破，保守派内部进一步分裂，新最高领袖的绝对权力正在被稀释",
@@ -315,19 +315,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时06分 ~ 06时51分]"
+          "appearance_count": 7,
+          "time_info": "[00时06分 ~ 07时56分]"
         },
         {
           "title": "上半年A股新开户突破2000万，已是去年前三季度总量，动力仍是科技行情？",
           "url": "https://www.cls.cn/detail/2417055",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时06分 ~ 06时51分]"
+          "appearance_count": 9,
+          "time_info": "[00时06分 ~ 07时56分]"
         },
         {
           "title": "三部门发文规范国际科技组织成立登记",
@@ -337,8 +338,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时06分 ~ 06时51分]"
+          "appearance_count": 7,
+          "time_info": "[00时06分 ~ 07时56分]"
         },
         {
           "title": "韩国股市杠杆失控：450亿美元资金狂飙，SK海力士单只ETF规模碾压美股科技巨头",
@@ -369,6 +370,22 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "男子消费9元转账5000元老板报警",
+          "url": "https://www.toutiao.com/trending/7658275934449614884/",
+          "source": "今日头条",
+          "ranks": [
+            9,
+            19,
+            16,
+            15,
+            23,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时06分 ~ 07时56分]"
+        },
+        {
           "title": "月薪 1.8 万，房租每月 6000，想住得舒服有错吗？朋友说我被「消费主义洗脑」，该怎么反驳？",
           "url": "https://www.zhihu.com/question/2023007302307914124",
           "source": "知乎",
@@ -379,21 +396,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时06分 ~ 03时10分]"
-        },
-        {
-          "title": "男子消费9元转账5000元老板报警",
-          "url": "https://www.toutiao.com/trending/7658275934449614884/",
-          "source": "今日头条",
-          "ranks": [
-            9,
-            19,
-            16,
-            15,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时06分 ~ 06时51分]"
         }
       ]
     },
