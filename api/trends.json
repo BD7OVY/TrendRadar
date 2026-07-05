@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-05T19:25:44.494624+08:00",
-  "total_titles_processed": 1102,
+  "generated_at": "2026-07-05T21:15:14.400003+08:00",
+  "total_titles_processed": 1190,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 37,
+      "match_count": 42,
       "titles": [
         {
           "title": "特朗普：我们很善良，给伊朗一周时间办丧事",
@@ -132,6 +132,18 @@
           "time_info": "10时24分"
         },
         {
+          "title": "特朗普对哈梅内伊葬礼感到震惊，认为伊朗民众恨他",
+          "url": "https://news.ifeng.com/c/8uVsCwKcWdW",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时25分 ~ 21时15分]"
+        },
+        {
           "title": "霍尔木兹海峡阿曼航道船舶锐减 伊朗持续强化航道控制",
           "url": "https://flash.jin10.com/detail/20260705134913699800",
           "source": "金十数据",
@@ -143,15 +155,15 @@
           "time_info": "14时34分"
         },
         {
-          "title": "据伊朗伊斯兰共和国通讯社（IRNA）：伊朗国际海事局表示，卡塔尔鲁韦斯港和伊朗港口之间的海上贸易恢复。",
-          "url": "https://flash.jin10.com/detail/20260705184100307800",
-          "source": "金十数据",
+          "title": "伊朗官员称该国已恢复与卡塔尔的海上贸易",
+          "url": "https://wallstreetcn.com/livenews/3129009",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时25分"
+          "time_info": "21时15分"
         },
         {
           "title": "伊朗传统两派对立格局被打破，保守派内部进一步分裂，新最高领袖的绝对权力正在被稀释",
@@ -163,6 +175,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时06分"
+        },
+        {
+          "title": "伊朗官员称该国已恢复与卡塔尔的海上贸易",
+          "url": "https://flash.jin10.com/detail/20260705195906511800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时15分"
         },
         {
           "title": "伊朗外交部：塞尔维亚代表团访问德黑兰，参加向伊朗前最高领袖哈梅内伊葬礼，并于周六下午会见了伊朗外交部长阿拉格齐。",
@@ -199,6 +222,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时10分 ~ 04时46分]"
+        },
+        {
+          "title": "据伊朗伊斯兰共和国通讯社（IRNA）：伊朗国际海事局表示，卡塔尔鲁韦斯港和伊朗港口之间的海上贸易恢复。",
+          "url": "https://flash.jin10.com/detail/20260705184100307800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时25分 ~ 21时15分]"
         },
         {
           "title": "黎巴嫩官员同伊朗外长举行会晤 讨论地区局势",
@@ -298,15 +333,26 @@
           "time_info": "[01时59分 ~ 03时10分]"
         },
         {
-          "title": "特朗普对哈梅内伊葬礼感到震惊，认为伊朗民众恨他",
-          "url": "https://news.ifeng.com/c/8uVsCwKcWdW",
-          "source": "凤凰网",
+          "title": "伊朗已故最高领袖哈梅内伊三子现身",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%B7%B2%E6%95%85%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E5%93%88%E6%A2%85%E5%86%85%E4%BC%8A%E4%B8%89%E5%AD%90%E7%8E%B0%E8%BA%AB%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
           "ranks": [
-            7
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时25分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时14分 ~ 21时15分]"
+        },
+        {
+          "title": "英法高调宣布保障霍尔木兹航行自由，伊朗强硬警告，国际油价暗盘拉升，中东局势会再度升级吗？",
+          "url": "https://www.zhihu.com/question/2056886502731297310",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时14分 ~ 21时15分]"
         },
         {
           "title": "伊朗外交部长阿拉格齐在伊朗首都德黑兰分别会晤黎巴嫩真主党及哈马斯代表。",
@@ -340,6 +386,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时59分"
+        },
+        {
+          "title": "据半岛电视台：海事情报公司称伊朗革命卫队船只将六艘船只从阿曼航线转移。",
+          "url": "https://flash.jin10.com/detail/20260705191605772800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时15分"
         },
         {
           "title": "美国总统特朗普：美国和伊朗决定暂停会谈一周。哈梅内伊葬礼相关事宜结束前，美伊双方互不交火。",
@@ -414,7 +471,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时25分"
         },
@@ -444,7 +501,7 @@
     },
     {
       "keyword_group": "科技",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "AI焦虑暂退，科技股反弹，欧股两日连创新高，布油两日反弹但连跌四周",
@@ -520,6 +577,17 @@
           "time_info": "[17时37分 ~ 19时25分]"
         },
         {
+          "title": "A股超520亿资金撤离9只科技股",
+          "url": "https://www.toutiao.com/trending/7658142757459165220/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时25分 ~ 21时15分]"
+        },
+        {
           "title": "科技股行情后续还能怎么走",
           "url": "https://www.toutiao.com/trending/7658534993954750527/",
           "source": "今日头条",
@@ -529,6 +597,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时33分 ~ 14时34分]"
+        },
+        {
+          "title": "壁仞科技以每股46.20港元的价格配售1.53亿股新H股，筹资70.7亿港元。",
+          "url": "https://wallstreetcn.com/livenews/3129005",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时15分"
         },
         {
           "title": "金十数据整理：每日科技要闻速递（7月5日）",
@@ -551,17 +630,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时06分"
-        },
-        {
-          "title": "A股超520亿资金撤离9只科技股",
-          "url": "https://www.toutiao.com/trending/7658142757459165220/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时25分"
         }
       ]
     },
@@ -611,6 +679,45 @@
       ]
     },
     {
+      "keyword_group": "深圳",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "成都AG超玩会 vs 深圳DYG KPL",
+          "url": "https://search.bilibili.com/all?keyword=%E6%88%90%E9%83%BDAG%E8%B6%85%E7%8E%A9%E4%BC%9A%20%E6%B7%B1%E5%9C%B3DYG",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时14分 ~ 21时15分]"
+        },
+        {
+          "title": "机器人出口每4元产值有1元深圳造 深圳机器人全球卖爆",
+          "url": "https://flash.jin10.com/detail/20260704222818603800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时06分"
+        },
+        {
+          "title": "张新成深圳演唱会直拍来了",
+          "url": "https://www.douyin.com/hot/2558815",
+          "source": "抖音",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时25分"
+        }
+      ]
+    },
+    {
       "keyword_group": "金融",
       "match_count": 2,
       "titles": [
@@ -635,34 +742,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时34分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "深圳",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "机器人出口每4元产值有1元深圳造 深圳机器人全球卖爆",
-          "url": "https://flash.jin10.com/detail/20260704222818603800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时06分"
-        },
-        {
-          "title": "张新成深圳演唱会直拍来了",
-          "url": "https://www.douyin.com/hot/2558815",
-          "source": "抖音",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时25分"
         }
       ]
     },
@@ -707,8 +786,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时37分 ~ 19时25分]"
+          "appearance_count": 4,
+          "time_info": "[17时37分 ~ 21时15分]"
         }
       ]
     },
