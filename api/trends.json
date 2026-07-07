@@ -1,682 +1,189 @@
 {
-  "generated_at": "2026-07-07T22:12:40.563244+08:00",
-  "total_titles_processed": 1463,
+  "generated_at": "2026-07-08T01:08:01.197100+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "科技",
-      "match_count": 23,
-      "titles": [
-        {
-          "title": "博杰股份7月7日在互动平台表示，公司与宇树科技暂无直接业务合作。",
-          "url": "https://flash.jin10.com/detail/20260707154404313800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时17分"
-        },
-        {
-          "title": "科技股领涨推动美股反弹，道指首次站上5.3万点，油金承压，比特币随特朗普表态飙升",
-          "url": "https://wallstreetcn.com/articles/3776262",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时09分"
-        },
-        {
-          "title": "北美科技软件股指数ETF涨1.30%，报94.79美元。 Global X网络安全ETF涨3.41%，纳斯达克网络安全ETF涨2.47%，ETFMG网络安全ETF涨3.08%",
-          "url": "https://wallstreetcn.com/livenews/3129560",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时49分 ~ 06时09分]"
-        },
-        {
-          "title": "三星电子公布最新季报，预计二季度利润同比暴增 1810%，如何看待这份财报？科技行情还能继续吗？",
-          "url": "https://www.zhihu.com/question/2057735732068979803",
-          "source": "知乎",
-          "ranks": [
-            14,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时44分 ~ 16时17分]"
-        },
-        {
-          "title": "科技股遭对冲基金连抛四周，高盛交易员：“买入一切AI”时代终结！",
-          "url": "https://wallstreetcn.com/articles/3776266",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时02分 ~ 12时44分]"
-        },
-        {
-          "title": "周一（7月6日），美股行业ETF多数收涨，全球科技股指数ETF涨2.18%，半导体ETF涨2.03%，科技行业ETF、网络股指数ETF至多涨1.67%，能源业ETF、生物科技指数ETF则至多收跌0.20%，公用事业ETF、医疗业ETF、日常消费品ETF至多跌1.05%。 标普500指数的11个板块中，电信板块收涨1.64%，信息技术/科技板块涨1.34%，房地产、日用消费品板块跌0.9%，公用事业、保健板块至多跌1.17%。",
-          "url": "https://wallstreetcn.com/livenews/3129551",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时49分 ~ 06时09分]"
-        },
-        {
-          "title": "美股存储芯片股盘后普跌，闪迪(SNDK.O)现跌3.5%，美光科技(MU.O)跌2.3%，希捷科技(STX.O)跌2%，西部数据(WDC.O)跌2.8%。",
-          "url": "https://flash.jin10.com/detail/20260707074846278800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时02分"
-        },
-        {
-          "title": "金十数据整理：每日科技要闻速递（7月7日）",
-          "url": "https://flash.jin10.com/detail/20260707074539449800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时02分"
-        },
-        {
-          "title": "荷兰国际集团：科技投资者重新审视AI投资",
-          "url": "https://flash.jin10.com/detail/20260707190544697800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时41分"
-        },
-        {
-          "title": "美股开盘，道指涨0.09%，标普500指数跌0.22%，纳指跌0.6%。芯片股继续回调，闪迪(SNDK.O)跌6.5%，西部数据(WDC.O)跌6.7%，美光科技(MU.O)跌6.07%。SpaceX(SPCX.O)跌1.7%，其今日正式纳入纳斯达克100指数。",
-          "url": "https://flash.jin10.com/detail/20260707213028871800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时12分"
-        },
-        {
-          "title": "标普500指数初步收0.7%，电信板块涨1.8%，科技板块涨1.3%，可选消费板块涨0.9%，公用事业、保健、房地产板块至多跌超1.1%。 纳斯达克100指数初步收1.3%，成分股中，AMD初步收涨7%，Astera Labs、西部数据、特斯拉、CoreWeave、高通、希捷科技至少涨约5.4%，奈飞则跌2.4%，ORLY跌6.8%，Rocket Lab跌7.8%。 费城半导体指数涨2.1%，存储芯片指数涨2%。",
-          "url": "https://wallstreetcn.com/livenews/3129548",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时49分"
-        },
-        {
-          "title": "天孚通信旗下天孚之星科技公司增资至8亿",
-          "url": "https://wallstreetcn.com/livenews/3129810",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时17分"
-        },
-        {
-          "title": "光弘科技7月7日在互动平台表示，公司已涉及各类服务器算力板卡、算力节点及散热组件的制造。目前相关业务在公司整体业务中的占比较低，但预计后续将以较快速度增长。",
-          "url": "https://flash.jin10.com/detail/20260707120608604800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时44分"
-        },
-        {
-          "title": "脑虎科技“三全”脑机接口系统启动GCP注册临床试验",
-          "url": "https://wallstreetcn.com/livenews/3129806",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时17分"
-        },
-        {
-          "title": "美股三大股指开盘涨跌不一，道指涨0.09%，标普500指数跌0.22%，纳指跌0.6%。存储概念股延续跌势，西部数据跌超8%，闪迪、美光科技跌超6%；Rivian跌超12%，公司计划通过增发股票筹集资金。SpaceX跌1.7%，今日正式纳入纳斯达克100指数。",
-          "url": "https://wallstreetcn.com/livenews/3130024",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时12分"
-        },
-        {
-          "title": "澜起科技：2025年第二次回购方案实施完成 累计回购的166.2万股将于7月8日注销",
-          "url": "https://flash.jin10.com/detail/20260707185125060800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时41分"
-        },
-        {
-          "title": "联动科技：预计上半年净利润2,100万元-2,900万元，同比增长73.39%-139.44%；报告期内，公司在手订单充裕，经营业绩实现稳健增长。",
-          "url": "https://wallstreetcn.com/livenews/3129920",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时41分"
-        },
-        {
-          "title": "纳指科技指数收盘反弹1.6%，半导体指数涨约2.2%，道指继续创收盘历史新高",
-          "url": "https://wallstreetcn.com/livenews/3129548",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时09分"
-        },
-        {
-          "title": "恒生指数主连夜盘收涨0.11%，报23571点。 恒生科技指数主连夜盘收跌0.37%，报4520点。",
-          "url": "https://wallstreetcn.com/livenews/3129528",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时49分"
-        },
-        {
-          "title": "五洲医疗：正在筹划发行股份及支付现金购买旋智电子科技（上海）有限公司控股权，股票停牌。",
-          "url": "https://wallstreetcn.com/livenews/3129915",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时41分"
-        },
-        {
-          "title": "ST海龙：收到公司第一大股东温州康南科技有限公司的通知，公司实际控制人胡兴荣先生已被有权机关采取强制措施。",
-          "url": "https://wallstreetcn.com/livenews/3129914",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时41分"
-        },
-        {
-          "title": "新思科技停产部分传统EDA软件",
-          "url": "https://wallstreetcn.com/livenews/3129787",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时17分"
-        },
-        {
-          "title": "广合科技：预计上半年净利润9.1亿元-9.6亿元，同比增长85.12%-95.29%",
-          "url": "https://wallstreetcn.com/livenews/3129911",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时41分"
-        }
-      ]
-    },
-    {
       "keyword_group": "伊朗",
-      "match_count": 12,
-      "titles": [
-        {
-          "title": "现场：伊朗民众向灵车抛投鲜花、头巾",
-          "url": "https://news.ifeng.com/c/8uXrYG1lG4D",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时14分 ~ 08时02分]"
-        },
-        {
-          "title": "欧洲央行管委Wunsch：似乎伊朗冲击已经消退，我们尚未看到太多的第二轮（通胀）效应。 我们可能还得（围绕货币政策）采取更多行动，但形势并不要求央行大幅紧缩。 不排除央行再次（采取加息）行动，但不要让我们等太久。",
-          "url": "https://wallstreetcn.com/livenews/3129484",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时15分"
-        },
-        {
-          "title": "欧洲央行管委温施：伊朗冲击似乎已经消失，我们没有看到太多的二次效应。",
-          "url": "https://flash.jin10.com/detail/20260706235245506800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时15分"
-        },
-        {
-          "title": "加拿大央行：伊朗停火后，加拿大企业的通胀预期有所缓解",
-          "url": "https://wallstreetcn.com/livenews/3129481",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时15分"
-        },
-        {
-          "title": "民调：多数美国人认为特朗普在伊朗战争中得不偿失 拖累中期选举",
-          "url": "https://www.cls.cn/detail/2417917",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时52分 ~ 06时09分]"
-        },
-        {
-          "title": "伊朗最高领袖发布任免令",
-          "url": "https://news.ifeng.com/c/8uX0AQwmuwO",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时14分 ~ 00时15分]"
-        },
-        {
-          "title": "送葬与袭船同步发生，伊朗在关键节点对外释放两大信号",
-          "url": "https://news.ifeng.com/c/8uZB2jJTHNt",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时40分 ~ 19时41分]"
-        },
-        {
-          "title": "穆迪评级：伊朗冲突进一步凸显了澳大利亚作为关键液化天然气供应国的地位，尽管其面临的政策风险正在上升。",
-          "url": "https://flash.jin10.com/detail/20260707074325105800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时02分"
-        },
-        {
-          "title": "以色列官员：即使美国与伊朗达成协议，以方仍将保留对伊朗发动军事打击的能力选项。",
-          "url": "https://flash.jin10.com/detail/20260707040531988800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时49分"
-        },
-        {
-          "title": "欧洲央行执委Schnabel：管道压力和供应链压力仍然偏高。 不可以简单地看淡（与伊朗战争相关的）冲击。",
-          "url": "https://wallstreetcn.com/livenews/3129462",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时15分"
-        },
-        {
-          "title": "伊朗最高国家安全委员会秘书回应特朗普：请以尊重的态度同伊朗人民对话，否则我们将以另一种方式予以回击。",
-          "url": "https://wallstreetcn.com/livenews/3129533",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时49分"
-        },
-        {
-          "title": "特朗普：土耳其从美国购买了飞机。 土耳其曾协助试图结束我们与伊朗的战争。",
-          "url": "https://wallstreetcn.com/livenews/3130013",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时12分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金融",
       "match_count": 5,
       "titles": [
         {
-          "title": "日本最高外汇事务官员三村淳：近期就汇率波动与韩国外汇当局保持密切联系。 韩国与日本的金融市场有时表现出相似的走势。",
-          "url": "https://wallstreetcn.com/livenews/3129821",
+          "title": "以色列总理内塔尼亚胡：我对通过谈判终止伊朗核计划持怀疑态度。",
+          "url": "https://flash.jin10.com/detail/20260708003937778800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时08分"
+        },
+        {
+          "title": "以色列总理内塔尼亚胡：现在谈论伊朗局势会如何发展还为时过早。",
+          "url": "https://flash.jin10.com/detail/20260708003908082800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时08分"
+        },
+        {
+          "title": "伊朗向联合国提交文件 主张有权控制霍尔木兹海峡“部分”水域",
+          "url": "https://wallstreetcn.com/livenews/3130097",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时08分"
+        },
+        {
+          "title": "据伊朗新闻电视台：一名官员称，美国任何“挑衅性行动”都将遭到伊朗立即且坚决的回应。",
+          "url": "https://flash.jin10.com/detail/20260708002000398800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时08分"
+        },
+        {
+          "title": "据伊朗新闻电视台：一名官员称，霍尔木兹海峡的航运通行正按照伊朗的安排进行。",
+          "url": "https://flash.jin10.com/detail/20260708001904730800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时08分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "微软在部分应用中以自研AI模型替代OpenAI和Anthropic",
+          "url": "https://wallstreetcn.com/livenews/3130102",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时17分"
+          "time_info": "01时08分"
         },
         {
-          "title": "中国人民银行、香港金融管理局、香港证监会发布关于在港建设交易平台的联合公告",
-          "url": "https://wallstreetcn.com/livenews/3129950",
-          "source": "华尔街见闻-快讯",
+          "title": "微软部分应用改用自研AI 替代OpenAI和Anthropic",
+          "url": "https://flash.jin10.com/detail/20260708003008011800",
+          "source": "金十数据",
           "ranks": [
             6
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时41分"
+          "time_info": "01时08分"
         },
         {
-          "title": "英国监管机构审查凸显金融服务AI风险",
-          "url": "https://wallstreetcn.com/livenews/3129510",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时52分"
-        },
-        {
-          "title": "潘功胜：坚定维护香港的金融稳定与金融安全",
-          "url": "https://wallstreetcn.com/livenews/3129721",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时44分"
-        },
-        {
-          "title": "英国央行行长贝利：金融政策委员会对杠杆改革进行了特别深入的讨论，内容复杂。",
-          "url": "https://flash.jin10.com/detail/20260707184553778800",
+          "title": "市场消息：微软(MSFT.O)在部分应用中以自研AI模型取代OpenAI和Anthropic的模型。<br/>",
+          "url": "https://flash.jin10.com/detail/20260708002232140800",
           "source": "金十数据",
           "ranks": [
-            29
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时08分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "科技",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "闪迪、美光科技跌超6%",
+          "url": "https://www.baidu.com/s?wd=%E9%97%AA%E8%BF%AA%E3%80%81%E7%BE%8E%E5%85%89%E7%A7%91%E6%8A%80%E8%B7%8C%E8%B6%856%25",
+          "source": "百度热搜",
+          "ranks": [
+            16
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时07分 ~ 01时08分]"
+        },
+        {
+          "title": "阿波罗首席经济学家：美股七巨头以外公司利润率停滞对科技巨头估值构成风险",
+          "url": "https://wallstreetcn.com/livenews/3130079",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时41分"
+          "time_info": "01时08分"
         }
       ]
     },
     {
       "keyword_group": "消费",
-      "match_count": 4,
+      "match_count": 2,
       "titles": [
-        {
-          "title": "华为 PuraXMax 折叠手机销量突破 45 万台，典藏版卖得更好反映了哪些消费趋势？",
-          "url": "https://www.zhihu.com/question/2056128489472915373",
-          "source": "知乎",
-          "ranks": [
-            19,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时52分 ~ 04时49分]"
-        },
-        {
-          "title": "天津星巴克放置「消费入座」提示牌，且网友一边倒地支持，如何看待这种「消费才能坐」的经营规则，你支持吗？",
-          "url": "https://www.zhihu.com/question/2057459142361609119",
-          "source": "知乎",
-          "ranks": [
-            18,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时44分 ~ 16时17分]"
-        },
         {
           "title": "两融价格战压顶！利率卷到3%以下，竟比消费贷还低",
           "url": "https://www.cls.cn/detail/2419498",
           "source": "财联社热门",
           "ranks": [
-            7
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时07分 ~ 01时08分]"
+        },
+        {
+          "title": "EIA：预计全美电力部门天然气消费明年将创纪录",
+          "url": "https://flash.jin10.com/detail/20260708001853368800",
+          "source": "金十数据",
+          "ranks": [
+            14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时12分"
-        },
-        {
-          "title": "沃尔玛：旗下山姆会员店将继续提供具有竞争力的燃油价格，并已下调超过250种商品价格以提升消费价值。",
-          "url": "https://flash.jin10.com/detail/20260707051147921800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时09分"
+          "time_info": "01时08分"
         }
       ]
     },
     {
       "keyword_group": "美元",
-      "match_count": 4,
+      "match_count": 2,
       "titles": [
-        {
-          "title": "周一（7月6日）纽约尾盘，ICE美元指数涨0.02%，报100.876点，日内交投区间为101.145-100.840点，亚太盘初至北京时间18:06持续上扬，经过一段时间的高位窄幅震荡之后，从23:00开始回落。 彭博美元指数跌0.02%，报1218.84点，日内交投区间为1220.46-1218.60点。",
-          "url": "https://wallstreetcn.com/livenews/3129543",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时49分 ~ 06时09分]"
-        },
         {
           "title": "美元指数大幅上升，我国6月外储规模环比下跌，央行连续20个月增持购金",
           "url": "https://www.cls.cn/detail/2419496",
           "source": "财联社热门",
           "ranks": [
-            12
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时07分 ~ 01时08分]"
+        },
+        {
+          "title": "恒天然：7月7日全球乳品贸易（GDT）拍卖价格指数下降4.9%，奶粉各合同期FAS拍卖均价3,793美元/吨。 批发奶粉价格指数下降4.4%，报3,425美元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3130077",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时12分"
-        },
-        {
-          "title": "美元指数6日微涨",
-          "url": "https://flash.jin10.com/detail/20260707045644750800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时09分"
-        },
-        {
-          "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨1.01%，暂报2257.60点，北京时间20:00以来呈现出V形反转走势。 MarketVectorTM数字资产100中盘指数涨1.70%，报2633.91点。 MarketVector数字资产100指数涨1.36，报12739.11点。 目前，Solana涨1.30%，狗狗币跌0.65%，XRP涨1.43%。 比特币涨1.50%，暂报63675.80美元；以太坊涨0.65%，暂报1791.66美元。",
-          "url": "https://wallstreetcn.com/livenews/3129509",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时52分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "医药",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "【每日收评】创业板指冲高回落跌1.77%，算力硬件股持续调整，煤炭、医药防御性板块逆势走强",
-          "url": "https://www.cls.cn/detail/2418067",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时14分 ~ 08时02分]"
-        },
-        {
-          "title": "翻倍基数量急速“瘦身”，由202只骤降至56只，医药正逆袭？",
-          "url": "https://www.cls.cn/detail/2418675",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时44分 ~ 16时17分]"
-        },
-        {
-          "title": "国家医保局：医药企业切勿采取违法违规手段干扰集采，否则后果自负",
-          "url": "https://wallstreetcn.com/livenews/3129928",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时41分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "深圳",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "深圳一停车场改造引发电动车占道",
-          "url": "https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E4%B8%80%E5%81%9C%E8%BD%A6%E5%9C%BA%E6%94%B9%E9%80%A0%E5%BC%95%E5%8F%91%E7%94%B5%E5%8A%A8%E8%BD%A6%E5%8D%A0%E9%81%93",
-          "source": "百度热搜",
-          "ranks": [
-            27,
-            23,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时52分 ~ 06时09分]"
-        },
-        {
-          "title": "重庆开往深圳等方向多趟列车停运",
-          "url": "https://www.baidu.com/s?wd=%E9%87%8D%E5%BA%86%E5%BC%80%E5%BE%80%E6%B7%B1%E5%9C%B3%E7%AD%89%E6%96%B9%E5%90%91%E5%A4%9A%E8%B6%9F%E5%88%97%E8%BD%A6%E5%81%9C%E8%BF%90",
-          "source": "百度热搜",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时49分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "房价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "房价什么时候回到2021年的高点",
-          "url": "https://www.toutiao.com/trending/7659379320011361833/",
-          "source": "今日头条",
-          "ranks": [
-            6,
-            10,
-            15,
-            17,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时14分 ~ 08时02分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "资源",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "法院没否认四叶花是公共文化资源",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%B3%95%E9%99%A2%E6%B2%A1%E5%90%A6%E8%AE%A4%E5%9B%9B%E5%8F%B6%E8%8A%B1%E6%98%AF%E5%85%AC%E5%85%B1%E6%96%87%E5%8C%96%E8%B5%84%E6%BA%90%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时40分 ~ 19时41分]"
+          "time_info": "01时08分"
         }
       ]
     },
@@ -685,32 +192,32 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "Alphabet旗下谷歌公司宣布，已向总部位于德国的Proxima Fusion提供4.11亿欧元（约合4.68亿美元）的融资，支持其建造欧洲首座商业聚变发电厂。",
-          "url": "https://wallstreetcn.com/livenews/3130034",
+          "title": "谷歌公司：Gemini API中受管理的Agents具备新的能力。",
+          "url": "https://wallstreetcn.com/livenews/3130107",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时12分"
+          "time_info": "01时08分"
         }
       ]
     },
     {
-      "keyword_group": "金价",
+      "keyword_group": "旅游",
       "match_count": 1,
       "titles": [
         {
-          "title": "金价在4100上方等纪要，短线追价交易减少",
-          "url": "https://flash.jin10.com/detail/20260707115151725800",
-          "source": "金十数据",
+          "title": "国务院原则同意《旅游强国建设“十五五”规划》",
+          "url": "https://www.cls.cn/detail/2419268",
+          "source": "财联社热门",
           "ranks": [
-            24
+            12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时44分"
+          "appearance_count": 2,
+          "time_info": "[01时07分 ~ 01时08分]"
         }
       ]
     }
