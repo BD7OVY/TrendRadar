@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-07T16:17:35.005410+08:00",
-  "total_titles_processed": 1110,
+  "generated_at": "2026-07-07T19:41:00.279695+08:00",
+  "total_titles_processed": 1294,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "科技",
-      "match_count": 15,
+      "match_count": 21,
       "titles": [
         {
           "title": "博杰股份7月7日在互动平台表示，公司与宇树科技暂无直接业务合作。",
@@ -14,7 +14,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时17分"
         },
@@ -99,6 +99,17 @@
           "time_info": "08时02分"
         },
         {
+          "title": "荷兰国际集团：科技投资者重新审视AI投资",
+          "url": "https://flash.jin10.com/detail/20260707190544697800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时41分"
+        },
+        {
           "title": "标普500指数初步收0.7%，电信板块涨1.8%，科技板块涨1.3%，可选消费板块涨0.9%，公用事业、保健、房地产板块至多跌超1.1%。 纳斯达克100指数初步收1.3%，成分股中，AMD初步收涨7%，Astera Labs、西部数据、特斯拉、CoreWeave、高通、希捷科技至少涨约5.4%，奈飞则跌2.4%，ORLY跌6.8%，Rocket Lab跌7.8%。 费城半导体指数涨2.1%，存储芯片指数涨2%。",
           "url": "https://wallstreetcn.com/livenews/3129548",
           "source": "华尔街见闻-快讯",
@@ -116,7 +127,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时17分"
         },
@@ -138,9 +149,31 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时17分"
+        },
+        {
+          "title": "澜起科技：2025年第二次回购方案实施完成 累计回购的166.2万股将于7月8日注销",
+          "url": "https://flash.jin10.com/detail/20260707185125060800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时41分"
+        },
+        {
+          "title": "联动科技：预计上半年净利润2,100万元-2,900万元，同比增长73.39%-139.44%；报告期内，公司在手订单充裕，经营业绩实现稳健增长。",
+          "url": "https://wallstreetcn.com/livenews/3129920",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时41分"
         },
         {
           "title": "纳指科技指数收盘反弹1.6%，半导体指数涨约2.2%，道指继续创收盘历史新高",
@@ -165,21 +198,54 @@
           "time_info": "04时49分"
         },
         {
+          "title": "五洲医疗：正在筹划发行股份及支付现金购买旋智电子科技（上海）有限公司控股权，股票停牌。",
+          "url": "https://wallstreetcn.com/livenews/3129915",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时41分"
+        },
+        {
+          "title": "ST海龙：收到公司第一大股东温州康南科技有限公司的通知，公司实际控制人胡兴荣先生已被有权机关采取强制措施。",
+          "url": "https://wallstreetcn.com/livenews/3129914",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时41分"
+        },
+        {
           "title": "新思科技停产部分传统EDA软件",
           "url": "https://wallstreetcn.com/livenews/3129787",
           "source": "华尔街见闻-快讯",
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时17分"
+        },
+        {
+          "title": "广合科技：预计上半年净利润9.1亿元-9.6亿元，同比增长85.12%-95.29%",
+          "url": "https://wallstreetcn.com/livenews/3129911",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时41分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "现场：伊朗民众向灵车抛投鲜花、头巾",
@@ -251,6 +317,17 @@
           "time_info": "[00时14分 ~ 00时15分]"
         },
         {
+          "title": "送葬与袭船同步发生，伊朗在关键节点对外释放两大信号",
+          "url": "https://news.ifeng.com/c/8uZB2jJTHNt",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时40分 ~ 19时41分]"
+        },
+        {
           "title": "穆迪评级：伊朗冲突进一步凸显了澳大利亚作为关键液化天然气供应国的地位，尽管其面临的政策风险正在上升。",
           "url": "https://flash.jin10.com/detail/20260707074325105800",
           "source": "金十数据",
@@ -298,7 +375,7 @@
     },
     {
       "keyword_group": "金融",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "日本最高外汇事务官员三村淳：近期就汇率波动与韩国外汇当局保持密切联系。 韩国与日本的金融市场有时表现出相似的走势。",
@@ -307,9 +384,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时17分"
+        },
+        {
+          "title": "中国人民银行、香港金融管理局、香港证监会发布关于在港建设交易平台的联合公告",
+          "url": "https://wallstreetcn.com/livenews/3129950",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时41分"
         },
         {
           "title": "英国监管机构审查凸显金融服务AI风险",
@@ -332,6 +420,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时44分"
+        },
+        {
+          "title": "英国央行行长贝利：金融政策委员会对杠杆改革进行了特别深入的讨论，内容复杂。",
+          "url": "https://flash.jin10.com/detail/20260707184553778800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时41分"
         }
       ]
     },
@@ -377,6 +476,48 @@
       ]
     },
     {
+      "keyword_group": "医药",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "【每日收评】创业板指冲高回落跌1.77%，算力硬件股持续调整，煤炭、医药防御性板块逆势走强",
+          "url": "https://www.cls.cn/detail/2418067",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时14分 ~ 08时02分]"
+        },
+        {
+          "title": "翻倍基数量急速“瘦身”，由202只骤降至56只，医药正逆袭？",
+          "url": "https://www.cls.cn/detail/2418675",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时44分 ~ 16时17分]"
+        },
+        {
+          "title": "国家医保局：医药企业切勿采取违法违规手段干扰集采，否则后果自负",
+          "url": "https://wallstreetcn.com/livenews/3129928",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时41分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美元",
       "match_count": 3,
       "titles": [
@@ -413,37 +554,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时52分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "医药",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "【每日收评】创业板指冲高回落跌1.77%，算力硬件股持续调整，煤炭、医药防御性板块逆势走强",
-          "url": "https://www.cls.cn/detail/2418067",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时14分 ~ 08时02分]"
-        },
-        {
-          "title": "翻倍基数量急速“瘦身”，由202只骤降至56只，医药正逆袭？",
-          "url": "https://www.cls.cn/detail/2418675",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时44分 ~ 16时17分]"
         }
       ]
     },
@@ -495,6 +605,23 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时14分 ~ 08时02分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "资源",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "法院没否认四叶花是公共文化资源",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%B3%95%E9%99%A2%E6%B2%A1%E5%90%A6%E8%AE%A4%E5%9B%9B%E5%8F%B6%E8%8A%B1%E6%98%AF%E5%85%AC%E5%85%B1%E6%96%87%E5%8C%96%E8%B5%84%E6%BA%90%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时40分 ~ 19时41分]"
         }
       ]
     },
