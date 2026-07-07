@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-07-07T12:44:46.901255+08:00",
-  "total_titles_processed": 940,
+  "generated_at": "2026-07-07T16:17:35.005410+08:00",
+  "total_titles_processed": 1110,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "科技",
-      "match_count": 11,
+      "match_count": 15,
       "titles": [
+        {
+          "title": "博杰股份7月7日在互动平台表示，公司与宇树科技暂无直接业务合作。",
+          "url": "https://flash.jin10.com/detail/20260707154404313800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时17分"
+        },
         {
           "title": "科技股领涨推动美股反弹，道指首次站上5.3万点，油金承压，比特币随特朗普表态飙升",
           "url": "https://wallstreetcn.com/articles/3776262",
@@ -29,6 +40,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时49分 ~ 06时09分]"
+        },
+        {
+          "title": "三星电子公布最新季报，预计二季度利润同比暴增 1810%，如何看待这份财报？科技行情还能继续吗？",
+          "url": "https://www.zhihu.com/question/2057735732068979803",
+          "source": "知乎",
+          "ranks": [
+            14,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时44分 ~ 16时17分]"
         },
         {
           "title": "科技股遭对冲基金连抛四周，高盛交易员：“买入一切AI”时代终结！",
@@ -87,15 +110,15 @@
           "time_info": "04时49分"
         },
         {
-          "title": "三星电子公布最新季报，预计二季度利润同比暴增 1810%，如何看待这份财报？科技行情还能继续吗？",
-          "url": "https://www.zhihu.com/question/2057735732068979803",
-          "source": "知乎",
+          "title": "天孚通信旗下天孚之星科技公司增资至8亿",
+          "url": "https://wallstreetcn.com/livenews/3129810",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            14
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时44分"
+          "time_info": "16时17分"
         },
         {
           "title": "光弘科技7月7日在互动平台表示，公司已涉及各类服务器算力板卡、算力节点及散热组件的制造。目前相关业务在公司整体业务中的占比较低，但预计后续将以较快速度增长。",
@@ -104,9 +127,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时44分"
+        },
+        {
+          "title": "脑虎科技“三全”脑机接口系统启动GCP注册临床试验",
+          "url": "https://wallstreetcn.com/livenews/3129806",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时17分"
         },
         {
           "title": "纳指科技指数收盘反弹1.6%，半导体指数涨约2.2%，道指继续创收盘历史新高",
@@ -129,6 +163,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时49分"
+        },
+        {
+          "title": "新思科技停产部分传统EDA软件",
+          "url": "https://wallstreetcn.com/livenews/3129787",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时17分"
         }
       ]
     },
@@ -252,6 +297,45 @@
       ]
     },
     {
+      "keyword_group": "金融",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "日本最高外汇事务官员三村淳：近期就汇率波动与韩国外汇当局保持密切联系。 韩国与日本的金融市场有时表现出相似的走势。",
+          "url": "https://wallstreetcn.com/livenews/3129821",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时17分"
+        },
+        {
+          "title": "英国监管机构审查凸显金融服务AI风险",
+          "url": "https://wallstreetcn.com/livenews/3129510",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时52分"
+        },
+        {
+          "title": "潘功胜：坚定维护香港的金融稳定与金融安全",
+          "url": "https://wallstreetcn.com/livenews/3129721",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时44分"
+        }
+      ]
+    },
+    {
       "keyword_group": "消费",
       "match_count": 3,
       "titles": [
@@ -268,6 +352,18 @@
           "time_info": "[02时52分 ~ 04时49分]"
         },
         {
+          "title": "天津星巴克放置「消费入座」提示牌，且网友一边倒地支持，如何看待这种「消费才能坐」的经营规则，你支持吗？",
+          "url": "https://www.zhihu.com/question/2057459142361609119",
+          "source": "知乎",
+          "ranks": [
+            18,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时44分 ~ 16时17分]"
+        },
+        {
           "title": "沃尔玛：旗下山姆会员店将继续提供具有竞争力的燃油价格，并已下调超过250种商品价格以提升消费价值。",
           "url": "https://flash.jin10.com/detail/20260707051147921800",
           "source": "金十数据",
@@ -277,17 +373,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时09分"
-        },
-        {
-          "title": "天津星巴克放置「消费入座」提示牌，且网友一边倒地支持，如何看待这种「消费才能坐」的经营规则，你支持吗？",
-          "url": "https://www.zhihu.com/question/2057459142361609119",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时44分"
         }
       ]
     },
@@ -332,34 +417,6 @@
       ]
     },
     {
-      "keyword_group": "金融",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "英国监管机构审查凸显金融服务AI风险",
-          "url": "https://wallstreetcn.com/livenews/3129510",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时52分"
-        },
-        {
-          "title": "潘功胜：坚定维护香港的金融稳定与金融安全",
-          "url": "https://wallstreetcn.com/livenews/3129721",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时44分"
-        }
-      ]
-    },
-    {
       "keyword_group": "医药",
       "match_count": 2,
       "titles": [
@@ -381,11 +438,12 @@
           "url": "https://www.cls.cn/detail/2418675",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时44分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时44分 ~ 16时17分]"
         }
       ]
     },
@@ -451,7 +509,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时44分"
         }
