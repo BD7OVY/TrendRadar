@@ -1,8 +1,137 @@
 {
-  "generated_at": "2026-07-07T08:02:37.452763+08:00",
-  "total_titles_processed": 702,
+  "generated_at": "2026-07-07T12:44:46.901255+08:00",
+  "total_titles_processed": 940,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "科技",
+      "match_count": 11,
+      "titles": [
+        {
+          "title": "科技股领涨推动美股反弹，道指首次站上5.3万点，油金承压，比特币随特朗普表态飙升",
+          "url": "https://wallstreetcn.com/articles/3776262",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时09分"
+        },
+        {
+          "title": "北美科技软件股指数ETF涨1.30%，报94.79美元。 Global X网络安全ETF涨3.41%，纳斯达克网络安全ETF涨2.47%，ETFMG网络安全ETF涨3.08%",
+          "url": "https://wallstreetcn.com/livenews/3129560",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时49分 ~ 06时09分]"
+        },
+        {
+          "title": "科技股遭对冲基金连抛四周，高盛交易员：“买入一切AI”时代终结！",
+          "url": "https://wallstreetcn.com/articles/3776266",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时02分 ~ 12时44分]"
+        },
+        {
+          "title": "周一（7月6日），美股行业ETF多数收涨，全球科技股指数ETF涨2.18%，半导体ETF涨2.03%，科技行业ETF、网络股指数ETF至多涨1.67%，能源业ETF、生物科技指数ETF则至多收跌0.20%，公用事业ETF、医疗业ETF、日常消费品ETF至多跌1.05%。 标普500指数的11个板块中，电信板块收涨1.64%，信息技术/科技板块涨1.34%，房地产、日用消费品板块跌0.9%，公用事业、保健板块至多跌1.17%。",
+          "url": "https://wallstreetcn.com/livenews/3129551",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时49分 ~ 06时09分]"
+        },
+        {
+          "title": "美股存储芯片股盘后普跌，闪迪(SNDK.O)现跌3.5%，美光科技(MU.O)跌2.3%，希捷科技(STX.O)跌2%，西部数据(WDC.O)跌2.8%。",
+          "url": "https://flash.jin10.com/detail/20260707074846278800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时02分"
+        },
+        {
+          "title": "金十数据整理：每日科技要闻速递（7月7日）",
+          "url": "https://flash.jin10.com/detail/20260707074539449800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时02分"
+        },
+        {
+          "title": "标普500指数初步收0.7%，电信板块涨1.8%，科技板块涨1.3%，可选消费板块涨0.9%，公用事业、保健、房地产板块至多跌超1.1%。 纳斯达克100指数初步收1.3%，成分股中，AMD初步收涨7%，Astera Labs、西部数据、特斯拉、CoreWeave、高通、希捷科技至少涨约5.4%，奈飞则跌2.4%，ORLY跌6.8%，Rocket Lab跌7.8%。 费城半导体指数涨2.1%，存储芯片指数涨2%。",
+          "url": "https://wallstreetcn.com/livenews/3129548",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时49分"
+        },
+        {
+          "title": "三星电子公布最新季报，预计二季度利润同比暴增 1810%，如何看待这份财报？科技行情还能继续吗？",
+          "url": "https://www.zhihu.com/question/2057735732068979803",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时44分"
+        },
+        {
+          "title": "光弘科技7月7日在互动平台表示，公司已涉及各类服务器算力板卡、算力节点及散热组件的制造。目前相关业务在公司整体业务中的占比较低，但预计后续将以较快速度增长。",
+          "url": "https://flash.jin10.com/detail/20260707120608604800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时44分"
+        },
+        {
+          "title": "纳指科技指数收盘反弹1.6%，半导体指数涨约2.2%，道指继续创收盘历史新高",
+          "url": "https://wallstreetcn.com/livenews/3129548",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时09分"
+        },
+        {
+          "title": "恒生指数主连夜盘收涨0.11%，报23571点。 恒生科技指数主连夜盘收跌0.37%，报4520点。",
+          "url": "https://wallstreetcn.com/livenews/3129528",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时49分"
+        }
+      ]
+    },
     {
       "keyword_group": "伊朗",
       "match_count": 10,
@@ -83,7 +212,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时02分"
         },
@@ -123,109 +252,42 @@
       ]
     },
     {
-      "keyword_group": "科技",
-      "match_count": 9,
+      "keyword_group": "消费",
+      "match_count": 3,
       "titles": [
         {
-          "title": "科技股领涨推动美股反弹，道指首次站上5.3万点，油金承压，比特币随特朗普表态飙升",
-          "url": "https://wallstreetcn.com/articles/3776262",
-          "source": "华尔街见闻",
+          "title": "华为 PuraXMax 折叠手机销量突破 45 万台，典藏版卖得更好反映了哪些消费趋势？",
+          "url": "https://www.zhihu.com/question/2056128489472915373",
+          "source": "知乎",
           "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时09分"
-        },
-        {
-          "title": "北美科技软件股指数ETF涨1.30%，报94.79美元。 Global X网络安全ETF涨3.41%，纳斯达克网络安全ETF涨2.47%，ETFMG网络安全ETF涨3.08%",
-          "url": "https://wallstreetcn.com/livenews/3129560",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            19
+            19,
+            15
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[04时49分 ~ 06时09分]"
+          "time_info": "[02时52分 ~ 04时49分]"
         },
         {
-          "title": "周一（7月6日），美股行业ETF多数收涨，全球科技股指数ETF涨2.18%，半导体ETF涨2.03%，科技行业ETF、网络股指数ETF至多涨1.67%，能源业ETF、生物科技指数ETF则至多收跌0.20%，公用事业ETF、医疗业ETF、日常消费品ETF至多跌1.05%。 标普500指数的11个板块中，电信板块收涨1.64%，信息技术/科技板块涨1.34%，房地产、日用消费品板块跌0.9%，公用事业、保健板块至多跌1.17%。",
-          "url": "https://wallstreetcn.com/livenews/3129551",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时49分 ~ 06时09分]"
-        },
-        {
-          "title": "美股存储芯片股盘后普跌，闪迪(SNDK.O)现跌3.5%，美光科技(MU.O)跌2.3%，希捷科技(STX.O)跌2%，西部数据(WDC.O)跌2.8%。",
-          "url": "https://flash.jin10.com/detail/20260707074846278800",
+          "title": "沃尔玛：旗下山姆会员店将继续提供具有竞争力的燃油价格，并已下调超过250种商品价格以提升消费价值。",
+          "url": "https://flash.jin10.com/detail/20260707051147921800",
           "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时02分"
-        },
-        {
-          "title": "金十数据整理：每日科技要闻速递（7月7日）",
-          "url": "https://flash.jin10.com/detail/20260707074539449800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时02分"
-        },
-        {
-          "title": "科技股遭对冲基金连抛四周，高盛交易员：“买入一切AI”时代终结！",
-          "url": "https://wallstreetcn.com/articles/3776266",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时02分"
-        },
-        {
-          "title": "标普500指数初步收0.7%，电信板块涨1.8%，科技板块涨1.3%，可选消费板块涨0.9%，公用事业、保健、房地产板块至多跌超1.1%。 纳斯达克100指数初步收1.3%，成分股中，AMD初步收涨7%，Astera Labs、西部数据、特斯拉、CoreWeave、高通、希捷科技至少涨约5.4%，奈飞则跌2.4%，ORLY跌6.8%，Rocket Lab跌7.8%。 费城半导体指数涨2.1%，存储芯片指数涨2%。",
-          "url": "https://wallstreetcn.com/livenews/3129548",
-          "source": "华尔街见闻-快讯",
           "ranks": [
             12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时49分"
-        },
-        {
-          "title": "纳指科技指数收盘反弹1.6%，半导体指数涨约2.2%，道指继续创收盘历史新高",
-          "url": "https://wallstreetcn.com/livenews/3129548",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
           "time_info": "06时09分"
         },
         {
-          "title": "恒生指数主连夜盘收涨0.11%，报23571点。 恒生科技指数主连夜盘收跌0.37%，报4520点。",
-          "url": "https://wallstreetcn.com/livenews/3129528",
-          "source": "华尔街见闻-快讯",
+          "title": "天津星巴克放置「消费入座」提示牌，且网友一边倒地支持，如何看待这种「消费才能坐」的经营规则，你支持吗？",
+          "url": "https://www.zhihu.com/question/2057459142361609119",
+          "source": "知乎",
           "ranks": [
-            28
+            18
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时49分"
+          "time_info": "12时44分"
         }
       ]
     },
@@ -270,31 +332,60 @@
       ]
     },
     {
-      "keyword_group": "消费",
+      "keyword_group": "金融",
       "match_count": 2,
       "titles": [
         {
-          "title": "华为 PuraXMax 折叠手机销量突破 45 万台，典藏版卖得更好反映了哪些消费趋势？",
-          "url": "https://www.zhihu.com/question/2056128489472915373",
-          "source": "知乎",
+          "title": "英国监管机构审查凸显金融服务AI风险",
+          "url": "https://wallstreetcn.com/livenews/3129510",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            19,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时52分 ~ 04时49分]"
-        },
-        {
-          "title": "沃尔玛：旗下山姆会员店将继续提供具有竞争力的燃油价格，并已下调超过250种商品价格以提升消费价值。",
-          "url": "https://flash.jin10.com/detail/20260707051147921800",
-          "source": "金十数据",
-          "ranks": [
-            12
+            13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时09分"
+          "time_info": "02时52分"
+        },
+        {
+          "title": "潘功胜：坚定维护香港的金融稳定与金融安全",
+          "url": "https://wallstreetcn.com/livenews/3129721",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时44分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "医药",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "【每日收评】创业板指冲高回落跌1.77%，算力硬件股持续调整，煤炭、医药防御性板块逆势走强",
+          "url": "https://www.cls.cn/detail/2418067",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时14分 ~ 08时02分]"
+        },
+        {
+          "title": "翻倍基数量急速“瘦身”，由202只骤降至56只，医药正逆袭？",
+          "url": "https://www.cls.cn/detail/2418675",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时44分"
         }
       ]
     },
@@ -350,38 +441,19 @@
       ]
     },
     {
-      "keyword_group": "金融",
+      "keyword_group": "金价",
       "match_count": 1,
       "titles": [
         {
-          "title": "英国监管机构审查凸显金融服务AI风险",
-          "url": "https://wallstreetcn.com/livenews/3129510",
-          "source": "华尔街见闻-快讯",
+          "title": "金价在4100上方等纪要，短线追价交易减少",
+          "url": "https://flash.jin10.com/detail/20260707115151725800",
+          "source": "金十数据",
           "ranks": [
-            13
+            24
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时52分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "医药",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "【每日收评】创业板指冲高回落跌1.77%，算力硬件股持续调整，煤炭、医药防御性板块逆势走强",
-          "url": "https://www.cls.cn/detail/2418067",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时14分 ~ 08时02分]"
+          "time_info": "12时44分"
         }
       ]
     }
