@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-07-08T16:13:32.287684+08:00",
-  "total_titles_processed": 1167,
+  "generated_at": "2026-07-08T18:57:28.679257+08:00",
+  "total_titles_processed": 1338,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 95,
+      "match_count": 103,
       "titles": [
+        {
+          "title": "霍尔木兹冲击波！美国撤销伊朗石油销售豁免，美军称开始对伊发动强力打击",
+          "url": "https://wallstreetcn.com/articles/3776409",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时57分 ~ 18时57分]"
+        },
         {
           "title": "美军：开始对伊朗发动系列打击",
           "url": "https://www.cls.cn/detail/2419769",
@@ -33,15 +44,16 @@
           "time_info": "[06时54分 ~ 09时58分]"
         },
         {
-          "title": "霍尔木兹冲击波！美国撤销伊朗石油销售豁免，美军称开始对伊发动强力打击",
-          "url": "https://wallstreetcn.com/articles/3776409",
-          "source": "华尔街见闻",
+          "title": "伊朗总统缺席哈梅内伊送葬仪式，从伊拉克紧急回国",
+          "url": "https://news.ifeng.com/c/8uaIcKZ6By5",
+          "source": "凤凰网",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时57分 ~ 16时13分]"
+          "appearance_count": 3,
+          "time_info": "[13时19分 ~ 18时57分]"
         },
         {
           "title": "伊朗严正警告美国",
@@ -56,15 +68,16 @@
           "time_info": "[07时52分 ~ 09时58分]"
         },
         {
-          "title": "伊朗总统缺席哈梅内伊送葬仪式，从伊拉克紧急回国",
-          "url": "https://news.ifeng.com/c/8uaIcKZ6By5",
+          "title": "伊朗革命卫队反击：打击了85个美国军事目标",
+          "url": "https://news.ifeng.com/c/8uadsQoFuXq",
           "source": "凤凰网",
           "ranks": [
-            2
+            1,
+            4
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时19分 ~ 16时13分]"
+          "time_info": "[16时13分 ~ 18时57分]"
         },
         {
           "title": "美伊和平又生变数？美军发动攻击伊朗强硬回应，症结仍在霍尔木兹！",
@@ -90,6 +103,18 @@
           "time_info": "[09时57分 ~ 09时58分]"
         },
         {
+          "title": "伊朗议长：霸凌与敲诈的时代已经结束",
+          "url": "https://news.ifeng.com/c/8uanFtiMlYj",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时13分 ~ 18时57分]"
+        },
+        {
           "title": "美军称对伊朗新一轮打击，击中超80个目标",
           "url": "https://news.ifeng.com/c/8uaXWjPtAEu",
           "source": "凤凰网",
@@ -99,17 +124,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时19分"
-        },
-        {
-          "title": "伊朗革命卫队反击：打击了85个美国军事目标",
-          "url": "https://news.ifeng.com/c/8uadsQoFuXq",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时13分"
         },
         {
           "title": "以色列总理内塔尼亚胡：我对通过谈判终止伊朗核计划持怀疑态度。",
@@ -162,7 +176,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时13分"
         },
@@ -244,6 +258,28 @@
           "time_info": "06时54分"
         },
         {
+          "title": "伊朗总统：美国在世界杯上行为体现其“霸凌”本质",
+          "url": "https://wallstreetcn.com/livenews/3130604",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时57分"
+        },
+        {
+          "title": "美伊战火重燃！特朗普称谅解备忘录“已终结”，斥伊朗人是“人渣”",
+          "url": "https://wallstreetcn.com/articles/3776459",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时57分"
+        },
+        {
           "title": "美国恢复对伊朗石油制裁",
           "url": "https://news.ifeng.com/c/8uZxW8JiojM",
           "source": "凤凰网",
@@ -266,15 +302,15 @@
           "time_info": "13时19分"
         },
         {
-          "title": "伊朗议长：霸凌与敲诈的时代已经结束",
-          "url": "https://news.ifeng.com/c/8uanFtiMlYj",
-          "source": "凤凰网",
+          "title": "伊朗称胡齐斯坦省遭美方袭击 致1死2伤",
+          "url": "https://wallstreetcn.com/livenews/3130603",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时13分"
+          "time_info": "18时57分"
         },
         {
           "title": "美国恢复对伊朗石油制裁",
@@ -300,6 +336,20 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[06时54分 ~ 13时19分]"
+        },
+        {
+          "title": "美军称开始对伊朗发动系列打击",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33539157",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            14,
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时57分 ~ 18时57分]"
         },
         {
           "title": "美军时隔10天再袭伊朗",
@@ -339,19 +389,6 @@
           "time_info": "[03时45分 ~ 05时17分]"
         },
         {
-          "title": "美军称开始对伊朗发动系列打击",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33539157",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            14,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时57分 ~ 16时13分]"
-        },
-        {
           "title": "美军称开始对伊朗发动一系列有力打击",
           "url": "https://www.toutiao.com/trending/7658946132311867455/",
           "source": "今日头条",
@@ -364,6 +401,18 @@
           "time_info": "[07时52分 ~ 09时58分]"
         },
         {
+          "title": "美军再袭伊朗致多人受伤，伊朗总统启程回国，强度是 10 天前四五倍，如何看待此轮打击？",
+          "url": "https://www.zhihu.com/question/2058125610363401206",
+          "source": "知乎",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时19分 ~ 18时57分]"
+        },
+        {
           "title": "伊朗多地传出爆炸声",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%A4%9A%E5%9C%B0%E4%BC%A0%E5%87%BA%E7%88%86%E7%82%B8%E5%A3%B0",
           "source": "百度热搜",
@@ -374,17 +423,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时52分 ~ 09时58分]"
-        },
-        {
-          "title": "美军再袭伊朗致多人受伤，伊朗总统启程回国，强度是 10 天前四五倍，如何看待此轮打击？",
-          "url": "https://www.zhihu.com/question/2058125610363401206",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时19分 ~ 16时13分]"
         },
         {
           "title": "美国原油涨约3%，美军空袭伊朗",
@@ -462,7 +500,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时13分"
         },
@@ -478,6 +516,17 @@
           "time_info": "03时45分"
         },
         {
+          "title": "伊朗海军上将西亚里：无论美方发表何种言辞，都无法让美军有胆量采取侵略行动。",
+          "url": "https://flash.jin10.com/detail/20260708183643150800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时57分"
+        },
+        {
           "title": "伊朗已故最高领袖哈梅内伊悼念活动在伊拉克南部举行",
           "url": "https://wallstreetcn.com/livenews/3130381",
           "source": "华尔街见闻-快讯",
@@ -487,6 +536,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时19分"
+        },
+        {
+          "title": "伊朗布什尔省两处军事基地遭袭",
+          "url": "https://wallstreetcn.com/livenews/3130598",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时57分"
+        },
+        {
+          "title": "伊朗打击周边国家美军基地 特朗普称美伊谅解备忘录“已终结”",
+          "url": "https://www.cls.cn/detail/2420443",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时57分"
         },
         {
           "title": "伊朗外交部发言人：卡塔尔指责伊朗袭击一艘与该国有关联船只的说法令人质疑，违背睦邻友好原则，不可接受。",
@@ -531,6 +602,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时52分"
+        },
+        {
+          "title": "伊朗海军上将西亚里：美方的言论旨在将伊朗海岸线描绘成易受军事干预的目标，美国正通过反复发表公开声明，对伊朗人民发动心理战。",
+          "url": "https://flash.jin10.com/detail/20260708183532759800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时57分"
         },
         {
           "title": "伊朗宣示霍尔木兹海峡部分水域主权，美军警告通行威胁升至“严重”！",
@@ -660,7 +742,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时13分"
         },
@@ -759,9 +841,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时13分"
+        },
+        {
+          "title": "伊总统：伊朗拒绝美方“游戏” 坚定维护自身权利",
+          "url": "https://wallstreetcn.com/livenews/3130577",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时57分"
         },
         {
           "title": "伊朗总统启程回国",
@@ -1045,7 +1138,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时13分"
         },
@@ -1056,7 +1149,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时13分"
         },
@@ -1067,7 +1160,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时13分"
         }
@@ -1075,7 +1168,7 @@
     },
     {
       "keyword_group": "科技",
-      "match_count": 24,
+      "match_count": 26,
       "titles": [
         {
           "title": "【早报】美方：强力打击伊朗、终止对伊油制裁豁免；美股科技股集体跳水；原油大涨、黄金收跌；阿根廷3-2逆转埃及",
@@ -1088,6 +1181,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[07时52分 ~ 16时13分]"
+        },
+        {
+          "title": "国家最高科技奖揭晓",
+          "url": "https://www.douyin.com/hot/2562960",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时13分 ~ 18时57分]"
         },
         {
           "title": "广合科技(01989.HK)涨超6%，公司上半年净利润最高预增95.29%。",
@@ -1134,17 +1238,6 @@
           "time_info": "13时19分"
         },
         {
-          "title": "国家最高科技奖揭晓",
-          "url": "https://www.douyin.com/hot/2562960",
-          "source": "抖音",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时13分"
-        },
-        {
           "title": "锦浪科技：三季度公司订单饱满 逆变器业务预计发货环比增长30%左右",
           "url": "https://flash.jin10.com/detail/20260708093619277800",
           "source": "金十数据",
@@ -1167,6 +1260,17 @@
           "time_info": "03时45分"
         },
         {
+          "title": "纳微科技：预计上半年净利润1.28亿元至1.50亿元，同比增长102%至137%；上半年，预计连续两个季度营业收入实现同比 30%以上的快速增长，其中核心业务色谱填料和层析介质产品的销售收入增速预计超过50%。",
+          "url": "https://wallstreetcn.com/livenews/3130602",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时57分"
+        },
+        {
           "title": "闪迪、美光科技跌超6%",
           "url": "https://www.baidu.com/s?wd=%E9%97%AA%E8%BF%AA%E3%80%81%E7%BE%8E%E5%85%89%E7%A7%91%E6%8A%80%E8%B7%8C%E8%B6%856%25",
           "source": "百度热搜",
@@ -1176,6 +1280,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时07分 ~ 06时54分]"
+        },
+        {
+          "title": "三星一纸财报带崩全球芯片股？华尔街科技分析师：投资者反应过度！",
+          "url": "https://www.cls.cn/detail/2419990",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时13分 ~ 18时57分]"
         },
         {
           "title": "周二（7月7日），美国科技股七巨头（Magnificent 7）指数涨0.14%，北京时间23:40-00:50曾显著反弹；“超大”市值科技股指数跌1.26%。 美股存储芯片与硬件供应链指数跌6.52%，报208.40点，跳空低开之后，整体持续低位震荡。 美股超大规模云服务商（Hyperscalers）涨0.59%。 信息科技指数跌4.52%，报403.66点。 人工智能（AI）赢家指数跌4.08%，报398.90点。 AI软件先驱指数涨0.67%，报111.18点。",
@@ -1196,7 +1312,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时13分"
         },
@@ -1232,17 +1348,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时58分"
-        },
-        {
-          "title": "三星一纸财报带崩全球芯片股？华尔街科技分析师：投资者反应过度！",
-          "url": "https://www.cls.cn/detail/2419990",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时13分"
         },
         {
           "title": "A股光纤概念走高，魅视科技2连板创新高，航天电器、长盈通、正帆科技、兆驰股份均涨超5%。",
@@ -1298,6 +1403,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时17分"
+        },
+        {
+          "title": "宝鼎科技：预计2026年上半年净利润同比增长468.71%～559.71%",
+          "url": "https://wallstreetcn.com/livenews/3130564",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时57分"
         },
         {
           "title": "香港恒生指数7月8日（周三）开盘上涨44.33点，涨幅0.19%，报23541.22点；<br/>香港恒生科技指数7月8日（周三）开盘上涨18.73点，涨幅0.42%，报4525.77点；<br/>国企指数7月8日（周三）开盘上涨33.19点，涨幅0.43%，报7803.45点；<br/>红筹指数7月8日（周三）开盘上涨1.17点，涨幅0.03%，报3806.3点。",
@@ -1651,7 +1767,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时13分"
         }
@@ -1659,8 +1775,19 @@
     },
     {
       "keyword_group": "深圳",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "深圳上半年全社会用电量同比增长7.69%",
+          "url": "https://wallstreetcn.com/livenews/3130587",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时57分"
+        },
         {
           "title": "深圳光模块独角兽新菲光全速扩张：攻入北美大客户，目标年产值400亿元",
           "url": "https://wallstreetcn.com/livenews/3130264",
@@ -1687,7 +1814,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "谷歌公司：Gemini API中受管理的Agents具备新的能力。",
@@ -1710,6 +1837,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时17分"
+        },
+        {
+          "title": "gemini为了偷懒不择手段",
+          "url": "https://s.weibo.com/weibo?q=gemini%E4%B8%BA%E4%BA%86%E5%81%B7%E6%87%92%E4%B8%8D%E6%8B%A9%E6%89%8B%E6%AE%B5&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时57分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "房价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "新房价格4连涨！二手房成交超4万套，杭州楼市韧性凸显",
+          "url": "https://wallstreetcn.com/livenews/3130599",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时57分"
         }
       ]
     },
