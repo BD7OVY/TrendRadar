@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-09T08:03:22.858991+08:00",
-  "total_titles_processed": 630,
+  "generated_at": "2026-07-09T12:49:42.581810+08:00",
+  "total_titles_processed": 848,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 98,
+      "match_count": 107,
       "titles": [
         {
           "title": "美伊战火重燃！特朗普称谅解备忘录“已终结”，斥伊朗人是“人渣”",
@@ -13,11 +13,12 @@
           "source": "华尔街见闻",
           "ranks": [
             1,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时22分 ~ 08时03分]"
+          "appearance_count": 7,
+          "time_info": "[01时22分 ~ 12时49分]"
         },
         {
           "title": "特朗普：今晚可能再打伊朗",
@@ -26,11 +27,12 @@
           "ranks": [
             3,
             2,
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时22分 ~ 08时03分]"
+          "appearance_count": 7,
+          "time_info": "[01时22分 ~ 12时49分]"
         },
         {
           "title": "战火重燃，伊朗革命卫队处境艰难",
@@ -112,23 +114,24 @@
           "time_info": "[01时22分 ~ 03时12分]"
         },
         {
-          "title": "伊朗将大规模打击美军基地",
-          "url": "https://news.ifeng.com/c/8ubgRgsi7fb",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时07分 ~ 08时03分]"
-        },
-        {
           "title": "美军又袭伊朗！特朗普威胁“今夜”再打、恢复海上封锁，后一度“降温”：美伊局势升级会很快平息",
           "url": "https://wallstreetcn.com/articles/3776487",
           "source": "华尔街见闻",
           "ranks": [
             4,
-            3
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时07分 ~ 12时49分]"
+        },
+        {
+          "title": "伊朗将大规模打击美军基地",
+          "url": "https://news.ifeng.com/c/8ubgRgsi7fb",
+          "source": "凤凰网",
+          "ranks": [
+            2
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -207,9 +210,31 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时03分"
+        },
+        {
+          "title": "特朗普：伊朗这件事上，中国赢得了美国的尊重",
+          "url": "https://news.ifeng.com/c/8ubvs5fh8MS",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时49分"
+        },
+        {
+          "title": "伊朗民众：美伊备忘录只是一纸空文，支持本国自卫",
+          "url": "https://news.ifeng.com/c/8uc3IRm0BcK",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时49分"
         },
         {
           "title": "伊媒：伊朗防御系统正在应对美军打击",
@@ -240,7 +265,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时03分"
         },
@@ -251,7 +276,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时03分"
         },
@@ -296,7 +321,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时03分"
         },
@@ -318,7 +343,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时03分"
         },
@@ -332,6 +357,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时07分"
+        },
+        {
+          "title": "特朗普称“今夜可能再打伊朗”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33544015",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            15,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时12分 ~ 12时49分]"
         },
         {
           "title": "据沙特阿拉伯阿拉比亚电视台：伊朗革命卫队称，将对美国打击行动进行回应。",
@@ -370,16 +408,17 @@
           "time_info": "[04时59分 ~ 06时07分]"
         },
         {
-          "title": "特朗普称“今夜可能再打伊朗”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33544015",
-          "source": "澎湃新闻",
+          "title": "24小时内第二轮！美军宣布对伊朗发动新一轮袭击",
+          "url": "https://www.cls.cn/detail/2421013",
+          "source": "财联社热门",
           "ranks": [
-            18,
-            15
+            11,
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时12分 ~ 08时03分]"
+          "appearance_count": 3,
+          "time_info": "[06时07分 ~ 12时49分]"
         },
         {
           "title": "特朗普：“今夜可能再打伊朗”，可能会恢复对伊朗的海上封锁；伊朗：将对冒险行为做出“立即回应”",
@@ -416,16 +455,16 @@
           "time_info": "[04时59分 ~ 06时07分]"
         },
         {
-          "title": "24小时内第二轮！美军宣布对伊朗发动新一轮袭击",
-          "url": "https://www.cls.cn/detail/2421013",
-          "source": "财联社热门",
+          "title": "伊朗称将大规模打击美军基地",
+          "url": "https://www.toutiao.com/trending/7659929891621584946/",
+          "source": "今日头条",
           "ranks": [
-            11,
-            6
+            6,
+            21
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[06时07分 ~ 08时03分]"
+          "time_info": "[08时03分 ~ 12时49分]"
         },
         {
           "title": "伊媒：伊朗防御系统正在应对美军打击",
@@ -511,24 +550,13 @@
           "time_info": "[04时59分 ~ 06时07分]"
         },
         {
-          "title": "伊朗称将大规模打击美军基地",
-          "url": "https://www.toutiao.com/trending/7659929891621584946/",
-          "source": "今日头条",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时03分"
-        },
-        {
           "title": "伊朗：将大规模打击美军基地",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%EF%BC%9A%E5%B0%86%E5%A4%A7%E8%A7%84%E6%A8%A1%E6%89%93%E5%87%BB%E7%BE%8E%E5%86%9B%E5%9F%BA%E5%9C%B0",
           "source": "百度热搜",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时03分"
         },
@@ -577,6 +605,17 @@
           "time_info": "04时59分"
         },
         {
+          "title": "特朗普：我在伊朗的刺杀名单排第一位",
+          "url": "https://news.ifeng.com/c/8ubvs5fh8TF",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时49分"
+        },
+        {
           "title": "消息人士：巴基斯坦陆军司令阿西姆·穆尼尔正与伊朗方面展开接触，试图缓和伊朗与美国之间不断升级的紧张局势。",
           "url": "https://flash.jin10.com/detail/20260709025533023800",
           "source": "金十数据",
@@ -605,9 +644,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时03分"
+        },
+        {
+          "title": "美军空袭伊朗胡齐斯坦省已致3死多伤",
+          "url": "https://flash.jin10.com/detail/20260709122446545800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时49分"
         },
         {
           "title": "据Axios：一名美国官员表示，当地时间周三的打击行动规模超过此前几天的袭击。目标包括伊朗革命卫队的沿海雷达、反舰导弹阵地以及防空系统。",
@@ -704,7 +754,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时03分"
         },
@@ -781,9 +831,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时03分"
+        },
+        {
+          "title": "美军称再次对伊朗发起打击",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33546490",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时49分"
         },
         {
           "title": "伊朗外交部发言人：伊朗与美国之间的谅解备忘录并非基于信任，而是基于明确的“承诺换承诺”机制。",
@@ -839,6 +900,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时23分"
+        },
+        {
+          "title": "美军对伊朗发动新一轮打击，伊朗称将很快反击，美伊为何突然再次撕破脸？美方军事行动背后有何盘算？",
+          "url": "https://www.zhihu.com/question/2058455554222027217",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时49分"
         },
         {
           "title": "据伊朗迈赫尔通讯社：伊朗科纳拉克和恰巴哈尔附近传出爆炸声。",
@@ -929,6 +1001,17 @@
           "time_info": "01时23分"
         },
         {
+          "title": "伊朗代表致函联合国 强烈谴责美国侵略行径",
+          "url": "https://wallstreetcn.com/livenews/3131064",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时49分"
+        },
+        {
           "title": "美国副总统万斯：（关于伊朗）如果他们向我们的船只开火，美国将予以回击。",
           "url": "https://flash.jin10.com/detail/20260709023654210800",
           "source": "金十数据",
@@ -957,7 +1040,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时03分"
         },
@@ -979,9 +1062,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时03分"
+        },
+        {
+          "title": "报道：伊朗袭击位于科威特和巴林的美军基地",
+          "url": "https://wallstreetcn.com/livenews/3131061",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时49分"
         },
         {
           "title": "【特朗普：美伊之间的局势升级会很快平息】美国总统特朗普8日在土耳其首都安卡拉表示，当前美国与伊朗之间的局势升级会很快平息，他不认为会再度爆发与伊朗的战争。（新华社）",
@@ -993,6 +1087,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时12分"
+        },
+        {
+          "title": "美军完成对伊朗的新一轮打击",
+          "url": "https://wallstreetcn.com/livenews/3131060",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时49分"
         },
         {
           "title": "伊朗将大规模打击美军基地",
@@ -1012,7 +1117,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时03分"
         },
@@ -1045,7 +1150,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时03分"
         },
@@ -1056,7 +1161,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时03分"
         },
@@ -1067,7 +1172,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时03分"
         },
@@ -1089,7 +1194,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时03分"
         },
@@ -1108,7 +1213,7 @@
     },
     {
       "keyword_group": "科技",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "央行：加强对扩大内需、科技创新、中小微企业等重点领域的金融支持",
@@ -1129,9 +1234,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时03分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时03分 ~ 12时49分]"
         },
         {
           "title": "美伊停火破裂刺激油价，欧股重挫，美科技股护盘，纳指逆市收涨，中概股大涨",
@@ -1143,6 +1248,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时07分"
+        },
+        {
+          "title": "长鑫科技，7月16日打新！",
+          "url": "https://www.cls.cn/detail/2421004",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时03分 ~ 12时49分]"
         },
         {
           "title": "北美科技软件股指数ETF跌1.75%，报92.48美元。 Global X网络安全ETF跌1.71%，纳斯达克网络安全ETF跌0.60%，ETFMG网络安全ETF跌0.79%。",
@@ -1181,15 +1298,15 @@
           "time_info": "[04时59分 ~ 06时07分]"
         },
         {
-          "title": "长鑫科技，7月16日打新！",
-          "url": "https://www.cls.cn/detail/2421004",
-          "source": "财联社热门",
+          "title": "美股近七成科技股跌入熊市区间！AI信仰面临大考：获利了结还是周期见顶？",
+          "url": "https://flash.jin10.com/detail/20260709122245851800",
+          "source": "金十数据",
           "ranks": [
-            8
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时03分"
+          "time_info": "12时49分"
         },
         {
           "title": "纳斯达克金龙中国指数收涨2.05%，报6101.09点，美股开盘后两小时冲高回落、北京时间22:26刷新日高至6176.82点。 热门中概股里，阿里巴巴初步收涨11%，金山云涨11.7%，小米涨7.7%，百度涨5%，腾讯涨2.9%，新东方涨2.7%。 ETF中，中概互联网指数ETF（KWEB）收涨3.53%，中国科技指数ETF（CQQQ）收涨1.54%。 MSCI新兴市场ex中国ETF（EMXC）收涨0.45%，德银嘉实沪深300指数ETF（ASHR）收跌0.80%，XtrackersHarvest中证50（ASHS）收跌1.64%。",
@@ -1220,7 +1337,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时03分"
         },
@@ -1366,7 +1483,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时03分"
         }
@@ -1422,7 +1539,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时03分"
         },
@@ -1433,9 +1550,71 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时03分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "世界杯助推谷歌搜索创下每秒查询量新纪录",
+          "url": "https://wallstreetcn.com/livenews/3131088",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时49分"
+        },
+        {
+          "title": "RedVelvet海报疑似Gemini生成",
+          "url": "https://s.weibo.com/weibo?q=RedVelvet%E6%B5%B7%E6%8A%A5%E7%96%91%E4%BC%BCGemini%E7%94%9F%E6%88%90&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时49分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "资源",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "A股锂矿股持续调整，盛新锂能触及跌停，融捷股份此前跌停，天华新能跌超15%，雅化集团、天齐锂业、中矿资源跌超7%。",
+          "url": "https://wallstreetcn.com/livenews/3131053",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时49分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "制造业",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "本科生进厂五年涨薪 25%，制造业正成为近年来工资增长最快的领域，会有越来越多年轻人选择「进厂」吗？",
+          "url": "https://www.zhihu.com/question/2057858678024319907",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时49分"
         }
       ]
     },
@@ -1454,6 +1633,23 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时22分 ~ 06时07分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "中东冲突再起引发通胀担忧，金价承压下跌",
+          "url": "https://flash.jin10.com/detail/20260709120544662800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时49分"
         }
       ]
     },
