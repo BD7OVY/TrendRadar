@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-07-10T05:16:26.224850+08:00",
-  "total_titles_processed": 480,
+  "generated_at": "2026-07-10T07:05:25.915393+08:00",
+  "total_titles_processed": 556,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 24,
+      "match_count": 31,
       "titles": [
         {
           "title": "美军又袭伊朗！特朗普威胁“今夜”再打、恢复海上封锁，后一度“降温”：美伊局势升级会很快平息",
           "url": "https://wallstreetcn.com/articles/3776487",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时14分 ~ 05时16分]"
+          "appearance_count": 6,
+          "time_info": "[01时14分 ~ 07时05分]"
         },
         {
           "title": "美军称再次对伊朗发起打击",
@@ -30,28 +31,6 @@
           "time_info": "[01时14分 ~ 05时16分]"
         },
         {
-          "title": "沙特阿拉伯和加拿大联合声明：谴责伊朗对霍尔木兹海峡商船的攻击。",
-          "url": "https://flash.jin10.com/detail/20260710030809303800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时27分"
-        },
-        {
-          "title": "美国中央司令部：伊朗并不控制霍尔木兹海峡。自5月初以来，美军一直协助保障该重要国际贸易通道的航行安全，已有超过800艘商船以及3.8亿桶原油成功通过该海峡。",
-          "url": "https://flash.jin10.com/detail/20260710045641511800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时16分"
-        },
-        {
           "title": "特朗普：伊朗这件事上，中国赢得了美国的尊重",
           "url": "https://news.ifeng.com/c/8ubvs5fh8MS",
           "source": "凤凰网",
@@ -59,19 +38,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时14分 ~ 05时16分]"
-        },
-        {
-          "title": "美国中央司令部称，伊朗并未控制霍尔木兹海峡。 美方表示，5月以来协助超过800艘商船通过霍尔木兹海峡",
-          "url": "https://wallstreetcn.com/livenews/3131556",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时16分"
+          "appearance_count": 6,
+          "time_info": "[01时14分 ~ 07时05分]"
         },
         {
           "title": "伊朗发射巡航导弹袭击美国舰艇",
@@ -83,8 +51,41 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时14分 ~ 05时16分]"
+          "appearance_count": 6,
+          "time_info": "[01时14分 ~ 07时05分]"
+        },
+        {
+          "title": "沙特阿拉伯和加拿大联合声明：谴责伊朗对霍尔木兹海峡商船的攻击。",
+          "url": "https://flash.jin10.com/detail/20260710030809303800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时27分"
+        },
+        {
+          "title": "伊朗圣城马什哈德发生枪击事件致2人死亡",
+          "url": "https://flash.jin10.com/detail/20260710062412755800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时05分"
+        },
+        {
+          "title": "美国中央司令部称，伊朗并未控制霍尔木兹海峡。 美方表示，5月以来协助超过800艘商船通过霍尔木兹海峡",
+          "url": "https://wallstreetcn.com/livenews/3131556",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时16分"
         },
         {
           "title": "伊朗称发射导弹摧毁美军一指挥中心",
@@ -98,6 +99,40 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时14分 ~ 05时16分]"
+        },
+        {
+          "title": "美国中央司令部：伊朗并不控制霍尔木兹海峡。自5月初以来，美军一直协助保障该重要国际贸易通道的航行安全，已有超过800艘商船以及3.8亿桶原油成功通过该海峡。",
+          "url": "https://flash.jin10.com/detail/20260710045641511800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时16分 ~ 07时05分]"
+        },
+        {
+          "title": "以色列向美国递交新情报：伊朗再被曝策划刺杀特朗普",
+          "url": "https://flash.jin10.com/detail/20260710062334750800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时05分"
+        },
+        {
+          "title": "伊朗圣城马什哈德发生枪击事件致2人死亡",
+          "url": "https://wallstreetcn.com/livenews/3131573",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时05分"
         },
         {
           "title": "据半岛电视台：伊朗布什尔省省长表示，正在调查布什尔和贾加德克爆炸原因，确认是否由防空系统或敌方投射物引发。",
@@ -117,7 +152,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时16分"
         },
@@ -131,6 +166,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时27分"
+        },
+        {
+          "title": "特朗普重启对伊朗打击 共和党担忧拖累中期选举",
+          "url": "https://flash.jin10.com/detail/20260710054645407800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时05分"
+        },
+        {
+          "title": "周五亚太盘初，WTI原油期货低开0.4%，报71.81美元/桶，投资者权衡伊朗风险。",
+          "url": "https://wallstreetcn.com/livenews/3131566",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时05分"
         },
         {
           "title": "美官员称伊朗最新遭袭与美国无关",
@@ -150,9 +207,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时16分"
+        },
+        {
+          "title": "据华尔街日报：知情人士称，以色列向美国提供新情报，称伊朗或在考虑刺杀特朗普的新计划。",
+          "url": "https://flash.jin10.com/detail/20260710053537851800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时05分"
         },
         {
           "title": "比利时首相：阻止伊朗拥核是合理的，但相关行动执行并不顺利。",
@@ -216,9 +284,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时16分"
+        },
+        {
+          "title": "美国军方称“伊朗并未控制霍尔木兹海峡”",
+          "url": "https://wallstreetcn.com/livenews/3131556",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时05分"
         },
         {
           "title": "据伊朗迈赫尔通讯社：伊朗南部阿巴斯港附近传出爆炸声。",
@@ -279,18 +358,19 @@
     },
     {
       "keyword_group": "科技",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "丁薛祥：全力抓好党中央关于科技事业各项部署的落实，加快推进高水平科技自立自强",
           "url": "https://www.cls.cn/detail/2422005",
           "source": "财联社热门",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时14分 ~ 05时16分]"
+          "appearance_count": 6,
+          "time_info": "[01时14分 ~ 07时05分]"
         },
         {
           "title": "海力士美股IPO点燃AI热情，美股高开，科技股反弹，康宁涨超8%，黄金涨超1%，原油回落",
@@ -311,11 +391,24 @@
           "ranks": [
             5,
             8,
-            17
+            17,
+            20
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时14分 ~ 05时16分]"
+          "appearance_count": 6,
+          "time_info": "[01时14分 ~ 07时05分]"
+        },
+        {
+          "title": "险资密集现身港股IPO基石投资者名单 认购规模同比增约4倍 信息科技、消费、生物医药等为布局“重地”",
+          "url": "https://www.cls.cn/detail/2421885",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时14分 ~ 07时05分]"
         },
         {
           "title": "恒生指数主连夜盘收涨0.31%，报24052点。 恒生科技指数主连夜盘收涨0.27%，报4741点。",
@@ -329,39 +422,40 @@
           "time_info": "03时27分"
         },
         {
-          "title": "险资密集现身港股IPO基石投资者名单 认购规模同比增约4倍 信息科技、消费、生物医药等为布局“重地”",
-          "url": "https://www.cls.cn/detail/2421885",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时14分 ~ 05时16分]"
-        },
-        {
           "title": "长鑫科技申购",
           "url": "https://s.weibo.com/weibo?q=%23%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%E7%94%B3%E8%B4%AD%23&t=31&band_rank=24&Refer=top",
           "source": "微博",
           "ranks": [
             24,
-            28
+            28,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时26分 ~ 05时16分]"
+          "appearance_count": 4,
+          "time_info": "[03时26分 ~ 07时05分]"
         },
         {
           "title": "北美科技软件股指数ETF涨1.51%，报93.88美元。 Global X网络安全ETF涨2.97%，纳斯达克网络安全ETF涨2.84%，ETFMG网络安全ETF涨2.78%",
           "url": "https://wallstreetcn.com/livenews/3131555",
           "source": "华尔街见闻-快讯",
           "ranks": [
+            6,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时16分 ~ 07时05分]"
+        },
+        {
+          "title": "南向资金大举买入科技板块，多重共振开启估值修复",
+          "url": "https://wallstreetcn.com/livenews/3131574",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时16分"
+          "time_info": "07时05分"
         },
         {
           "title": "标普500指数的11个板块中，信息技术/科技板块收涨1.65%，可选消费板块涨1.46%，金融板块涨1.02%，电信板块涨0.52%，能源板块跌1.58%，日用消费品板块跌1.75%。",
@@ -370,7 +464,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时16分"
         },
@@ -381,7 +475,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时16分"
         },
@@ -403,7 +497,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时16分"
         },
@@ -414,7 +508,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时16分"
         },
@@ -425,7 +519,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时16分"
         }
@@ -486,7 +580,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时16分"
         },
@@ -497,7 +591,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时16分"
         },
@@ -576,11 +670,12 @@
           "ranks": [
             30,
             23,
-            13
+            13,
+            19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时14分 ~ 05时16分]"
+          "appearance_count": 6,
+          "time_info": "[01时14分 ~ 07时05分]"
         }
       ]
     },
@@ -629,7 +724,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时16分"
         }
