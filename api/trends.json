@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-09T12:49:42.581810+08:00",
-  "total_titles_processed": 848,
+  "generated_at": "2026-07-09T16:32:46.364988+08:00",
+  "total_titles_processed": 1040,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 107,
+      "match_count": 110,
       "titles": [
         {
           "title": "美伊战火重燃！特朗普称谅解备忘录“已终结”，斥伊朗人是“人渣”",
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时22分 ~ 12时49分]"
+          "appearance_count": 8,
+          "time_info": "[01时22分 ~ 16时32分]"
         },
         {
           "title": "特朗普：今晚可能再打伊朗",
@@ -103,17 +103,6 @@
           "time_info": "[01时22分 ~ 04时59分]"
         },
         {
-          "title": "特朗普称“今夜可能再打伊朗”",
-          "url": "https://news.ifeng.com/c/8ubGSNwf6nd",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时22分 ~ 03时12分]"
-        },
-        {
           "title": "美军又袭伊朗！特朗普威胁“今夜”再打、恢复海上封锁，后一度“降温”：美伊局势升级会很快平息",
           "url": "https://wallstreetcn.com/articles/3776487",
           "source": "华尔街见闻",
@@ -123,8 +112,19 @@
             2
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时07分 ~ 16时32分]"
+        },
+        {
+          "title": "特朗普称“今夜可能再打伊朗”",
+          "url": "https://news.ifeng.com/c/8ubGSNwf6nd",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[06时07分 ~ 12时49分]"
+          "time_info": "[01时22分 ~ 03时12分]"
         },
         {
           "title": "伊朗将大规模打击美军基地",
@@ -215,15 +215,17 @@
           "time_info": "08时03分"
         },
         {
-          "title": "特朗普：伊朗这件事上，中国赢得了美国的尊重",
-          "url": "https://news.ifeng.com/c/8ubvs5fh8MS",
-          "source": "凤凰网",
+          "title": "特朗普称“今夜可能再打伊朗”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33544015",
+          "source": "澎湃新闻",
           "ranks": [
-            2
+            18,
+            15,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时49分"
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[03时12分 ~ 16时32分]"
         },
         {
           "title": "伊朗民众：美伊备忘录只是一纸空文，支持本国自卫",
@@ -232,7 +234,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时49分"
         },
@@ -270,6 +272,17 @@
           "time_info": "08时03分"
         },
         {
+          "title": "美军连续两天发动打击 伊朗强硬回应",
+          "url": "https://wallstreetcn.com/livenews/3131202",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
+        },
+        {
           "title": "特朗普就美军再次袭击伊朗发声",
           "url": "https://news.ifeng.com/c/8ubpmbRlxyi",
           "source": "凤凰网",
@@ -301,6 +314,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时12分"
+        },
+        {
+          "title": "伊朗：美军周四的袭击在伊朗东部击中两座桥梁。",
+          "url": "https://wallstreetcn.com/livenews/3131200",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
         },
         {
           "title": "美军时隔10天再袭伊朗",
@@ -359,17 +383,16 @@
           "time_info": "06时07分"
         },
         {
-          "title": "特朗普称“今夜可能再打伊朗”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33544015",
-          "source": "澎湃新闻",
+          "title": "特朗普：伊朗这件事上，中国赢得了美国的尊重",
+          "url": "https://news.ifeng.com/c/8ubvs5fh8MS",
+          "source": "凤凰网",
           "ranks": [
-            18,
-            15,
-            9
+            2,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时12分 ~ 12时49分]"
+          "appearance_count": 2,
+          "time_info": "[12时49分 ~ 16时32分]"
         },
         {
           "title": "据沙特阿拉伯阿拉比亚电视台：伊朗革命卫队称，将对美国打击行动进行回应。",
@@ -396,6 +419,20 @@
           "time_info": "[04时59分 ~ 06时07分]"
         },
         {
+          "title": "24小时内第二轮！美军宣布对伊朗发动新一轮袭击",
+          "url": "https://www.cls.cn/detail/2421013",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            6,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时07分 ~ 16时32分]"
+        },
+        {
           "title": "伊朗将大规模打击美军基地",
           "url": "https://wallstreetcn.com/livenews/3130891",
           "source": "华尔街见闻-快讯",
@@ -406,19 +443,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时59分 ~ 06时07分]"
-        },
-        {
-          "title": "24小时内第二轮！美军宣布对伊朗发动新一轮袭击",
-          "url": "https://www.cls.cn/detail/2421013",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时07分 ~ 12时49分]"
         },
         {
           "title": "特朗普：“今夜可能再打伊朗”，可能会恢复对伊朗的海上封锁；伊朗：将对冒险行为做出“立即回应”",
@@ -513,6 +537,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时59分 ~ 06时07分]"
+        },
+        {
+          "title": "美军称再次对伊朗发起打击",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33546490",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时49分 ~ 16时32分]"
+        },
+        {
+          "title": "美军对伊朗发动新一轮打击，伊朗称将很快反击，美伊为何突然再次撕破脸？美方军事行动背后有何盘算？",
+          "url": "https://www.zhihu.com/question/2058455554222027217",
+          "source": "知乎",
+          "ranks": [
+            15,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时49分 ~ 16时32分]"
         },
         {
           "title": "美军再袭伊朗致多人受伤，伊朗总统启程回国，强度是 10 天前四五倍，如何看待此轮打击？",
@@ -611,7 +659,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时49分"
         },
@@ -655,7 +703,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时49分"
         },
@@ -836,17 +884,6 @@
           "time_info": "08时03分"
         },
         {
-          "title": "美军称再次对伊朗发起打击",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33546490",
-          "source": "澎湃新闻",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时49分"
-        },
-        {
           "title": "伊朗外交部发言人：伊朗与美国之间的谅解备忘录并非基于信任，而是基于明确的“承诺换承诺”机制。",
           "url": "https://flash.jin10.com/detail/20260709005647628800",
           "source": "金十数据",
@@ -900,17 +937,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时23分"
-        },
-        {
-          "title": "美军对伊朗发动新一轮打击，伊朗称将很快反击，美伊为何突然再次撕破脸？美方军事行动背后有何盘算？",
-          "url": "https://www.zhihu.com/question/2058455554222027217",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时49分"
         },
         {
           "title": "据伊朗迈赫尔通讯社：伊朗科纳拉克和恰巴哈尔附近传出爆炸声。",
@@ -1007,7 +1033,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时49分"
         },
@@ -1073,7 +1099,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时49分"
         },
@@ -1095,7 +1121,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时49分"
         },
@@ -1188,6 +1214,17 @@
           "time_info": "04时59分"
         },
         {
+          "title": "伊朗外交部：外交部重申伊朗坚定捍卫国家主权和领土完整，并将惩处侵略者。德黑兰不会允许“美国”的交易违约、霸凌和卑劣行为影响伊朗的国家利益。",
+          "url": "https://flash.jin10.com/detail/20260709160900322800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
+        },
+        {
           "title": "美国总统特朗普：在伊朗的“黑名单”上，我是第一号。 刚刚猛烈地袭击了伊朗。 我们有很多方法可以获胜。 不知道伊朗是否会遵守一份协议。 伊朗“气急败坏地”想要（与特朗普）达成一份协议。",
           "url": "https://wallstreetcn.com/livenews/3130923",
           "source": "华尔街见闻-快讯",
@@ -1213,7 +1250,7 @@
     },
     {
       "keyword_group": "科技",
-      "match_count": 13,
+      "match_count": 20,
       "titles": [
         {
           "title": "央行：加强对扩大内需、科技创新、中小微企业等重点领域的金融支持",
@@ -1235,8 +1272,21 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时03分 ~ 12时49分]"
+          "appearance_count": 3,
+          "time_info": "[08时03分 ~ 16时32分]"
+        },
+        {
+          "title": "长鑫科技，7月16日打新！",
+          "url": "https://www.cls.cn/detail/2421004",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时03分 ~ 16时32分]"
         },
         {
           "title": "美伊停火破裂刺激油价，欧股重挫，美科技股护盘，纳指逆市收涨，中概股大涨",
@@ -1250,16 +1300,15 @@
           "time_info": "06时07分"
         },
         {
-          "title": "长鑫科技，7月16日打新！",
-          "url": "https://www.cls.cn/detail/2421004",
-          "source": "财联社热门",
+          "title": "港股收盘：恒生指数收跌0.7%，恒生科技指数收涨0.01%。半导体板块领涨，芯智控股涨超27%，兆易创新涨超21%，澜起科技涨超19%，中芯国际涨超10%；MiniMax解禁首日大跌18%。",
+          "url": "https://wallstreetcn.com/livenews/3131199",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8,
-            3
+            5
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时03分 ~ 12时49分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
         },
         {
           "title": "北美科技软件股指数ETF跌1.75%，报92.48美元。 Global X网络安全ETF跌1.71%，纳斯达克网络安全ETF跌0.60%，ETFMG网络安全ETF跌0.79%。",
@@ -1304,9 +1353,42 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时49分"
+        },
+        {
+          "title": "美股盘前，明星科技股多数反弹，美光科技涨超3%，英特尔涨超3%，康宁涨超5%；阿里巴巴盘前涨近1%。",
+          "url": "https://wallstreetcn.com/livenews/3131190",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
+        },
+        {
+          "title": "美股AI牛市熄火？逾六成科技股“入熊”：较近期高点暴跌逾20%",
+          "url": "https://www.cls.cn/detail/2421094",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
+        },
+        {
+          "title": "法巴银行：韩国科技超级周期料将持续，短期回调属于正常盘整",
+          "url": "https://flash.jin10.com/detail/20260709161351013800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
         },
         {
           "title": "纳斯达克金龙中国指数收涨2.05%，报6101.09点，美股开盘后两小时冲高回落、北京时间22:26刷新日高至6176.82点。 热门中概股里，阿里巴巴初步收涨11%，金山云涨11.7%，小米涨7.7%，百度涨5%，腾讯涨2.9%，新东方涨2.7%。 ETF中，中概互联网指数ETF（KWEB）收涨3.53%，中国科技指数ETF（CQQQ）收涨1.54%。 MSCI新兴市场ex中国ETF（EMXC）收涨0.45%，德银嘉实沪深300指数ETF（ASHR）收跌0.80%，XtrackersHarvest中证50（ASHS）收跌1.64%。",
@@ -1340,6 +1422,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时03分"
+        },
+        {
+          "title": "长鑫科技7月16日申购",
+          "url": "https://www.douyin.com/hot/2564327",
+          "source": "抖音",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
+        },
+        {
+          "title": "香港恒生指数7月9日（周四）收盘下跌169.28点，跌幅0.7%，报24030.18点；<br/>香港恒生科技指数7月9日（周四）收盘上涨0.54点，涨幅0.01%，报4731.56点；<br/>国企指数7月9日（周四）收盘下跌86.93点，跌幅1.08%，报7997.29点；<br/>红筹指数7月9日（周四）收盘下跌50.82点，跌幅1.31%，报3824.11点。",
+          "url": "https://flash.jin10.com/detail/20260709161114846800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
+        },
+        {
+          "title": "港股收盘，恒指收跌0.7%，科指收涨0.01%；半导体概念走强，兆易创新(03986.HK)涨21.8%，澜起科技(06809.HK)涨超19%，中芯国际(00981.HK)涨超10%，华虹宏力(01347.HK)涨超8%。",
+          "url": "https://flash.jin10.com/detail/20260709160920006800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
         },
         {
           "title": "道指收跌约1.1%，纳指科技指数涨约0.8%，半导体指数涨超2.2%",
@@ -1452,7 +1567,7 @@
     },
     {
       "keyword_group": "金融",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "穆迪：具备数字现金能力的AI智能代理将改变金融业，但也会扩大风险范围。",
@@ -1486,6 +1601,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时03分"
+        },
+        {
+          "title": "金融监管总局：做好近期防汛救灾和灾后恢复重建有关金融保险服务工作",
+          "url": "https://wallstreetcn.com/livenews/3131168",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
         }
       ]
     },
@@ -1567,7 +1693,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时49分"
         },
@@ -1578,7 +1704,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时49分"
         }
@@ -1595,7 +1721,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时49分"
         }
@@ -1610,11 +1736,12 @@
           "url": "https://www.zhihu.com/question/2057858678024319907",
           "source": "知乎",
           "ranks": [
-            14
+            14,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时49分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时49分 ~ 16时32分]"
         }
       ]
     },
@@ -1647,7 +1774,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时49分"
         }
@@ -1667,6 +1794,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时59分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "旅游",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "旅游强国建设“十五五”规划全知道",
+          "url": "https://www.toutiao.com/trending/7659716095054659634/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
         }
       ]
     }
