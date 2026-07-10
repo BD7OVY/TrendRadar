@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-10T18:18:16.312037+08:00",
-  "total_titles_processed": 1143,
+  "generated_at": "2026-07-10T21:07:29.771933+08:00",
+  "total_titles_processed": 1327,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 37,
+      "match_count": 43,
       "titles": [
         {
           "title": "美军又袭伊朗！特朗普威胁“今夜”再打、恢复海上封锁，后一度“降温”：美伊局势升级会很快平息",
@@ -31,23 +31,24 @@
           "time_info": "[01时14分 ~ 05时16分]"
         },
         {
+          "title": "霍尔木兹危机冲击供应：伊朗被曝24小时紧急运出超千万桶原油、卡塔尔暂停LNG产能恢复",
+          "url": "https://wallstreetcn.com/articles/3776602",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时10分 ~ 21时07分]"
+        },
+        {
           "title": "伊朗发生致命枪击事件，距哈梅内伊安葬地仅17公里",
           "url": "https://news.ifeng.com/c/8udfBwd2vGP",
           "source": "凤凰网",
           "ranks": [
             5,
             4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时10分 ~ 18时18分]"
-        },
-        {
-          "title": "霍尔木兹危机冲击供应：伊朗被曝24小时紧急运出超千万桶原油、卡塔尔暂停LNG产能恢复",
-          "url": "https://wallstreetcn.com/articles/3776602",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -99,6 +100,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时10分"
+        },
+        {
+          "title": "内塔尼亚胡：过去一年，我们杀死了伊朗20名核专家",
+          "url": "https://news.ifeng.com/c/8ueCFBdRP1G",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时07分"
         },
         {
           "title": "伊朗圣城马什哈德发生枪击事件致2人死亡",
@@ -165,7 +177,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时18分"
         },
@@ -187,7 +199,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时18分"
         },
@@ -313,6 +325,17 @@
           "time_info": "10时10分"
         },
         {
+          "title": "据伊朗伊斯兰共和国通讯社（IRNA）：伊朗追悼仪式将于今晚开始，持续三夜。",
+          "url": "https://flash.jin10.com/detail/20260710204645642800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时07分"
+        },
+        {
           "title": "伊朗谴责美军打击伊海事基础设施",
           "url": "https://wallstreetcn.com/livenews/3131463",
           "source": "华尔街见闻-快讯",
@@ -324,6 +347,17 @@
           "time_info": "01时15分"
         },
         {
+          "title": "知情人士：卡塔尔谈判代表已抵达伊朗 以缓和局势",
+          "url": "https://wallstreetcn.com/livenews/3132076",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时07分"
+        },
+        {
           "title": "比利时首相：伊朗危机反复无常，战争拖延正在拖累全球经济。",
           "url": "https://flash.jin10.com/detail/20260710004151933800",
           "source": "金十数据",
@@ -333,6 +367,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时15分"
+        },
+        {
+          "title": "卡塔尔称伊朗与美国落实谅解备忘录很重要。（半岛电视台）",
+          "url": "https://wallstreetcn.com/livenews/3132073",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时07分"
         },
         {
           "title": "据伊朗迈赫尔通讯社报道，伊朗南部阿巴斯港当地时间9日晚传出数次爆炸声。（新华社）",
@@ -401,6 +446,17 @@
           "time_info": "01时15分"
         },
         {
+          "title": "伊朗已故最高领袖葬礼上出现神秘面孔 引发广泛猜测",
+          "url": "https://flash.jin10.com/detail/20260710203637888800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时07分"
+        },
+        {
           "title": "伊朗外长与巴基斯坦军方通话，谴责美方违反谅解备忘录",
           "url": "https://wallstreetcn.com/livenews/3131446",
           "source": "华尔街见闻-快讯",
@@ -421,12 +477,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时27分"
+        },
+        {
+          "title": "伊朗高级官员：敌方攻击伊基础设施必遭回击",
+          "url": "https://wallstreetcn.com/livenews/3132056",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时07分"
         }
       ]
     },
     {
       "keyword_group": "科技",
-      "match_count": 31,
+      "match_count": 33,
       "titles": [
         {
           "title": "丁薛祥：全力抓好党中央关于科技事业各项部署的落实，加快推进高水平科技自立自强",
@@ -493,6 +560,18 @@
           "time_info": "[10时10分 ~ 18时18分]"
         },
         {
+          "title": "科技主线向上还是暂停？请收好全球主要科技公司Q2财报发布指南",
+          "url": "https://www.cls.cn/detail/2421559",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时37分 ~ 21时07分]"
+        },
+        {
           "title": "港股光通信板块震荡拉升，长飞光纤光缆(06869.HK)涨超12%，剑桥科技(06166.HK)涨超9%，华虹宏力(01347.HK)涨超7%，海光芯正(01191.HK)涨超4%。",
           "url": "https://flash.jin10.com/detail/20260710094130246800",
           "source": "金十数据",
@@ -527,16 +606,16 @@
           "time_info": "14时37分"
         },
         {
-          "title": "科技主线向上还是暂停？请收好全球主要科技公司Q2财报发布指南",
-          "url": "https://www.cls.cn/detail/2421559",
+          "title": "长鑫科技上市在即，有望纳入哪些指数？何时能借道ETF布局？",
+          "url": "https://www.cls.cn/detail/2422854",
           "source": "财联社热门",
           "ranks": [
             8,
-            3
+            2
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[14时37分 ~ 18时18分]"
+          "time_info": "[18时17分 ~ 21时07分]"
         },
         {
           "title": "A股光纤概念盘初拉升，必创科技涨超12%，光迅科技涨超8%，至纯科技涨超7%，天孚通信、炬光科技涨超6%。",
@@ -561,6 +640,19 @@
           "time_info": "03时27分"
         },
         {
+          "title": "美国AI股太贵了？顶级基金经理：转战中国科技股、英股高股息与全球能源",
+          "url": "https://wallstreetcn.com/articles/3776590",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时37分 ~ 21时07分]"
+        },
+        {
           "title": "长鑫科技申购",
           "url": "https://s.weibo.com/weibo?q=%23%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%E7%94%B3%E8%B4%AD%23&t=31&band_rank=24&Refer=top",
           "source": "微博",
@@ -574,18 +666,6 @@
           "time_info": "[03时26分 ~ 07时05分]"
         },
         {
-          "title": "美国AI股太贵了？顶级基金经理：转战中国科技股、英股高股息与全球能源",
-          "url": "https://wallstreetcn.com/articles/3776590",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时37分 ~ 18时18分]"
-        },
-        {
           "title": "北美科技软件股指数ETF涨1.51%，报93.88美元。 Global X网络安全ETF涨2.97%，纳斯达克网络安全ETF涨2.84%，ETFMG网络安全ETF涨2.78%",
           "url": "https://wallstreetcn.com/livenews/3131555",
           "source": "华尔街见闻-快讯",
@@ -596,17 +676,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时16分 ~ 07时05分]"
-        },
-        {
-          "title": "长鑫科技上市在即，有望纳入哪些指数？何时能借道ETF布局？",
-          "url": "https://www.cls.cn/detail/2422854",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时17分 ~ 18时18分]"
         },
         {
           "title": "南向资金大举买入科技板块，多重共振开启估值修复",
@@ -640,6 +709,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时10分"
+        },
+        {
+          "title": "静待SK海力士IPO，美股科技股盘前小幅下挫，日元走强，布油企稳，黄金承压",
+          "url": "https://wallstreetcn.com/articles/3776623",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时07分"
         },
         {
           "title": "A股光刻机、光刻胶概念震荡走强，国林科技20cm涨停，波长光电、茂莱光学涨超10%，赛微电子、久日新材跟涨。",
@@ -752,6 +832,17 @@
           "time_info": "14时37分"
         },
         {
+          "title": "【东阳光：控股子公司签署130亿元至150亿元算力服务合同】东阳光公告，近日控股子公司东莞东阳光云智算科技有限公司与某企业C公司签署《算力服务采购合同》，约定东阳光云智算负责采购并部署高性能算力服务器，以租赁方式向C公司交付算力资源。合同预计总金额区间为人民币130亿元至150亿元，合同期限为订单验收通过后60个月。服务费按月计费，具体以订单及实际交付结算为准。",
+          "url": "https://wallstreetcn.com/livenews/3132063",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时07分"
+        },
+        {
           "title": "周四（7月9日），美国科技股七巨头（Magnificent 7）指数涨0.55%，报215.34点，盘初走低至210.23点、北京时间22:19开始平滑地持续需上扬。成分股Meta Platforms收涨4.7%，创5月29日以来收盘新高。 “超大”市值科技股指数涨2.15%，报442.37点。 美股存储芯片与硬件供应链指数涨5.11%，报227.13点，大部分时间持稳于232点、02:30开始持续回吐涨幅。 美股超大规模云服务商（Hyperscalers）涨1.24%，报盘93.47点，走势与七巨头指数相仿。 信息科技指数涨3.35%，报426.06点，走势与存储芯片指数类似。 人工智能（AI）赢家指数涨3.14%，报418.79点。 AI软件先驱指数涨1.48%，报112.09点。",
           "url": "https://wallstreetcn.com/livenews/3131534",
           "source": "华尔街见闻-快讯",
@@ -797,11 +888,12 @@
           "ranks": [
             9,
             7,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时10分 ~ 18时18分]"
+          "appearance_count": 5,
+          "time_info": "[10时10分 ~ 21时07分]"
         },
         {
           "title": "OpenAI：正式推出GPT-5.6系列模型，面向公众开放使用。",
@@ -895,8 +987,19 @@
     },
     {
       "keyword_group": "资源",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "自然资源部中国气象局发布黄色橙色地灾预警。（央视）",
+          "url": "https://wallstreetcn.com/livenews/3132084",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时07分"
+        },
         {
           "title": "应对台风“巴威”，自然资源部对浙江福建启动地质灾害防御Ⅲ级响应。（央视）",
           "url": "https://wallstreetcn.com/livenews/3131456",
@@ -915,7 +1018,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时18分"
         },
@@ -926,7 +1029,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时18分"
         }
@@ -943,7 +1046,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时18分"
         },
@@ -995,7 +1098,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时18分"
         }
@@ -1023,7 +1126,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时18分"
         }
@@ -1061,6 +1164,34 @@
       ]
     },
     {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "DeepTalk：法币实验走向不可避免的终点，金价会自己完成金本位回归",
+          "url": "https://flash.jin10.com/detail/20260710204856702800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时07分"
+        },
+        {
+          "title": "趁金价下跌 波兰央行年内累计购入82吨黄金",
+          "url": "https://flash.jin10.com/detail/20260710004838239800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时15分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 1,
       "titles": [
@@ -1070,23 +1201,6 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时15分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "趁金价下跌 波兰央行年内累计购入82吨黄金",
-          "url": "https://flash.jin10.com/detail/20260710004838239800",
-          "source": "金十数据",
-          "ranks": [
-            13
           ],
           "is_new": false,
           "appearance_count": 1,
