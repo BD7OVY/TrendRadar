@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-10T14:37:20.430550+08:00",
-  "total_titles_processed": 943,
+  "generated_at": "2026-07-10T18:18:16.312037+08:00",
+  "total_titles_processed": 1143,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 35,
+      "match_count": 37,
       "titles": [
         {
           "title": "美军又袭伊朗！特朗普威胁“今夜”再打、恢复海上封锁，后一度“降温”：美伊局势升级会很快平息",
@@ -31,6 +31,29 @@
           "time_info": "[01时14分 ~ 05时16分]"
         },
         {
+          "title": "伊朗发生致命枪击事件，距哈梅内伊安葬地仅17公里",
+          "url": "https://news.ifeng.com/c/8udfBwd2vGP",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时10分 ~ 18时18分]"
+        },
+        {
+          "title": "霍尔木兹危机冲击供应：伊朗被曝24小时紧急运出超千万桶原油、卡塔尔暂停LNG产能恢复",
+          "url": "https://wallstreetcn.com/articles/3776602",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时10分 ~ 18时18分]"
+        },
+        {
           "title": "伊朗发射巡航导弹袭击美国舰艇",
           "url": "https://www.toutiao.com/trending/7659924718308327474/",
           "source": "今日头条",
@@ -45,18 +68,6 @@
           "time_info": "[01时14分 ~ 10时10分]"
         },
         {
-          "title": "伊朗发生致命枪击事件，距哈梅内伊安葬地仅17公里",
-          "url": "https://news.ifeng.com/c/8udfBwd2vGP",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时10分 ~ 14时37分]"
-        },
-        {
           "title": "特朗普：伊朗这件事上，中国赢得了美国的尊重",
           "url": "https://news.ifeng.com/c/8ubvs5fh8MS",
           "source": "凤凰网",
@@ -66,17 +77,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时14分 ~ 07时05分]"
-        },
-        {
-          "title": "霍尔木兹危机冲击供应：伊朗被曝24小时紧急运出超千万桶原油、卡塔尔暂停LNG产能恢复",
-          "url": "https://wallstreetcn.com/articles/3776602",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时10分 ~ 14时37分]"
         },
         {
           "title": "沙特阿拉伯和加拿大联合声明：谴责伊朗对霍尔木兹海峡商船的攻击。",
@@ -159,6 +159,17 @@
           "time_info": "07时05分"
         },
         {
+          "title": "伊朗陆军司令哈塔米：伊朗将再次加倍努力，实现殉难领袖的理想。",
+          "url": "https://flash.jin10.com/detail/20260710175028096800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时18分"
+        },
+        {
           "title": "伊朗圣城马什哈德发生枪击事件致2人死亡",
           "url": "https://wallstreetcn.com/livenews/3131573",
           "source": "华尔街见闻-快讯",
@@ -168,6 +179,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时05分"
+        },
+        {
+          "title": "伊朗陆军司令哈塔米：前最高领袖的道路将以更强大的姿态延续下去。",
+          "url": "https://flash.jin10.com/detail/20260710174956212800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时18分"
         },
         {
           "title": "据半岛电视台：伊朗布什尔省省长表示，正在调查布什尔和贾加德克爆炸原因，确认是否由防空系统或敌方投射物引发。",
@@ -404,7 +426,7 @@
     },
     {
       "keyword_group": "科技",
-      "match_count": 30,
+      "match_count": 31,
       "titles": [
         {
           "title": "丁薛祥：全力抓好党中央关于科技事业各项部署的落实，加快推进高水平科技自立自强",
@@ -431,6 +453,19 @@
           "time_info": "[01时14分 ~ 05时16分]"
         },
         {
+          "title": "长鑫科技IPO豪华承销团抢眼！6家券商同框不常见，真正看点不止承销保荐费",
+          "url": "https://www.cls.cn/detail/2422351",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时10分 ~ 18时18分]"
+        },
+        {
           "title": "长鑫科技最高估值超4万亿",
           "url": "https://www.toutiao.com/trending/7660515495698763283/",
           "source": "今日头条",
@@ -450,11 +485,12 @@
           "source": "知乎",
           "ranks": [
             3,
-            4
+            4,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时10分 ~ 14时37分]"
+          "appearance_count": 4,
+          "time_info": "[10时10分 ~ 18时18分]"
         },
         {
           "title": "港股光通信板块震荡拉升，长飞光纤光缆(06869.HK)涨超12%，剑桥科技(06166.HK)涨超9%，华虹宏力(01347.HK)涨超7%，海光芯正(01191.HK)涨超4%。",
@@ -486,9 +522,21 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时37分"
+        },
+        {
+          "title": "科技主线向上还是暂停？请收好全球主要科技公司Q2财报发布指南",
+          "url": "https://www.cls.cn/detail/2421559",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时37分 ~ 18时18分]"
         },
         {
           "title": "A股光纤概念盘初拉升，必创科技涨超12%，光迅科技涨超8%，至纯科技涨超7%，天孚通信、炬光科技涨超6%。",
@@ -513,18 +561,6 @@
           "time_info": "03时27分"
         },
         {
-          "title": "长鑫科技IPO豪华承销团抢眼！6家券商同框不常见，真正看点不止承销保荐费",
-          "url": "https://www.cls.cn/detail/2422351",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时10分 ~ 14时37分]"
-        },
-        {
           "title": "长鑫科技申购",
           "url": "https://s.weibo.com/weibo?q=%23%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%E7%94%B3%E8%B4%AD%23&t=31&band_rank=24&Refer=top",
           "source": "微博",
@@ -538,6 +574,18 @@
           "time_info": "[03时26分 ~ 07时05分]"
         },
         {
+          "title": "美国AI股太贵了？顶级基金经理：转战中国科技股、英股高股息与全球能源",
+          "url": "https://wallstreetcn.com/articles/3776590",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时37分 ~ 18时18分]"
+        },
+        {
           "title": "北美科技软件股指数ETF涨1.51%，报93.88美元。 Global X网络安全ETF涨2.97%，纳斯达克网络安全ETF涨2.84%，ETFMG网络安全ETF涨2.78%",
           "url": "https://wallstreetcn.com/livenews/3131555",
           "source": "华尔街见闻-快讯",
@@ -548,6 +596,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时16分 ~ 07时05分]"
+        },
+        {
+          "title": "长鑫科技上市在即，有望纳入哪些指数？何时能借道ETF布局？",
+          "url": "https://www.cls.cn/detail/2422854",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时17分 ~ 18时18分]"
         },
         {
           "title": "南向资金大举买入科技板块，多重共振开启估值修复",
@@ -581,28 +640,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时10分"
-        },
-        {
-          "title": "科技主线向上还是暂停？请收好全球主要科技公司Q2财报发布指南",
-          "url": "https://www.cls.cn/detail/2421559",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时37分"
-        },
-        {
-          "title": "美国AI股太贵了？顶级基金经理：转战中国科技股、英股高股息与全球能源",
-          "url": "https://wallstreetcn.com/articles/3776590",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时37分"
         },
         {
           "title": "A股光刻机、光刻胶概念震荡走强，国林科技20cm涨停，波长光电、茂莱光学涨超10%，赛微电子、久日新材跟涨。",
@@ -644,7 +681,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时37分"
         },
@@ -710,7 +747,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时37分"
         },
@@ -754,6 +791,19 @@
       "match_count": 9,
       "titles": [
         {
+          "title": "GPT-5.6全面发布！同步发布新ChatGPT智能体，奥特曼称和美政府沟通后做出“许多调整”",
+          "url": "https://wallstreetcn.com/articles/3776605",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时10分 ~ 18时18分]"
+        },
+        {
           "title": "OpenAI：正式推出GPT-5.6系列模型，面向公众开放使用。",
           "url": "https://flash.jin10.com/detail/20260710010752704800",
           "source": "金十数据",
@@ -785,18 +835,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时15分"
-        },
-        {
-          "title": "GPT-5.6全面发布！同步发布新ChatGPT智能体，奥特曼称和美政府沟通后做出“许多调整”",
-          "url": "https://wallstreetcn.com/articles/3776605",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时10分 ~ 14时37分]"
         },
         {
           "title": "OpenAI：Chatgpt Work将开始向网页版和移动端的Pro、Enterprise及Edu用户推出，Plus和Business用户将在未来几天陆续获得访问权限。",
@@ -856,20 +894,71 @@
       ]
     },
     {
-      "keyword_group": "消费",
-      "match_count": 2,
+      "keyword_group": "资源",
+      "match_count": 3,
       "titles": [
+        {
+          "title": "应对台风“巴威”，自然资源部对浙江福建启动地质灾害防御Ⅲ级响应。（央视）",
+          "url": "https://wallstreetcn.com/livenews/3131456",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时15分"
+        },
+        {
+          "title": "自然资源部对闽浙启动地质灾害防御Ⅲ级响应。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3131910",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时18分"
+        },
+        {
+          "title": "盛和资源：预计上半年净利润为同比增加112.25%到146.75%",
+          "url": "https://wallstreetcn.com/livenews/3131903",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时18分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "消费",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "机构：消费和医药是驱动中国经济社会迈向更高层次的双轮",
+          "url": "https://flash.jin10.com/detail/20260710175329778800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时18分"
+        },
         {
           "title": "为什么总有人说真正的见世面「是去生产端，而非消费端」？这句话到底有没有道理？",
           "url": "https://www.zhihu.com/question/2058579564071056764",
           "source": "知乎",
           "ranks": [
             18,
-            11
+            11,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时10分 ~ 14时37分]"
+          "appearance_count": 4,
+          "time_info": "[10时10分 ~ 18时18分]"
         },
         {
           "title": "Truist：采用基于消费模式的软件公司表现更好",
@@ -881,6 +970,62 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时27分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金融",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "高盛禁止员工参与金融和政治市场的预测交易",
+          "url": "https://flash.jin10.com/detail/20260710030012210800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时27分"
+        },
+        {
+          "title": "国家金融监督管理总局就《银行业保险业网络安全管理办法（征求意见稿）》公开征求意见",
+          "url": "https://wallstreetcn.com/livenews/3131930",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时18分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "医药",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "A股创新药概念异动拉升，双鹭药业、立方制药涨停，常山药业、前沿生物涨超10%，众生药业、万邦医药、昭衍新药涨幅居前。",
+          "url": "https://wallstreetcn.com/livenews/3131668",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时10分"
+        },
+        {
+          "title": "国务院：原则同意《中医药振兴发展“十五五”规划》",
+          "url": "https://wallstreetcn.com/livenews/3131927",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时18分"
         }
       ]
     },
@@ -909,60 +1054,9 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时37分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "资源",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "应对台风“巴威”，自然资源部对浙江福建启动地质灾害防御Ⅲ级响应。（央视）",
-          "url": "https://wallstreetcn.com/livenews/3131456",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时15分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金融",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "高盛禁止员工参与金融和政治市场的预测交易",
-          "url": "https://flash.jin10.com/detail/20260710030012210800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时27分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "医药",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "A股创新药概念异动拉升，双鹭药业、立方制药涨停，常山药业、前沿生物涨超10%，众生药业、万邦医药、昭衍新药涨幅居前。",
-          "url": "https://wallstreetcn.com/livenews/3131668",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时10分"
         }
       ]
     },
