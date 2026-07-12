@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-12T19:53:32.205514+08:00",
-  "total_titles_processed": 1134,
+  "generated_at": "2026-07-12T21:03:35.071991+08:00",
+  "total_titles_processed": 1213,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 93,
+      "match_count": 96,
       "titles": [
         {
           "title": "特朗普：1000枚导弹已瞄准伊朗",
@@ -69,8 +69,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时31分 ~ 19时53分]"
+          "appearance_count": 5,
+          "time_info": "[13时31分 ~ 21时03分]"
         },
         {
           "title": "穆杰塔巴称对美以追责是伊朗人民的共同要求",
@@ -84,6 +84,30 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时46分 ~ 10时01分]"
+        },
+        {
+          "title": "伊朗的报复力度越来越大说明什么？凤凰女记者解读",
+          "url": "https://news.ifeng.com/c/8uhQEpIUZBO",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时04分 ~ 21时03分]"
+        },
+        {
+          "title": "伊朗发布最高领袖穆杰塔巴的全新照片",
+          "url": "https://news.ifeng.com/c/8uhOrhFxC9j",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时04分 ~ 21时03分]"
         },
         {
           "title": "伊朗方面公布被导弹击中的约旦美军基地卫星图像",
@@ -134,28 +158,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时46分 ~ 07时47分]"
-        },
-        {
-          "title": "伊朗的报复力度越来越大说明什么？凤凰女记者解读",
-          "url": "https://news.ifeng.com/c/8uhQEpIUZBO",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时04分 ~ 19时53分]"
-        },
-        {
-          "title": "伊朗发布最高领袖穆杰塔巴的全新照片",
-          "url": "https://news.ifeng.com/c/8uhOrhFxC9j",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时04分 ~ 19时53分]"
         },
         {
           "title": "时间线丨美国对伊朗发动一周之内第三轮袭击",
@@ -224,6 +226,21 @@
           "time_info": "[04时02分 ~ 07时47分]"
         },
         {
+          "title": "伊朗称其武装力量目标清单持续更新",
+          "url": "https://wallstreetcn.com/livenews/3132389",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            7,
+            15,
+            21,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时31分 ~ 21时03分]"
+        },
+        {
           "title": "据阿曼国家通讯社：阿曼与伊朗同意继续进行技术和政治谈判，以在国际法框架下达成霍尔木兹海峡航行协议。",
           "url": "https://flash.jin10.com/detail/20260712024237763800",
           "source": "金十数据",
@@ -246,15 +263,30 @@
           "time_info": "13时31分"
         },
         {
-          "title": "阿曼外交部：已就伊朗袭击阿曼领土召见伊朗驻阿曼大使以示抗议。",
-          "url": "https://flash.jin10.com/detail/20260712195226608800",
+          "title": "华尔街日报调查：伊朗战争冲击低于预期，但通胀更顽固",
+          "url": "https://flash.jin10.com/detail/20260712205015758800",
           "source": "金十数据",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时53分"
+          "time_info": "21时03分"
+        },
+        {
+          "title": "伊朗议长说单方面协议时代已结束",
+          "url": "https://wallstreetcn.com/livenews/3132388",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            8,
+            16,
+            22,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时31分 ~ 21时03分]"
         },
         {
           "title": "据伊朗Press TV：一位伊朗高级情报消息人士称，美国正在对伊朗展开一场协调一致的施压、威胁和媒体虚假信息宣传行动。",
@@ -270,6 +302,21 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时46分 ~ 04时58分]"
+        },
+        {
+          "title": "伊朗称打击阿曼杜库姆港美军目标",
+          "url": "https://wallstreetcn.com/livenews/3132387",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            9,
+            17,
+            23,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时31分 ~ 21时03分]"
         },
         {
           "title": "伊朗与阿曼外长在马斯喀特会晤 就霍尔木兹海峡问题进行了交流",
@@ -322,15 +369,28 @@
           "time_info": "16时04分"
         },
         {
-          "title": "伊朗军方发言人：霍尔木兹海峡管理权在伊朗，美国强加航线违反备忘录",
-          "url": "https://flash.jin10.com/detail/20260712193152672800",
+          "title": "阿曼就部分地点遭袭事件召见伊朗驻阿大使",
+          "url": "https://flash.jin10.com/detail/20260712203724717800",
           "source": "金十数据",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时53分"
+          "time_info": "21时03分"
+        },
+        {
+          "title": "伊朗伊斯兰革命卫队宣布关闭霍尔木兹海峡",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33568960",
+          "source": "澎湃新闻",
+          "ranks": [
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时31分 ~ 21时03分]"
         },
         {
           "title": "美高级官员称美军成功打击伊朗军事目标",
@@ -355,45 +415,6 @@
           "time_info": "13时31分"
         },
         {
-          "title": "伊朗海军军官在美军袭击中身亡",
-          "url": "https://wallstreetcn.com/livenews/3132420",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时53分"
-        },
-        {
-          "title": "伊朗称其武装力量目标清单持续更新",
-          "url": "https://wallstreetcn.com/livenews/3132389",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            7,
-            15,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时31分 ~ 19时53分]"
-        },
-        {
-          "title": "伊朗议长说单方面协议时代已结束",
-          "url": "https://wallstreetcn.com/livenews/3132388",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            8,
-            16,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时31分 ~ 19时53分]"
-        },
-        {
           "title": "伊朗局势一片混乱，分析师：未来几周冲突未必能保持在可控范围内",
           "url": "https://flash.jin10.com/detail/20260712092540939800",
           "source": "金十数据",
@@ -416,18 +437,15 @@
           "time_info": "16时04分"
         },
         {
-          "title": "伊朗称打击阿曼杜库姆港美军目标",
-          "url": "https://wallstreetcn.com/livenews/3132387",
-          "source": "华尔街见闻-快讯",
+          "title": "美军：霍尔木兹海峡航运正常通行，伊朗不控制该水道",
+          "url": "https://flash.jin10.com/detail/20260712201734588800",
+          "source": "金十数据",
           "ranks": [
-            3,
-            9,
-            17,
-            23
+            5
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时31分 ~ 19时53分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时03分"
         },
         {
           "title": "阿曼同意与伊朗继续就霍尔木兹海峡问题举行会谈",
@@ -458,6 +476,18 @@
           "time_info": "[13时31分 ~ 19时53分]"
         },
         {
+          "title": "伊朗打击美国在中东地区目标",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33569534",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时31分 ~ 21时03分]"
+        },
+        {
           "title": "伊朗称再次打击“违规船只”，并对卡塔尔美军基地发动袭击",
           "url": "https://wallstreetcn.com/livenews/3132385",
           "source": "华尔街见闻-快讯",
@@ -472,16 +502,16 @@
           "time_info": "[13时31分 ~ 19时53分]"
         },
         {
-          "title": "伊朗伊斯兰革命卫队宣布关闭霍尔木兹海峡",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33568960",
-          "source": "澎湃新闻",
+          "title": "阿曼外交部：已就伊朗袭击阿曼领土召见伊朗驻阿曼大使以示抗议。",
+          "url": "https://flash.jin10.com/detail/20260712195226608800",
+          "source": "金十数据",
           "ranks": [
-            8,
-            7
+            1,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时31分 ~ 19时53分]"
+          "appearance_count": 2,
+          "time_info": "[19时53分 ~ 21时03分]"
         },
         {
           "title": "伊朗南部多地传出爆炸声",
@@ -495,6 +525,30 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时01分 ~ 16时04分]"
+        },
+        {
+          "title": "伊朗军方发言人：霍尔木兹海峡管理权在伊朗，美国强加航线违反备忘录",
+          "url": "https://flash.jin10.com/detail/20260712193152672800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时53分 ~ 21时03分]"
+        },
+        {
+          "title": "伊朗海军军官在美军袭击中身亡",
+          "url": "https://wallstreetcn.com/livenews/3132420",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时53分 ~ 21时03分]"
         },
         {
           "title": "伊朗称打击约旦哈桑王子空军基地",
@@ -525,15 +579,17 @@
           "time_info": "[00时46分 ~ 04时02分]"
         },
         {
-          "title": "伊朗打击美国在中东地区目标",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33569534",
-          "source": "澎湃新闻",
+          "title": "如何看待 7 月 12 日伊朗再次宣布关闭霍尔木兹海峡？这种封锁会成为常态吗？从长期看，要怎么应对？",
+          "url": "https://www.zhihu.com/question/2059566718733776028",
+          "source": "知乎",
           "ranks": [
-            11
+            15,
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时31分 ~ 19时53分]"
+          "appearance_count": 3,
+          "time_info": "[18时20分 ~ 21时03分]"
         },
         {
           "title": "伊朗宣布关闭霍尔木兹海峡",
@@ -613,16 +669,16 @@
           "time_info": "[00时46分 ~ 02时49分]"
         },
         {
-          "title": "如何看待 7 月 12 日伊朗再次宣布关闭霍尔木兹海峡？这种封锁会成为常态吗？从长期看，要怎么应对？",
-          "url": "https://www.zhihu.com/question/2059566718733776028",
-          "source": "知乎",
+          "title": "据伊朗塔斯尼姆通讯社：伊朗革命卫队防空系统在伊朗西部洛雷斯坦省霍拉马巴德附近拦截了一枚敌方巡航导弹。",
+          "url": "https://flash.jin10.com/detail/20260712191001886800",
+          "source": "金十数据",
           "ranks": [
-            15,
-            8
+            9,
+            17
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时20分 ~ 19时53分]"
+          "time_info": "[19时53分 ~ 21时03分]"
         },
         {
           "title": "伊朗宣布关闭霍尔木兹海峡，美军称正在对伊朗发动打击、伊朗多地传出爆炸声",
@@ -636,6 +692,42 @@
           "time_info": "[10时00分 ~ 10时01分]"
         },
         {
+          "title": "约旦政府：伊朗发动的无人机和导弹袭击公然侵犯约旦主权，威胁其安全、稳定和领土​​完整，是危险的局势升级。同时，伊朗袭击也公然违反了国际法和《联合国宪章》。",
+          "url": "https://flash.jin10.com/detail/20260712183728174800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时53分 ~ 21时03分]"
+        },
+        {
+          "title": "巴林军方称伊朗持续进行“系统性侵略”",
+          "url": "https://flash.jin10.com/detail/20260712183553070800",
+          "source": "金十数据",
+          "ranks": [
+            14,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时53分 ~ 21时03分]"
+        },
+        {
+          "title": "据伊朗国家媒体：一名伊朗军官在周日美以对伊朗的袭击中丧生。",
+          "url": "https://flash.jin10.com/detail/20260712183032386800",
+          "source": "金十数据",
+          "ranks": [
+            15,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时53分 ~ 21时03分]"
+        },
+        {
           "title": "据Axios网站：据知情外交官透露，卡塔尔官员正在参加伊朗与阿曼在马斯喀特就霍尔木兹海峡问题举行的会谈。",
           "url": "https://flash.jin10.com/detail/20260711221401757800",
           "source": "金十数据",
@@ -646,6 +738,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时46分 ~ 01时49分]"
+        },
+        {
+          "title": "一个海事咨询组织表示，尽管美伊相互攻击升级，伊朗宣布关闭霍尔木兹海峡，但周日该海峡的南部航道仍对航运开放。",
+          "url": "https://flash.jin10.com/detail/20260712182317910800",
+          "source": "金十数据",
+          "ranks": [
+            18,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时53分 ~ 21时03分]"
         },
         {
           "title": "据伊朗国家媒体：阿巴斯港、锡里克和贾斯克目前局势平静。",
@@ -725,17 +829,6 @@
           "time_info": "13时31分"
         },
         {
-          "title": "据伊朗塔斯尼姆通讯社：伊朗革命卫队防空系统在伊朗西部洛雷斯坦省霍拉马巴德附近拦截了一枚敌方巡航导弹。",
-          "url": "https://flash.jin10.com/detail/20260712191001886800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时53分"
-        },
-        {
           "title": "伊朗称打击阿曼杜库姆港美军目标",
           "url": "https://flash.jin10.com/detail/20260712122812350800",
           "source": "金十数据",
@@ -802,17 +895,6 @@
           "time_info": "13时31分"
         },
         {
-          "title": "约旦政府：伊朗发动的无人机和导弹袭击公然侵犯约旦主权，威胁其安全、稳定和领土​​完整，是危险的局势升级。同时，伊朗袭击也公然违反了国际法和《联合国宪章》。",
-          "url": "https://flash.jin10.com/detail/20260712183728174800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时53分"
-        },
-        {
           "title": "据半岛电视台：伊朗官员表示，美国（对伊朗）的打击“不会没有回应”。",
           "url": "https://flash.jin10.com/detail/20260712083901925800",
           "source": "金十数据",
@@ -824,17 +906,6 @@
           "time_info": "10时01分"
         },
         {
-          "title": "巴林军方称伊朗持续进行“系统性侵略”",
-          "url": "https://flash.jin10.com/detail/20260712183553070800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时53分"
-        },
-        {
           "title": "据AXIOS：美国一名官员表示，伊朗革命卫队袭击的货船当时正行驶在阿曼提议的、本应不受限制通行的南部航道上。",
           "url": "https://flash.jin10.com/detail/20260712082827793800",
           "source": "金十数据",
@@ -844,17 +915,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时01分"
-        },
-        {
-          "title": "据伊朗国家媒体：一名伊朗军官在周日美以对伊朗的袭击中丧生。",
-          "url": "https://flash.jin10.com/detail/20260712183032386800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时53分"
         },
         {
           "title": "据伊朗国家电视台：在贾斯克听到超过10次爆炸声。",
@@ -910,17 +970,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时31分"
-        },
-        {
-          "title": "一个海事咨询组织表示，尽管美伊相互攻击升级，伊朗宣布关闭霍尔木兹海峡，但周日该海峡的南部航道仍对航运开放。",
-          "url": "https://flash.jin10.com/detail/20260712182317910800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时53分"
         },
         {
           "title": "据伊朗迈赫尔通讯社：伊朗在阿瓦士南部的马赫舒尔港启用防空系统。",
@@ -1061,7 +1110,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时53分"
         },
@@ -1156,11 +1205,12 @@
           "url": "https://s.weibo.com/weibo?q=%23%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%E4%B8%AD%E7%AD%BE%E7%8E%87%23&t=31&band_rank=8&Refer=top",
           "source": "微博",
           "ranks": [
-            8
+            8,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时53分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时53分 ~ 21时03分]"
         },
         {
           "title": "纳指科技ETF景顺：二级市场价格溢价 7月13日停牌后复牌",
@@ -1198,11 +1248,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时20分 ~ 19时53分]"
+          "appearance_count": 3,
+          "time_info": "[18时20分 ~ 21时03分]"
         },
         {
           "title": "苹果起诉OpenAI及两名员工窃取产品机密：曾要求带着“零部件”去面试",
@@ -1239,11 +1290,12 @@
           "ranks": [
             17,
             16,
-            19
+            19,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时04分 ~ 19时53分]"
+          "appearance_count": 4,
+          "time_info": "[16时04分 ~ 21时03分]"
         }
       ]
     },
