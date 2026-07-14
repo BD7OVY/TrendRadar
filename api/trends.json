@@ -1,22 +1,45 @@
 {
-  "generated_at": "2026-07-15T01:07:50.724245+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-07-15T03:07:21.886607+08:00",
+  "total_titles_processed": 408,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 12,
+      "match_count": 22,
       "titles": [
         {
           "title": "原油盘中暴涨10%！美军恢复对伊朗封锁，特朗普放话今晚明天“重击”、对海峡货运收两成费用",
           "url": "https://wallstreetcn.com/articles/3776822",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时07分"
+          "appearance_count": 2,
+          "time_info": "[01时07分 ~ 03时07分]"
+        },
+        {
+          "title": "伊朗前总统内贾德被曝遭软禁，曾短暂现身哈梅内伊葬礼队伍",
+          "url": "https://news.ifeng.com/c/8ukhwi9IbW5",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时07分 ~ 03时07分]"
+        },
+        {
+          "title": "美国向全世界敲竹杠，伊朗外长嘲讽",
+          "url": "https://news.ifeng.com/c/8ukLcwiKckH",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时07分 ~ 03时07分]"
         },
         {
           "title": "英新首相上任即迎考验 经济承压、伊朗风险加剧",
@@ -30,26 +53,37 @@
           "time_info": "01时07分"
         },
         {
-          "title": "伊朗前总统内贾德被曝遭软禁，曾短暂现身哈梅内伊葬礼队伍",
-          "url": "https://news.ifeng.com/c/8ukhwi9IbW5",
-          "source": "凤凰网",
+          "title": "伊朗革命卫队：只要美国在地区的“邪恶行动”存在，地区将不会有一滴石油和天然气出口。",
+          "url": "https://flash.jin10.com/detail/20260715024734485800",
+          "source": "金十数据",
           "ranks": [
             2
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时07分"
+          "time_info": "03时07分"
         },
         {
-          "title": "美国向全世界敲竹杠，伊朗外长嘲讽",
-          "url": "https://news.ifeng.com/c/8ukLcwiKckH",
-          "source": "凤凰网",
+          "title": "伊朗革命卫队：只要美国继续行动，霍尔木兹海峡的重新开放就将被推迟。",
+          "url": "https://flash.jin10.com/detail/20260715024447912800",
+          "source": "金十数据",
           "ranks": [
             4
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时07分"
+          "time_info": "03时07分"
+        },
+        {
+          "title": "伊朗革命卫队：在“承诺2号行动”第三轮打击中，向巴林谢赫·伊萨基地和科威特阿里·萨利姆基地发动导弹及无人机袭击，目标包括弹药设施、舰机零部件仓库及MQ-9无人机设施。",
+          "url": "https://flash.jin10.com/detail/20260715024433438800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时07分"
         },
         {
           "title": "伊朗逾180名议员发表声明，要求“惩罚”袭击肇事者",
@@ -70,8 +104,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时07分"
+          "appearance_count": 2,
+          "time_info": "[01时07分 ~ 03时07分]"
         },
         {
           "title": "惊险！伊朗客机准备降落，沙特导弹砸向跑道，瞬间一片火海",
@@ -81,8 +115,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时07分"
+          "appearance_count": 2,
+          "time_info": "[01时07分 ~ 03时07分]"
         },
         {
           "title": "伊朗称美进入正式战争状态",
@@ -92,8 +126,52 @@
             9
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时07分 ~ 03时07分]"
+        },
+        {
+          "title": "据CNBC：美国官员称，美军今日（周二）对伊朗军事目标发动数次追加打击，旨在消除新出现的威胁。<br/>",
+          "url": "https://flash.jin10.com/detail/20260715024025097800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时07分"
+          "time_info": "03时07分"
+        },
+        {
+          "title": "伊朗副外长：目前伊朗在与美国的《伊斯兰堡谅解备忘录》框架下不存在任何承诺。",
+          "url": "https://flash.jin10.com/detail/20260715023727946800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时07分"
+        },
+        {
+          "title": "伊朗称美进入正式战争状态",
+          "url": "https://wallstreetcn.com/articles/3776923",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时07分"
+        },
+        {
+          "title": "伊朗向科威特目标、巴林目标发射导弹和无人机。（伊朗媒体MEHR）",
+          "url": "https://wallstreetcn.com/livenews/3133823",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时07分"
         },
         {
           "title": "伊朗基什岛水电工程公司表示，在美国于周二凌晨发动的袭击中，一枚射弹在基什岛供水供电设施附近爆炸。由于爆炸点距离发电机组较近，部分发电机组的技术参数发生变化。",
@@ -107,6 +185,17 @@
           "time_info": "01时07分"
         },
         {
+          "title": "据伊朗官方媒体：美国炮弹击中伊朗格什姆岛目标。",
+          "url": "https://flash.jin10.com/detail/20260715022456719800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时07分"
+        },
+        {
           "title": "美国总统特朗普针对俄罗斯制裁立法草案声称：（美国国会山）可能会将伊朗塞入其中。 他们可能会将霍尔木兹海峡问题塞入俄罗斯草案。 俄罗斯草案可能会纳入霍尔木兹与伊朗。",
           "url": "https://wallstreetcn.com/livenews/3133784",
           "source": "华尔街见闻-快讯",
@@ -118,6 +207,17 @@
           "time_info": "01时07分"
         },
         {
+          "title": "据ABC：一名美国官员证实，美军目前正在伊朗境内实施空袭行动。该官员表示，空袭已持续数小时。",
+          "url": "https://flash.jin10.com/detail/20260715020245338800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时07分"
+        },
+        {
           "title": "伊朗Andimeshk市传出爆炸声。（Irib新闻社）",
           "url": "https://wallstreetcn.com/livenews/3133778",
           "source": "华尔街见闻-快讯",
@@ -127,6 +227,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时07分"
+        },
+        {
+          "title": "据伊朗迈赫尔通讯社：伊朗向科威特、巴林发射导弹和无人机。",
+          "url": "https://flash.jin10.com/detail/20260715015740918800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时07分"
         },
         {
           "title": "英国财政部：如果美国与伊朗的战争进一步加剧，油价可能会达到150美元/桶。 预计英国央行将在2026年加息至少一次。 预计四季度通胀为3.2%。",
@@ -143,29 +254,42 @@
     },
     {
       "keyword_group": "科技",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "长鑫科技公告：发行价格为8.66元/股",
           "url": "https://www.baidu.com/s?wd=%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%E5%85%AC%E5%91%8A%EF%BC%9A%E5%8F%91%E8%A1%8C%E4%BB%B7%E6%A0%BC%E4%B8%BA8.66%E5%85%83%2F%E8%82%A1",
           "source": "百度热搜",
           "ranks": [
-            7
+            7,
+            10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时07分"
+          "appearance_count": 2,
+          "time_info": "[01时07分 ~ 03时07分]"
         },
         {
           "title": "长鑫科技公告",
           "url": "https://s.weibo.com/weibo?q=%23%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%E5%85%AC%E5%91%8A%23&t=31&band_rank=8&Refer=top",
           "source": "微博",
           "ranks": [
-            8
+            8,
+            20
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时07分 ~ 03时07分]"
+        },
+        {
+          "title": "长鑫科技 7 月 16 日开启新股申购，最高估值超 4 万亿，这对其自身发展和半导体产业意味着什么？",
+          "url": "https://www.zhihu.com/question/2058449781597459395",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时07分"
+          "time_info": "03时07分"
         },
         {
           "title": "长鑫科技发行价确定为8.66元",
@@ -181,48 +305,20 @@
       ]
     },
     {
-      "keyword_group": "消费",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "未来5年消费“路线图”来了",
-          "url": "https://www.baidu.com/s?wd=%E6%9C%AA%E6%9D%A55%E5%B9%B4%E6%B6%88%E8%B4%B9%E2%80%9C%E8%B7%AF%E7%BA%BF%E5%9B%BE%E2%80%9D%E6%9D%A5%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时07分"
-        },
-        {
-          "title": "惠民生促消费双向发力",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%83%A0%E6%B0%91%E7%94%9F%E4%BF%83%E6%B6%88%E8%B4%B9%E5%8F%8C%E5%90%91%E5%8F%91%E5%8A%9B%23&t=31&band_rank=3&Refer=top",
-          "source": "微博",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时07分"
-        },
-        {
-          "title": "24小时制能否成为酒店业服务新方向？我们找消费者和从业者聊了聊",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33581628",
-          "source": "澎湃新闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时07分"
-        }
-      ]
-    },
-    {
       "keyword_group": "金融",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "美联储理事鲍曼将于十分钟后在美联储年度金融普惠会议上发表讲话。",
+          "url": "https://flash.jin10.com/detail/20260715024500000800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时07分"
+        },
         {
           "title": "美联储主席沃什：美股联邦存款保险公司（FDIC）针对银行业的保险上限应当具有强制约束力。 巴塞尔协议“终局”（endgame）规则并非美国（金融监管问题）的终局。",
           "url": "https://wallstreetcn.com/livenews/3133780",
@@ -244,6 +340,57 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时07分"
+        },
+        {
+          "title": "提醒：美联储主席沃什在美国众议院金融服务委员会的听证会结束，周三还将出席参议院银行委员会的听证会。",
+          "url": "https://wallstreetcn.com/livenews/3133820",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时07分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "消费",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "未来5年消费“路线图”来了",
+          "url": "https://www.baidu.com/s?wd=%E6%9C%AA%E6%9D%A55%E5%B9%B4%E6%B6%88%E8%B4%B9%E2%80%9C%E8%B7%AF%E7%BA%BF%E5%9B%BE%E2%80%9D%E6%9D%A5%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时07分 ~ 03时07分]"
+        },
+        {
+          "title": "惠民生促消费双向发力",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%83%A0%E6%B0%91%E7%94%9F%E4%BF%83%E6%B6%88%E8%B4%B9%E5%8F%8C%E5%90%91%E5%8F%91%E5%8A%9B%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时07分 ~ 03时07分]"
+        },
+        {
+          "title": "24小时制能否成为酒店业服务新方向？我们找消费者和从业者聊了聊",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33581628",
+          "source": "澎湃新闻",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时07分 ~ 03时07分]"
         }
       ]
     },
@@ -252,22 +399,23 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "金价又绷不住了网友直言想抄底",
+          "url": "https://www.toutiao.com/trending/7661722713741295679/",
+          "source": "今日头条",
+          "ranks": [
+            17,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时07分 ~ 03时07分]"
+        },
+        {
           "title": "花旗：随着通胀降温减轻美联储加息压力，预计铂金价格将反弹。",
           "url": "https://flash.jin10.com/detail/20260715003710951800",
           "source": "金十数据",
           "ranks": [
             16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时07分"
-        },
-        {
-          "title": "金价又绷不住了网友直言想抄底",
-          "url": "https://www.toutiao.com/trending/7661722713741295679/",
-          "source": "今日头条",
-          "ranks": [
-            17
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -318,11 +466,12 @@
           "url": "https://www.zhihu.com/question/2059349642496710015",
           "source": "知乎",
           "ranks": [
-            13
+            13,
+            7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时07分"
+          "appearance_count": 2,
+          "time_info": "[01时07分 ~ 03时07分]"
         }
       ]
     },
@@ -338,8 +487,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时07分"
+          "appearance_count": 2,
+          "time_info": "[01时07分 ~ 03时07分]"
         }
       ]
     }
