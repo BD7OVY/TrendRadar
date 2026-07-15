@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-15T17:55:30.958969+08:00",
-  "total_titles_processed": 1398,
+  "generated_at": "2026-07-15T19:24:56.302913+08:00",
+  "total_titles_processed": 1525,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 99,
+      "match_count": 105,
       "titles": [
         {
           "title": "伊朗前总统内贾德被曝遭软禁，曾短暂现身哈梅内伊葬礼队伍",
@@ -40,8 +40,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[03时07分 ~ 17时55分]"
+          "appearance_count": 13,
+          "time_info": "[03时07分 ~ 19时24分]"
         },
         {
           "title": "伊朗打击约旦美军F18战机部署地",
@@ -53,6 +53,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[09时44分 ~ 17时55分]"
+        },
+        {
+          "title": "以色列总理对伊朗领导人发出警告",
+          "url": "https://news.ifeng.com/c/8um9I5gqxqB",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时44分 ~ 19时24分]"
         },
         {
           "title": "惊险！伊朗客机准备降落，沙特导弹砸向跑道，瞬间一片火海",
@@ -77,18 +90,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时07分 ~ 07时45分]"
-        },
-        {
-          "title": "以色列总理对伊朗领导人发出警告",
-          "url": "https://news.ifeng.com/c/8um9I5gqxqB",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时44分 ~ 17时55分]"
         },
         {
           "title": "原油盘中暴涨10%！美军恢复对伊朗封锁，特朗普放话今晚明天“重击”、对海峡货运收两成费用",
@@ -302,6 +303,19 @@
           "time_info": "01时07分"
         },
         {
+          "title": "特朗普重启伊朗战事：美伊“战略韧性”较量下的海峡控制权博弈",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33583485",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            16,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时44分 ~ 19时24分]"
+        },
+        {
           "title": "据伊朗塔斯尼姆通讯社：伊朗当地和安全官员否认在恰巴哈尔发生任何爆炸。",
           "url": "https://flash.jin10.com/detail/20260715052333131800",
           "source": "金十数据",
@@ -398,19 +412,6 @@
           "time_info": "[06时51分 ~ 07时45分]"
         },
         {
-          "title": "特朗普重启伊朗战事：美伊“战略韧性”较量下的海峡控制权博弈",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33583485",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            16,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时44分 ~ 17时55分]"
-        },
-        {
           "title": "伊朗谴责美军袭击伊环境保护站致三人死亡",
           "url": "https://wallstreetcn.com/livenews/3133908",
           "source": "华尔街见闻-快讯",
@@ -433,6 +434,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时53分 ~ 05时52分]"
+        },
+        {
+          "title": "伊朗公布美第五舰队指挥中心被摧毁图",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%85%AC%E5%B8%83%E7%BE%8E%E7%AC%AC%E4%BA%94%E8%88%B0%E9%98%9F%E6%8C%87%E6%8C%A5%E4%B8%AD%E5%BF%83%E8%A2%AB%E6%91%A7%E6%AF%81%E5%9B%BE",
+          "source": "百度热搜",
+          "ranks": [
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时55分 ~ 19时24分]"
         },
         {
           "title": "美国总统特朗普在预先录制的采访中宣称：我们“痛打”伊朗。 我们必须维持霍尔木兹海峡的开放。 重申海峡仍然是开放的。 他们已经完成了伊朗目标。 “袭击伊朗”将持续至我喊“够了”。 他们还剩下一些战斗，但已经不多了。（福克斯新闻）",
@@ -504,6 +517,17 @@
           "time_info": "06时51分"
         },
         {
+          "title": "美军宣布对伊朗开始新一波打击",
+          "url": "https://www.toutiao.com/trending/7662700409185635891/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时24分"
+        },
+        {
           "title": "伊朗地方政府：霍尔木兹海峡发生交火",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%9C%B0%E6%96%B9%E6%94%BF%E5%BA%9C%EF%BC%9A%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1%E5%8F%91%E7%94%9F%E4%BA%A4%E7%81%AB",
           "source": "百度热搜",
@@ -548,17 +572,6 @@
           "time_info": "06时51分"
         },
         {
-          "title": "伊朗公布美第五舰队指挥中心被摧毁图",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%85%AC%E5%B8%83%E7%BE%8E%E7%AC%AC%E4%BA%94%E8%88%B0%E9%98%9F%E6%8C%87%E6%8C%A5%E4%B8%AD%E5%BF%83%E8%A2%AB%E6%91%A7%E6%AF%81%E5%9B%BE",
-          "source": "百度热搜",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时55分"
-        },
-        {
           "title": "伊朗副外长：目前伊朗在与美国的《伊斯兰堡谅解备忘录》框架下不存在任何承诺。",
           "url": "https://flash.jin10.com/detail/20260715023727946800",
           "source": "金十数据",
@@ -601,6 +614,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时10分"
+        },
+        {
+          "title": "美军宣布对伊朗开始新一波打击",
+          "url": "https://wallstreetcn.com/livenews/3134312",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时24分"
+        },
+        {
+          "title": "美军对伊朗开始新一波打击",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%86%9B%E5%AF%B9%E4%BC%8A%E6%9C%97%E5%BC%80%E5%A7%8B%E6%96%B0%E4%B8%80%E6%B3%A2%E6%89%93%E5%87%BB",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时24分"
         },
         {
           "title": "据福克斯新闻：美国总统特朗普表示，对伊朗的打击将持续，直到我说够了为止。伊朗还有一些斗志，但他们的余力不多。",
@@ -653,7 +688,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时55分"
         },
@@ -744,6 +779,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时51分"
+        },
+        {
+          "title": "美国中央司令部：美国于美东时间早上6点开始对伊朗发动袭击。",
+          "url": "https://wallstreetcn.com/livenews/3134304",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时24分"
         },
         {
           "title": "伊朗基什岛水电工程公司表示，在美国于周二凌晨发动的袭击中，一枚射弹在基什岛供水供电设施附近爆炸。由于爆炸点距离发电机组较近，部分发电机组的技术参数发生变化。",
@@ -999,6 +1045,17 @@
           "time_info": "01时07分"
         },
         {
+          "title": "伊朗：伊朗不会先低头要求与美国谈判",
+          "url": "https://wallstreetcn.com/livenews/3134293",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时24分"
+        },
+        {
           "title": "据伊朗官方媒体：伊朗班达尔阿巴斯市政府消息称，美军打击已击中伊朗南部港口城市班达尔阿巴斯周边地区。",
           "url": "https://flash.jin10.com/detail/20260715034717920800",
           "source": "金十数据",
@@ -1049,7 +1106,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时55分"
         },
@@ -1118,12 +1175,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时44分"
+        },
+        {
+          "title": "伊朗前总统内贾德否认与以色列情报机构存在联系",
+          "url": "https://wallstreetcn.com/livenews/3134281",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时24分"
         }
       ]
     },
     {
       "keyword_group": "科技",
-      "match_count": 34,
+      "match_count": 40,
       "titles": [
         {
           "title": "【早报】美股存储板块反弹；美军空袭伊朗；原油、金银集体上涨；长鑫科技，发行价定了",
@@ -1175,11 +1243,12 @@
           "ranks": [
             4,
             2,
-            13
+            13,
+            16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时44分 ~ 17时55分]"
+          "appearance_count": 6,
+          "time_info": "[09时44分 ~ 19时24分]"
         },
         {
           "title": "长鑫科技 7 月 16 日开启新股申购，最高估值超 4 万亿，这对其自身发展和半导体产业意味着什么？",
@@ -1257,7 +1326,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时55分"
         },
@@ -1338,7 +1407,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时55分"
         },
@@ -1349,9 +1418,31 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时55分"
+        },
+        {
+          "title": "长鑫科技打新明日来袭",
+          "url": "https://www.douyin.com/hot/2572596",
+          "source": "抖音",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时24分"
+        },
+        {
+          "title": "长鑫科技打新中一签能赚多少",
+          "url": "https://www.baidu.com/s?wd=%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%E6%89%93%E6%96%B0%E4%B8%AD%E4%B8%80%E7%AD%BE%E8%83%BD%E8%B5%9A%E5%A4%9A%E5%B0%91",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时24分"
         },
         {
           "title": "灿勤科技：拟定增募资不超8.51亿元，用于第六代信息技术研发及产业化等项目",
@@ -1360,9 +1451,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时55分"
+        },
+        {
+          "title": "英媒：布鲁塞尔加强大科技监管，拟再对谷歌开出巨额罚单",
+          "url": "https://flash.jin10.com/detail/20260715185455276800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时24分"
         },
         {
           "title": "绩优基金二季报密集披露：更加聚焦硬科技，锚定产业发展趋势",
@@ -1374,6 +1476,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时45分"
+        },
+        {
+          "title": "安路科技：预计上半年营业收入4.1亿元至4.5亿元，同比增长83.57%至101.48%",
+          "url": "https://wallstreetcn.com/livenews/3134301",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时24分"
         },
         {
           "title": "纳斯达克金龙中国指数收跌0.11%，报6105.95点。 热门中概股里，百度初步收跌3.3%，网易跌2.4%，拼多多跌0.7%，阿里涨0.1%，腾讯涨0.5%，新东方涨2.1%，比亚迪涨3.1%，小鹏涨3.2%，小马智行涨4.2%，文远知行涨7%。 ETF中，中概互联网指数ETF（KWEB）收跌0.19%，中国科技指数ETF（CQQQ）收涨1.52%。 XtrackersHarvest中证50（ASHS）收涨2.88%，德银嘉实沪深300指数ETF（ASHR）收涨2.84%，MSCI新兴市场ex中国ETF（EMXC）收涨1.79%。",
@@ -1409,13 +1522,24 @@
           "time_info": "05时52分"
         },
         {
+          "title": "据英国金融时报：布鲁塞尔准备对谷歌实施新一轮罚款，随着对大型科技公司的监管力度加大。",
+          "url": "https://flash.jin10.com/detail/20260715184735484800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时24分"
+        },
+        {
           "title": "泰和科技：预计2026年上半年净利润同比增长112.89%至176.75%",
           "url": "https://wallstreetcn.com/livenews/3134236",
           "source": "华尔街见闻-快讯",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时55分"
         },
@@ -1426,7 +1550,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时55分"
         },
@@ -1459,7 +1583,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时55分"
         },
@@ -1470,7 +1594,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时55分"
         },
@@ -1481,7 +1605,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时55分"
         },
@@ -1503,7 +1627,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时55分"
         },
@@ -1517,12 +1641,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时45分"
+        },
+        {
+          "title": "长鑫科技就员工激励分配执行细节作出说明",
+          "url": "https://wallstreetcn.com/livenews/3134286",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时24分"
         }
       ]
     },
     {
       "keyword_group": "金融",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
         {
           "title": "【中国央行：上半年人民币存款增加17.76万亿元】中国央行：6月末，本外币存款余额354.33万亿元，同比增长8.2%。月末人民币存款余额346.44万亿元，同比增长8.2%。上半年人民币存款增加17.76万亿元。其中，住户存款增加7.58万亿元，非金融企业存款增加3.2万亿元，财政性存款增加9715亿元，非银行业金融机构存款增加4.65万亿元。6月末，外币存款余额1.16万亿美元，同比增长13.7%。上半年外币存款增加980亿美元。",
@@ -1593,6 +1728,17 @@
           "time_info": "15时10分"
         },
         {
+          "title": "拆解上半年金融数据：企业债券融资、股票融资等多元渠道对社融拉动明显 流动性操作侧重精准有效",
+          "url": "https://www.cls.cn/detail/2427337",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时24分"
+        },
+        {
           "title": "事关国民经济、金融数据 今天将举行两场重磅发布会",
           "url": "https://flash.jin10.com/detail/20260715060520258800",
           "source": "金十数据",
@@ -1643,7 +1789,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时55分"
         },
@@ -1690,6 +1836,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时07分"
+        },
+        {
+          "title": "金融监管总局召开2026年两会重点建议提案座谈会",
+          "url": "https://wallstreetcn.com/livenews/3134287",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时24分"
         }
       ]
     },
@@ -1750,11 +1907,24 @@
           "ranks": [
             18,
             17,
-            30
+            30,
+            23
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时44分 ~ 17时55分]"
+          "appearance_count": 5,
+          "time_info": "[12时44分 ~ 19时24分]"
+        },
+        {
+          "title": "【焦点复盘】科创50长阴反包逼近30日线，算力硬件股全天低迷，大消费板块全线回暖",
+          "url": "https://www.cls.cn/detail/2427336",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时55分 ~ 19时24分]"
         },
         {
           "title": "OpenAI拟进军消费硬件市场：首款无屏智能音箱曝光 未来目标瞄准“手机替代品”",
@@ -1766,17 +1936,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时44分 ~ 12时45分]"
-        },
-        {
-          "title": "【焦点复盘】科创50长阴反包逼近30日线，算力硬件股全天低迷，大消费板块全线回暖",
-          "url": "https://www.cls.cn/detail/2427336",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时55分"
         },
         {
           "title": "7月15日午间收评：科创50指数半日跌3.67%，医药、消费股逆势大涨",
@@ -1910,6 +2069,57 @@
       ]
     },
     {
+      "keyword_group": "深圳",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "中国6月70个大中城市中有20城新建商品住宅价格环比上涨，上月为16城；环比看，惠州、徐州涨幅0.4%领跑，杭州、宁波、厦门等涨0.3%，北京、上海、广州、深圳分别跌0.3%、涨0.3%、涨0.2%、涨0.3%。",
+          "url": "https://wallstreetcn.com/livenews/3133986",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时44分"
+        },
+        {
+          "title": "深圳地铁回应“辣眼睛”广告：马上改",
+          "url": "https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E5%9C%B0%E9%93%81%E5%9B%9E%E5%BA%94%E2%80%9C%E8%BE%A3%E7%9C%BC%E7%9D%9B%E2%80%9D%E5%B9%BF%E5%91%8A%EF%BC%9A%E9%A9%AC%E4%B8%8A%E6%94%B9",
+          "source": "百度热搜",
+          "ranks": [
+            29,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时44分 ~ 15时10分]"
+        },
+        {
+          "title": "地铁站广告被吐槽 “太密集”“辣眼睛”，深圳地铁回应：马上改",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33588479",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时24分"
+        },
+        {
+          "title": "深圳机场今年出入境外国人创历史同期新高",
+          "url": "https://flash.jin10.com/detail/20260715115216670800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时45分"
+        }
+      ]
+    },
+    {
       "keyword_group": "金价",
       "match_count": 4,
       "titles": [
@@ -2004,46 +2214,6 @@
       ]
     },
     {
-      "keyword_group": "深圳",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "中国6月70个大中城市中有20城新建商品住宅价格环比上涨，上月为16城；环比看，惠州、徐州涨幅0.4%领跑，杭州、宁波、厦门等涨0.3%，北京、上海、广州、深圳分别跌0.3%、涨0.3%、涨0.2%、涨0.3%。",
-          "url": "https://wallstreetcn.com/livenews/3133986",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时44分"
-        },
-        {
-          "title": "深圳地铁回应“辣眼睛”广告：马上改",
-          "url": "https://www.baidu.com/s?wd=%E6%B7%B1%E5%9C%B3%E5%9C%B0%E9%93%81%E5%9B%9E%E5%BA%94%E2%80%9C%E8%BE%A3%E7%9C%BC%E7%9D%9B%E2%80%9D%E5%B9%BF%E5%91%8A%EF%BC%9A%E9%A9%AC%E4%B8%8A%E6%94%B9",
-          "source": "百度热搜",
-          "ranks": [
-            29,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时44分 ~ 15时10分]"
-        },
-        {
-          "title": "深圳机场今年出入境外国人创历史同期新高",
-          "url": "https://flash.jin10.com/detail/20260715115216670800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时45分"
-        }
-      ]
-    },
-    {
       "keyword_group": "资源",
       "match_count": 2,
       "titles": [
@@ -2065,7 +2235,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时55分"
         }
@@ -2082,7 +2252,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时55分"
         },
@@ -2093,9 +2263,9 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时55分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时55分 ~ 19时24分]"
         }
       ]
     },
@@ -2149,11 +2319,12 @@
           "url": "https://s.weibo.com/weibo?q=%E6%97%85%E6%B8%B8%E6%97%B6%E7%AA%81%E7%84%B6%E8%A2%AB%E9%80%9A%E7%9F%A5%E5%BC%80%E9%99%A4%E4%BA%86&t=31&band_rank=8&Refer=top",
           "source": "微博",
           "ranks": [
-            8
+            8,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时55分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时55分 ~ 19时24分]"
         }
       ]
     },
