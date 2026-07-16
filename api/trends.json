@@ -1,94 +1,215 @@
 {
-  "generated_at": "2026-07-17T01:07:43.711365+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-07-17T03:01:43.765119+08:00",
+  "total_titles_processed": 392,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "科技",
-      "match_count": 7,
+      "keyword_group": "伊朗",
+      "match_count": 18,
       "titles": [
         {
-          "title": "美PPI确认通胀降温，科技巨头力撑美股指两连阳，中概股大涨，美光、闪迪暴跌8%",
-          "url": "https://wallstreetcn.com/articles/3776964",
-          "source": "华尔街见闻",
+          "title": "伊朗司法机构称未释放任何美国在押人员。（MIZAN）",
+          "url": "https://wallstreetcn.com/livenews/3135237",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时01分"
+        },
+        {
+          "title": "伊朗司法部门：暂无美国囚犯从伊朗监狱获释或交换。",
+          "url": "https://flash.jin10.com/detail/20260717024825919800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时01分"
+        },
+        {
+          "title": "美军发动新一轮空袭，连续第五晚打击伊朗",
+          "url": "https://wallstreetcn.com/livenews/3135236",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时01分"
+        },
+        {
+          "title": "伊朗阿巴斯港西部传出三次爆炸声",
+          "url": "https://wallstreetcn.com/livenews/3135235",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时01分"
+        },
+        {
+          "title": "伊朗最高领袖顾问：对基础设施的袭击将危及地区能源供应",
+          "url": "https://flash.jin10.com/detail/20260717004941859800",
+          "source": "金十数据",
+          "ranks": [
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时07分"
         },
         {
-          "title": "长鑫科技超 6000 员工获股份，IPO 后批量诞生千万富翁，如何看待长鑫科技上市？",
-          "url": "https://www.zhihu.com/question/2059993412737283983",
-          "source": "知乎",
+          "title": "伊朗阿巴斯港西部传出三次爆炸声",
+          "url": "https://flash.jin10.com/detail/20260717023701527800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时01分"
+        },
+        {
+          "title": "敌人袭击伊朗Bandar Abbas周边区域。（伊朗媒体IRNA）",
+          "url": "https://wallstreetcn.com/livenews/3135195",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时07分"
+        },
+        {
+          "title": "重启对伊封锁来首次！美国袭击与伊朗有关油轮 海上对抗升级",
+          "url": "https://www.cls.cn/detail/2428434",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时07分 ~ 03时01分]"
+        },
+        {
+          "title": "据伊朗迈赫尔通讯社：伊朗班达尔阿巴斯附近遭到美国袭击，霍尔木兹甘省政府称暂无人员伤亡和财产损失。",
+          "url": "https://flash.jin10.com/detail/20260717004358097800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时07分"
+        },
+        {
+          "title": "美军开始对伊朗实施新一轮袭击。",
+          "url": "https://wallstreetcn.com/livenews/3135229",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时01分"
+        },
+        {
+          "title": "据伊朗国家电视台：伊朗南部阿巴斯港地区遭到美国炮弹袭击。",
+          "url": "https://flash.jin10.com/detail/20260717022858052800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时01分"
+        },
+        {
+          "title": "美国连续第六晚打击伊朗",
+          "url": "https://flash.jin10.com/detail/20260717022528646800",
+          "source": "金十数据",
           "ranks": [
             11
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时07分"
+          "time_info": "03时01分"
         },
         {
-          "title": "梁文锋打新长鑫科技",
-          "url": "https://www.toutiao.com/trending/7663049647610400299/",
-          "source": "今日头条",
+          "title": "白宫称伊朗仍在与美国对话",
+          "url": "https://wallstreetcn.com/livenews/3135227",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时01分"
+        },
+        {
+          "title": "白宫称伊朗仍在与美国对话",
+          "url": "https://flash.jin10.com/detail/20260717022111991800",
+          "source": "金十数据",
           "ranks": [
             13
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时07分"
+          "time_info": "03时01分"
         },
         {
-          "title": "长鑫科技今日“打新”，张坤、葛兰、傅鹏博等知名基金经理旗下产品出手询价",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33596089",
-          "source": "澎湃新闻",
+          "title": "据伊朗迈赫尔通讯社：也门军事官员表示，以色列正协助沙特阿拉伯拦截也门的报复性攻击。",
+          "url": "https://flash.jin10.com/detail/20260717000731990800",
+          "source": "金十数据",
           "ranks": [
-            18
+            21
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时07分"
         },
         {
-          "title": "澜起科技：董事长提议3亿元-6亿元回购公司股份",
-          "url": "https://wallstreetcn.com/livenews/3135173",
+          "title": "据伊朗媒体Fars News：约旦外交部长表示，美国在约旦没有军事基地，但有美军人员驻扎，这是约旦与华盛顿军事合作的一部分。",
+          "url": "https://flash.jin10.com/detail/20260717015624270800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时01分"
+        },
+        {
+          "title": "伊朗重申与海湾邻国不存在敌对关系",
+          "url": "https://wallstreetcn.com/livenews/3135175",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            24
+            22
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时07分"
         },
         {
-          "title": "澜起科技：预计上半年净利润同比增长63.9%~81.2%",
-          "url": "https://wallstreetcn.com/livenews/3135170",
+          "title": "白宫新闻秘书Leavitt：伊朗继续与美国对话。 美方袭击伊朗，是因为伊朗违反了两国之间的谅解备忘录（MoU）。",
+          "url": "https://wallstreetcn.com/livenews/3135213",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            27
+            23
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时07分"
-        },
-        {
-          "title": "澜起科技：公司韩国办公室被首尔中央地方检察厅现场搜查及取证，涉及反垄断相关法规事宜",
-          "url": "https://wallstreetcn.com/livenews/3135169",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时07分"
+          "time_info": "03时01分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 7,
+      "match_count": 12,
       "titles": [
         {
           "title": "巴菲特罕见发声：当每个人都喜欢赌博时，很难找到价值，谷歌能击败95%华尔街推的票",
@@ -98,8 +219,52 @@
             2
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时07分 ~ 03时01分]"
+        },
+        {
+          "title": "谷歌A跌幅扩大至2.7%。",
+          "url": "https://wallstreetcn.com/livenews/3135230",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时07分"
+          "time_info": "03时01分"
+        },
+        {
+          "title": "谷歌(GOOG.O)日内跌近3%，有消息称谷歌Gemini 3.5 Pro推迟发布。",
+          "url": "https://flash.jin10.com/detail/20260717022948795800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时01分"
+        },
+        {
+          "title": "谷歌Gemini 3.5 Pro交付进度落后计划数月，因技术能力未达预期目标",
+          "url": "https://flash.jin10.com/detail/20260717021710042800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时01分"
+        },
+        {
+          "title": "报道：谷歌Gemini旗舰模型发布推迟，技术能力未达预期目标",
+          "url": "https://wallstreetcn.com/livenews/3135223",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时01分"
         },
         {
           "title": "谷歌(GOOG.O)在美国上线搜索AI模式应用集成功能，支持与更多应用协同。",
@@ -166,78 +331,129 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时07分"
+        },
+        {
+          "title": "欧盟要求谷歌开放安卓AI功能并共享搜索数据",
+          "url": "https://wallstreetcn.com/livenews/3135211",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时01分"
         }
       ]
     },
     {
-      "keyword_group": "伊朗",
-      "match_count": 6,
+      "keyword_group": "科技",
+      "match_count": 7,
       "titles": [
         {
-          "title": "伊朗最高领袖顾问：对基础设施的袭击将危及地区能源供应",
-          "url": "https://flash.jin10.com/detail/20260717004941859800",
-          "source": "金十数据",
+          "title": "美PPI确认通胀降温，科技巨头力撑美股指两连阳，中概股大涨，美光、闪迪暴跌8%",
+          "url": "https://wallstreetcn.com/articles/3776964",
+          "source": "华尔街见闻",
           "ranks": [
-            4
+            5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时07分"
+          "appearance_count": 3,
+          "time_info": "[01时07分 ~ 03时01分]"
         },
         {
-          "title": "敌人袭击伊朗Bandar Abbas周边区域。（伊朗媒体IRNA）",
-          "url": "https://wallstreetcn.com/livenews/3135195",
+          "title": "长鑫科技超 6000 员工获股份，IPO 后批量诞生千万富翁，如何看待长鑫科技上市？",
+          "url": "https://www.zhihu.com/question/2059993412737283983",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时07分 ~ 03时01分]"
+        },
+        {
+          "title": "梁文锋打新长鑫科技",
+          "url": "https://www.toutiao.com/trending/7663049647610400299/",
+          "source": "今日头条",
+          "ranks": [
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时07分 ~ 03时01分]"
+        },
+        {
+          "title": "长鑫科技今日“打新”，张坤、葛兰、傅鹏博等知名基金经理旗下产品出手询价",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33596089",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时07分 ~ 03时01分]"
+        },
+        {
+          "title": "澜起科技：董事长提议3亿元-6亿元回购公司股份",
+          "url": "https://wallstreetcn.com/livenews/3135173",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            24
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时07分"
         },
         {
-          "title": "据伊朗迈赫尔通讯社：伊朗班达尔阿巴斯附近遭到美国袭击，霍尔木兹甘省政府称暂无人员伤亡和财产损失。",
-          "url": "https://flash.jin10.com/detail/20260717004358097800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时07分"
-        },
-        {
-          "title": "重启对伊封锁来首次！美国袭击与伊朗有关油轮 海上对抗升级",
-          "url": "https://www.cls.cn/detail/2428434",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时07分"
-        },
-        {
-          "title": "据伊朗迈赫尔通讯社：也门军事官员表示，以色列正协助沙特阿拉伯拦截也门的报复性攻击。",
-          "url": "https://flash.jin10.com/detail/20260717000731990800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时07分"
-        },
-        {
-          "title": "伊朗重申与海湾邻国不存在敌对关系",
-          "url": "https://wallstreetcn.com/livenews/3135175",
+          "title": "澜起科技：预计上半年净利润同比增长63.9%~81.2%",
+          "url": "https://wallstreetcn.com/livenews/3135170",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            22
+            27
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时07分"
+        },
+        {
+          "title": "澜起科技：公司韩国办公室被首尔中央地方检察厅现场搜查及取证，涉及反垄断相关法规事宜",
+          "url": "https://wallstreetcn.com/livenews/3135169",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时07分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金融",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美联储：截至7月15日当周，美国经季节性调整的商业票据未偿余额减少66亿美元。美国未经季节性调整的商业票据未偿余额减少24亿美元。美国未经季节性调整的外国金融机构商业票据未偿余额减少35亿美元。",
+          "url": "https://flash.jin10.com/detail/20260717010121186800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时07分"
+        },
+        {
+          "title": "达索系统洽谈按大约20亿美元收购ArisGlobal。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3135224",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时01分"
         }
       ]
     },
@@ -253,8 +469,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时07分"
+          "appearance_count": 3,
+          "time_info": "[01时07分 ~ 03时01分]"
         },
         {
           "title": "沪指跌破3900点，科创50跌4%，存储芯片掀起跌停潮，医药逆势拉升，恒科指涨2%，科网股大反弹",
@@ -264,8 +480,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时07分"
+          "appearance_count": 3,
+          "time_info": "[01时07分 ~ 03时01分]"
         }
       ]
     },
@@ -278,39 +494,52 @@
           "url": "https://www.zhihu.com/question/2060496768580718879",
           "source": "知乎",
           "ranks": [
-            4
+            4,
+            8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时07分"
+          "appearance_count": 3,
+          "time_info": "[01时07分 ~ 03时01分]"
         },
         {
           "title": "武汉eStarPro战胜深圳DYG",
           "url": "https://search.bilibili.com/all?keyword=%E6%AD%A6%E6%B1%89eStarPro%20%E6%B7%B1%E5%9C%B3DYG",
           "source": "bilibili 热搜",
           "ranks": [
-            23
+            23,
+            5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时07分"
+          "appearance_count": 3,
+          "time_info": "[01时07分 ~ 03时01分]"
         }
       ]
     },
     {
-      "keyword_group": "金融",
-      "match_count": 1,
+      "keyword_group": "chatgpt openai",
+      "match_count": 2,
       "titles": [
         {
-          "title": "美联储：截至7月15日当周，美国经季节性调整的商业票据未偿余额减少66亿美元。美国未经季节性调整的商业票据未偿余额减少24亿美元。美国未经季节性调整的外国金融机构商业票据未偿余额减少35亿美元。",
-          "url": "https://flash.jin10.com/detail/20260717010121186800",
+          "title": "OpenAI董事长：IPO时间暂无最新消息",
+          "url": "https://flash.jin10.com/detail/20260717004805940800",
           "source": "金十数据",
           "ranks": [
-            1
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时07分"
+        },
+        {
+          "title": "OpenAI董事长称对其他公司的商业机密“没有兴趣”",
+          "url": "https://flash.jin10.com/detail/20260717022344954800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时01分"
         }
       ]
     },
@@ -323,28 +552,12 @@
           "url": "https://www.zhihu.com/question/2060999608738608921",
           "source": "知乎",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时07分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "OpenAI董事长：IPO时间暂无最新消息",
-          "url": "https://flash.jin10.com/detail/20260717004805940800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时07分"
+          "appearance_count": 3,
+          "time_info": "[01时07分 ~ 03时01分]"
         }
       ]
     }
