@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-18T01:04:45.127037+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-07-18T02:56:50.935592+08:00",
+  "total_titles_processed": 399,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 9,
+      "match_count": 15,
       "titles": [
         {
           "title": "LS Power：美国电力市场基本不受伊朗战争推高油价影响",
@@ -30,6 +30,17 @@
           "time_info": "01时04分"
         },
         {
+          "title": "据伊朗国际电视台：根据所获得的伊朗最高国家安全委员会指令，媒体被要求不得发布有关民用基础设施受损细节、破坏程度以及袭击对公共服务供应影响的信息。",
+          "url": "https://flash.jin10.com/detail/20260718022147106800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时56分"
+        },
+        {
           "title": "卡塔尔外交部：伊朗必须立即全面停止所有威胁地区安全与稳定的军事行动和侵略行为，避免任何扩大升级范围的行为，认真重返对话与谈判轨道，并恪守通过外交努力达成的谅解。",
           "url": "https://flash.jin10.com/detail/20260717234240246800",
           "source": "金十数据",
@@ -39,6 +50,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时04分"
+        },
+        {
+          "title": "据科威特国家通讯社：科威特南部两处火灾已得到控制，此前相关设施遭伊朗袭击，目前暂无人员伤亡报告。",
+          "url": "https://flash.jin10.com/detail/20260718021515550800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时56分"
         },
         {
           "title": "伊朗关联油轮掉头、蛇形机动，美国实施海上封锁",
@@ -63,6 +85,17 @@
           "time_info": "01时04分"
         },
         {
+          "title": "据伊朗努尔新闻(Nour News)：当地消息人士称，伊朗阿巴斯港传出爆炸声。",
+          "url": "https://flash.jin10.com/detail/20260718020238771800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时56分"
+        },
+        {
           "title": "卡塔尔外交部：卡塔尔以最强烈言辞谴责伊朗对其领土及若干兄弟国家领土的新一轮侵略。",
           "url": "https://flash.jin10.com/detail/20260717234153130800",
           "source": "金十数据",
@@ -72,6 +105,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时04分"
+        },
+        {
+          "title": "据伊通社（IRNA）：伊朗霍尔木兹甘省电力公司表示，美军昨夜袭击造成的电网受损已完成抢修，目前所有受影响区域的电网运行状况均已稳定，应急力量仍保持待命。",
+          "url": "https://flash.jin10.com/detail/20260718015900634800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时56分"
         },
         {
           "title": "美国否认叙利亚境内美军基地遭伊朗袭击",
@@ -85,6 +129,17 @@
           "time_info": "01时04分"
         },
         {
+          "title": "伊朗称摧毁多架美军战斗机",
+          "url": "https://www.toutiao.com/trending/7663410168377380371/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时56分"
+        },
+        {
           "title": "美军袭击伊朗哈尔克岛油轮",
           "url": "https://flash.jin10.com/detail/20260717233357915800",
           "source": "金十数据",
@@ -96,11 +151,85 @@
           "time_info": "01时04分"
         },
         {
+          "title": "据塔斯尼姆通讯社：伊朗一揽子原油价格已突破每桶80美元。",
+          "url": "https://flash.jin10.com/detail/20260718013855394800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时56分"
+        },
+        {
           "title": "伊朗打击位于科威特和叙利亚的美军目标",
           "url": "https://wallstreetcn.com/livenews/3135815",
           "source": "华尔街见闻-快讯",
           "ranks": [
             30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时04分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "科技",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "科技股抛售潮蔓延，美股低开，纳指跌1.8%，半导体板块领跌，布油涨3%，黄金失守4000美元",
+          "url": "https://wallstreetcn.com/articles/3777186",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时04分 ~ 02时56分]"
+        },
+        {
+          "title": "【每日收评】创业板与科创50指数双双跌超7%，全市场近200股跌停，科技权重集体退潮",
+          "url": "https://www.cls.cn/detail/2429589",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时04分 ~ 02时56分]"
+        },
+        {
+          "title": "特朗普媒体科技集团提议，对“Truth API”收取10万美元的月租。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3135845",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时04分 ~ 02时56分]"
+        },
+        {
+          "title": "丰业银行策略师Shaun Osborne：今天跨资产类别的整体走势“反映了一次典型的‘避险’交易转向。 由于对科技/芯片周期的新一轮担忧以及美伊冲突的升级，股市盘面一片惨绿（a sea of red）。",
+          "url": "https://wallstreetcn.com/livenews/3135868",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时56分"
+        },
+        {
+          "title": "明晟公司MSCI北欧国家指数跌0.2%，报392.10点。 在十个板块中，北欧工业板块跌幅最大。 高科技工程集团Sandvik AB（山特维克，矿业设备制造商）跌9.3%，在一众北欧个股里表现最差。 最新业绩报告显示，该公司二季度营收367.5亿瑞典克朗（SEK），分析师预期361.3亿克朗。 二季度订单378亿克朗，分析师预期387.5亿克朗。 维持全年资本开支预期在40亿-45亿克朗不变。",
+          "url": "https://wallstreetcn.com/livenews/3135830",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -120,8 +249,32 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时04分"
+          "appearance_count": 2,
+          "time_info": "[01时04分 ~ 02时56分]"
+        },
+        {
+          "title": "住房被写成“大宗耐用消费品”意味啥",
+          "url": "https://www.toutiao.com/trending/7663473527919808019/",
+          "source": "今日头条",
+          "ranks": [
+            26,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时04分 ~ 02时56分]"
+        },
+        {
+          "title": "零食店疯狂扩张 消费者会买账吗",
+          "url": "https://www.baidu.com/s?wd=%E9%9B%B6%E9%A3%9F%E5%BA%97%E7%96%AF%E7%8B%82%E6%89%A9%E5%BC%A0+%E6%B6%88%E8%B4%B9%E8%80%85%E4%BC%9A%E4%B9%B0%E8%B4%A6%E5%90%97",
+          "source": "百度热搜",
+          "ranks": [
+            26,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时04分 ~ 02时56分]"
         },
         {
           "title": "白宫新闻秘书莱维特：看到美国7月初消费者信心指数升至五个月高点，这是因为汽油价格下降提振了民众情绪。",
@@ -144,78 +297,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时04分"
-        },
-        {
-          "title": "住房被写成“大宗耐用消费品”意味啥",
-          "url": "https://www.toutiao.com/trending/7663473527919808019/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时04分"
-        },
-        {
-          "title": "零食店疯狂扩张 消费者会买账吗",
-          "url": "https://www.baidu.com/s?wd=%E9%9B%B6%E9%A3%9F%E5%BA%97%E7%96%AF%E7%8B%82%E6%89%A9%E5%BC%A0+%E6%B6%88%E8%B4%B9%E8%80%85%E4%BC%9A%E4%B9%B0%E8%B4%A6%E5%90%97",
-          "source": "百度热搜",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时04分"
         }
       ]
     },
     {
-      "keyword_group": "科技",
-      "match_count": 4,
+      "keyword_group": "房价",
+      "match_count": 1,
       "titles": [
         {
-          "title": "科技股抛售潮蔓延，美股低开，纳指跌1.8%，半导体板块领跌，布油涨3%，黄金失守4000美元",
-          "url": "https://wallstreetcn.com/articles/3777186",
-          "source": "华尔街见闻",
+          "title": "房子定调消费品 未来房价会怎么走",
+          "url": "https://www.toutiao.com/trending/7663453846475116075/",
+          "source": "今日头条",
           "ranks": [
-            1
+            20
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时04分"
-        },
-        {
-          "title": "特朗普媒体科技集团提议，对“Truth API”收取10万美元的月租。（英国金融时报）",
-          "url": "https://wallstreetcn.com/livenews/3135845",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时04分"
-        },
-        {
-          "title": "【每日收评】创业板与科创50指数双双跌超7%，全市场近200股跌停，科技权重集体退潮",
-          "url": "https://www.cls.cn/detail/2429589",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时04分"
-        },
-        {
-          "title": "明晟公司MSCI北欧国家指数跌0.2%，报392.10点。 在十个板块中，北欧工业板块跌幅最大。 高科技工程集团Sandvik AB（山特维克，矿业设备制造商）跌9.3%，在一众北欧个股里表现最差。 最新业绩报告显示，该公司二季度营收367.5亿瑞典克朗（SEK），分析师预期361.3亿克朗。 二季度订单378亿克朗，分析师预期387.5亿克朗。 维持全年资本开支预期在40亿-45亿克朗不变。",
-          "url": "https://wallstreetcn.com/livenews/3135830",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时04分"
+          "time_info": "02时56分"
         }
       ]
     },
@@ -228,11 +326,12 @@
           "url": "https://wallstreetcn.com/livenews/3135840",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            30
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时04分"
+          "appearance_count": 2,
+          "time_info": "[01时04分 ~ 02时56分]"
         }
       ]
     },
@@ -248,8 +347,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时04分"
+          "appearance_count": 2,
+          "time_info": "[01时04分 ~ 02时56分]"
         }
       ]
     },
@@ -262,11 +361,12 @@
           "url": "https://www.toutiao.com/trending/7663427578069257747/",
           "source": "今日头条",
           "ranks": [
-            29
+            29,
+            13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时04分"
+          "appearance_count": 2,
+          "time_info": "[01时04分 ~ 02时56分]"
         }
       ]
     },
@@ -282,8 +382,25 @@
             6
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时04分 ~ 02时56分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌2.05%，暂报2155.15点，上周五结束交易以来（7*24）累计下跌2.81%。 MarketVectorTM数字资产100中盘指数跌0.49%，报2568.46点，最近七天累跌1.97%。 MarketVector数字资产100指数跌1.49%，报12643.48点，最近七天累跌0.78%。 最近七天迄今，Solana累跌3.48%，狗狗币累跌2.38%，XRP累跌1.59%。 比特币累跌0.64%，暂报63552.27美元，7月14日北京时间02:00跌至61761美元，随后反弹，7月15日美股早盘达到65527.29美元；以太坊累涨2.56%，暂报1834.935美元，7月15日美股盘前曾达到1944.948美元。",
+          "url": "https://wallstreetcn.com/livenews/3135852",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时04分"
+          "time_info": "02时56分"
         }
       ]
     }
