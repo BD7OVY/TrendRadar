@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-17T21:11:28.964907+08:00",
-  "total_titles_processed": 1564,
+  "generated_at": "2026-07-17T23:08:22.028018+08:00",
+  "total_titles_processed": 1710,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 86,
+      "match_count": 89,
       "titles": [
         {
           "title": "【早报】美股存储股再遭重挫；美军连续空袭伊朗；油价、金价双双下跌；多只芯片股发布重要公告",
@@ -109,6 +109,17 @@
           "time_info": "07时53分"
         },
         {
+          "title": "伊朗：海峡目前仍被我们牢牢把控",
+          "url": "https://flash.jin10.com/detail/20260717224859676800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时08分"
+        },
+        {
           "title": "伊媒：伊朗布什尔市传出爆炸声",
           "url": "https://wallstreetcn.com/livenews/3135256",
           "source": "华尔街见闻-快讯",
@@ -173,6 +184,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时58分"
+        },
+        {
+          "title": "伊朗革命卫队：（谈及何时行动）请耐心等待。",
+          "url": "https://flash.jin10.com/detail/20260717224205955800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时08分"
         },
         {
           "title": "敌人袭击伊朗Bandar Abbas周边区域。（伊朗媒体IRNA）",
@@ -339,6 +361,18 @@
           "time_info": "[03时01分 ~ 04时04分]"
         },
         {
+          "title": "伊朗称摧毁多架美军战斗机",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E7%A7%B0%E6%91%A7%E6%AF%81%E5%A4%9A%E6%9E%B6%E7%BE%8E%E5%86%9B%E6%88%98%E6%96%97%E6%9C%BA",
+          "source": "百度热搜",
+          "ranks": [
+            18,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时11分 ~ 23时08分]"
+        },
+        {
           "title": "据伊朗迈赫尔通讯社：伊朗班达尔阿巴斯附近遭到美国袭击，霍尔木兹甘省政府称暂无人员伤亡和财产损失。",
           "url": "https://flash.jin10.com/detail/20260717004358097800",
           "source": "金十数据",
@@ -370,6 +404,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时58分"
+        },
+        {
+          "title": "美国证实摧毁了伊朗港口监视塔。",
+          "url": "https://wallstreetcn.com/livenews/3135795",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时08分"
         },
         {
           "title": "伊朗革命卫队：美国目前已陷入困境，唯一出路是撤出西亚地区。美国霸凌和挑衅的时代已经结束。",
@@ -411,7 +456,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时11分"
         },
@@ -455,7 +500,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时11分"
         },
@@ -521,7 +566,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时11分"
         },
@@ -680,17 +725,6 @@
           "time_info": "09时58分"
         },
         {
-          "title": "伊朗称摧毁多架美军战斗机",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E7%A7%B0%E6%91%A7%E6%AF%81%E5%A4%9A%E6%9E%B6%E7%BE%8E%E5%86%9B%E6%88%98%E6%96%97%E6%9C%BA",
-          "source": "百度热搜",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时11分"
-        },
-        {
           "title": "伊朗称特朗普关于美国囚犯获释的说法不实",
           "url": "https://wallstreetcn.com/livenews/3135237",
           "source": "华尔街见闻-快讯",
@@ -730,7 +764,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时11分"
         },
@@ -884,7 +918,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时11分"
         },
@@ -969,7 +1003,7 @@
     },
     {
       "keyword_group": "科技",
-      "match_count": 33,
+      "match_count": 38,
       "titles": [
         {
           "title": "美PPI确认通胀降温，科技巨头力撑美股指两连阳，中概股大涨，美光、闪迪暴跌8%",
@@ -1032,6 +1066,30 @@
           "time_info": "[01时07分 ~ 07时53分]"
         },
         {
+          "title": "科技股抛售潮蔓延，美股低开，纳指跌1.8%，半导体板块领跌，布油涨3%，黄金失守4000美元",
+          "url": "https://wallstreetcn.com/articles/3777186",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时08分"
+        },
+        {
+          "title": "【每日收评】创业板与科创50指数双双跌超7%，全市场近200股跌停，科技权重集体退潮",
+          "url": "https://www.cls.cn/detail/2429589",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时51分 ~ 23时08分]"
+        },
+        {
           "title": "台积电下跌5.3%；联发科技跌8.1%。",
           "url": "https://flash.jin10.com/detail/20260717125340641800",
           "source": "金十数据",
@@ -1063,18 +1121,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时04分"
-        },
-        {
-          "title": "【每日收评】创业板与科创50指数双双跌超7%，全市场近200股跌停，科技权重集体退潮",
-          "url": "https://www.cls.cn/detail/2429589",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时51分 ~ 21时11分]"
         },
         {
           "title": "深夜，澜起科技连发三则公告",
@@ -1112,6 +1158,18 @@
           "time_info": "[19时18分 ~ 21时11分]"
         },
         {
+          "title": "长鑫科技提前锁定清北优秀毕业生",
+          "url": "https://www.toutiao.com/trending/7663456670936206884/",
+          "source": "今日头条",
+          "ranks": [
+            10,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时11分 ~ 23时08分]"
+        },
+        {
           "title": "全球科技股为何突然“熄火”",
           "url": "https://www.toutiao.com/trending/7662310627776757787/",
           "source": "今日头条",
@@ -1143,17 +1201,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时18分"
-        },
-        {
-          "title": "长鑫科技提前锁定清北优秀毕业生",
-          "url": "https://www.toutiao.com/trending/7663456670936206884/",
-          "source": "今日头条",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时11分"
         },
         {
           "title": "长鑫科技打新开启：科创板史上最大IPO，中一签能赚多少？",
@@ -1233,6 +1280,17 @@
           "time_info": "17时51分"
         },
         {
+          "title": "道指转涨，美光科技(MU.O)涨1.5%，闪迪(SNDK.O)涨1.7%，SK海力士ADR(SKHY.O)涨3%。",
+          "url": "https://flash.jin10.com/detail/20260717221353522800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时08分"
+        },
+        {
           "title": "“固收+”产品权益仓位增加明显，重仓科技成制胜关键",
           "url": "https://wallstreetcn.com/livenews/3135315",
           "source": "华尔街见闻-快讯",
@@ -1244,6 +1302,17 @@
           "time_info": "07时53分"
         },
         {
+          "title": "一周热榜精选：韩国给单股杠杆交易“降温”！千万投资者申购长鑫科技",
+          "url": "https://flash.jin10.com/detail/20260717221011044800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时08分"
+        },
+        {
           "title": "长鑫科技IPO",
           "url": "https://www.douyin.com/hot/2572967",
           "source": "抖音",
@@ -1253,6 +1322,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时53分"
+        },
+        {
+          "title": "道指转涨，刷新日高、逼近52560点，美股盘初一度跌至51986.74点刷新日低。 存储板块集体拉升，纷纷收复此前4%-7%的盘初跌幅。SK海力士ADR目前涨4.63%，美光科技股价下跌0.17%，闪迪股价上涨0.28%。",
+          "url": "https://wallstreetcn.com/livenews/3135778",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时08分"
         },
         {
           "title": "恒指日内跌近2%，恒生科技指数跌超4%，恒生生物科技指数跌6.7%。智谱跌超22%，MINIMAX跌超13%。",
@@ -1275,6 +1355,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时58分"
+        },
+        {
+          "title": "美股盘初，主要行业ETF涨跌不一，半导体ETF跌2.5%，全球科技股指数ETF跌近2%，能源业ETF、日常消费品ETF涨超1%。",
+          "url": "https://wallstreetcn.com/livenews/3135775",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时08分"
         },
         {
           "title": "澜起科技：董事长提议3亿元-6亿元回购公司股份",
@@ -1338,9 +1429,218 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时11分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "消费",
+      "match_count": 18,
+      "titles": [
+        {
+          "title": "河南多家 NFC 果汁生产车间被曝无水果，产品却标注「100% 鲜榨果汁」，标注是否合规？消费者该如何辨别？",
+          "url": "https://www.zhihu.com/question/2060999608738608921",
+          "source": "知乎",
+          "ranks": [
+            2,
+            1,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时07分 ~ 07时53分]"
+        },
+        {
+          "title": "各地补贴分层惠民撬动万亿消费",
+          "url": "https://www.toutiao.com/trending/7662370892399591475/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时57分 ~ 19时18分]"
+        },
+        {
+          "title": "财政部等三部门：调整部分电池消费税政策",
+          "url": "https://www.cls.cn/detail/2429579",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时51分 ~ 23时08分]"
+        },
+        {
+          "title": "美联储副主席杰斐逊：如果人工智能基础设施建设和消费引发的需求效应先于人工智能带来的生产力红利显现，那么人工智能可能会给通胀带来上行压力。",
+          "url": "https://flash.jin10.com/detail/20260717070316761800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时53分"
+        },
+        {
+          "title": "零食店疯狂扩张 消费者会买账吗",
+          "url": "https://www.toutiao.com/trending/7663406707104546879/",
+          "source": "今日头条",
+          "ranks": [
+            17,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时11分 ~ 23时08分]"
+        },
+        {
+          "title": "锂电池，要和成品油一样交消费税了",
+          "url": "https://flash.jin10.com/detail/20260717223227899800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时08分"
+        },
+        {
+          "title": "7月美国消费者信心有所改善 中东冲突重燃带来下行风险",
+          "url": "https://flash.jin10.com/detail/20260717222238035800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时08分"
+        },
+        {
+          "title": "美联储哈玛克：我看到良好的增长数据和稳定的消费支出。",
+          "url": "https://flash.jin10.com/detail/20260717220819542800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时08分"
+        },
+        {
+          "title": "美国克利夫兰联储主席Hammack：美联储双重职责（维持价格稳定+实现充分就业）之间不存在冲突。 （相比劳动力市场）通胀顽固地偏高是更大的顾虑。 通胀太高，且广泛地存在。 美国经济增长良好，消费者开支稳定。 企业称美联储需要针对通胀问题采取行动。",
+          "url": "https://wallstreetcn.com/livenews/3135776",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时08分"
+        },
+        {
+          "title": "三部门调整部分电池消费税政策",
+          "url": "https://www.douyin.com/hot/2574990",
+          "source": "抖音",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时11分"
+        },
+        {
+          "title": "美联储哈玛克：劳动力市场接近充分就业。当前核心个人消费支出（PCE）即时预测显示核心通胀率为3.3%。",
+          "url": "https://flash.jin10.com/detail/20260717220805127800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时08分"
+        },
+        {
+          "title": "三部门：调整部分电池消费税政策",
+          "url": "https://wallstreetcn.com/livenews/3135593",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时51分"
+        },
+        {
+          "title": "美联储哈玛克：企业正要求对通胀采取行动，消费者对其财务状况感到绝望。",
+          "url": "https://flash.jin10.com/detail/20260717220744933800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时08分"
+        },
+        {
+          "title": "【美国消费者信心创五个月新高，得益于汽油价格下跌】美国7月密歇根大学消费者信心指数初值 54.4，预期 51，前值 49.5。 7月密歇根大学1年通胀预期初值 4.2%，预期 4.4%，前值 4.6%。 7月密歇根大学5年通胀预期初值 3.3%，预期 3.3%，前值 3.3%。",
+          "url": "https://wallstreetcn.com/livenews/3135773",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时08分"
+        },
+        {
+          "title": "电池消费税政策将分步调整",
+          "url": "https://www.toutiao.com/trending/7663412327476232246/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时18分"
+        },
+        {
+          "title": "美国7月密歇根大学消费者预期指数初值 54，预期 51.9，前值 50.7。",
+          "url": "https://wallstreetcn.com/livenews/3135769",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时08分"
+        },
+        {
+          "title": "美国7月密歇根大学消费者信心指数初值 54.4，预期 51，前值 49.5。",
+          "url": "https://wallstreetcn.com/livenews/3135768",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时08分"
+        },
+        {
+          "title": "美国7月密歇根大学消费者现况指数初值 54.9，预期 48.7，前值 47.7。",
+          "url": "https://wallstreetcn.com/livenews/3135767",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时08分"
         }
       ]
     },
@@ -1519,104 +1819,6 @@
       ]
     },
     {
-      "keyword_group": "消费",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "河南多家 NFC 果汁生产车间被曝无水果，产品却标注「100% 鲜榨果汁」，标注是否合规？消费者该如何辨别？",
-          "url": "https://www.zhihu.com/question/2060999608738608921",
-          "source": "知乎",
-          "ranks": [
-            2,
-            1,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时07分 ~ 07时53分]"
-        },
-        {
-          "title": "各地补贴分层惠民撬动万亿消费",
-          "url": "https://www.toutiao.com/trending/7662370892399591475/",
-          "source": "今日头条",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时57分 ~ 19时18分]"
-        },
-        {
-          "title": "财政部等三部门：调整部分电池消费税政策",
-          "url": "https://www.cls.cn/detail/2429579",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时51分 ~ 21时11分]"
-        },
-        {
-          "title": "美联储副主席杰斐逊：如果人工智能基础设施建设和消费引发的需求效应先于人工智能带来的生产力红利显现，那么人工智能可能会给通胀带来上行压力。",
-          "url": "https://flash.jin10.com/detail/20260717070316761800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时53分"
-        },
-        {
-          "title": "零食店疯狂扩张 消费者会买账吗",
-          "url": "https://www.toutiao.com/trending/7663406707104546879/",
-          "source": "今日头条",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时11分"
-        },
-        {
-          "title": "三部门调整部分电池消费税政策",
-          "url": "https://www.douyin.com/hot/2574990",
-          "source": "抖音",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时11分"
-        },
-        {
-          "title": "三部门：调整部分电池消费税政策",
-          "url": "https://wallstreetcn.com/livenews/3135593",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时51分"
-        },
-        {
-          "title": "电池消费税政策将分步调整",
-          "url": "https://www.toutiao.com/trending/7663412327476232246/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时18分"
-        }
-      ]
-    },
-    {
       "keyword_group": "医药",
       "match_count": 4,
       "titles": [
@@ -1653,8 +1855,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时51分 ~ 21时11分]"
+          "appearance_count": 4,
+          "time_info": "[17时51分 ~ 23时08分]"
         },
         {
           "title": "医药主题基金“绝地反击”，三年亏损洼地快速填平，后市怎么看？",
@@ -1663,7 +1865,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时11分"
         }
@@ -1782,8 +1984,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时12分 ~ 21时11分]"
+          "appearance_count": 7,
+          "time_info": "[13时12分 ~ 23时08分]"
         },
         {
           "title": "OpenAI董事长：IPO时间暂无最新消息",
@@ -1820,7 +2022,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时11分"
         },
@@ -1831,7 +2033,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时11分"
         }
