@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-18T19:48:08.470621+08:00",
-  "total_titles_processed": 1302,
+  "generated_at": "2026-07-18T20:57:37.835052+08:00",
+  "total_titles_processed": 1404,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 97,
+      "match_count": 102,
       "titles": [
         {
           "title": "伊朗发射巡航导弹打击美军舰艇",
@@ -93,6 +93,17 @@
           "time_info": "09时48分"
         },
         {
+          "title": "伊朗驻巴基斯坦大使谴责美方曲解伊美谅解备忘录",
+          "url": "https://flash.jin10.com/detail/20260718204219080800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
+        },
+        {
           "title": "美方：伊朗向沙特美军基地发射导弹",
           "url": "https://www.toutiao.com/trending/7663423753623470123/",
           "source": "今日头条",
@@ -139,6 +150,28 @@
           "time_info": "14时56分"
         },
         {
+          "title": "伊朗卫生部：自6月27日以来，美国的袭击造成至少50人遇难，500人受伤。",
+          "url": "https://flash.jin10.com/detail/20260718204134957800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
+        },
+        {
+          "title": "伊朗驻巴基斯坦大使谴责美方曲解伊美谅解备忘录",
+          "url": "https://wallstreetcn.com/livenews/3136032",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
+        },
+        {
           "title": "巴林国防部表示，周六拦截了多起伊朗空袭。",
           "url": "https://flash.jin10.com/detail/20260718141841152800",
           "source": "金十数据",
@@ -161,17 +194,6 @@
           "time_info": "14时56分"
         },
         {
-          "title": "伊拉克石油部长：美国与伊朗局势升级前，伊拉克日均石油出口量为150万桶",
-          "url": "https://wallstreetcn.com/livenews/3136008",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时48分"
-        },
-        {
           "title": "伊朗革命卫队：两枚伊朗导弹成功突破多枚“爱国者”导弹的防线。至少有两枚伊朗弹道导弹击中了位于约旦的空军基地。尽管伊朗发射的弹道导弹数量相对较少，但其袭击的成功率在过去几天里似乎稳步提高。",
           "url": "https://flash.jin10.com/detail/20260718171933578800",
           "source": "金十数据",
@@ -183,15 +205,26 @@
           "time_info": "18时13分"
         },
         {
-          "title": "伊朗说以色列是地区战争根源",
-          "url": "https://wallstreetcn.com/livenews/3136006",
-          "source": "华尔街见闻-快讯",
+          "title": "伊朗副外长：伊朗已停止履行伊美谅解备忘录",
+          "url": "https://flash.jin10.com/detail/20260718203356472800",
+          "source": "金十数据",
           "ranks": [
-            5
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时48分"
+          "time_info": "20时57分"
+        },
+        {
+          "title": "伊朗副外长：伊朗已停止履行伊美谅解备忘录",
+          "url": "https://wallstreetcn.com/livenews/3136030",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
         },
         {
           "title": "伊朗谴责美袭击民用基础设施犯下战争罪",
@@ -362,6 +395,18 @@
           "time_info": "[07时45分 ~ 09时48分]"
         },
         {
+          "title": "伊拉克石油部长：美国与伊朗局势升级前，伊拉克日均石油出口量为150万桶",
+          "url": "https://wallstreetcn.com/livenews/3136008",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时48分 ~ 20时57分]"
+        },
+        {
           "title": "中东局势持续升温，美军连续第六夜空袭伊朗，德黑兰导弹打击海湾盟国",
           "url": "https://wallstreetcn.com/articles/3777224",
           "source": "华尔街见闻",
@@ -424,6 +469,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时45分 ~ 09时48分]"
+        },
+        {
+          "title": "伊朗说以色列是地区战争根源",
+          "url": "https://wallstreetcn.com/livenews/3136006",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时48分 ~ 20时57分]"
         },
         {
           "title": "据伊朗国家电视台：伊朗南部锡里克响起三声爆炸声。",
@@ -492,6 +549,18 @@
           "time_info": "[12时43分 ~ 16时46分]"
         },
         {
+          "title": "科威特国防部发言人：自今日清晨起，武装部队在科威特领空内监测到敌方弹道导弹和无人机，并已对其进行拦截和处理。伊朗的袭击继续针对我国的多处军事和安全设施，以及若干关键基础设施和民用设施。袭击波及石油和电力行业的设施，导致火灾并造成严重损失。",
+          "url": "https://flash.jin10.com/detail/20260718190448394800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时48分 ~ 20时57分]"
+        },
+        {
           "title": "伊朗最高领袖顾问雷扎伊：如果美国人占领伊朗境内任何地点，我们可能会进入进攻性战争阶段，而不再只是防御性战争。",
           "url": "https://wallstreetcn.com/livenews/3135882",
           "source": "华尔街见闻-快讯",
@@ -528,6 +597,18 @@
           "time_info": "[16时46分 ~ 18时13分]"
         },
         {
+          "title": "科威特石油公司称一设施遭伊朗袭击致多人伤亡",
+          "url": "https://wallstreetcn.com/livenews/3136001",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时48分 ~ 20时57分]"
+        },
+        {
           "title": "伊朗伊斯兰革命卫队称袭击约旦阿兹拉克美军基地",
           "url": "https://wallstreetcn.com/livenews/3135987",
           "source": "华尔街见闻-快讯",
@@ -538,6 +619,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时13分 ~ 19时48分]"
+        },
+        {
+          "title": "伊朗称打击位于科威特、巴林、约旦的美军目标",
+          "url": "https://wallstreetcn.com/livenews/3135999",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时48分 ~ 20时57分]"
         },
         {
           "title": "美军称对伊朗发动新一轮打击",
@@ -574,17 +667,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时43分 ~ 14时56分]"
-        },
-        {
-          "title": "科威特国防部发言人：自今日清晨起，武装部队在科威特领空内监测到敌方弹道导弹和无人机，并已对其进行拦截和处理。伊朗的袭击继续针对我国的多处军事和安全设施，以及若干关键基础设施和民用设施。袭击波及石油和电力行业的设施，导致火灾并造成严重损失。",
-          "url": "https://flash.jin10.com/detail/20260718190448394800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时48分"
         },
         {
           "title": "伊朗发射导弹打击美舰",
@@ -664,17 +746,6 @@
           "time_info": "01时04分"
         },
         {
-          "title": "科威特石油公司称一设施遭伊朗袭击致多人伤亡",
-          "url": "https://wallstreetcn.com/livenews/3136001",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时48分"
-        },
-        {
           "title": "据伊朗国际电视台：根据所获得的伊朗最高国家安全委员会指令，媒体被要求不得发布有关民用基础设施受损细节、破坏程度以及袭击对公共服务供应影响的信息。",
           "url": "https://flash.jin10.com/detail/20260718022147106800",
           "source": "金十数据",
@@ -703,7 +774,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时48分"
         },
@@ -728,17 +799,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时13分"
-        },
-        {
-          "title": "伊朗称打击位于科威特、巴林、约旦的美军目标",
-          "url": "https://wallstreetcn.com/livenews/3135999",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时48分"
         },
         {
           "title": "卡塔尔外交部：伊朗必须立即全面停止所有威胁地区安全与稳定的军事行动和侵略行为，避免任何扩大升级范围的行为，认真重返对话与谈判轨道，并恪守通过外交努力达成的谅解。",
@@ -857,7 +917,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时48分"
         },
@@ -923,7 +983,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时48分"
         },
@@ -945,7 +1005,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时48分"
         },
@@ -1044,7 +1104,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时48分"
         },
@@ -1066,7 +1126,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时48分"
         },
@@ -1150,8 +1210,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时45分 ~ 19时48分]"
+          "appearance_count": 12,
+          "time_info": "[07时45分 ~ 20时57分]"
         },
         {
           "title": "科技股抛售潮蔓延，美股低开，纳指跌1.8%，半导体板块领跌，布油涨3%，黄金失守4000美元",
@@ -1176,6 +1236,19 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时04分 ~ 09时48分]"
+        },
+        {
+          "title": "长鑫科技开启申购，中一签需缴 4330 元，单一账户顶格申购 334.9 万股，打新性价比如何？是散户红利吗？",
+          "url": "https://www.zhihu.com/question/2061067983900906626",
+          "source": "知乎",
+          "ranks": [
+            17,
+            11,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时12分 ~ 20时57分]"
         },
         {
           "title": "Kimi冲击美科技股，纳指再跌1%，芯片股跌入熊市，美伊冲突升级油价大涨",
@@ -1236,18 +1309,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时01分 ~ 07时45分]"
-        },
-        {
-          "title": "长鑫科技开启申购，中一签需缴 4330 元，单一账户顶格申购 334.9 万股，打新性价比如何？是散户红利吗？",
-          "url": "https://www.zhihu.com/question/2061067983900906626",
-          "source": "知乎",
-          "ranks": [
-            17,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时12分 ~ 19时48分]"
         },
         {
           "title": "伊朗革命卫队：如果美国继续打击伊朗目标，伊方将扩大对美国在中东地区相关工业、科技和人工智能资产的攻击。",
@@ -1371,7 +1432,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时48分"
         },
@@ -1390,7 +1451,7 @@
     },
     {
       "keyword_group": "消费",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "财政部等三部门：调整部分电池消费税政策",
@@ -1485,6 +1546,17 @@
           "time_info": "[16时45分 ~ 18时13分]"
         },
         {
+          "title": "锂电池开征消费税 新能源车要涨价吗",
+          "url": "https://www.toutiao.com/trending/7663809319988629018/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
+        },
+        {
           "title": "三部门调整部分电池消费税政策",
           "url": "https://www.douyin.com/hot/2574990",
           "source": "抖音",
@@ -1533,8 +1605,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时43分 ~ 19时48分]"
+          "appearance_count": 10,
+          "time_info": "[12时43分 ~ 20时57分]"
         },
         {
           "title": "自然资源部部署全国地质灾害风险隐患巡查排查",
@@ -1618,11 +1690,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%8A%E6%B5%B7RNG.M%20%E6%B7%B1%E5%9C%B3DYG",
           "source": "bilibili 热搜",
           "ranks": [
-            7
+            7,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时47分 ~ 19时48分]"
+          "appearance_count": 3,
+          "time_info": "[19时47分 ~ 20时57分]"
         }
       ]
     },
@@ -1792,8 +1865,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时45分 ~ 19时48分]"
+          "appearance_count": 12,
+          "time_info": "[07时45分 ~ 20时57分]"
         }
       ]
     },
@@ -1809,8 +1882,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时45分 ~ 19时48分]"
+          "appearance_count": 5,
+          "time_info": "[16时45分 ~ 20时57分]"
         }
       ]
     }
