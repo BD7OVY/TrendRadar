@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-18T20:57:37.835052+08:00",
-  "total_titles_processed": 1404,
+  "generated_at": "2026-07-18T22:19:27.379354+08:00",
+  "total_titles_processed": 1508,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 102,
+      "match_count": 108,
       "titles": [
         {
           "title": "伊朗发射巡航导弹打击美军舰艇",
@@ -93,17 +93,6 @@
           "time_info": "09时48分"
         },
         {
-          "title": "伊朗驻巴基斯坦大使谴责美方曲解伊美谅解备忘录",
-          "url": "https://flash.jin10.com/detail/20260718204219080800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时57分"
-        },
-        {
           "title": "美方：伊朗向沙特美军基地发射导弹",
           "url": "https://www.toutiao.com/trending/7663423753623470123/",
           "source": "今日头条",
@@ -150,28 +139,6 @@
           "time_info": "14时56分"
         },
         {
-          "title": "伊朗卫生部：自6月27日以来，美国的袭击造成至少50人遇难，500人受伤。",
-          "url": "https://flash.jin10.com/detail/20260718204134957800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时57分"
-        },
-        {
-          "title": "伊朗驻巴基斯坦大使谴责美方曲解伊美谅解备忘录",
-          "url": "https://wallstreetcn.com/livenews/3136032",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时57分"
-        },
-        {
           "title": "巴林国防部表示，周六拦截了多起伊朗空袭。",
           "url": "https://flash.jin10.com/detail/20260718141841152800",
           "source": "金十数据",
@@ -194,6 +161,17 @@
           "time_info": "14时56分"
         },
         {
+          "title": "卡塔尔外交部：“强烈”批评伊朗对约旦、巴林、科威特的袭击。 伊朗的袭击“公然违反”国际法。 袭击持续，意味着局势“危险升级”。 袭击将让维护安全与稳定的努力变得更加复杂。",
+          "url": "https://wallstreetcn.com/livenews/3136052",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时19分"
+        },
+        {
           "title": "伊朗革命卫队：两枚伊朗导弹成功突破多枚“爱国者”导弹的防线。至少有两枚伊朗弹道导弹击中了位于约旦的空军基地。尽管伊朗发射的弹道导弹数量相对较少，但其袭击的成功率在过去几天里似乎稳步提高。",
           "url": "https://flash.jin10.com/detail/20260718171933578800",
           "source": "金十数据",
@@ -203,28 +181,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时13分"
-        },
-        {
-          "title": "伊朗副外长：伊朗已停止履行伊美谅解备忘录",
-          "url": "https://flash.jin10.com/detail/20260718203356472800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时57分"
-        },
-        {
-          "title": "伊朗副外长：伊朗已停止履行伊美谅解备忘录",
-          "url": "https://wallstreetcn.com/livenews/3136030",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时57分"
         },
         {
           "title": "伊朗谴责美袭击民用基础设施犯下战争罪",
@@ -371,6 +327,30 @@
           "time_info": "[18时13分 ~ 19时48分]"
         },
         {
+          "title": "伊朗驻巴基斯坦大使谴责美方曲解伊美谅解备忘录",
+          "url": "https://flash.jin10.com/detail/20260718204219080800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时57分 ~ 22时19分]"
+        },
+        {
+          "title": "伊朗卫生部：自6月27日以来，美国的袭击造成至少50人遇难，500人受伤。",
+          "url": "https://flash.jin10.com/detail/20260718204134957800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时57分 ~ 22时19分]"
+        },
+        {
           "title": "伊朗称袭击位于科威特和约旦的美军基地",
           "url": "https://wallstreetcn.com/livenews/3135944",
           "source": "华尔街见闻-快讯",
@@ -381,6 +361,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时48分 ~ 12时43分]"
+        },
+        {
+          "title": "伊朗驻巴基斯坦大使谴责美方曲解伊美谅解备忘录",
+          "url": "https://wallstreetcn.com/livenews/3136032",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时57分 ~ 22时19分]"
         },
         {
           "title": "伊朗交通基础设施遭美军袭击",
@@ -429,6 +421,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时43分 ~ 14时56分]"
+        },
+        {
+          "title": "伊朗副外长：伊朗已停止履行伊美谅解备忘录",
+          "url": "https://flash.jin10.com/detail/20260718203356472800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时57分 ~ 22时19分]"
+        },
+        {
+          "title": "伊朗副外长：伊朗已停止履行伊美谅解备忘录",
+          "url": "https://wallstreetcn.com/livenews/3136030",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时57分 ~ 22时19分]"
         },
         {
           "title": "伊朗最高领袖军事顾问：美伊谅解备忘录已名存实亡",
@@ -669,6 +685,17 @@
           "time_info": "[12时43分 ~ 14时56分]"
         },
         {
+          "title": "伊朗：已停止履行伊美谅解备忘录",
+          "url": "https://www.toutiao.com/trending/7663703562971512886/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时19分"
+        },
+        {
           "title": "伊朗发射导弹打击美舰",
           "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E6%9C%97%E5%8F%91%E5%B0%84%E5%AF%BC%E5%BC%B9%E6%89%93%E5%87%BB%E7%BE%8E%E8%88%B0",
           "source": "bilibili 热搜",
@@ -711,6 +738,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时43分"
+        },
+        {
+          "title": "伊朗已停止履行伊美谅解备忘录",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%B7%B2%E5%81%9C%E6%AD%A2%E5%B1%A5%E8%A1%8C%E4%BC%8A%E7%BE%8E%E8%B0%85%E8%A7%A3%E5%A4%87%E5%BF%98%E5%BD%95",
+          "source": "百度热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时19分"
         },
         {
           "title": "LS Power：美国电力市场基本不受伊朗战争推高油价影响",
@@ -801,6 +839,17 @@
           "time_info": "18时13分"
         },
         {
+          "title": "海湾合作委员会秘书长：伊朗针对巴林、科威特和约旦基础设施的袭击行为构成战争罪。",
+          "url": "https://flash.jin10.com/detail/20260718212017645800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时19分"
+        },
+        {
           "title": "卡塔尔外交部：伊朗必须立即全面停止所有威胁地区安全与稳定的军事行动和侵略行为，避免任何扩大升级范围的行为，认真重返对话与谈判轨道，并恪守通过外交努力达成的谅解。",
           "url": "https://flash.jin10.com/detail/20260717234240246800",
           "source": "金十数据",
@@ -854,6 +903,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时46分"
+        },
+        {
+          "title": "伊朗卫生部：自6月27日以来美对伊袭击已致至少50人死亡",
+          "url": "https://wallstreetcn.com/livenews/3136039",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时19分"
         },
         {
           "title": "伊朗最高领袖顾问：若美军继续行动，伊朗或转入全面进攻阶段",
@@ -1008,6 +1068,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时48分"
+        },
+        {
+          "title": "卡塔尔外交部：强烈谴责伊朗对约旦、巴林和科威特的反复袭击。此举公然侵犯了受袭国家的主权和领土完整，严重违反了国际法、《联合国宪章》以及睦邻友好原则。",
+          "url": "https://flash.jin10.com/detail/20260718210251434800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时19分"
         },
         {
           "title": "美军袭击伊朗哈尔克岛油轮",
@@ -1200,7 +1271,7 @@
     },
     {
       "keyword_group": "科技",
-      "match_count": 21,
+      "match_count": 23,
       "titles": [
         {
           "title": "Kimi冲击美科技股，纳指100一度跌2.7%、收盘跌幅收窄，芯片股进入熊市，油价大涨",
@@ -1210,8 +1281,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时45分 ~ 20时57分]"
+          "appearance_count": 13,
+          "time_info": "[07时45分 ~ 22时19分]"
         },
         {
           "title": "科技股抛售潮蔓延，美股低开，纳指跌1.8%，半导体板块领跌，布油涨3%，黄金失守4000美元",
@@ -1244,11 +1315,12 @@
           "ranks": [
             17,
             11,
-            5
+            5,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时12分 ~ 20时57分]"
+          "appearance_count": 6,
+          "time_info": "[18时12分 ~ 22时19分]"
         },
         {
           "title": "Kimi冲击美科技股，纳指再跌1%，芯片股跌入熊市，美伊冲突升级油价大涨",
@@ -1262,6 +1334,17 @@
           "time_info": "06时46分"
         },
         {
+          "title": "一周展望：美伊局势延续“高烈度升级”，超卖黄金与科技股迎关键大考",
+          "url": "https://flash.jin10.com/detail/20260718215539992800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时19分"
+        },
+        {
           "title": "一周热榜精选：韩国给单股杠杆交易“降温”！千万投资者申购长鑫科技",
           "url": "https://flash.jin10.com/detail/20260718091958036800",
           "source": "金十数据",
@@ -1271,6 +1354,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时48分"
+        },
+        {
+          "title": "机器人的指尖上新晋一家百亿公司：一目科技完成超10亿元E轮融资",
+          "url": "https://wallstreetcn.com/livenews/3136050",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时19分"
         },
         {
           "title": "商汤科技发布多模态基座模型日日新U1 Pro 对标GPT-Image 2",
@@ -1550,11 +1644,12 @@
           "url": "https://www.toutiao.com/trending/7663809319988629018/",
           "source": "今日头条",
           "ranks": [
-            9
+            9,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时57分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时57分 ~ 22时19分]"
         },
         {
           "title": "三部门调整部分电池消费税政策",
@@ -1605,8 +1700,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时43分 ~ 20时57分]"
+          "appearance_count": 11,
+          "time_info": "[12时43分 ~ 22时19分]"
         },
         {
           "title": "自然资源部部署全国地质灾害风险隐患巡查排查",
@@ -1672,6 +1767,19 @@
           "time_info": "[18时12分 ~ 18时13分]"
         },
         {
+          "title": "上海RNG.M战胜深圳DYG",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%8A%E6%B5%B7RNG.M%20%E6%B7%B1%E5%9C%B3DYG",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7,
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时47分 ~ 22时19分]"
+        },
+        {
           "title": "深圳市委原常委王强主动投案被查",
           "url": "https://www.toutiao.com/trending/7663427578069257747/",
           "source": "今日头条",
@@ -1684,18 +1792,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时04分 ~ 05时01分]"
-        },
-        {
-          "title": "上海RNG.M战胜深圳DYG",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%8A%E6%B5%B7RNG.M%20%E6%B7%B1%E5%9C%B3DYG",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时47分 ~ 20时57分]"
         }
       ]
     },
@@ -1768,6 +1864,38 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时58分 ~ 07时45分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "国际金价险守4000美元关口 美伊冲突升级双方扩大打击范围 | 环球市场",
+          "url": "https://www.cls.cn/detail/2430073",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            11,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[07时45分 ~ 22时19分]"
+        },
+        {
+          "title": "这周金价发生了什么",
+          "url": "https://www.toutiao.com/trending/7663819778364345910/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时19分"
         }
       ]
     },
@@ -1850,27 +1978,6 @@
       ]
     },
     {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "国际金价险守4000美元关口 美伊冲突升级双方扩大打击范围 | 环球市场",
-          "url": "https://www.cls.cn/detail/2430073",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            11,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时45分 ~ 20时57分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "旅游",
       "match_count": 1,
       "titles": [
@@ -1882,8 +1989,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时45分 ~ 20时57分]"
+          "appearance_count": 6,
+          "time_info": "[16时45分 ~ 22时19分]"
         }
       ]
     }
