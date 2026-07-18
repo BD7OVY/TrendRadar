@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-18T09:48:53.483599+08:00",
-  "total_titles_processed": 723,
+  "generated_at": "2026-07-18T12:43:21.775176+08:00",
+  "total_titles_processed": 890,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 58,
+      "match_count": 68,
       "titles": [
         {
           "title": "伊朗发射巡航导弹打击美军舰艇",
@@ -13,22 +13,24 @@
           "source": "凤凰网",
           "ranks": [
             4,
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[05时01分 ~ 09时48分]"
+          "appearance_count": 6,
+          "time_info": "[05时01分 ~ 12时43分]"
         },
         {
           "title": "伊朗革命卫队：两艘油轮在霍尔木兹海峡爆炸起火",
           "url": "https://news.ifeng.com/c/8uqpdYcN3Nl",
           "source": "凤凰网",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时45分 ~ 09时48分]"
+          "appearance_count": 3,
+          "time_info": "[07时45分 ~ 12时43分]"
         },
         {
           "title": "伊朗称击落一架美军MQ-9无人机",
@@ -86,9 +88,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时48分"
+        },
+        {
+          "title": "科威特军方表示，科威特目前正在拦截从伊朗发射的导弹和无人机。",
+          "url": "https://flash.jin10.com/detail/20260718121106633800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时43分"
         },
         {
           "title": "伊朗革命卫队：两艘油轮在霍尔木兹海峡爆炸起火",
@@ -108,20 +121,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时48分"
         },
         {
-          "title": "伊朗称袭击位于科威特和约旦的美军基地",
-          "url": "https://wallstreetcn.com/livenews/3135944",
-          "source": "华尔街见闻-快讯",
+          "title": "伊朗亮第二把锁，油价为何只涨了一轮？",
+          "url": "https://flash.jin10.com/detail/20260718120203545800",
+          "source": "金十数据",
           "ranks": [
-            2
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时48分"
+          "time_info": "12时43分"
         },
         {
           "title": "伊朗谴责美袭击民用基础设施犯下战争罪",
@@ -185,11 +198,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            8
+            8,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时45分 ~ 09时48分]"
+          "appearance_count": 3,
+          "time_info": "[07时45分 ~ 12时43分]"
         },
         {
           "title": "据伊朗国家电视台：伊朗革命卫队称，两艘油轮在驶经霍尔木兹海峡以南一条布设有水雷的航线后发生爆炸并起火。",
@@ -202,6 +216,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时46分 ~ 07时45分]"
+        },
+        {
+          "title": "伊朗媒体援引当地官员的话称，在“敌方”对霍尔木兹甘省（Hormozgan）的袭击中，有3人死亡，8人受伤。",
+          "url": "https://wallstreetcn.com/livenews/3135936",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            9,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时45分 ~ 12时43分]"
         },
         {
           "title": "伊朗称击落一架美军MQ-9无人机",
@@ -230,16 +257,16 @@
           "time_info": "[05时58分 ~ 07时45分]"
         },
         {
-          "title": "伊朗媒体援引当地官员的话称，在“敌方”对霍尔木兹甘省（Hormozgan）的袭击中，有3人死亡，8人受伤。",
-          "url": "https://wallstreetcn.com/livenews/3135936",
+          "title": "伊朗称袭击位于科威特和约旦的美军基地",
+          "url": "https://wallstreetcn.com/livenews/3135944",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            9
+            23
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时45分 ~ 09时48分]"
+          "time_info": "[09时48分 ~ 12时43分]"
         },
         {
           "title": "伊朗交通基础设施遭美军袭击",
@@ -395,13 +422,24 @@
           "time_info": "[02时56分 ~ 04时01分]"
         },
         {
+          "title": "伊朗发射导弹打击美舰",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E6%9C%97%E5%8F%91%E5%B0%84%E5%AF%BC%E5%BC%B9%E6%89%93%E5%87%BB%E7%BE%8E%E8%88%B0",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时43分"
+        },
+        {
           "title": "据伊通社（IRNA）：阿拉伯媒体报道称，伊朗导弹成功突破约旦防空系统，声称“爱国者”导弹防御系统未能有效拦截。",
           "url": "https://flash.jin10.com/detail/20260718085751276800",
           "source": "金十数据",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时48分"
         },
@@ -412,9 +450,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时48分"
+        },
+        {
+          "title": "伊朗国家电视台援引伊朗军方的话称，伊朗在巴林针对美国军方资产和燃料罐进行了打击。",
+          "url": "https://flash.jin10.com/detail/20260718112529599800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时43分"
         },
         {
           "title": "LS Power：美国电力市场基本不受伊朗战争推高油价影响",
@@ -434,7 +483,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时48分"
         },
@@ -448,6 +497,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时04分"
+        },
+        {
+          "title": "美国官员：伊朗向沙特美军基地发射导弹",
+          "url": "https://wallstreetcn.com/livenews/3135958",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时43分"
         },
         {
           "title": "据伊朗国际电视台：根据所获得的伊朗最高国家安全委员会指令，媒体被要求不得发布有关民用基础设施受损细节、破坏程度以及袭击对公共服务供应影响的信息。",
@@ -467,7 +527,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时48分"
         },
@@ -500,9 +560,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时48分"
+        },
+        {
+          "title": "美国官员：伊朗向沙特美军基地发射导弹",
+          "url": "https://flash.jin10.com/detail/20260718110048188800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时43分"
         },
         {
           "title": "伊朗最高领袖顾问：若美军继续行动，伊朗或转入全面进攻阶段",
@@ -560,6 +631,17 @@
           "time_info": "01时04分"
         },
         {
+          "title": "伊朗电力与海水淡化设施遭袭",
+          "url": "https://flash.jin10.com/detail/20260718104201601800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时43分"
+        },
+        {
           "title": "据伊通社（IRNA）：伊朗霍尔木兹甘省电力公司表示，美军昨夜袭击造成的电网受损已完成抢修，目前所有受影响区域的电网运行状况均已稳定，应急力量仍保持待命。",
           "url": "https://flash.jin10.com/detail/20260718015900634800",
           "source": "金十数据",
@@ -580,6 +662,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时01分"
+        },
+        {
+          "title": "据约旦通讯社：约旦武装部队表示，拦截了十枚来自伊朗的导弹。",
+          "url": "https://flash.jin10.com/detail/20260718103528310800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时43分"
         },
         {
           "title": "美国否认叙利亚境内美军基地遭伊朗袭击",
@@ -604,6 +697,17 @@
           "time_info": "01时04分"
         },
         {
+          "title": "美军称结束第七晚对伊朗打击行动",
+          "url": "https://wallstreetcn.com/livenews/3135947",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时43分"
+        },
+        {
           "title": "伊朗最高领袖顾问雷扎伊：如果美国人占领伊朗境内任何地点，我们可能会进入进攻性战争阶段，而不再只是防御性战争。",
           "url": "https://flash.jin10.com/detail/20260718030344657800",
           "source": "金十数据",
@@ -621,7 +725,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时48分"
         },
@@ -659,13 +763,24 @@
           "time_info": "05时01分"
         },
         {
+          "title": "中东美军基地受损情况评估：伊朗打击显著升级，哪座基地遭破坏程度最重？",
+          "url": "https://flash.jin10.com/detail/20260718095446767800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时43分"
+        },
+        {
           "title": "伊朗国家电视台援引伊朗军方消息称，已对美国在科威特和约旦的营地及基地进行了打击。",
           "url": "https://flash.jin10.com/detail/20260718075831060800",
           "source": "金十数据",
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时48分"
         },
@@ -729,8 +844,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时45分 ~ 09时48分]"
+          "appearance_count": 3,
+          "time_info": "[07时45分 ~ 12时43分]"
         },
         {
           "title": "Kimi冲击美科技股，纳指再跌1%，芯片股跌入熊市，美伊冲突升级油价大涨",
@@ -750,7 +865,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时48分"
         },
@@ -836,7 +951,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时48分"
         },
@@ -866,7 +981,7 @@
     },
     {
       "keyword_group": "消费",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "财政部等三部门：调整部分电池消费税政策",
@@ -915,15 +1030,27 @@
           "time_info": "[01时04分 ~ 07时45分]"
         },
         {
+          "title": "锂电池要和成品油一样交消费税了",
+          "url": "https://www.baidu.com/s?wd=%E9%94%82%E7%94%B5%E6%B1%A0%E8%A6%81%E5%92%8C%E6%88%90%E5%93%81%E6%B2%B9%E4%B8%80%E6%A0%B7%E4%BA%A4%E6%B6%88%E8%B4%B9%E7%A8%8E%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时43分"
+        },
+        {
           "title": "工信部原副部长王江平：建议加大对优质人工智能终端消费的补贴",
           "url": "https://wallstreetcn.com/livenews/3135943",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时48分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时48分 ~ 12时43分]"
         },
         {
           "title": "三部门调整部分电池消费税政策",
@@ -957,6 +1084,46 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时04分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "资源",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "加纳土地和自然资源部在其网站上的一份声明中表示，如果新法颁布，新采矿租约的最长期限将从30年缩减至20年。",
+          "url": "https://wallstreetcn.com/livenews/3135840",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时04分 ~ 02时56分]"
+        },
+        {
+          "title": "自然资源部发布重庆彭水山体崩塌前后对比图",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33609740",
+          "source": "澎湃新闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时43分"
+        },
+        {
+          "title": "委内瑞拉临时总统：在地震后从国际货币基金组织获得了3.46亿美元的资源。",
+          "url": "https://flash.jin10.com/detail/20260718081024815800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时48分"
         }
       ]
     },
@@ -1002,31 +1169,32 @@
       ]
     },
     {
-      "keyword_group": "资源",
+      "keyword_group": "金融",
       "match_count": 2,
       "titles": [
         {
-          "title": "加纳土地和自然资源部在其网站上的一份声明中表示，如果新法颁布，新采矿租约的最长期限将从30年缩减至20年。",
-          "url": "https://wallstreetcn.com/livenews/3135840",
-          "source": "华尔街见闻-快讯",
+          "title": "金融半年报里的三把钥匙",
+          "url": "https://www.douyin.com/hot/2575351",
+          "source": "抖音",
           "ranks": [
-            7,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时04分 ~ 02时56分]"
-        },
-        {
-          "title": "委内瑞拉临时总统：在地震后从国际货币基金组织获得了3.46亿美元的资源。",
-          "url": "https://flash.jin10.com/detail/20260718081024815800",
-          "source": "金十数据",
-          "ranks": [
-            24
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时48分"
+          "time_info": "12时43分"
+        },
+        {
+          "title": "消息人士：特朗普媒体向金融机构推销“Truth API”，三年期优惠价每月6万美元。",
+          "url": "https://flash.jin10.com/detail/20260718045100973800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            9,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时58分 ~ 07时45分]"
         }
       ]
     },
@@ -1052,25 +1220,6 @@
       ]
     },
     {
-      "keyword_group": "金融",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "消息人士：特朗普媒体向金融机构推销“Truth API”，三年期优惠价每月6万美元。",
-          "url": "https://flash.jin10.com/detail/20260718045100973800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            9,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时58分 ~ 07时45分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "医药",
       "match_count": 1,
       "titles": [
@@ -1081,11 +1230,12 @@
           "ranks": [
             9,
             8,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时04分 ~ 09时48分]"
+          "appearance_count": 9,
+          "time_info": "[01时04分 ~ 12时43分]"
         }
       ]
     },
@@ -1155,11 +1305,12 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时45分 ~ 09时48分]"
+          "appearance_count": 3,
+          "time_info": "[07时45分 ~ 12时43分]"
         }
       ]
     }
