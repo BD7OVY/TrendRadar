@@ -1,15 +1,24 @@
 {
-  "generated_at": "2026-07-19T21:02:03.615692+08:00",
-  "total_titles_processed": 1403,
-  "failed_sources": [
-    "bilibili-hot-search",
-    "tieba"
-  ],
+  "generated_at": "2026-07-19T22:25:10.208371+08:00",
+  "total_titles_processed": 1512,
+  "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 125,
+      "match_count": 137,
       "titles": [
+        {
+          "title": "美军对伊朗发动新一轮空袭，约旦美军基地5天遭4袭，美军两人死亡，伊朗最高领袖强调将给美国留下“刻骨铭心的教训”",
+          "url": "https://wallstreetcn.com/articles/3777329",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[13时18分 ~ 22时25分]"
+        },
         {
           "title": "遭伊朗袭击，在约旦美军2人死亡、1人失踪",
           "url": "https://news.ifeng.com/c/8us98j6W28N",
@@ -36,18 +45,6 @@
           "time_info": "[00时47分 ~ 07时45分]"
         },
         {
-          "title": "美军对伊朗发动新一轮空袭，约旦美军基地5天遭4袭，美军两人死亡，伊朗最高领袖强调将给美国留下“刻骨铭心的教训”",
-          "url": "https://wallstreetcn.com/articles/3777329",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时18分 ~ 21时02分]"
-        },
-        {
           "title": "特朗普最新发声！美军连续八天夜袭伊朗 美国发布全球安全警示",
           "url": "https://www.cls.cn/detail/2430341",
           "source": "财联社热门",
@@ -58,20 +55,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时18分 ~ 21时02分]"
-        },
-        {
-          "title": "伊朗打击科威特、巴林、约旦的美军目标，发射镜头曝光",
-          "url": "https://news.ifeng.com/c/8usGO91QYN0",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[04时01分 ~ 09时57分]"
+          "appearance_count": 10,
+          "time_info": "[13时18分 ~ 22时25分]"
         },
         {
           "title": "【早报】伊朗已停止履行伊美谅解备忘录；天孚通信披露上半年业绩预告",
@@ -85,8 +70,43 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时57分 ~ 21时02分]"
+          "appearance_count": 11,
+          "time_info": "[09时57分 ~ 22时25分]"
+        },
+        {
+          "title": "伊朗让美军付出重大代价",
+          "url": "https://news.ifeng.com/c/8usdq92gz1I",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时21分 ~ 22时25分]"
+        },
+        {
+          "title": "上任以来首次！伊朗最高领袖将美国称为“大撒旦”",
+          "url": "https://news.ifeng.com/c/8ut9zQF2d6I",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时21分 ~ 22时25分]"
+        },
+        {
+          "title": "伊朗打击科威特、巴林、约旦的美军目标，发射镜头曝光",
+          "url": "https://news.ifeng.com/c/8usGO91QYN0",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[04时01分 ~ 09时57分]"
         },
         {
           "title": "美国中央司令部：2名美军士兵在约旦因伊朗袭击而死亡，另有1人失踪",
@@ -136,29 +156,6 @@
           "time_info": "[00时48分 ~ 07时45分]"
         },
         {
-          "title": "伊朗让美军付出重大代价",
-          "url": "https://news.ifeng.com/c/8usdq92gz1I",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时21分 ~ 21时02分]"
-        },
-        {
-          "title": "上任以来首次！伊朗最高领袖将美国称为“大撒旦”",
-          "url": "https://news.ifeng.com/c/8ut9zQF2d6I",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时21分 ~ 21时02分]"
-        },
-        {
           "title": "美伊交锋波及多国民用设施，伊朗预警将“全面进攻”",
           "url": "https://news.ifeng.com/c/8usQYImeW3f",
           "source": "凤凰网",
@@ -181,6 +178,20 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时48分 ~ 07时45分]"
+        },
+        {
+          "title": "协议成废纸,伊朗掀桌硬刚美国",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356311&amp;topic_name=%E5%8D%8F%E8%AE%AE%E6%88%90%E5%BA%9F%E7%BA%B8%2C%E4%BC%8A%E6%9C%97%E6%8E%80%E6%A1%8C%E7%A1%AC%E5%88%9A%E7%BE%8E%E5%9B%BD",
+          "source": "贴吧",
+          "ranks": [
+            8,
+            7,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时03分 ~ 22时25分]"
         },
         {
           "title": "一觉醒来，伊朗让美军付出重大代价",
@@ -266,19 +277,6 @@
           "time_info": "[00时48分 ~ 07时45分]"
         },
         {
-          "title": "协议成废纸,伊朗掀桌硬刚美国",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356311&amp;topic_name=%E5%8D%8F%E8%AE%AE%E6%88%90%E5%BA%9F%E7%BA%B8%2C%E4%BC%8A%E6%9C%97%E6%8E%80%E6%A1%8C%E7%A1%AC%E5%88%9A%E7%BE%8E%E5%9B%BD",
-          "source": "贴吧",
-          "ranks": [
-            8,
-            7,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时03分 ~ 21时00分]"
-        },
-        {
           "title": "伊朗最高领袖：美国行为证明其总统签字“毫无价值”",
           "url": "https://wallstreetcn.com/livenews/3136073",
           "source": "华尔街见闻-快讯",
@@ -321,9 +319,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时02分"
+        },
+        {
+          "title": "以军：伊朗向约旦发射导弹或波及以色列",
+          "url": "https://wallstreetcn.com/livenews/3136304",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
         },
         {
           "title": "伊朗停止履行谅解备忘录后 哈梅内伊誓言让美国“领教难忘的教训”",
@@ -344,7 +353,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时02分"
         },
@@ -394,7 +403,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时02分"
         },
@@ -421,15 +430,15 @@
           "time_info": "18时21分"
         },
         {
-          "title": "以军称监测到伊朗向约旦亚喀巴方向发射导弹",
-          "url": "https://wallstreetcn.com/livenews/3136280",
+          "title": "伊朗阿巴丹传出爆炸声",
+          "url": "https://wallstreetcn.com/livenews/3136301",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时02分"
+          "time_info": "22时25分"
         },
         {
           "title": "伊朗革命卫队：已在霍尔木兹海峡成功“拦截”四艘“违规”船只",
@@ -441,6 +450,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时21分"
+        },
+        {
+          "title": "国际原子能机构称正调查伊朗在建核电站遭袭相关事宜",
+          "url": "https://wallstreetcn.com/livenews/3136303",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
         },
         {
           "title": "据华尔街日报：美国熟悉相关袭击情况的官员表示，伊朗已适应美国的防御体系，发射的导弹速度极高，且在飞向地面过程中能够机动变轨。",
@@ -484,7 +504,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时02分"
         },
@@ -641,6 +661,18 @@
           "time_info": "[19时51分 ~ 21时02分]"
         },
         {
+          "title": "以军称监测到伊朗向约旦亚喀巴方向发射导弹",
+          "url": "https://wallstreetcn.com/livenews/3136280",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时02分 ~ 22时25分]"
+        },
+        {
           "title": "伊朗最高领袖：美国一再违背协议，特朗普的签字毫无信誉",
           "url": "https://flash.jin10.com/detail/20260719003200067800",
           "source": "金十数据",
@@ -740,6 +772,18 @@
           "time_info": "[02时53分 ~ 04时01分]"
         },
         {
+          "title": "以色列媒体：伊朗最高领袖穆杰塔巴·哈梅内伊不在国内",
+          "url": "https://wallstreetcn.com/livenews/3136275",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时02分 ~ 22时25分]"
+        },
+        {
           "title": "伊朗霍尔木兹甘省警告民众避免非必要道路通行",
           "url": "https://flash.jin10.com/detail/20260719002614399800",
           "source": "金十数据",
@@ -774,6 +818,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时51分 ~ 21时02分]"
+        },
+        {
+          "title": "伊朗革命卫队针对霍尔木兹海峡关闭问题通报称：只要美国的恶意行径（malice）持续，海峡将维持关闭状态。（伊朗媒体FARS）",
+          "url": "https://wallstreetcn.com/livenews/3136273",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时02分 ~ 22时25分]"
         },
         {
           "title": "局势持续升级！美军连续第七晚空袭伊朗 被曝将向以增派数十架加油机",
@@ -851,9 +907,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时02分"
+        },
+        {
+          "title": "以色列国防部长：如果伊朗攻击我们，我们将打击他们的导弹平台。",
+          "url": "https://flash.jin10.com/detail/20260719215911365800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
         },
         {
           "title": "伊朗革命卫队称打击三国美军目标",
@@ -884,7 +951,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时02分"
         },
@@ -922,6 +989,17 @@
           "time_info": "09时57分"
         },
         {
+          "title": "据伊朗国家媒体：伊朗阿巴丹传出爆炸声。",
+          "url": "https://flash.jin10.com/detail/20260719215301129800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
+        },
+        {
           "title": "伊朗称打击科威特境内美军基地",
           "url": "https://wallstreetcn.com/livenews/3136135",
           "source": "华尔街见闻-快讯",
@@ -933,15 +1011,15 @@
           "time_info": "13时18分"
         },
         {
-          "title": "以色列媒体：伊朗最高领袖穆杰塔巴·哈梅内伊不在国内",
-          "url": "https://wallstreetcn.com/livenews/3136275",
+          "title": "约旦称击落3枚伊朗导弹，将保持最高级别戒备",
+          "url": "https://wallstreetcn.com/livenews/3136294",
           "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时02分"
+          "time_info": "22时25分"
         },
         {
           "title": "据伊朗塔斯尼姆通讯社：伊朗格什姆岛居民称，3至5枚导弹击中了岛上的不同区域。",
@@ -953,6 +1031,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时57分"
+        },
+        {
+          "title": "国际原子能机构称正调查伊朗在建核电站遭袭相关事宜",
+          "url": "https://flash.jin10.com/detail/20260719215247405800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
         },
         {
           "title": "伊朗最高领袖指责美国一再违约，称：特朗普的签名“毫无价值、无效”",
@@ -988,6 +1077,17 @@
           "time_info": "19时51分"
         },
         {
+          "title": "据半岛电视台：以色列国防部长表示，如果伊朗攻击我们，我们将予以反击。",
+          "url": "https://flash.jin10.com/detail/20260719214736829800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
+        },
+        {
           "title": "伊朗胡齐斯坦省萨兰德地区发生5级地震",
           "url": "https://wallstreetcn.com/livenews/3136140",
           "source": "华尔街见闻-快讯",
@@ -999,15 +1099,15 @@
           "time_info": "13时18分"
         },
         {
-          "title": "伊朗革命卫队针对霍尔木兹海峡关闭问题通报称：只要美国的恶意行径（malice）持续，海峡将维持关闭状态。（伊朗媒体FARS）",
-          "url": "https://wallstreetcn.com/livenews/3136273",
+          "title": "伊朗：美国近期发动的袭击已造成伊朗超过50人罹难，517人受伤。",
+          "url": "https://wallstreetcn.com/livenews/3136292",
           "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时02分"
+          "time_info": "22时25分"
         },
         {
           "title": "据伊朗媒体：美军袭击了伊朗南部哈吉阿巴德附近地区。",
@@ -1060,7 +1160,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时02分"
         },
@@ -1085,6 +1185,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时04分"
+        },
+        {
+          "title": "市场消息：伊朗军方表示，防空部队在南部击落了一架“卢卡斯”型敌方无人机。",
+          "url": "https://flash.jin10.com/detail/20260719214235117800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
         },
         {
           "title": "美中央司令部：美军开始对伊朗发动新一轮空袭",
@@ -1170,9 +1281,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时02分"
+        },
+        {
+          "title": "伊朗外长：部分核争端可能“无法解决”",
+          "url": "https://wallstreetcn.com/livenews/3136283",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
         },
         {
           "title": "据伊朗国家媒体：伊朗最高领袖关于伊朗烈士送葬仪式的讲话，以及对国家若干重要问题的阐释，将于几分钟后发布。",
@@ -1247,7 +1369,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时02分"
         },
@@ -1313,7 +1435,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时02分"
         },
@@ -1423,9 +1545,20 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时02分"
+        },
+        {
+          "title": "美国能源部长赖特：无论伊朗是否提供帮助，（美方）都将确保霍尔木兹海峡的石油输送。海峡石油流动的“七天截尾均值”低于700万桶/日。<br/>",
+          "url": "https://flash.jin10.com/detail/20260719211212937800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
         },
         {
           "title": "伊媒：伊朗南部阿巴斯港和格什姆岛附近传出爆炸声",
@@ -1464,7 +1597,7 @@
     },
     {
       "keyword_group": "科技",
-      "match_count": 23,
+      "match_count": 25,
       "titles": [
         {
           "title": "Kimi冲击美科技股，纳指100一度跌2.7%、收盘跌幅收窄，芯片股进入熊市，油价大涨",
@@ -1487,8 +1620,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时18分 ~ 21时02分]"
+          "appearance_count": 10,
+          "time_info": "[13时18分 ~ 22时25分]"
         },
         {
           "title": "长鑫科技开启申购，中一签需缴 4330 元，单一账户顶格申购 334.9 万股，打新性价比如何？是散户红利吗？",
@@ -1507,6 +1640,18 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时47分 ~ 07时45分]"
+        },
+        {
+          "title": "长鑫科技中签号出炉，36支社保、养老基金参与战略配售",
+          "url": "https://www.cls.cn/detail/2430460",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时50分 ~ 22时25分]"
         },
         {
           "title": "报道：白宫正主导前沿AI模型的访问权限，权力正从科技巨头手中转移",
@@ -1533,16 +1678,17 @@
           "time_info": "[00时48分 ~ 07时45分]"
         },
         {
-          "title": "长鑫科技中签号出炉，36支社保、养老基金参与战略配售",
-          "url": "https://www.cls.cn/detail/2430460",
-          "source": "财联社热门",
+          "title": "长鑫科技海外加密合约炒到 8.64 美元，市值一度逼近 4 万亿元人民币，是 A 股发行价估值的近 7 倍，如何解读？",
+          "url": "https://www.zhihu.com/question/2061864895159833546",
+          "source": "知乎",
           "ranks": [
-            10,
-            4
+            19,
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时50分 ~ 21时02分]"
+          "appearance_count": 7,
+          "time_info": "[18时21分 ~ 22时25分]"
         },
         {
           "title": "知乎Tech Club新知科技大会落地WAIC 2026",
@@ -1556,28 +1702,16 @@
           "time_info": "09时57分"
         },
         {
-          "title": "长鑫科技海外加密合约炒到 8.64 美元，市值一度逼近 4 万亿元人民币，是 A 股发行价估值的近 7 倍，如何解读？",
-          "url": "https://www.zhihu.com/question/2061864895159833546",
-          "source": "知乎",
-          "ranks": [
-            19,
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时21分 ~ 21时02分]"
-        },
-        {
           "title": "长鑫科技770万个中签号背后",
           "url": "https://www.toutiao.com/trending/7664182019143765546/",
           "source": "今日头条",
           "ranks": [
-            15
+            15,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时00分 ~ 21时02分]"
+          "appearance_count": 4,
+          "time_info": "[21时00分 ~ 22时25分]"
         },
         {
           "title": "长鑫科技中签号出炉：共有7,702,207个",
@@ -1666,6 +1800,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时21分"
+        },
+        {
+          "title": "金十数据整理：下周重要事件与数据预告——欧央行利率决议，谷歌、英特尔、特斯拉等科技股财报密集来袭",
+          "url": "https://flash.jin10.com/detail/20260719211602664800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
+        },
+        {
+          "title": "晶科科技与商汤科技达成算电协同战略合作",
+          "url": "https://flash.jin10.com/detail/20260719211310261800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
         },
         {
           "title": "星宸科技：预计上半年净利润同比增583.72%—650.42%",
@@ -1782,6 +1938,18 @@
           "time_info": "[00时47分 ~ 02时53分]"
         },
         {
+          "title": "世界黄金协会CEO泰达维高度评价中国市场涌现的创新和活力。 “中国是全球黄金市场当中至关重要且充满活力的一部分，在市场发展、消费者培育、产品创新等方面的实践为全球黄金产业的发展提供了宝贵经验。”（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3136266",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时02分 ~ 22时25分]"
+        },
+        {
           "title": "华强北内存暴涨下的消费电子困局",
           "url": "https://www.toutiao.com/trending/7664102490737852422/",
           "source": "今日头条",
@@ -1791,17 +1959,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[21时00分 ~ 21时02分]"
-        },
-        {
-          "title": "世界黄金协会CEO泰达维高度评价中国市场涌现的创新和活力。 “中国是全球黄金市场当中至关重要且充满活力的一部分，在市场发展、消费者培育、产品创新等方面的实践为全球黄金产业的发展提供了宝贵经验。”（新华社）",
-          "url": "https://wallstreetcn.com/livenews/3136266",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时02分"
         },
         {
           "title": "沪光股份携手启元机器人，加速消费级具身智能规模化落地",
@@ -1882,51 +2039,8 @@
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "提醒：下周二（7月21日），通用汽车等将发布业绩报告； 下周三，谷歌母公司Alphabet、特斯拉、德州仪器、IBM等将发布业绩报告； 下周四，英特尔、德国思爱普Sap等将发布业绩报告。",
-          "url": "https://wallstreetcn.com/livenews/3136067",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时48分 ~ 07时45分]"
-        },
-        {
-          "title": "下周重磅日程：欧央行利率决议；谷歌、特斯拉、IBM、英特尔与宁德时代财报",
-          "url": "https://wallstreetcn.com/articles/3777171",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时03分 ~ 19时51分]"
-        },
-        {
-          "title": "TCL华星星智X-Intelligence大模型在显示领域超越Gemini 3.1 Pro与GPT-5.5 high",
-          "url": "https://wallstreetcn.com/livenews/3136253",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时51分 ~ 21时02分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "资源",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "自然资源部发布重庆彭水山体崩塌前后对比图",
@@ -1951,6 +2065,72 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时57分 ~ 07时45分]"
+        },
+        {
+          "title": "美国总统特朗普：这是地球上最优质的石油资源之一，仍有数百年的产能，许多资源甚至尚未被发现，这将使英国从一个贫困的灾难国变成世界上最富有的国家之一。",
+          "url": "https://flash.jin10.com/detail/20260719220736369800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
+        },
+        {
+          "title": "美国总统特朗普：苏格兰阿伯丁的市民们正在街头载歌载舞，因为即将就任的英国首相伯纳姆宣布，他将全面开放宝贵的北海石油资源。",
+          "url": "https://flash.jin10.com/detail/20260719220638278800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "提醒：下周二（7月21日），通用汽车等将发布业绩报告； 下周三，谷歌母公司Alphabet、特斯拉、德州仪器、IBM等将发布业绩报告； 下周四，英特尔、德国思爱普Sap等将发布业绩报告。",
+          "url": "https://wallstreetcn.com/livenews/3136067",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时48分 ~ 07时45分]"
+        },
+        {
+          "title": "下周重磅日程：欧央行利率决议；谷歌、特斯拉、IBM、英特尔与宁德时代财报",
+          "url": "https://wallstreetcn.com/articles/3777171",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时03分 ~ 22时25分]"
+        },
+        {
+          "title": "TCL华星星智X-Intelligence大模型在显示领域超越Gemini 3.1 Pro与GPT-5.5 high",
+          "url": "https://wallstreetcn.com/livenews/3136253",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时51分 ~ 21时02分]"
         }
       ]
     },
