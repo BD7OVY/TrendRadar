@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-23T21:30:26.199341+08:00",
-  "total_titles_processed": 1474,
+  "generated_at": "2026-07-23T23:50:46.291640+08:00",
+  "total_titles_processed": 1631,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 58,
+      "match_count": 66,
       "titles": [
         {
           "title": "特朗普：我们与伊朗只是小规模冲突",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时46分 ~ 21时30分]"
+          "appearance_count": 7,
+          "time_info": "[13时46分 ~ 23时50分]"
         },
         {
           "title": "特朗普威胁：若伊朗袭击霍尔木兹海峡船只 美方将轰炸其桥梁和发电厂",
@@ -41,8 +41,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时46分 ~ 21时30分]"
+          "appearance_count": 7,
+          "time_info": "[13时46分 ~ 23时50分]"
         },
         {
           "title": "据伊朗媒体Fars News：当地消息人士称，伊朗袭击了驻扎在约旦东部的美军阵地。",
@@ -93,6 +93,17 @@
           "time_info": "[00时21分 ~ 07时07分]"
         },
         {
+          "title": "据伊朗伊斯兰共和国广播电视台（IRIB）：伊朗凯什岛传出爆炸声 。",
+          "url": "https://flash.jin10.com/detail/20260723234710353800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时50分"
+        },
+        {
           "title": "美媒：以色列摩萨德新局长访美协调伊朗核谈判",
           "url": "https://flash.jin10.com/detail/20260723014721867800",
           "source": "金十数据",
@@ -121,7 +132,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时30分"
         },
@@ -135,6 +146,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时03分"
+        },
+        {
+          "title": "特朗普称正“认真考虑”重启对伊朗的大规模作战",
+          "url": "https://wallstreetcn.com/livenews/3138980",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时50分"
+        },
+        {
+          "title": "特朗普：伊朗尚未准备好达成协议",
+          "url": "https://flash.jin10.com/detail/20260723234018735800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时50分"
         },
         {
           "title": "伊通社：伊朗总统与伊拉克总理举行双边会晤。 伊朗和伊拉克承诺深化战略关系。 伊朗和伊拉克讨论新的合作领域。",
@@ -154,7 +187,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时30分"
         },
@@ -294,6 +327,17 @@
           "time_info": "04时09分"
         },
         {
+          "title": "报道：特朗普称接近就“大规模袭击伊朗”做决定",
+          "url": "https://wallstreetcn.com/livenews/3138976",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时50分"
+        },
+        {
           "title": "据伊朗迈赫尔通讯社：以色列在黎巴嫩南部进行炮击和空袭。",
           "url": "https://flash.jin10.com/detail/20260722235808400800",
           "source": "金十数据",
@@ -404,6 +448,17 @@
           "time_info": "19时03分"
         },
         {
+          "title": "伊拉克总理访德黑兰期间，伊朗与伊拉克签署多项谅解备忘录",
+          "url": "https://wallstreetcn.com/livenews/3138971",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时50分"
+        },
+        {
           "title": "据伊朗塔斯尼姆通讯社：伊朗革命卫队称袭击了美国在约旦的基地，摧毁了一套美国“萨德”导弹防御系统的雷达。同时，一套“爱国者”系统和一个C-RAM雷达也被击中并摧毁，该基地的燃料库被点燃。",
           "url": "https://flash.jin10.com/detail/20260723133737815800",
           "source": "金十数据",
@@ -492,6 +547,17 @@
           "time_info": "04时09分"
         },
         {
+          "title": "以色列多地开放公共避难所应对伊朗导弹威胁",
+          "url": "https://wallstreetcn.com/livenews/3138963",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时50分"
+        },
+        {
           "title": "亚运会中国男足与伊朗朝鲜阿联酋同组",
           "url": "https://www.baidu.com/s?wd=%E4%BA%9A%E8%BF%90%E4%BC%9A%E4%B8%AD%E5%9B%BD%E7%94%B7%E8%B6%B3%E4%B8%8E%E4%BC%8A%E6%9C%97%E6%9C%9D%E9%B2%9C%E9%98%BF%E8%81%94%E9%85%8B%E5%90%8C%E7%BB%84",
           "source": "百度热搜",
@@ -501,6 +567,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时16分"
+        },
+        {
+          "title": "特朗普：接近就“大规模打击”伊朗作出决定",
+          "url": "https://flash.jin10.com/detail/20260723233215266800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时50分"
         },
         {
           "title": "伊朗媒体Fars News：布什尔附近传出两声爆炸声。",
@@ -597,7 +674,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时30分"
         },
@@ -622,6 +699,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时03分"
+        },
+        {
+          "title": "美众议院再次通过决议要求停止对伊朗军事行动",
+          "url": "https://wallstreetcn.com/livenews/3138952",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时50分"
         },
         {
           "title": "伊朗军方消息人士：若美袭击伊桥梁或电站 伊将对等打击",
@@ -660,7 +748,7 @@
     },
     {
       "keyword_group": "科技",
-      "match_count": 33,
+      "match_count": 36,
       "titles": [
         {
           "title": "剧烈反弹！美股“科技动量股”创史上最大单日涨幅，但暴跌结束了吗？",
@@ -685,6 +773,17 @@
           "time_info": "[00时21分 ~ 06时01分]"
         },
         {
+          "title": "长鑫科技下周一上市，发行价为8.66元/股",
+          "url": "https://www.cls.cn/detail/2435368",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时29分 ~ 23时50分]"
+        },
+        {
           "title": "长鑫科技中签如中彩票，却有 660 万新股遭散户投资者弃购，投资者们在犹豫什么？",
           "url": "https://www.zhihu.com/question/2063197377310233514",
           "source": "知乎",
@@ -694,17 +793,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时21分 ~ 02时05分]"
-        },
-        {
-          "title": "长鑫科技下周一上市，发行价为8.66元/股",
-          "url": "https://www.cls.cn/detail/2435368",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时29分 ~ 21时30分]"
         },
         {
           "title": "A股光伏设备午后走强，赛伍技术涨停，德业股份、艾罗能源、阳光电源、锦浪科技、固德威跟涨。",
@@ -786,6 +874,17 @@
           "time_info": "[00时21分 ~ 04时09分]"
         },
         {
+          "title": "长鑫科技：将于7月27日在科创板上市",
+          "url": "https://www.baidu.com/s?wd=%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%EF%BC%9A%E5%B0%86%E4%BA%8E7%E6%9C%8827%E6%97%A5%E5%9C%A8%E7%A7%91%E5%88%9B%E6%9D%BF%E4%B8%8A%E5%B8%82",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时29分 ~ 23时50分]"
+        },
+        {
           "title": "马斯克也“默认”了？知名科技圈人士：特斯拉和SpaceX合并概率已达90%！",
           "url": "https://www.cls.cn/detail/2434751",
           "source": "财联社热门",
@@ -802,17 +901,6 @@
           "source": "今日头条",
           "ranks": [
             17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时29分 ~ 21时30分]"
-        },
-        {
-          "title": "长鑫科技：将于7月27日在科创板上市",
-          "url": "https://www.baidu.com/s?wd=%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%EF%BC%9A%E5%B0%86%E4%BA%8E7%E6%9C%8827%E6%97%A5%E5%9C%A8%E7%A7%91%E5%88%9B%E6%9D%BF%E4%B8%8A%E5%B8%82",
-          "source": "百度热搜",
-          "ranks": [
-            20
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -861,6 +949,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时09分"
+        },
+        {
+          "title": "Alphabet现金流首度转负 AI资本支出压力考验科技巨头财报",
+          "url": "https://www.cls.cn/detail/2435521",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时50分"
+        },
+        {
+          "title": "7月27日登陆科创板！长鑫科技投资价值怎么看？",
+          "url": "https://www.cls.cn/detail/2435567",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时50分"
         },
         {
           "title": "港股PCB板块走强，大族数控(03200.HK)、胜宏科技(02476.HK)双双涨超5%，建滔积层板(01888.HK)涨超4%，鼎泰高科(01377.HK)、建滔集团(00148.HK)、广合科技(01989.HK)等个股跟涨。",
@@ -1017,6 +1127,17 @@
           "time_info": "13时47分"
         },
         {
+          "title": "长鑫科技7月27日科创板上市",
+          "url": "https://www.douyin.com/hot/2582708",
+          "source": "抖音",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时50分"
+        },
+        {
           "title": "灵初智能正以14.8亿美元的估值融资近1亿美元，该公司接近完成由奇瑞领投的一轮融资，其他投资者还包括蓝思科技。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3138591",
           "source": "华尔街见闻-快讯",
@@ -1031,7 +1152,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "谷歌Q2自由现金流首次转负，上调全年资本开支至最高2050亿美元，云业务爆发82%增长｜财报见闻",
@@ -1042,8 +1163,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时02分 ~ 21时30分]"
+          "appearance_count": 9,
+          "time_info": "[10时02分 ~ 23时50分]"
         },
         {
           "title": "谷歌电话会：警告现金流压力将持续，但\"需求仍超过投资增速\"，Gemini 4已启动训练",
@@ -1055,8 +1176,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时02分 ~ 21时30分]"
+          "appearance_count": 9,
+          "time_info": "[10时02分 ~ 23时50分]"
         },
         {
           "title": "谷歌重磅财报夜，Capex指引有望上调？资深分析师：2026年或冲击2000亿美元",
@@ -1129,6 +1250,30 @@
           "time_info": "[06时01分 ~ 07时07分]"
         },
         {
+          "title": "AI每赚1块钱，谷歌花出去2块",
+          "url": "https://wallstreetcn.com/articles/3777748",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时29分 ~ 23时50分]"
+        },
+        {
+          "title": "如何看待谷歌母公司 Alphabet 自由现金流数十年来首次转负？",
+          "url": "https://www.zhihu.com/question/2063569251428819442",
+          "source": "知乎",
+          "ranks": [
+            20,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时29分 ~ 23时50分]"
+        },
+        {
           "title": "AI开支引发回报疑虑，谷歌、特斯拉盘前大跌，布油触及百元关口，美国长债承压",
           "url": "https://wallstreetcn.com/articles/3777754",
           "source": "华尔街见闻",
@@ -1150,28 +1295,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时21分 ~ 02时05分]"
-        },
-        {
-          "title": "AI每赚1块钱，谷歌花出去2块",
-          "url": "https://wallstreetcn.com/articles/3777748",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时29分 ~ 21时30分]"
-        },
-        {
-          "title": "如何看待谷歌母公司 Alphabet 自由现金流数十年来首次转负？",
-          "url": "https://www.zhihu.com/question/2063569251428819442",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时29分 ~ 21时30分]"
         },
         {
           "title": "谷歌自由现金流数十年来首次转负",
@@ -1282,6 +1405,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时03分"
+        },
+        {
+          "title": "谷歌未来支出承诺飙升至8110亿美元",
+          "url": "https://wallstreetcn.com/livenews/3138950",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时50分"
         }
       ]
     },
@@ -1423,7 +1557,7 @@
     },
     {
       "keyword_group": "金融",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "财政部部长蓝佛安：以更大力度落实财政金融协同促内需一揽子政策",
@@ -1435,6 +1569,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时07分"
+        },
+        {
+          "title": "明晟公司MSCI北欧国家指数跌1%，报388.68点。 在十个板块中，北欧金融板块跌幅最大。 Stora Enso Oyj跌8.5%，在一众北欧个股里表现最差。",
+          "url": "https://wallstreetcn.com/livenews/3138981",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时50分"
         },
         {
           "title": "明晟公司MSCI北欧国家指数涨0.2%，报392.72点。 在十个板块中，北欧金融板块涨幅最大。 Verisure Plc.涨5%，在一众北欧个股里领跑。",
@@ -1455,7 +1600,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时30分"
         },
@@ -1518,7 +1663,7 @@
     },
     {
       "keyword_group": "深圳",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "偏航的救护车：深圳广生医院违反调度将患者送自家医院，并篡改病历被罚",
@@ -1590,6 +1735,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时03分"
+        },
+        {
+          "title": "金价四连涨深圳水贝又挤爆了",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%9B%9B%E8%BF%9E%E6%B6%A8%E6%B7%B1%E5%9C%B3%E6%B0%B4%E8%B4%9D%E5%8F%88%E6%8C%A4%E7%88%86%E4%BA%86%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时50分"
         }
       ]
     },
@@ -1631,8 +1787,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时29分 ~ 21时30分]"
+          "appearance_count": 3,
+          "time_info": "[21时29分 ~ 23时50分]"
         },
         {
           "title": "阿里速卖通将率Brand+品牌参加柏林国际消费电子展",
@@ -1659,6 +1815,56 @@
       ]
     },
     {
+      "keyword_group": "制造业",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "商务部：将引导外商投资磁悬浮动力设备等先进制造业和人形机器人研发等现代服务业",
+          "url": "https://flash.jin10.com/detail/20260723155330682800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时16分"
+        },
+        {
+          "title": "欧洲央行行长拉加德：服务业活动有所复苏。 制造业保持坚挺。 国防支出增加正在支持制造业。 短期内增长将保持温和。 中期经济增长的驱动因素依然完好。",
+          "url": "https://wallstreetcn.com/livenews/3138898",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时30分"
+        },
+        {
+          "title": "美国7月堪萨斯联储制造业综合指数 9，预期 12，前值 11。",
+          "url": "https://wallstreetcn.com/livenews/3138962",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时50分"
+        },
+        {
+          "title": "欧洲汽车制造业协会（ACEA）：欧洲6月新车销量增长13%至141万辆。",
+          "url": "https://wallstreetcn.com/livenews/3138605",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时47分"
+        }
+      ]
+    },
+    {
       "keyword_group": "资源",
       "match_count": 3,
       "titles": [
@@ -1679,11 +1885,12 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            11
+            11,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时03分 ~ 21时30分]"
+          "appearance_count": 4,
+          "time_info": "[19时03分 ~ 23时50分]"
         },
         {
           "title": "印尼经济部长：来自美国、加拿大和澳大利亚的自然资源出口商将面临更宽松的出口收益保留规则。",
@@ -1699,41 +1906,45 @@
       ]
     },
     {
-      "keyword_group": "制造业",
+      "keyword_group": "旅游",
       "match_count": 3,
       "titles": [
         {
-          "title": "商务部：将引导外商投资磁悬浮动力设备等先进制造业和人形机器人研发等现代服务业",
-          "url": "https://flash.jin10.com/detail/20260723155330682800",
-          "source": "金十数据",
+          "title": "这世界大得让你很难不旅游",
+          "url": "https://www.douyin.com/hot/2581388",
+          "source": "抖音",
           "ranks": [
-            5
+            14,
+            13,
+            16,
+            7,
+            17
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时16分"
+          "appearance_count": 15,
+          "time_info": "[00时21分 ~ 23时50分]"
         },
         {
-          "title": "欧洲央行行长拉加德：服务业活动有所复苏。 制造业保持坚挺。 国防支出增加正在支持制造业。 短期内增长将保持温和。 中期经济增长的驱动因素依然完好。",
-          "url": "https://wallstreetcn.com/livenews/3138898",
-          "source": "华尔街见闻-快讯",
+          "title": "北京游客称在哈尔滨旅游差点中暑",
+          "url": "https://www.toutiao.com/trending/7665127274043637801/",
+          "source": "今日头条",
           "ranks": [
-            9
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时30分"
+          "time_info": "23时50分"
         },
         {
-          "title": "欧洲汽车制造业协会（ACEA）：欧洲6月新车销量增长13%至141万辆。",
-          "url": "https://wallstreetcn.com/livenews/3138605",
+          "title": "高温干旱致多瑙河水位走低，匈牙利航运和旅游业遭遇挑战",
+          "url": "https://wallstreetcn.com/livenews/3138376",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            22
+            16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时47分"
+          "time_info": "04时09分"
         }
       ]
     },
@@ -1794,38 +2005,6 @@
       ]
     },
     {
-      "keyword_group": "旅游",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "这世界大得让你很难不旅游",
-          "url": "https://www.douyin.com/hot/2581388",
-          "source": "抖音",
-          "ranks": [
-            14,
-            13,
-            16,
-            7,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时21分 ~ 21时30分]"
-        },
-        {
-          "title": "高温干旱致多瑙河水位走低，匈牙利航运和旅游业遭遇挑战",
-          "url": "https://wallstreetcn.com/livenews/3138376",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时09分"
-        }
-      ]
-    },
-    {
       "keyword_group": "医药",
       "match_count": 1,
       "titles": [
@@ -1835,11 +2014,12 @@
           "source": "澎湃新闻",
           "ranks": [
             12,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时03分 ~ 21时30分]"
+          "appearance_count": 4,
+          "time_info": "[19时03分 ~ 23时50分]"
         }
       ]
     }
