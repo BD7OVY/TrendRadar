@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-24T07:59:19.874919+08:00",
-  "total_titles_processed": 633,
+  "generated_at": "2026-07-24T10:37:55.183756+08:00",
+  "total_titles_processed": 809,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 39,
+      "match_count": 43,
       "titles": [
         {
           "title": "特朗普：我们与伊朗只是小规模冲突",
@@ -27,8 +27,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时12分 ~ 07时59分]"
+          "appearance_count": 10,
+          "time_info": "[01时12分 ~ 10时37分]"
         },
         {
           "title": "伊拉克与科威特边境口岸遭伊朗打击，特朗普：若再袭沙特船只，美国将施以“重大军事惩罚”",
@@ -38,11 +38,12 @@
             10,
             8,
             7,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[03时03分 ~ 07时59分]"
+          "appearance_count": 8,
+          "time_info": "[03时03分 ~ 10时37分]"
         },
         {
           "title": "据伊朗塔斯尼姆通讯社：伊朗议会国家安全委员会主席转述革命卫队海军导弹部队指挥官称，伊朗拥有数倍于应对美国所需的导弹和无人机储备。",
@@ -54,6 +55,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时03分"
+        },
+        {
+          "title": "特朗普称“接近”决定发动“大规模攻击”，伊朗被曝为军事升级做准备、尤其地面入侵",
+          "url": "https://wallstreetcn.com/articles/3777811",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时37分"
         },
         {
           "title": "美国总统特朗普：159艘伊朗军舰已被击沉。",
@@ -78,13 +90,24 @@
           "time_info": "03时03分"
         },
         {
+          "title": "伊朗公布美军近期袭击伤亡数据",
+          "url": "https://news.ifeng.com/c/8v0yEqjepG6",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时37分"
+        },
+        {
           "title": "伊朗国家广播公司：格什姆岛南岸传出爆炸声。",
           "url": "https://flash.jin10.com/detail/20260724072812353800",
           "source": "金十数据",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时59分"
         },
@@ -136,6 +159,18 @@
           "time_info": "[04时54分 ~ 06时00分]"
         },
         {
+          "title": "伊朗、胡塞武装：已做好应战准备",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E3%80%81%E8%83%A1%E5%A1%9E%E6%AD%A6%E8%A3%85%EF%BC%9A%E5%B7%B2%E5%81%9A%E5%A5%BD%E5%BA%94%E6%88%98%E5%87%86%E5%A4%87",
+          "source": "百度热搜",
+          "ranks": [
+            10,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时59分 ~ 10时37分]"
+        },
+        {
           "title": "特朗普：将用伊朗资金赔付船只及货物损失",
           "url": "https://flash.jin10.com/detail/20260724060544831800",
           "source": "金十数据",
@@ -164,7 +199,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时59分"
         },
@@ -202,17 +237,6 @@
           "time_info": "03时03分"
         },
         {
-          "title": "伊朗、胡塞武装：已做好应战准备",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E3%80%81%E8%83%A1%E5%A1%9E%E6%AD%A6%E8%A3%85%EF%BC%9A%E5%B7%B2%E5%81%9A%E5%A5%BD%E5%BA%94%E6%88%98%E5%87%86%E5%A4%87",
-          "source": "百度热搜",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时59分"
-        },
-        {
           "title": "美国总统特朗普：伊朗人想要谈判，但他们并没有准备好。",
           "url": "https://flash.jin10.com/detail/20260724025035550800",
           "source": "金十数据",
@@ -230,7 +254,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时59分"
         },
@@ -263,7 +287,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时59分"
         },
@@ -277,6 +301,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时13分"
+        },
+        {
+          "title": "特朗普称将用被冻结的伊朗资金赔偿船只及货物损失 | 环球市场",
+          "url": "https://www.cls.cn/detail/2435732",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时37分"
         },
         {
           "title": "美国中央司令部：自恢复对伊朗实施海上封锁以来的9天内，已重新引导12艘商业船只改变航线，并使1艘船只失去行动能力。",
@@ -442,12 +477,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时13分"
+        },
+        {
+          "title": "伊朗拒绝由美国提出的、伊拉克领导人转交的停火协议。（纽约时报）",
+          "url": "https://wallstreetcn.com/livenews/3139131",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时37分"
         }
       ]
     },
     {
       "keyword_group": "科技",
-      "match_count": 15,
+      "match_count": 22,
       "titles": [
         {
           "title": "长鑫科技下周一上市，发行价为8.66元/股",
@@ -473,8 +519,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时12分 ~ 07时59分]"
+          "appearance_count": 10,
+          "time_info": "[01时12分 ~ 10时37分]"
         },
         {
           "title": "长鑫科技7月27日科创板上市",
@@ -485,11 +531,12 @@
             23,
             11,
             26,
-            5
+            5,
+            17
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时12分 ~ 07时59分]"
+          "appearance_count": 10,
+          "time_info": "[01时12分 ~ 10时37分]"
         },
         {
           "title": "Alphabet现金流首度转负 AI资本支出压力考验科技巨头财报",
@@ -498,11 +545,12 @@
           "ranks": [
             10,
             11,
-            9
+            9,
+            12
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时12分 ~ 07时59分]"
+          "appearance_count": 10,
+          "time_info": "[01时12分 ~ 10时37分]"
         },
         {
           "title": "长鑫科技：将于7月27日在科创板上市",
@@ -520,11 +568,45 @@
           "url": "https://www.cls.cn/detail/2435717",
           "source": "财联社热门",
           "ranks": [
-            2
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时59分 ~ 10时37分]"
+        },
+        {
+          "title": "张小龙卸任北京粉笔初心科技公司职务",
+          "url": "https://flash.jin10.com/detail/20260724103003054800",
+          "source": "金十数据",
+          "ranks": [
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时59分"
+          "time_info": "10时37分"
+        },
+        {
+          "title": "军工板块异动拉升，长城军工2连板，中光防雷20cm涨停，北方长龙、北自科技、江龙船艇、建设工业涨幅居前。",
+          "url": "https://wallstreetcn.com/livenews/3139168",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时37分"
+        },
+        {
+          "title": "“关税战”来最惨的1天！美股“科技龙头”Mag 7单日市值蒸发近8000亿美元",
+          "url": "https://wallstreetcn.com/articles/3777828",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时37分"
         },
         {
           "title": "周四（7月23日），美股行业ETF多数收跌，可选消费ETF跌4.61%，网络股指数ETF跌2.56%，半导体ETF跌1.15%，生物科技指数ETF、医疗业ETF、工业指数ETF涨1.06%-1.73%。 标普500指数的11个板块中，电信板块重挫5.2%，可选消费板块跌5.12%，信息技术/科技板块跌1.12%，能源板块涨0.56%，工业板块涨1.77%。",
@@ -575,6 +657,28 @@
           "time_info": "[04时54分 ~ 06时00分]"
         },
         {
+          "title": "长鑫科技产业链全景扫描：设备材料端率先受益 封测与存储模组产品导入验证持续进行",
+          "url": "https://www.cls.cn/detail/2435803",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时37分"
+        },
+        {
+          "title": "香港恒生指数开盘跌1.1%，恒生科技指数跌1.86%。",
+          "url": "https://wallstreetcn.com/livenews/3139156",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时37分"
+        },
+        {
           "title": "美五大科技巨头AI隐性债务被曝达1.65万亿美元",
           "url": "https://wallstreetcn.com/livenews/3139023",
           "source": "华尔街见闻-快讯",
@@ -597,6 +701,17 @@
           "time_info": "04时54分"
         },
         {
+          "title": "美股科技七巨头市值蒸发近8千亿美元",
+          "url": "https://www.toutiao.com/trending/7665870757104193078/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时37分"
+        },
+        {
           "title": "周五亚太盘初，纳指期货涨0.3%。 目前（美股盘后），科技股英特尔涨4.5%，甲骨文涨2%，AMD涨1.4%，特斯拉反弹1.1%，美光跌0.4%。",
           "url": "https://wallstreetcn.com/livenews/3139086",
           "source": "华尔街见闻-快讯",
@@ -617,6 +732,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时00分"
+        },
+        {
+          "title": "港股芯片股回升，澜起科技(06809.HK)涨超5%，天数智芯(09903.HK)、中芯国际(00981.HK)双双涨超3%，华虹宏力(01347.HK)、ASMPT(00522.HK)、壁仞科技(06082.HK)、兆易创新(03986.HK)等个股跟涨。",
+          "url": "https://flash.jin10.com/detail/20260724095635540800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时37分"
         },
         {
           "title": "恒生指数主连夜盘收跌1.29%，报24885点。 恒生科技指数主连夜盘收跌1.70%，报4620点。",
@@ -668,8 +794,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时12分 ~ 07时59分]"
+          "appearance_count": 10,
+          "time_info": "[01时12分 ~ 10时37分]"
         },
         {
           "title": "如何看待谷歌母公司 Alphabet 自由现金流数十年来首次转负？",
@@ -693,7 +819,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时59分"
         },
@@ -712,7 +838,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "OpenAI总裁布罗克曼表示，目标始终是为用户需要完成的一切任务提供最便宜模型。",
@@ -721,9 +847,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时59分"
+        },
+        {
+          "title": "OpenAI入侵Hugging Face，引发美国国会提出“AI紧急关停”法案",
+          "url": "https://wallstreetcn.com/livenews/3139178",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时37分"
         },
         {
           "title": "微软(MSFT.O)正在用自研图像生成模型替代OpenAI的图像模型，应用于PowerPoint和Bing。",
@@ -773,8 +910,19 @@
     },
     {
       "keyword_group": "金融",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "公安机关打击经济金融领域违法犯罪 上半年挽回经济损失121.5亿元",
+          "url": "https://flash.jin10.com/detail/20260724102912145800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时37分"
+        },
         {
           "title": "美国总统特朗普提名的美国消费者金融保护局负责人表示，将对裁减该机构大部分员工的计划“保持开放态度”。",
           "url": "https://flash.jin10.com/detail/20260724000958452800",
@@ -796,71 +944,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时13分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "消费",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "我国服务消费延续向新向好的发展态势",
-          "url": "https://www.toutiao.com/trending/7665620788682604563/",
-          "source": "今日头条",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时12分 ~ 07时59分]"
         },
         {
-          "title": "英国7月Gfk消费者信心指数 -17，预期-21，前值-23。",
-          "url": "https://flash.jin10.com/detail/20260724070102130800",
-          "source": "金十数据",
+          "title": "中国即将发行或正在发行的国债和政策性金融债",
+          "url": "https://wallstreetcn.com/livenews/3139134",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            17
+            28
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时59分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "医药",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "《规划》推动人人享有中医药服务！2030年发展目标解读",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33641996",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时12分 ~ 07时59分]"
-        },
-        {
-          "title": "美国贸易代表格里尔：因供应安全的缘故，需要重塑医药（贸易）。",
-          "url": "https://wallstreetcn.com/livenews/3139078",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时00分 ~ 06时59分]"
+          "time_info": "10时37分"
         }
       ]
     },
     {
       "keyword_group": "深圳",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "佛山DRG战胜深圳DYG",
@@ -890,6 +990,155 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时12分 ~ 07时59分]"
+        },
+        {
+          "title": "金价连涨四天，现货黄金重回 4100 美元，深圳水贝挤满购金人，如何看待黄金当下行情？",
+          "url": "https://www.zhihu.com/question/2063412432022901058",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时37分"
+        },
+        {
+          "title": "深圳：上半年地区生产总值19843.48亿元 同比增长5.8%",
+          "url": "https://flash.jin10.com/detail/20260724100934146800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时37分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "医药",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "《规划》推动人人享有中医药服务！2030年发展目标解读",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33641996",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时12分 ~ 07时59分]"
+        },
+        {
+          "title": "医药股震荡走低，哈药股份跌停，陇神戎发跌超10%，海思科、哈三联、珍宝岛、必贝特跌超5%。",
+          "url": "https://wallstreetcn.com/livenews/3139171",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时37分"
+        },
+        {
+          "title": "美国贸易代表格里尔：因供应安全的缘故，需要重塑医药（贸易）。",
+          "url": "https://wallstreetcn.com/livenews/3139078",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时00分 ~ 06时59分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "制造业",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "日本7月制造业PMI初值 54.7，前值 54.8。",
+          "url": "https://wallstreetcn.com/livenews/3139144",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时37分"
+        },
+        {
+          "title": "澳大利亚7月标普全球制造业PMI初值 51.7，前值51.5。",
+          "url": "https://flash.jin10.com/detail/20260724070002404800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时59分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "消费",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "我国服务消费延续向新向好的发展态势",
+          "url": "https://www.toutiao.com/trending/7665620788682604563/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时12分 ~ 10时37分]"
+        },
+        {
+          "title": "英国7月Gfk消费者信心指数 -17，预期-21，前值-23。",
+          "url": "https://flash.jin10.com/detail/20260724070102130800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时59分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "金价跌2%，下探4000美元整数位心理关口",
+          "url": "https://wallstreetcn.com/livenews/3139079",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时00分 ~ 06时59分]"
+        },
+        {
+          "title": "金十图示：2026年07月24日（周五）上海金早盘价为882.94元/克，较国际金价(881.5元/克)，高1.44元/克",
+          "url": "https://flash.jin10.com/detail/20260724101959310800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时37分"
         }
       ]
     },
@@ -923,62 +1172,8 @@
       ]
     },
     {
-      "keyword_group": "资源",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "【焦点复盘】科创50高开低走跌3.78%，两市成交额萎缩4500亿，顺周期资源股持续爆发",
-          "url": "https://www.cls.cn/detail/2435218",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            10,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时12分 ~ 07时59分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "制造业",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "澳大利亚7月标普全球制造业PMI初值 51.7，前值51.5。",
-          "url": "https://flash.jin10.com/detail/20260724070002404800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时59分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "金价跌2%，下探4000美元整数位心理关口",
-          "url": "https://wallstreetcn.com/livenews/3139079",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时00分 ~ 06时59分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "旅游",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "这世界大得让你很难不旅游",
@@ -991,6 +1186,36 @@
             21,
             22,
             23
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时12分 ~ 07时59分]"
+        },
+        {
+          "title": "赛里木湖景区通报工作人员殴打旅游车司机：7人被警方控制，予以辞退",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33649439",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时37分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "资源",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "【焦点复盘】科创50高开低走跌3.78%，两市成交额萎缩4500亿，顺周期资源股持续爆发",
+          "url": "https://www.cls.cn/detail/2435218",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            10,
+            12
           ],
           "is_new": false,
           "appearance_count": 9,
