@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-25T07:01:28.458957+08:00",
-  "total_titles_processed": 557,
+  "generated_at": "2026-07-25T08:08:38.750278+08:00",
+  "total_titles_processed": 624,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 31,
+      "match_count": 32,
       "titles": [
         {
           "title": "被曝向胡塞武装空运军官和武器，伊朗怎么说？",
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时37分 ~ 07时01分]"
+          "appearance_count": 7,
+          "time_info": "[00时37分 ~ 08时08分]"
         },
         {
           "title": "伊朗公布美军近期袭击伤亡数据",
@@ -26,8 +26,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时37分 ~ 07时01分]"
+          "appearance_count": 7,
+          "time_info": "[00时37分 ~ 08时08分]"
         },
         {
           "title": "据伊朗媒体Fars News：与也门航运管理部门有关联的消息人士称，几乎所有通过曼德海峡的商船都遵守也门海军部队的相关决定。",
@@ -74,17 +74,6 @@
           "time_info": "04时14分"
         },
         {
-          "title": "美国军方向一艘商船开火，声称后者违反“对伊朗的封锁”。 美军周五在阿曼湾造成Lavine号油轮丧失行动能力。（美联社）",
-          "url": "https://wallstreetcn.com/livenews/3139667",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时01分"
-        },
-        {
           "title": "伊朗称袭击美国亚马逊公司一数据中心",
           "url": "https://www.toutiao.com/trending/7665519115210899499/",
           "source": "今日头条",
@@ -99,28 +88,42 @@
           "time_info": "[00时37分 ~ 07时01分]"
         },
         {
-          "title": "特朗普称美国与伊朗仍在对话",
-          "url": "https://wallstreetcn.com/livenews/3139662",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时59分 ~ 07时01分]"
-        },
-        {
           "title": "据伊朗塔斯尼姆通讯社：美国第五舰队驻巴林基地遭到导弹和无人机袭击。",
           "url": "https://flash.jin10.com/detail/20260725051459277800",
           "source": "金十数据",
           "ranks": [
             5,
-            6
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时59分 ~ 08时08分]"
+        },
+        {
+          "title": "特朗普称美国与伊朗仍在对话",
+          "url": "https://wallstreetcn.com/livenews/3139662",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            8,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时59分 ~ 08时08分]"
+        },
+        {
+          "title": "美国军方向一艘商船开火，声称后者违反“对伊朗的封锁”。 美军周五在阿曼湾造成Lavine号油轮丧失行动能力。（美联社）",
+          "url": "https://wallstreetcn.com/livenews/3139667",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[05时59分 ~ 07时01分]"
+          "time_info": "[07时01分 ~ 08时08分]"
         },
         {
           "title": "据伊朗塔斯尼姆通讯社：美国第五舰队驻巴林基地遭到导弹和无人机袭击。",
@@ -128,11 +131,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             7,
-            12
+            12,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时59分 ~ 07时01分]"
+          "appearance_count": 3,
+          "time_info": "[05时59分 ~ 08时08分]"
         },
         {
           "title": "伊朗和阿曼就霍尔木兹海峡问题举行会谈",
@@ -140,11 +144,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             19,
-            24
+            24,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时59分 ~ 07时01分]"
+          "appearance_count": 3,
+          "time_info": "[05时59分 ~ 08时08分]"
         },
         {
           "title": "据伊朗媒体Fars News：阿拉伯消息称，沙特阿拉伯对也门的荷台达港进行了空袭。",
@@ -152,11 +157,12 @@
           "source": "金十数据",
           "ranks": [
             25,
-            26
+            26,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时59分 ~ 07时01分]"
+          "appearance_count": 3,
+          "time_info": "[05时59分 ~ 08时08分]"
         },
         {
           "title": "美国总统特朗普：已做好在伊朗采取更高级别军事行动的准备。",
@@ -179,6 +185,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时14分"
+        },
+        {
+          "title": "中东全面战争风险快速积累，美国或陷入对伊朗、胡塞两线作战困局",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33652648",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时08分"
         },
         {
           "title": "王毅会见伊朗外长阿拉格齐",
@@ -360,7 +377,7 @@
     },
     {
       "keyword_group": "科技",
-      "match_count": 22,
+      "match_count": 24,
       "titles": [
         {
           "title": "长鑫科技股价管控“小作文”先于上市登场，谣言为何密集出现？七大拆解",
@@ -371,8 +388,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时37分 ~ 07时01分]"
+          "appearance_count": 7,
+          "time_info": "[00时37分 ~ 08时08分]"
         },
         {
           "title": "“关税战”来最惨的1天！美股“科技龙头”Mag 7单日市值蒸发近8000亿美元",
@@ -384,8 +401,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时37分 ~ 07时01分]"
+          "appearance_count": 7,
+          "time_info": "[00时37分 ~ 08时08分]"
         },
         {
           "title": "三星、SK海力士将宣布与美国科技巨头达成大规模芯片合作",
@@ -398,8 +415,44 @@
             2
           ],
           "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时37分 ~ 08时08分]"
+        },
+        {
+          "title": "王兴兴登《时代》封面，回应走红“另一面”：硬核科技的突破需要时间",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33652220",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            17,
+            6,
+            5
+          ],
+          "is_new": false,
           "appearance_count": 6,
-          "time_info": "[00时37分 ~ 07时01分]"
+          "time_info": "[02时26分 ~ 08时08分]"
+        },
+        {
+          "title": "美伊谈判希望重燃，原油一度跌超5%，科技股压制美股反弹，芯片指数暴跌4%",
+          "url": "https://wallstreetcn.com/articles/3777833",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时08分"
+        },
+        {
+          "title": "韩国总统李在明：与全球科技公司合作开启人工智能新纪元。",
+          "url": "https://flash.jin10.com/detail/20260725075120011800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时08分"
         },
         {
           "title": "长鑫科技一签能赚多少",
@@ -423,7 +476,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时01分"
         },
@@ -437,19 +490,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时37分"
-        },
-        {
-          "title": "王兴兴登《时代》封面，回应走红“另一面”：硬核科技的突破需要时间",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33652220",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            17,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时26分 ~ 07时01分]"
         },
         {
           "title": "长鑫科技一签能赚多少",
@@ -605,7 +645,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时01分"
         },
@@ -633,11 +673,12 @@
           "ranks": [
             8,
             7,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时37分 ~ 07时01分]"
+          "appearance_count": 7,
+          "time_info": "[00时37分 ~ 08时08分]"
         },
         {
           "title": "OpenAI创始人奥尔特曼：希望美国在开源AI模型方面获胜，希望我们在闭源AI模型方面也能获胜。",
@@ -747,11 +788,12 @@
           "source": "金十数据",
           "ranks": [
             2,
-            3
+            3,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时59分 ~ 07时01分]"
+          "appearance_count": 3,
+          "time_info": "[05时59分 ~ 08时08分]"
         },
         {
           "title": "美元指数本周涨0.7%",
@@ -835,8 +877,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时37分 ~ 07时01分]"
+          "appearance_count": 7,
+          "time_info": "[00时37分 ~ 08时08分]"
         }
       ]
     },
@@ -851,11 +893,12 @@
           "ranks": [
             6,
             5,
-            7
+            7,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时26分 ~ 07时01分]"
+          "appearance_count": 6,
+          "time_info": "[02时26分 ~ 08时08分]"
         }
       ]
     }
