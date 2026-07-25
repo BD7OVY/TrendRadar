@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-25T19:59:33.280406+08:00",
-  "total_titles_processed": 1230,
+  "generated_at": "2026-07-25T21:25:14.047823+08:00",
+  "total_titles_processed": 1320,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 51,
+      "match_count": 52,
       "titles": [
         {
           "title": "被曝向胡塞武装空运军官和武器，伊朗怎么说？",
@@ -17,8 +17,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时37分 ~ 19时59分]"
+          "appearance_count": 14,
+          "time_info": "[00时37分 ~ 21时25分]"
+        },
+        {
+          "title": "伊朗外长：无需更多调解者，美应改变态度",
+          "url": "https://news.ifeng.com/c/8v2WgNsUn9F",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时59分 ~ 21时25分]"
         },
         {
           "title": "伊朗公布美军近期袭击伤亡数据",
@@ -33,17 +44,6 @@
           "time_info": "[00时37分 ~ 11时59分]"
         },
         {
-          "title": "伊朗外长：无需更多调解者，美应改变态度",
-          "url": "https://news.ifeng.com/c/8v2WgNsUn9F",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时59分 ~ 19时59分]"
-        },
-        {
           "title": "美媒爆猛料，“两国首次直接袭击伊朗”",
           "url": "https://news.ifeng.com/c/8v324dBINEL",
           "source": "凤凰网",
@@ -51,8 +51,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时23分 ~ 19时59分]"
+          "appearance_count": 4,
+          "time_info": "[18时23分 ~ 21时25分]"
         },
         {
           "title": "中东全面战争风险快速积累，美国或陷入对伊朗、胡塞两线作战困局",
@@ -125,28 +125,6 @@
           "time_info": "11时59分"
         },
         {
-          "title": "伊朗公布卫星图像显示约旦一美军基地弹药库被摧毁",
-          "url": "https://wallstreetcn.com/livenews/3139738",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时59分"
-        },
-        {
-          "title": "伊朗公布卫星图像显示约旦一美军基地弹药库被摧毁",
-          "url": "https://flash.jin10.com/detail/20260725184006843800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时59分"
-        },
-        {
           "title": "伊朗称袭击美国亚马逊公司一数据中心",
           "url": "https://www.toutiao.com/trending/7665519115210899499/",
           "source": "今日头条",
@@ -166,11 +144,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            6
+            6,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时23分 ~ 19时59分]"
+          "appearance_count": 3,
+          "time_info": "[18时23分 ~ 21时25分]"
         },
         {
           "title": "据伊朗塔斯尼姆通讯社：美国第五舰队驻巴林基地遭到导弹和无人机袭击。",
@@ -199,6 +178,19 @@
           "time_info": "[05时59分 ~ 08时08分]"
         },
         {
+          "title": "巴林、科威特被曝曾秘密空袭伊朗 科方否认",
+          "url": "https://flash.jin10.com/detail/20260725174159775800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            13,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时23分 ~ 21时25分]"
+        },
+        {
           "title": "美国军方向一艘商船开火，声称后者违反“对伊朗的封锁”。 美军周五在阿曼湾造成Lavine号油轮丧失行动能力。（美联社）",
           "url": "https://wallstreetcn.com/livenews/3139667",
           "source": "华尔街见闻-快讯",
@@ -211,16 +203,28 @@
           "time_info": "[07时01分 ~ 08时08分]"
         },
         {
-          "title": "巴林、科威特被曝曾秘密空袭伊朗 科方否认",
-          "url": "https://flash.jin10.com/detail/20260725174159775800",
-          "source": "金十数据",
+          "title": "伊朗公布卫星图像显示约旦一美军基地弹药库被摧毁",
+          "url": "https://wallstreetcn.com/livenews/3139738",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            2,
+            4,
             13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时23分 ~ 19时59分]"
+          "time_info": "[19时59分 ~ 21时25分]"
+        },
+        {
+          "title": "伊朗公布卫星图像显示约旦一美军基地弹药库被摧毁",
+          "url": "https://flash.jin10.com/detail/20260725184006843800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时59分 ~ 21时25分]"
         },
         {
           "title": "伊朗外长说不惧威胁不屈服于美国",
@@ -289,6 +293,18 @@
           "time_info": "[05时59分 ~ 08时08分]"
         },
         {
+          "title": "泽连斯基：乌克兰袭击里海海域运送伊朗军事物资的船只",
+          "url": "https://flash.jin10.com/detail/20260725181020836800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时59分 ~ 21时25分]"
+        },
+        {
           "title": "据伊朗Press TV：也门方面袭击炼油厂后，沙特各地出现大规模排队加油的现象。",
           "url": "https://flash.jin10.com/detail/20260725151742483800",
           "source": "金十数据",
@@ -301,6 +317,18 @@
           "time_info": "[16时57分 ~ 18时23分]"
         },
         {
+          "title": "乌克兰总统泽连斯基：乌克兰袭击了在里海海域运输涉及伊朗军事物资的船只。",
+          "url": "https://flash.jin10.com/detail/20260725180813776800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时59分 ~ 21时25分]"
+        },
+        {
           "title": "伊朗军方称将对美军实施对等报复",
           "url": "https://wallstreetcn.com/livenews/3139696",
           "source": "华尔街见闻-快讯",
@@ -311,6 +339,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时59分 ~ 14时18分]"
+        },
+        {
+          "title": "分析｜美国本轮已连续袭击伊朗13晚，以色列为何“隐身”？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33650717",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时24分 ~ 21时25分]"
         },
         {
           "title": "美国总统特朗普：已做好在伊朗采取更高级别军事行动的准备。",
@@ -335,17 +374,6 @@
           "time_info": "11时59分"
         },
         {
-          "title": "泽连斯基：乌克兰袭击里海海域运送伊朗军事物资的船只",
-          "url": "https://flash.jin10.com/detail/20260725181020836800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时59分"
-        },
-        {
           "title": "连续13晚打击伊朗后，美军未再宣布对伊朗发动空袭",
           "url": "https://flash.jin10.com/detail/20260725132754175800",
           "source": "金十数据",
@@ -355,17 +383,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时18分"
-        },
-        {
-          "title": "乌克兰总统泽连斯基：乌克兰袭击了在里海海域运输涉及伊朗军事物资的船只。",
-          "url": "https://flash.jin10.com/detail/20260725180813776800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时59分"
         },
         {
           "title": "特朗普就伊朗问题发表讲话 称有很多种退出策略",
@@ -615,8 +632,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时37分 ~ 19时59分]"
+          "appearance_count": 14,
+          "time_info": "[00时37分 ~ 21时25分]"
         },
         {
           "title": "三星、SK海力士将宣布与美国科技巨头达成大规模芯片合作",
@@ -630,8 +647,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时37分 ~ 19时59分]"
+          "appearance_count": 14,
+          "time_info": "[00时37分 ~ 21时25分]"
+        },
+        {
+          "title": "美伊谈判希望重燃，原油一度跌超5%，科技股压制美股反弹，芯片指数暴跌4%",
+          "url": "https://wallstreetcn.com/articles/3777833",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[08时08分 ~ 21时25分]"
         },
         {
           "title": "王兴兴登《时代》封面，回应走红“另一面”：硬核科技的突破需要时间",
@@ -663,18 +692,6 @@
           "time_info": "[00时37分 ~ 08时08分]"
         },
         {
-          "title": "美伊谈判希望重燃，原油一度跌超5%，科技股压制美股反弹，芯片指数暴跌4%",
-          "url": "https://wallstreetcn.com/articles/3777833",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时08分 ~ 19时59分]"
-        },
-        {
           "title": "韩美科技巨头聚首旧金山 英伟达、Anthropic宣布达成大型协议",
           "url": "https://www.cls.cn/detail/2436901",
           "source": "财联社热门",
@@ -685,8 +702,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时59分 ~ 19时59分]"
+          "appearance_count": 7,
+          "time_info": "[11时59分 ~ 21时25分]"
         },
         {
           "title": "韩国总统李在明：与全球科技公司合作开启人工智能新纪元。",
@@ -776,6 +793,18 @@
           "time_info": "[04时14分 ~ 07时01分]"
         },
         {
+          "title": "马上评｜中国青年科技人才何以“井喷式”爆发",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33657557",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时59分 ~ 21时25分]"
+        },
+        {
           "title": "科技七巨头单日抹去近9000亿美元！华尔街老将喊话：市场过度反应，地缘危机即买点",
           "url": "https://wallstreetcn.com/articles/3777880",
           "source": "华尔街见闻",
@@ -830,17 +859,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时37分"
-        },
-        {
-          "title": "马上评｜中国青年科技人才何以“井喷式”爆发",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33657557",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时59分"
         },
         {
           "title": "美国总统特朗普声称，欧盟将付出非常大的代价。 批评欧盟针对苹果、Meta的罚款，他们“在掠夺”美国企业。 美国开始对“欧盟针对美国科技企业采取的行动”展开301调查。 “我们预计将会对欧盟‘大幅’加征关税”。 欧元转跌，在美上市ETF欧元做多回吐日内稍早涨幅。",
@@ -989,11 +1007,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            7
+            7,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时23分 ~ 19时59分]"
+          "appearance_count": 3,
+          "time_info": "[18时23分 ~ 21时25分]"
         },
         {
           "title": "如何看待新晋菲尔兹奖得主 Jacob Tsimerman 颁奖当天宣布加入 OpenAI？",
@@ -1074,11 +1093,12 @@
           "url": "https://www.toutiao.com/trending/7666404235189161515/",
           "source": "今日头条",
           "ranks": [
-            5
+            5,
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时59分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时59分 ~ 21时25分]"
         },
         {
           "title": "深圳地铁",
@@ -1111,7 +1131,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时59分"
         },
@@ -1122,7 +1142,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时59分"
         },
@@ -1258,6 +1278,20 @@
       "titles": [
         {
           "title": "自然资源部将广东地质灾害防御响应提升至Ⅲ级",
+          "url": "https://wallstreetcn.com/livenews/3139727",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            11,
+            16,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时57分 ~ 21时25分]"
+        },
+        {
+          "title": "自然资源部将广东地质灾害防御响应提升至Ⅲ级",
           "url": "https://flash.jin10.com/detail/20260725140739337800",
           "source": "金十数据",
           "ranks": [
@@ -1267,19 +1301,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时18分 ~ 16时57分]"
-        },
-        {
-          "title": "自然资源部将广东地质灾害防御响应提升至Ⅲ级",
-          "url": "https://wallstreetcn.com/livenews/3139727",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            11,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时57分 ~ 19时59分]"
         },
         {
           "title": "韩国总统李在明：尤其令我印象深刻的是，四位企业领袖都将韩国视为重要的合作伙伴。这进一步印证了他们对韩国世界领先的半导体竞争力、优秀的人才资源以及高度的技术接受能力抱有充分信心。",
@@ -1336,6 +1357,35 @@
       ]
     },
     {
+      "keyword_group": "金融",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美国与英国讨论关于下周举办霍尔木兹海峡危机会议的计划。 两国会议将针对海峡问题研究（组建）潜在的国际联盟。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3139750",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时25分"
+        },
+        {
+          "title": "报道，乌克兰总统泽连斯基以及西方情报人士均发出警告，俄罗斯极有可能最早于今晚或在未来几天内发动新一轮大规模空袭。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3139605",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时26分 ~ 04时14分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "消费",
       "match_count": 2,
       "titles": [
@@ -1357,29 +1407,12 @@
           "ranks": [
             30,
             19,
-            5
+            5,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时57分 ~ 19时59分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金融",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "报道，乌克兰总统泽连斯基以及西方情报人士均发出警告，俄罗斯极有可能最早于今晚或在未来几天内发动新一轮大规模空袭。（英国金融时报）",
-          "url": "https://wallstreetcn.com/livenews/3139605",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时26分 ~ 04时14分]"
+          "appearance_count": 5,
+          "time_info": "[16时57分 ~ 21时25分]"
         }
       ]
     },
