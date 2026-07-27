@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-27T10:10:06.832542+08:00",
-  "total_titles_processed": 719,
+  "generated_at": "2026-07-27T14:21:09.954659+08:00",
+  "total_titles_processed": 936,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 59,
+      "match_count": 65,
       "titles": [
         {
           "title": "特朗普下令暂停空袭伊朗",
@@ -362,6 +362,17 @@
           "time_info": "[05时53分 ~ 06时54分]"
         },
         {
+          "title": "美伊暂停互袭的背后：伊朗称就霍尔木兹海峡航运管理与阿曼会谈有进展，美军弹药吃紧",
+          "url": "https://wallstreetcn.com/articles/3777973",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时20分 ~ 14时21分]"
+        },
+        {
           "title": "伊朗外交部：我们绝不允许美国在阿拉伯湾和霍尔木兹海峡水域推行霸权。",
           "url": "https://flash.jin10.com/detail/20260727031809207800",
           "source": "金十数据",
@@ -372,6 +383,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时12分 ~ 05时53分]"
+        },
+        {
+          "title": "乌克兰此时打击伊朗商船，图啥？",
+          "url": "https://news.ifeng.com/c/8v5Ckfob4r6",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时20分 ~ 14时21分]"
         },
         {
           "title": "伊朗革命卫队：周一8:00至12:00，阿巴斯港东部地区可能会传出受控爆炸的声音，市民无需担心。",
@@ -504,6 +526,17 @@
           "time_info": "[06时54分 ~ 07时55分]"
         },
         {
+          "title": "内塔尼亚胡：伊朗政权倒台，战争才会结束",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33664858",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时20分 ~ 14时21分]"
+        },
+        {
           "title": "伊朗驻法国大使馆：霍尔木兹海峡是我们世代相传的遗产。",
           "url": "https://flash.jin10.com/detail/20260727004811747800",
           "source": "金十数据",
@@ -573,6 +606,17 @@
           "time_info": "[00时01分 ~ 00时02分]"
         },
         {
+          "title": "美军前军官：在应对长期冲突方面，伊朗似乎比美国更具优势",
+          "url": "https://flash.jin10.com/detail/20260727134711153800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时21分"
+        },
+        {
           "title": "伊朗和美国之间很快达成新停火协议的机会似乎再次上升，因有报道称美国总统特朗普决定暂停近期对伊朗南部的打击行动。在预测市场Polymarket上，交易员认为在2026年8月31日前实现停火的概率已达到75%。",
           "url": "https://flash.jin10.com/detail/20260727065319315800",
           "source": "金十数据",
@@ -634,9 +678,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时10分"
+        },
+        {
+          "title": "伊朗拦截6艘企图通过霍尔木兹海峡的船只",
+          "url": "https://wallstreetcn.com/livenews/3140023",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时21分"
         },
         {
           "title": "以色列总理内塔尼亚胡：伊朗问题取决于特朗普的决定。",
@@ -703,12 +758,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时02分"
+        },
+        {
+          "title": "美共和党参议员称特朗普短期内结束伊朗战争可能性低",
+          "url": "https://flash.jin10.com/detail/20260727131016363800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时21分"
         }
       ]
     },
     {
       "keyword_group": "科技",
-      "match_count": 27,
+      "match_count": 45,
       "titles": [
         {
           "title": "长鑫科技员工：上市和我们没啥关系",
@@ -734,6 +800,40 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时01分 ~ 07时55分]"
+        },
+        {
+          "title": "【早报】长鑫科技，今日上市；美暂停打击伊朗；油价大跌、黄金反弹；宁德时代启动A股史上最大规模回购",
+          "url": "https://www.cls.cn/detail/2437313",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时09分 ~ 14时21分]"
+        },
+        {
+          "title": "长鑫科技上市",
+          "url": "https://www.douyin.com/hot/2586473",
+          "source": "抖音",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时09分 ~ 14时21分]"
+        },
+        {
+          "title": "长鑫科技上市 成A股市值最高公司",
+          "url": "https://www.baidu.com/s?wd=%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%E4%B8%8A%E5%B8%82+%E6%88%90A%E8%82%A1%E5%B8%82%E5%80%BC%E6%9C%80%E9%AB%98%E5%85%AC%E5%8F%B8",
+          "source": "百度热搜",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时09分 ~ 14时21分]"
         },
         {
           "title": "美国五大科技巨头 AI 隐性债务被曝达 1.65 万亿美元，四年内增长 8 倍，巨额表外负债会成为定时炸弹吗？",
@@ -774,48 +874,72 @@
           "time_info": "[00时02分 ~ 06时54分]"
         },
         {
-          "title": "【早报】长鑫科技，今日上市；美暂停打击伊朗；油价大跌、黄金反弹；宁德时代启动A股史上最大规模回购",
-          "url": "https://www.cls.cn/detail/2437313",
-          "source": "财联社热门",
+          "title": "长鑫科技中1签赚2万",
+          "url": "https://www.toutiao.com/trending/7666049413378850870/",
+          "source": "今日头条",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时09分 ~ 10时10分]"
+          "time_info": "[14时20分 ~ 14时21分]"
+        },
+        {
+          "title": "长鑫科技上市首日高开 471%，市值突破 3 万亿，成 A 股新「一哥」，如何看待其表现？",
+          "url": "https://www.zhihu.com/question/2065005981617107684",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时20分 ~ 14时21分]"
+        },
+        {
+          "title": "长鑫科技市值超过英特尔",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%E5%B8%82%E5%80%BC%E8%B6%85%E8%BF%87%E8%8B%B1%E7%89%B9%E5%B0%94%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时20分 ~ 14时21分]"
+        },
+        {
+          "title": "【数读IPO】长鑫科技今日上市",
+          "url": "https://www.cls.cn/detail/2437314",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时09分 ~ 14时21分]"
         },
         {
           "title": "长鑫科技上市",
           "url": "https://s.weibo.com/weibo?q=%23%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%E4%B8%8A%E5%B8%82%23&t=31&band_rank=1&Refer=top",
           "source": "微博",
           "ranks": [
-            1
+            1,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时09分 ~ 10时10分]"
+          "appearance_count": 4,
+          "time_info": "[10时09分 ~ 14时21分]"
         },
         {
-          "title": "长鑫科技上市",
-          "url": "https://www.douyin.com/hot/2586473",
-          "source": "抖音",
+          "title": "长鑫科技正式登陆科创板！首日市值登顶A股 背后中国科技产业天团陪跑",
+          "url": "https://www.cls.cn/detail/2437447",
+          "source": "财联社热门",
           "ranks": [
-            1
+            4
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时09分 ~ 10时10分]"
-        },
-        {
-          "title": "长鑫科技上市 成A股市值最高公司",
-          "url": "https://www.baidu.com/s?wd=%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%E4%B8%8A%E5%B8%82+%E6%88%90A%E8%82%A1%E5%B8%82%E5%80%BC%E6%9C%80%E9%AB%98%E5%85%AC%E5%8F%B8",
-          "source": "百度热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时09分 ~ 10时10分]"
+          "time_info": "[14时20分 ~ 14时21分]"
         },
         {
           "title": "长鑫科技高开471%成A股“一哥”",
@@ -827,6 +951,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时09分 ~ 10时10分]"
+        },
+        {
+          "title": "长鑫科技上市首日暴涨530%登顶A股市值榜首，创业板涨超1%，动力电池爆发，恒科指涨逾1%，小米大涨超7%",
+          "url": "https://wallstreetcn.com/articles/3777980",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时20分 ~ 14时21分]"
         },
         {
           "title": "长鑫科技今日将正式登陆科创板。据预测平台Polymarket数据，其上市首日收盘市值突破1万亿人民币的概率为100%，突破1.5万亿、2万亿、2.5万亿的概率分别达96%、84%和62%；冲击3万亿及3.5万亿的概率则为42%和27%。以8.66元/股的发行价计，其IPO对应市值为5791.8亿元人民币（约854亿美元）。",
@@ -846,7 +981,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时10分"
         },
@@ -857,7 +992,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时10分"
         },
@@ -868,9 +1003,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时10分"
+        },
+        {
+          "title": "存储模组厂商宇瞻科技：DRAM、企业级SSD供需失衡至少持续到明年上半年",
+          "url": "https://flash.jin10.com/detail/20260727135230228800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时21分"
         },
         {
           "title": "长鑫科技今日上市",
@@ -896,15 +1042,15 @@
           "time_info": "[07时54分 ~ 10时10分]"
         },
         {
-          "title": "【数读IPO】长鑫科技今日上市",
-          "url": "https://www.cls.cn/detail/2437314",
-          "source": "财联社热门",
+          "title": "A股一哥!长鑫科技开盘暴涨",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356531&amp;topic_name=A%E8%82%A1%E4%B8%80%E5%93%A5%21%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%E5%BC%80%E7%9B%98%E6%9A%B4%E6%B6%A8",
+          "source": "贴吧",
           "ranks": [
-            7
+            6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时09分 ~ 10时10分]"
+          "time_info": "[14时20分 ~ 14时21分]"
         },
         {
           "title": "长鑫科技开盘价",
@@ -918,6 +1064,17 @@
           "time_info": "[10时09分 ~ 10时10分]"
         },
         {
+          "title": "长鑫科技市值超过英特尔",
+          "url": "https://www.baidu.com/s?wd=%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%E5%B8%82%E5%80%BC%E8%B6%85%E8%BF%87%E8%8B%B1%E7%89%B9%E5%B0%94",
+          "source": "百度热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时20分 ~ 14时21分]"
+        },
+        {
           "title": "长鑫科技中一签赚2万",
           "url": "https://www.baidu.com/s?wd=%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%E4%B8%AD%E4%B8%80%E7%AD%BE%E8%B5%9A2%E4%B8%87",
           "source": "百度热搜",
@@ -927,6 +1084,83 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时09分 ~ 10时10分]"
+        },
+        {
+          "title": "长鑫科技市值超过英特尔",
+          "url": "https://www.douyin.com/hot/2586827",
+          "source": "抖音",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时20分 ~ 14时21分]"
+        },
+        {
+          "title": "长鑫科技午间收盘涨超530%",
+          "url": "https://www.douyin.com/hot/2586835",
+          "source": "抖音",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时20分 ~ 14时21分]"
+        },
+        {
+          "title": "长鑫科技开盘 3.3 万亿登顶 A 股市值王，A 股 35 年首次由半导体硬科技拿下股王，意味着什么？",
+          "url": "https://www.zhihu.com/question/2065019773163984075",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时20分 ~ 14时21分]"
+        },
+        {
+          "title": "万亿长鑫科技上市 谁是最大赢家",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%87%E4%BA%BF%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%E4%B8%8A%E5%B8%82+%E8%B0%81%E6%98%AF%E6%9C%80%E5%A4%A7%E8%B5%A2%E5%AE%B6",
+          "source": "百度热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时20分 ~ 14时21分]"
+        },
+        {
+          "title": "长鑫科技市值超越腾讯",
+          "url": "https://www.toutiao.com/trending/7666289625798987318/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时20分 ~ 14时21分]"
+        },
+        {
+          "title": "长鑫科技开盘时有人成功卖出4签",
+          "url": "https://www.baidu.com/s?wd=%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%E5%BC%80%E7%9B%98%E6%97%B6%E6%9C%89%E4%BA%BA%E6%88%90%E5%8A%9F%E5%8D%96%E5%87%BA4%E7%AD%BE",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时20分 ~ 14时21分]"
+        },
+        {
+          "title": "长鑫科技市值超越腾讯",
+          "url": "https://www.baidu.com/s?wd=%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%E5%B8%82%E5%80%BC%E8%B6%85%E8%B6%8A%E8%85%BE%E8%AE%AF",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时20分 ~ 14时21分]"
         },
         {
           "title": "长鑫科技总市值",
@@ -940,13 +1174,24 @@
           "time_info": "[10时09分 ~ 10时10分]"
         },
         {
+          "title": "长鑫科技周边酒店一房难求",
+          "url": "https://www.toutiao.com/trending/7666998658205748782/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时20分 ~ 14时21分]"
+        },
+        {
           "title": "科创50指数跌超3%，半导体产业链下挫，兆易创新触及跌停，华虹宏力、全志科技跌超10%，澜起科技、通富微电、佰维存储等跌幅居前。",
           "url": "https://wallstreetcn.com/livenews/3139950",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时10分"
         },
@@ -968,9 +1213,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时10分"
+        },
+        {
+          "title": "A股算力租赁概念午后拉升，宁波建工直线涨停，行云科技、亚康股份涨超10%，农尚环境、天亿马、思特奇涨幅居前。",
+          "url": "https://wallstreetcn.com/livenews/3140029",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时21分"
         },
         {
           "title": "长鑫科技开盘大涨超471%，报49.5元/股，总市值达3.31万亿，位居A股第一。",
@@ -979,7 +1235,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时10分"
         },
@@ -990,7 +1246,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时10分"
         },
@@ -1001,7 +1257,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时10分"
         },
@@ -1012,16 +1268,50 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时10分"
+        },
+        {
+          "title": "7月27日午间收评：创业板指半日涨1.55%，长鑫科技登顶A股总市值新“一哥”",
+          "url": "https://wallstreetcn.com/livenews/3140006",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时21分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 4,
+      "match_count": 8,
       "titles": [
+        {
+          "title": "OpenAI模型失控始末曝光，Hugging Face“索赔”1亿美元算力",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33662817",
+          "source": "澎湃新闻",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时09分 ~ 14时21分]"
+        },
+        {
+          "title": "OpenAI失控入侵,遭索赔1亿算力",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356534&amp;topic_name=OpenAI%E5%A4%B1%E6%8E%A7%E5%85%A5%E4%BE%B5%2C%E9%81%AD%E7%B4%A2%E8%B5%941%E4%BA%BF%E7%AE%97%E5%8A%9B",
+          "source": "贴吧",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时20分 ~ 14时21分]"
+        },
         {
           "title": "英伟达拟为OpenAI数据中心项目提供2500亿美元财务担保",
           "url": "https://flash.jin10.com/detail/20260727072716929800",
@@ -1056,15 +1346,76 @@
           "time_info": "07时55分"
         },
         {
-          "title": "OpenAI模型失控始末曝光，Hugging Face“索赔”1亿美元算力",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33662817",
-          "source": "澎湃新闻",
+          "title": "OpenAI失控AI内幕曝光：越狱一周才被发现 还有智能体曾留下“逃脱秘籍”",
+          "url": "https://www.cls.cn/detail/2437261",
+          "source": "财联社热门",
           "ranks": [
             7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时09分 ~ 10时10分]"
+          "time_info": "[14时20分 ~ 14时21分]"
+        },
+        {
+          "title": "OpenAI、Anthropic被曝游说封堵开源模型 硅谷上演“开源保卫战”",
+          "url": "https://www.cls.cn/detail/2437206",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时20分 ~ 14时21分]"
+        },
+        {
+          "title": "OpenAI：出现影响ChatGPT的较高错误率，已实施缓解措施，并在监控ChatGPT的恢复情况。",
+          "url": "https://wallstreetcn.com/livenews/3140016",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时21分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "旅游",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "沧州一座被低估的宝藏旅游城市",
+          "url": "https://www.douyin.com/hot/2586549",
+          "source": "抖音",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时20分 ~ 14时21分]"
+        },
+        {
+          "title": "A股旅游板块再度拉升，同庆楼午后涨停，华天酒店回封涨停，君亭酒店、锦江酒店、首旅酒店、金陵饭店跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3140031",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时21分"
+        },
+        {
+          "title": "A股旅游及酒店板块午后走高，华天酒店、同庆楼涨停，君亭酒店、锦江酒店、首旅酒店、金陵饭店跟涨。",
+          "url": "https://flash.jin10.com/detail/20260727131315369800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时21分"
         }
       ]
     },
@@ -1079,7 +1430,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时10分"
         },
@@ -1090,7 +1441,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时10分"
         }
@@ -1144,7 +1495,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时10分"
         }
