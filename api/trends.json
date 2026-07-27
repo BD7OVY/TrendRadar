@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-27T07:55:07.913753+08:00",
-  "total_titles_processed": 567,
+  "generated_at": "2026-07-27T10:10:06.832542+08:00",
+  "total_titles_processed": 719,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 55,
+      "match_count": 59,
       "titles": [
         {
           "title": "特朗普下令暂停空袭伊朗",
@@ -37,8 +37,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时01分 ~ 07时55分]"
+          "appearance_count": 12,
+          "time_info": "[00时01分 ~ 10时10分]"
         },
         {
           "title": "伊朗打击亚马逊数据中心，卫星图像公布",
@@ -46,11 +46,12 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            11
+            11,
+            6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时01分 ~ 07时55分]"
+          "appearance_count": 12,
+          "time_info": "[00时01分 ~ 10时10分]"
         },
         {
           "title": "特朗普叫停对伊朗空袭 为霍尔木兹海峡谈判留出空间",
@@ -59,11 +60,12 @@
           "ranks": [
             11,
             12,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时01分 ~ 07时55分]"
+          "appearance_count": 12,
+          "time_info": "[00时01分 ~ 10时10分]"
         },
         {
           "title": "据伊朗高级知情人士透露，美国暂停对伊朗袭击之后，（对美国+以色列的）“怀疑态度超过乐观情绪”。（彭博）",
@@ -118,6 +120,30 @@
           "time_info": "[00时01分 ~ 01时07分]"
         },
         {
+          "title": "美媒曝光特朗普暂停空袭伊朗原因",
+          "url": "https://www.douyin.com/hot/2585679",
+          "source": "抖音",
+          "ranks": [
+            15,
+            17,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[03时01分 ~ 10时10分]"
+        },
+        {
+          "title": "伊朗：愿对等停火，但怀疑美方诚意",
+          "url": "https://news.ifeng.com/c/8v5uB5i2gPS",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时09分 ~ 10时10分]"
+        },
+        {
           "title": "伊朗高级消息人士表示，只要美国维持目前的停火状态，伊朗将停止攻击。（路透）",
           "url": "https://wallstreetcn.com/livenews/3139853",
           "source": "华尔街见闻-快讯",
@@ -137,22 +163,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时55分"
-        },
-        {
-          "title": "美媒曝光特朗普暂停空袭伊朗原因",
-          "url": "https://www.douyin.com/hot/2585679",
-          "source": "抖音",
-          "ranks": [
-            15,
-            17,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时01分 ~ 07时55分]"
         },
         {
           "title": "美国驻联合国大使Waltz声称：美国总统特朗普在伊朗战争问题对所有选项保持开放态度。 特朗普向“伊朗谈判”提供空间，（双边、相关）对话“正在进行”。 （关于纽约时报称特朗普因弹药供应不足而暂停袭击伊朗）美军在伊朗战争方面拥有所有的（军事）装备。（NBC News）",
@@ -433,6 +446,17 @@
           "time_info": "[06时54分 ~ 07时55分]"
         },
         {
+          "title": "伊朗警告乌克兰",
+          "url": "https://www.cls.cn/detail/2437089",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时09分 ~ 10时10分]"
+        },
+        {
           "title": "伊朗最高领袖：支持黎真主党并要求全面结束以对黎军事行动",
           "url": "https://flash.jin10.com/detail/20260727015443558800",
           "source": "金十数据",
@@ -516,6 +540,17 @@
           "time_info": "[06时54分 ~ 07时55分]"
         },
         {
+          "title": "伊朗暂停对美国报复性行动",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%9A%82%E5%81%9C%E5%AF%B9%E7%BE%8E%E5%9B%BD%E6%8A%A5%E5%A4%8D%E6%80%A7%E8%A1%8C%E5%8A%A8",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时09分 ~ 10时10分]"
+        },
+        {
           "title": "歌曲被用于打击伊朗视频 水果姐怒斥",
           "url": "https://www.baidu.com/s?wd=%E6%AD%8C%E6%9B%B2%E8%A2%AB%E7%94%A8%E4%BA%8E%E6%89%93%E5%87%BB%E4%BC%8A%E6%9C%97%E8%A7%86%E9%A2%91+%E6%B0%B4%E6%9E%9C%E5%A7%90%E6%80%92%E6%96%A5",
           "source": "百度热搜",
@@ -544,7 +579,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时55分"
         },
@@ -591,6 +626,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时07分"
+        },
+        {
+          "title": "乌克兰突袭里海伊朗船只，中东战火与俄乌战场正在“合流”？",
+          "url": "https://flash.jin10.com/detail/20260727094938672800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时10分"
         },
         {
           "title": "以色列总理内塔尼亚胡：伊朗问题取决于特朗普的决定。",
@@ -662,7 +708,7 @@
     },
     {
       "keyword_group": "科技",
-      "match_count": 9,
+      "match_count": 27,
       "titles": [
         {
           "title": "长鑫科技员工：上市和我们没啥关系",
@@ -728,15 +774,103 @@
           "time_info": "[00时02分 ~ 06时54分]"
         },
         {
+          "title": "【早报】长鑫科技，今日上市；美暂停打击伊朗；油价大跌、黄金反弹；宁德时代启动A股史上最大规模回购",
+          "url": "https://www.cls.cn/detail/2437313",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时09分 ~ 10时10分]"
+        },
+        {
+          "title": "长鑫科技上市",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%E4%B8%8A%E5%B8%82%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时09分 ~ 10时10分]"
+        },
+        {
+          "title": "长鑫科技上市",
+          "url": "https://www.douyin.com/hot/2586473",
+          "source": "抖音",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时09分 ~ 10时10分]"
+        },
+        {
+          "title": "长鑫科技上市 成A股市值最高公司",
+          "url": "https://www.baidu.com/s?wd=%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%E4%B8%8A%E5%B8%82+%E6%88%90A%E8%82%A1%E5%B8%82%E5%80%BC%E6%9C%80%E9%AB%98%E5%85%AC%E5%8F%B8",
+          "source": "百度热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时09分 ~ 10时10分]"
+        },
+        {
+          "title": "长鑫科技高开471%成A股“一哥”",
+          "url": "https://www.toutiao.com/trending/7667014011354877481/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时09分 ~ 10时10分]"
+        },
+        {
           "title": "长鑫科技今日将正式登陆科创板。据预测平台Polymarket数据，其上市首日收盘市值突破1万亿人民币的概率为100%，突破1.5万亿、2万亿、2.5万亿的概率分别达96%、84%和62%；冲击3万亿及3.5万亿的概率则为42%和27%。以8.66元/股的发行价计，其IPO对应市值为5791.8亿元人民币（约854亿美元）。",
           "url": "https://flash.jin10.com/detail/20260727073416330800",
           "source": "金十数据",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时55分"
+        },
+        {
+          "title": "长鑫科技成交达905亿，刷新A股单日个股成交额历史记录。（此前A股单日成交额最高纪录为东方财富在2024年10月9日创下的900.38亿元）",
+          "url": "https://wallstreetcn.com/livenews/3139970",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时10分"
+        },
+        {
+          "title": "现代汽车携手英伟达等科技企业 打造自动驾驶与物理AI生态",
+          "url": "https://flash.jin10.com/detail/20260727100434725800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时10分"
+        },
+        {
+          "title": "长鑫科技盘中交易短暂出现卡顿，后陆续恢复交易",
+          "url": "https://flash.jin10.com/detail/20260727100221530800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时10分"
         },
         {
           "title": "长鑫科技今日上市",
@@ -745,7 +879,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时55分"
         },
@@ -754,11 +888,67 @@
           "url": "https://s.weibo.com/weibo?q=%23%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%E5%91%A8%E8%BE%B9%E9%85%92%E5%BA%97%E4%B8%80%E6%88%BF%E9%9A%BE%E6%B1%82%23&t=31&band_rank=8&Refer=top",
           "source": "微博",
           "ranks": [
+            8,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时54分 ~ 10时10分]"
+        },
+        {
+          "title": "【数读IPO】长鑫科技今日上市",
+          "url": "https://www.cls.cn/detail/2437314",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时09分 ~ 10时10分]"
+        },
+        {
+          "title": "长鑫科技开盘价",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%E5%BC%80%E7%9B%98%E4%BB%B7%23&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
             8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时54分 ~ 07时55分]"
+          "time_info": "[10时09分 ~ 10时10分]"
+        },
+        {
+          "title": "长鑫科技中一签赚2万",
+          "url": "https://www.baidu.com/s?wd=%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%E4%B8%AD%E4%B8%80%E7%AD%BE%E8%B5%9A2%E4%B8%87",
+          "source": "百度热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时09分 ~ 10时10分]"
+        },
+        {
+          "title": "长鑫科技总市值",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%E6%80%BB%E5%B8%82%E5%80%BC%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时09分 ~ 10时10分]"
+        },
+        {
+          "title": "科创50指数跌超3%，半导体产业链下挫，兆易创新触及跌停，华虹宏力、全志科技跌超10%，澜起科技、通富微电、佰维存储等跌幅居前。",
+          "url": "https://wallstreetcn.com/livenews/3139950",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时10分"
         },
         {
           "title": "本周重要事件与数据预告：美联储领衔“超级央行周”，海力士、Meta等科技股财报与PCE通胀数据轮番登场",
@@ -767,15 +957,70 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时55分"
+        },
+        {
+          "title": "A股科创50指数早盘触底反弹，现涨超1%，此前一度跌超3%。成分股中，中科飞测涨超6%，源杰科技涨超4%。",
+          "url": "https://flash.jin10.com/detail/20260727095735482800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时10分"
+        },
+        {
+          "title": "长鑫科技开盘大涨超471%，报49.5元/股，总市值达3.31万亿，位居A股第一。",
+          "url": "https://wallstreetcn.com/livenews/3139926",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时10分"
+        },
+        {
+          "title": "恒指高开0.12%，报24993.77点；恒生科技指数涨0.38%。携程涨3.8%，MINIMAX涨2%，中国海油石油、中国石油股份跌逾3%。",
+          "url": "https://wallstreetcn.com/livenews/3139923",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时10分"
+        },
+        {
+          "title": "A股通信设备板块直线拉升，通鼎互联封板涨停，共进股份、中际旭创、光迅科技、世嘉科技、联特科技等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260727094350972800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时10分"
+        },
+        {
+          "title": "A股半导体板块震荡走弱，华虹宏力跌超10%，兆易创新一度触及跌停，澜起科技、普冉股份、拓荆科技、全志科技等跟跌。",
+          "url": "https://flash.jin10.com/detail/20260727094314208800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时10分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "英伟达拟为OpenAI数据中心项目提供2500亿美元财务担保",
@@ -784,7 +1029,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时55分"
         },
@@ -795,7 +1040,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时55分"
         },
@@ -806,9 +1051,48 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时55分"
+        },
+        {
+          "title": "OpenAI模型失控始末曝光，Hugging Face“索赔”1亿美元算力",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33662817",
+          "source": "澎湃新闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时09分 ~ 10时10分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "医药",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "A股创新药概念再度活跃，哈三联、海南海药、益佰制药等多股涨停，昭衍新药、万邦医药、泰格医药涨超6%。",
+          "url": "https://wallstreetcn.com/livenews/3139953",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时10分"
+        },
+        {
+          "title": "A股创新药概念板块再度活跃，哈三联、海南海药、益佰制药等多股涨停，昭衍新药、万邦医药、泰格医药涨超6%。",
+          "url": "https://flash.jin10.com/detail/20260727094415249800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时10分"
         }
       ]
     },
@@ -850,6 +1134,23 @@
       ]
     },
     {
+      "keyword_group": "制造业",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "国家统计局：上半年原材料制造业利润快速增长",
+          "url": "https://wallstreetcn.com/livenews/3139939",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时10分"
+        }
+      ]
+    },
+    {
       "keyword_group": "金融",
       "match_count": 1,
       "titles": [
@@ -880,8 +1181,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时01分 ~ 07时55分]"
+          "appearance_count": 12,
+          "time_info": "[00时01分 ~ 10时10分]"
         }
       ]
     },
