@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-31T04:59:44.736545+08:00",
-  "total_titles_processed": 459,
+  "generated_at": "2026-07-31T06:06:57.521766+08:00",
+  "total_titles_processed": 518,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://news.ifeng.com/c/8vBRvOidAuY",
           "source": "凤凰网",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时18分 ~ 04时59分]"
+          "appearance_count": 6,
+          "time_info": "[01时18分 ~ 06时06分]"
         },
         {
           "title": "有报道称中方将提供400枚肩扛式导弹给伊朗，外交部：毫无根据",
@@ -26,8 +27,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时18分 ~ 04时59分]"
+          "appearance_count": 6,
+          "time_info": "[01时18分 ~ 06时06分]"
         },
         {
           "title": "布油盘中涨超8%！特朗普一再警告“狠狠打击”伊朗，寻求对伊加征关税",
@@ -41,17 +42,6 @@
           "time_info": "[01时18分 ~ 03时14分]"
         },
         {
-          "title": "伊朗谴责美军袭击格什姆岛居民区致3人死亡",
-          "url": "https://wallstreetcn.com/livenews/3142649",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时59分"
-        },
-        {
           "title": "伊朗称摧毁3架F-35战机，美军回应",
           "url": "https://news.ifeng.com/c/8vBxRifaFrE",
           "source": "凤凰网",
@@ -59,8 +49,31 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时18分 ~ 04时59分]"
+          "appearance_count": 6,
+          "time_info": "[01时18分 ~ 06时06分]"
+        },
+        {
+          "title": "中国向伊朗提供400枚导弹？外交部回应",
+          "url": "https://www.toutiao.com/trending/7668128346190053385/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时18分 ~ 06时06分]"
+        },
+        {
+          "title": "伊朗将接收中国造肩扛式防空导弹发射装置？外交部：不符合事实",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33684903",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时18分 ~ 06时06分]"
         },
         {
           "title": "卡塔尔外交部：卡塔尔谴责伊朗再次袭击约旦和科威特领土，此举侵犯了两国的主权。",
@@ -74,29 +87,6 @@
           "time_info": "03时14分"
         },
         {
-          "title": "中国向伊朗提供400枚导弹？外交部回应",
-          "url": "https://www.toutiao.com/trending/7668128346190053385/",
-          "source": "今日头条",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时18分 ~ 04时59分]"
-        },
-        {
-          "title": "伊朗将接收中国造肩扛式防空导弹发射装置？外交部：不符合事实",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33684903",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时18分 ~ 04时59分]"
-        },
-        {
           "title": "伊朗称打击约旦美军基地摧毁3架F-35",
           "url": "https://www.toutiao.com/trending/7668276655902690879/",
           "source": "今日头条",
@@ -108,6 +98,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时18分 ~ 04时59分]"
+        },
+        {
+          "title": "伊朗谴责美军袭击格什姆岛居民区致3人死亡",
+          "url": "https://wallstreetcn.com/livenews/3142649",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时59分 ~ 06时06分]"
         },
         {
           "title": "伊朗称袭击科威特的美空军基地",
@@ -205,7 +207,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时59分"
         },
@@ -235,7 +237,7 @@
     },
     {
       "keyword_group": "科技",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "大消费“反攻”：资金从高位科技撤退，涌向低位的“烟火气”",
@@ -246,8 +248,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时18分 ~ 04时59分]"
+          "appearance_count": 6,
+          "time_info": "[01时18分 ~ 06时06分]"
         },
         {
           "title": "宇树科技：8月10日打新",
@@ -259,8 +261,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时18分 ~ 04时59分]"
+          "appearance_count": 6,
+          "time_info": "[01时18分 ~ 06时06分]"
+        },
+        {
+          "title": "宇树科技IPO时间定了 8月10日申购",
+          "url": "https://www.baidu.com/s?wd=%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80IPO%E6%97%B6%E9%97%B4%E5%AE%9A%E4%BA%86+8%E6%9C%8810%E6%97%A5%E7%94%B3%E8%B4%AD",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时18分 ~ 06时06分]"
         },
         {
           "title": "宇树科技：8月10日打新",
@@ -276,15 +289,28 @@
           "time_info": "[01时18分 ~ 04时59分]"
         },
         {
-          "title": "宇树科技IPO时间定了 8月10日申购",
-          "url": "https://www.baidu.com/s?wd=%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80IPO%E6%97%B6%E9%97%B4%E5%AE%9A%E4%BA%86+8%E6%9C%8810%E6%97%A5%E7%94%B3%E8%B4%AD",
-          "source": "百度热搜",
+          "title": "标普500指数的11个板块中，信息技术/科技板块收涨5.24%，可选消费板块涨1.57%，原材料板块涨1%，电信板块跌2.52%。",
+          "url": "https://wallstreetcn.com/livenews/3142642",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            14
+            7,
+            25
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时18分 ~ 04时59分]"
+          "appearance_count": 2,
+          "time_info": "[04时59分 ~ 06时06分]"
+        },
+        {
+          "title": "周四（7月30日），美股行业ETF多数收涨，半导体ETF涨6.88%，全球科技股指数ETF、科技行业ETF至少涨5.5%。",
+          "url": "https://wallstreetcn.com/livenews/3142641",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时59分 ~ 06时06分]"
         },
         {
           "title": "宇树科技股票发行安排",
@@ -298,26 +324,15 @@
           "time_info": "[01时18分 ~ 01时19分]"
         },
         {
-          "title": "标普500指数的11个板块中，信息技术/科技板块收涨5.24%，可选消费板块涨1.57%，原材料板块涨1%，电信板块跌2.52%。",
-          "url": "https://wallstreetcn.com/livenews/3142642",
-          "source": "华尔街见闻-快讯",
+          "title": "美股存储芯片概念股盘后继续走强，西部数据(WDC.O)涨超4%，希捷科技(STX.O)、美光科技(MU.O)和SK海力士(SKHY.O)涨3%，闪迪(SNDK.O)涨6%。",
+          "url": "https://flash.jin10.com/detail/20260731053830299800",
+          "source": "金十数据",
           "ranks": [
-            7
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时59分"
-        },
-        {
-          "title": "周四（7月30日），美股行业ETF多数收涨，半导体ETF涨6.88%，全球科技股指数ETF、科技行业ETF至少涨5.5%。",
-          "url": "https://wallstreetcn.com/livenews/3142641",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时59分"
+          "time_info": "06时06分"
         },
         {
           "title": "纳斯达克金龙中国指数收涨1.05%，报6502.80点。 热门中概股里，世纪互联涨16.7%，日月光半导体涨12.2%，万国数据涨8%，阿特斯太阳能涨7.7%，腾讯涨2.4%，百度涨2%，网易涨1.8%，阿里涨1%。 ETF中，MSCI新兴市场ex中国ETF（EMXC）收涨4.97%，德银嘉实沪深300指数ETF（ASHR）收涨1.15%，XtrackersHarvest中证50（ASHS）收跌0.65%。 中概互联网指数ETF（KWEB）收涨0.94%，中国科技指数ETF（CQQQ）收跌0.54%。",
@@ -326,7 +341,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时59分"
         },
@@ -337,7 +352,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时59分"
         },
@@ -359,7 +374,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时59分"
         }
@@ -367,7 +382,7 @@
     },
     {
       "keyword_group": "消费",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "媒体称三大运营商将于 7 月 31 日前全面取消网络代理渠道，释放了哪些行业信号？对消费者有什么影响？",
@@ -375,11 +390,12 @@
           "source": "知乎",
           "ranks": [
             3,
-            4
+            4,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时18分 ~ 04时59分]"
+          "appearance_count": 6,
+          "time_info": "[01时18分 ~ 06时06分]"
         },
         {
           "title": "【每日收评】创业板指放量跌近4%，算力硬件权重集体重挫，大消费方向持续活跃",
@@ -390,8 +406,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时18分 ~ 04时59分]"
+          "appearance_count": 6,
+          "time_info": "[01时18分 ~ 06时06分]"
         },
         {
           "title": "美国二季度GDP增速不及预期 但消费和AI投资释放积极信号",
@@ -402,8 +418,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时18分 ~ 04时59分]"
+          "appearance_count": 6,
+          "time_info": "[01时18分 ~ 06时06分]"
         },
         {
           "title": "按克计价金饰重回消费风口",
@@ -415,6 +431,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时13分 ~ 03时14分]"
+        },
+        {
+          "title": "亚马逊(AMZN.O)CEO：公司正在追求自有的前沿模型，以控制成本并降低消费者支出。",
+          "url": "https://flash.jin10.com/detail/20260731054215668800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时06分"
         },
         {
           "title": "高通CEO：更高的价格正在改变消费者的行为。",
@@ -480,8 +507,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时18分 ~ 04时59分]"
+          "appearance_count": 6,
+          "time_info": "[01时18分 ~ 06时06分]"
         },
         {
           "title": "OpenAI：将GPT-5.6Luna的价格下调80%",
@@ -504,6 +531,45 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时19分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "微软业绩提振AI信心，纳指100创年内第三大涨幅，芯片指数暴涨8%，美元跳水黄金夺回4100",
+          "url": "https://wallstreetcn.com/articles/3778287",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时06分"
+        },
+        {
+          "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨1%，暂报2073点。 MarketVectorTM数字资产100中盘指数涨1.83%，报2381.55点，北京时间05:05刷新日低至2311.71点以来持续反弹。 MarketVector数字资产100指数涨1.68%，报12847.19点。 目前，Solana涨1.78%，狗狗币涨0.80%，XRP涨1.47%。 比特币涨1.54%，暂报64763.94美元，北京时间05:08跌至63269.29美元，随后持续上扬；以太坊涨1.18%，暂报1917.18美元。",
+          "url": "https://wallstreetcn.com/livenews/3142587",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时14分"
+        },
+        {
+          "title": "美元指数跌超0.9%",
+          "url": "https://wallstreetcn.com/livenews/3142622",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时59分"
         }
       ]
     },
@@ -548,8 +614,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时18分 ~ 04时59分]"
+          "appearance_count": 6,
+          "time_info": "[01时18分 ~ 06时06分]"
         },
         {
           "title": "60岁男子坚持广州深圳往返通勤14年",
@@ -558,39 +624,12 @@
           "ranks": [
             29,
             21,
-            25
+            25,
+            17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时18分 ~ 04时59分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨1%，暂报2073点。 MarketVectorTM数字资产100中盘指数涨1.83%，报2381.55点，北京时间05:05刷新日低至2311.71点以来持续反弹。 MarketVector数字资产100指数涨1.68%，报12847.19点。 目前，Solana涨1.78%，狗狗币涨0.80%，XRP涨1.47%。 比特币涨1.54%，暂报64763.94美元，北京时间05:08跌至63269.29美元，随后持续上扬；以太坊涨1.18%，暂报1917.18美元。",
-          "url": "https://wallstreetcn.com/livenews/3142587",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时14分"
-        },
-        {
-          "title": "美元指数跌超0.9%",
-          "url": "https://wallstreetcn.com/livenews/3142622",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时59分"
+          "appearance_count": 6,
+          "time_info": "[01时18分 ~ 06时06分]"
         }
       ]
     },
@@ -607,8 +646,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时18分 ~ 04时59分]"
+          "appearance_count": 6,
+          "time_info": "[01时18分 ~ 06时06分]"
         }
       ]
     },
@@ -623,7 +662,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时59分"
         }
@@ -638,11 +677,12 @@
           "url": "https://www.douyin.com/hot/2591128",
           "source": "抖音",
           "ranks": [
-            22
+            22,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时59分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时59分 ~ 06时06分]"
         }
       ]
     },
