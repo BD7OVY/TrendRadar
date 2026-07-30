@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-31T01:19:02.531290+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-07-31T03:14:09.969476+08:00",
+  "total_titles_processed": 382,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 10,
+      "match_count": 18,
       "titles": [
         {
           "title": "布油盘中涨超8%！特朗普一再警告“狠狠打击”伊朗，寻求对伊加征关税",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时18分 ~ 01时19分]"
+          "appearance_count": 4,
+          "time_info": "[01时18分 ~ 03时14分]"
         },
         {
           "title": "科威特军方：伊朗袭击该国北部致一中企雇员死亡",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时18分 ~ 01时19分]"
+          "appearance_count": 4,
+          "time_info": "[01时18分 ~ 03时14分]"
         },
         {
           "title": "有报道称中方将提供400枚肩扛式导弹给伊朗，外交部：毫无根据",
@@ -37,8 +37,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时18分 ~ 01时19分]"
+          "appearance_count": 4,
+          "time_info": "[01时18分 ~ 03时14分]"
+        },
+        {
+          "title": "卡塔尔外交部：卡塔尔谴责伊朗再次袭击约旦和科威特领土，此举侵犯了两国的主权。",
+          "url": "https://flash.jin10.com/detail/20260731024403802800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时14分"
         },
         {
           "title": "伊朗称摧毁3架F-35战机，美军回应",
@@ -48,8 +59,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时18分 ~ 01时19分]"
+          "appearance_count": 4,
+          "time_info": "[01时18分 ~ 03时14分]"
         },
         {
           "title": "中国向伊朗提供400枚导弹？外交部回应",
@@ -59,8 +70,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时18分 ~ 01时19分]"
+          "appearance_count": 4,
+          "time_info": "[01时18分 ~ 03时14分]"
         },
         {
           "title": "伊朗将接收中国造肩扛式防空导弹发射装置？外交部：不符合事实",
@@ -70,30 +81,65 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时18分 ~ 01时19分]"
+          "appearance_count": 4,
+          "time_info": "[01时18分 ~ 03时14分]"
         },
         {
           "title": "伊朗称袭击科威特的美空军基地",
           "url": "https://www.toutiao.com/trending/7668304219085999652/",
           "source": "今日头条",
           "ranks": [
-            25
+            25,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时18分 ~ 01时19分]"
+          "appearance_count": 4,
+          "time_info": "[01时18分 ~ 03时14分]"
         },
         {
           "title": "伊朗称打击约旦美军基地摧毁3架F-35",
           "url": "https://www.toutiao.com/trending/7668276655902690879/",
           "source": "今日头条",
           "ranks": [
-            29
+            29,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时18分 ~ 01时19分]"
+          "appearance_count": 4,
+          "time_info": "[01时18分 ~ 03时14分]"
+        },
+        {
+          "title": "【伊朗军队称打击美军在巴林空军基地，已对其装备和中心造成了重大破坏】当地时间7月30日晚，伊朗军队发布公告称，军队使用无人机袭击了美军位于巴林的谢赫伊萨空军基地的发电机、导航系统以及行政和后勤保障建筑。公告表示，尽管美军基地拥有众多防御系统和装备，但近日针对该地区美军基地的袭击，已对其装备和中心造成了重大破坏。（央视）",
+          "url": "https://wallstreetcn.com/livenews/3142603",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时14分"
+        },
+        {
+          "title": "约旦外交部：约旦外长与阿联酋外长通话，讨论地区局势及降温努力。双方谴责伊朗针对约旦的袭击，阿联酋重申支持约旦维护安全与稳定。",
+          "url": "https://flash.jin10.com/detail/20260731023053781800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时14分"
+        },
+        {
+          "title": "伊朗军方打击美国在巴林的军事基地。（伊朗媒体IRIB）",
+          "url": "https://wallstreetcn.com/livenews/3142600",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时14分"
         },
         {
           "title": "伊朗革命卫队：六艘船只在美军战机护航下试图通过，两艘发生事故后，其余船只迅速掉头返航。航运公司老板应询问那六艘船的船员海峡是否通畅，而不是向美军中央司令部打听。",
@@ -102,9 +148,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时19分"
+        },
+        {
+          "title": "参议院共和党人成功阻挠旨在停止对伊朗战争的决议",
+          "url": "https://flash.jin10.com/detail/20260731021049898800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时14分"
         },
         {
           "title": "【美军称没有美国飞机在伊朗最近的袭击中被摧毁】美军中央司令部30日在社交媒体上发文称，在伊朗最近的袭击中，没有美国飞机被摧毁或损坏。“所有导弹和无人机均被拦截或未能到达目标区域。” 伊朗伊斯兰革命卫队此前发表声明称，为回应美国的袭击，革命卫队袭击了约旦阿兹拉克美军基地，摧毁3架F-35战斗机，并严重损坏另外3架战机。（新华社）",
@@ -113,16 +170,61 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时19分"
+        },
+        {
+          "title": "美国参议院以49比50的投票结果否决了一项决议。该决议要求特朗普在未获国会授权的情况下停止对伊朗采取敌对行动。",
+          "url": "https://flash.jin10.com/detail/20260731020234480800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时14分"
+        },
+        {
+          "title": "据以色列i24News：消息人士称，美国当地时间周三针对伊朗发动的打击，甚至还算不上未来预期行动的“冰山一角”。",
+          "url": "https://flash.jin10.com/detail/20260731015515594800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时14分"
+        },
+        {
+          "title": "伊朗军队称打击美军在巴林空军基地",
+          "url": "https://flash.jin10.com/detail/20260731015154743800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时14分"
         }
       ]
     },
     {
       "keyword_group": "科技",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "宇树科技：8月10日打新",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33687840",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时18分 ~ 03时14分]"
+        },
         {
           "title": "大消费“反攻”：资金从高位科技撤退，涌向低位的“烟火气”",
           "url": "https://www.cls.cn/detail/2441464",
@@ -131,30 +233,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时18分 ~ 01时19分]"
+          "appearance_count": 4,
+          "time_info": "[01时18分 ~ 03时14分]"
         },
         {
           "title": "宇树科技：8月10日打新",
           "url": "https://www.toutiao.com/trending/7667763686765019190/",
           "source": "今日头条",
           "ranks": [
-            10
+            10,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时18分 ~ 01时19分]"
-        },
-        {
-          "title": "宇树科技：8月10日打新",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33687840",
-          "source": "澎湃新闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时18分 ~ 01时19分]"
+          "appearance_count": 4,
+          "time_info": "[01时18分 ~ 03时14分]"
         },
         {
           "title": "宇树科技IPO时间定了 8月10日申购",
@@ -164,8 +256,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时18分 ~ 01时19分]"
+          "appearance_count": 4,
+          "time_info": "[01时18分 ~ 03时14分]"
         },
         {
           "title": "宇树科技股票发行安排",
@@ -177,23 +269,35 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时18分 ~ 01时19分]"
+        },
+        {
+          "title": "穆迪将美光科技(MU.O)的优先无担保评级上调至Baa1，展望稳定。",
+          "url": "https://flash.jin10.com/detail/20260731015520773800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时14分"
         }
       ]
     },
     {
       "keyword_group": "消费",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "媒体称三大运营商将于 7 月 31 日前全面取消网络代理渠道，释放了哪些行业信号？对消费者有什么影响？",
           "url": "https://www.zhihu.com/question/2065771256972932835",
           "source": "知乎",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时18分 ~ 01时19分]"
+          "appearance_count": 4,
+          "time_info": "[01时18分 ~ 03时14分]"
         },
         {
           "title": "【每日收评】创业板指放量跌近4%，算力硬件权重集体重挫，大消费方向持续活跃",
@@ -203,8 +307,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时18分 ~ 01时19分]"
+          "appearance_count": 4,
+          "time_info": "[01时18分 ~ 03时14分]"
         },
         {
           "title": "美国二季度GDP增速不及预期 但消费和AI投资释放积极信号",
@@ -214,8 +318,19 @@
             13
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时18分 ~ 03时14分]"
+        },
+        {
+          "title": "按克计价金饰重回消费风口",
+          "url": "https://www.toutiao.com/trending/7667748687699820595/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时18分 ~ 01时19分]"
+          "time_info": "[03时13分 ~ 03时14分]"
         },
         {
           "title": "高通CEO：更高的价格正在改变消费者的行为。",
@@ -224,7 +339,113 @@
           "ranks": [
             17
           ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时19分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "摩根士丹利牵头的银行团体洽谈为Anthropic数据中心贷款150亿美元。 该数据中心得到Alphabet旗下谷歌公司的支持，谷歌担保Anthropic租赁和电费支付。 Nexus数据中心洽谈为数据中心借款150亿美元。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3142601",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
           "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时14分"
+        },
+        {
+          "title": "多家银行正洽谈向Anthropic的数据中心提供150亿美元贷款，项目获谷歌支持",
+          "url": "https://flash.jin10.com/detail/20260731015755821800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时14分"
+        },
+        {
+          "title": "【谷歌发布Gemini机器人AI模型，旨在解决机器人“灵巧性”难题】Alphabet旗下的谷歌DeepMind发布了一款名为Gemini Robotics 2的新型机器人人工智能模型，该模型使类人机器能够协调全身运动。这一新系统使机器人能够在推理任务的同时进行行走、蹲下和操纵物体，并能自上而下地指挥整个类人机器人。谷歌DeepMind还发布了另外两款机器人AI模型——Gemini Robotics ER 2和On-Device 2。它们可以协同工作或独立运行，以规划多步骤任务并协调多个机器人。",
+          "url": "https://wallstreetcn.com/livenews/3142550",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时19分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "OpenAI首席财务官“放暖风”：7月年化收入超过第二季！",
+          "url": "https://www.cls.cn/detail/2441076",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时18分 ~ 03时14分]"
+        },
+        {
+          "title": "OpenAI：将GPT-5.6Luna的价格下调80%",
+          "url": "https://wallstreetcn.com/livenews/3142590",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时14分"
+        },
+        {
+          "title": "报道：AI股受挫之际，城堡投资大举买入前OpenAI研究员旗下基金持仓",
+          "url": "https://wallstreetcn.com/livenews/3142559",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时19分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金融",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "据印度政府令：印度重新任命 K·拉贾拉曼为国际金融服务中心管理局主席，任期至其年满65岁。",
+          "url": "https://flash.jin10.com/detail/20260731023728778800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时14分"
+        },
+        {
+          "title": "基金公司Situational Awareness对Anthropic持股50亿美元。 高盛、摩根大通参与了Situational Awareness大宗交易的磋商。 Situational Awareness将保持私人投资公司的地位。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3142561",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时19分"
         }
@@ -239,50 +460,24 @@
           "url": "https://search.bilibili.com/all?keyword=BLG%20%E5%B8%B8%E8%A7%84%E8%B5%9B%E6%B7%B1%E5%9C%B3Vlog",
           "source": "bilibili 热搜",
           "ranks": [
-            7
+            7,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时18分 ~ 01时19分]"
+          "appearance_count": 4,
+          "time_info": "[01时18分 ~ 03时14分]"
         },
         {
           "title": "60岁男子坚持广州深圳往返通勤14年",
           "url": "https://www.baidu.com/s?wd=60%E5%B2%81%E7%94%B7%E5%AD%90%E5%9D%9A%E6%8C%81%E5%B9%BF%E5%B7%9E%E6%B7%B1%E5%9C%B3%E5%BE%80%E8%BF%94%E9%80%9A%E5%8B%A414%E5%B9%B4",
           "source": "百度热搜",
           "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时18分 ~ 01时19分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "OpenAI首席财务官“放暖风”：7月年化收入超过第二季！",
-          "url": "https://www.cls.cn/detail/2441076",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时18分 ~ 01时19分]"
-        },
-        {
-          "title": "报道：AI股受挫之际，城堡投资大举买入前OpenAI研究员旗下基金持仓",
-          "url": "https://wallstreetcn.com/livenews/3142559",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
+            29,
             21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时19分"
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时18分 ~ 03时14分]"
         }
       ]
     },
@@ -295,45 +490,29 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33686758",
           "source": "澎湃新闻",
           "ranks": [
-            18
+            18,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时18分 ~ 01时19分]"
+          "appearance_count": 4,
+          "time_info": "[01时18分 ~ 03时14分]"
         }
       ]
     },
     {
-      "keyword_group": "金融",
+      "keyword_group": "美元",
       "match_count": 1,
       "titles": [
         {
-          "title": "基金公司Situational Awareness对Anthropic持股50亿美元。 高盛、摩根大通参与了Situational Awareness大宗交易的磋商。 Situational Awareness将保持私人投资公司的地位。（英国金融时报）",
-          "url": "https://wallstreetcn.com/livenews/3142561",
+          "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨1%，暂报2073点。 MarketVectorTM数字资产100中盘指数涨1.83%，报2381.55点，北京时间05:05刷新日低至2311.71点以来持续反弹。 MarketVector数字资产100指数涨1.68%，报12847.19点。 目前，Solana涨1.78%，狗狗币涨0.80%，XRP涨1.47%。 比特币涨1.54%，暂报64763.94美元，北京时间05:08跌至63269.29美元，随后持续上扬；以太坊涨1.18%，暂报1917.18美元。",
+          "url": "https://wallstreetcn.com/livenews/3142587",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            19
+            22
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时19分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "【谷歌发布Gemini机器人AI模型，旨在解决机器人“灵巧性”难题】Alphabet旗下的谷歌DeepMind发布了一款名为Gemini Robotics 2的新型机器人人工智能模型，该模型使类人机器能够协调全身运动。这一新系统使机器人能够在推理任务的同时进行行走、蹲下和操纵物体，并能自上而下地指挥整个类人机器人。谷歌DeepMind还发布了另外两款机器人AI模型——Gemini Robotics ER 2和On-Device 2。它们可以协同工作或独立运行，以规划多步骤任务并协调多个机器人。",
-          "url": "https://wallstreetcn.com/livenews/3142550",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时19分"
+          "time_info": "03时14分"
         }
       ]
     },
