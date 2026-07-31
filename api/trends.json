@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-31T10:06:07.497097+08:00",
-  "total_titles_processed": 788,
+  "generated_at": "2026-07-31T13:59:16.741916+08:00",
+  "total_titles_processed": 985,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "科技",
-      "match_count": 21,
+      "match_count": 28,
       "titles": [
         {
           "title": "宇树科技：8月10日打新",
@@ -18,8 +18,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时18分 ~ 10时06分]"
+          "appearance_count": 11,
+          "time_info": "[01时18分 ~ 13时59分]"
         },
         {
           "title": "【早报】美科技股全线暴涨；苹果、亚马逊业绩公布；油价下行、黄金走强；宇树科技，8月10日申购",
@@ -30,8 +30,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时57分 ~ 10时06分]"
+          "appearance_count": 5,
+          "time_info": "[07时57分 ~ 13时59分]"
         },
         {
           "title": "大消费“反攻”：资金从高位科技撤退，涌向低位的“烟火气”",
@@ -46,6 +46,17 @@
           "time_info": "[01时18分 ~ 07时57分]"
         },
         {
+          "title": "长鑫科技市值首次突破4万亿",
+          "url": "https://www.toutiao.com/trending/7668102382697447470/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时58分 ~ 13时59分]"
+        },
+        {
           "title": "宇树科技IPO时间定了 8月10日申购",
           "url": "https://www.baidu.com/s?wd=%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80IPO%E6%97%B6%E9%97%B4%E5%AE%9A%E4%BA%86+8%E6%9C%8810%E6%97%A5%E7%94%B3%E8%B4%AD",
           "source": "百度热搜",
@@ -55,6 +66,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时18分 ~ 06时06分]"
+        },
+        {
+          "title": "A股固态电池板块午后震荡走强，星云股份、海顺新材涨超10%，此前中国宝安2连板，武汉蓝电、双杰电气、灵鸽科技、纳科诺尔、金龙羽等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260731134147137800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时59分"
         },
         {
           "title": "宇树科技：8月10日打新",
@@ -75,11 +97,24 @@
           "source": "抖音",
           "ranks": [
             13,
-            10
+            10,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时57分 ~ 10时06分]"
+          "appearance_count": 5,
+          "time_info": "[07时57分 ~ 13时59分]"
+        },
+        {
+          "title": "长鑫科技市值突破4万亿",
+          "url": "https://www.baidu.com/s?wd=%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%E5%B8%82%E5%80%BC%E7%AA%81%E7%A0%B44%E4%B8%87%E4%BA%BF",
+          "source": "百度热搜",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时05分 ~ 13时59分]"
         },
         {
           "title": "宇树科技股票发行安排",
@@ -91,6 +126,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时18分 ~ 07时57分]"
+        },
+        {
+          "title": "科技赋能绽放侏罗纪魅力",
+          "url": "https://search.bilibili.com/all?keyword=%E7%A7%91%E6%8A%80%E8%B5%8B%E8%83%BD%E7%BB%BD%E6%94%BE%E4%BE%8F%E7%BD%97%E7%BA%AA%E9%AD%85%E5%8A%9B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时58分 ~ 13时59分]"
         },
         {
           "title": "标普500指数的11个板块中，信息技术/科技板块收涨5.24%，可选消费板块涨1.57%，原材料板块涨1%，电信板块跌2.52%。",
@@ -117,15 +163,15 @@
           "time_info": "[04时59分 ~ 06时06分]"
         },
         {
-          "title": "长鑫科技市值突破4万亿",
-          "url": "https://www.baidu.com/s?wd=%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%E5%B8%82%E5%80%BC%E7%AA%81%E7%A0%B44%E4%B8%87%E4%BA%BF",
-          "source": "百度热搜",
+          "title": "A股军工板块午后异动，观想科技直线涨停，华如科技涨超10%，建设工业等多股冲高。",
+          "url": "https://wallstreetcn.com/livenews/3142933",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            6
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时05分 ~ 10时06分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时59分"
         },
         {
           "title": "长鑫科技拉升涨超13%，总市值突破4万亿。",
@@ -134,7 +180,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时06分"
         },
@@ -156,7 +202,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时06分"
         },
@@ -178,7 +224,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时06分"
         },
@@ -200,7 +246,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时06分"
         },
@@ -214,6 +260,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时57分"
+        },
+        {
+          "title": "A股午后军工板块异动拉升，观想科技20cm涨停，科思科技、华如科技、三瑞智能涨超10%，佳缘科技、兴图新科、建设工业、六九一二、中无人机等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260731131352609800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时59分"
         },
         {
           "title": "穆迪将美光科技(MU.O)的优先无担保评级上调至Baa1，展望稳定。",
@@ -233,9 +290,31 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时06分"
+        },
+        {
+          "title": "索尼半导体制造公司：熊本科技中心将于8月中旬前恢复至地震前的运作水准。",
+          "url": "https://flash.jin10.com/detail/20260731130936949800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时59分"
+        },
+        {
+          "title": "索尼半导体制造公司：熊本科技中心因地震停工后，将自8月4日起分阶段恢复营运。",
+          "url": "https://flash.jin10.com/detail/20260731130839548800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时59分"
         },
         {
           "title": "恒生指数主连夜盘收涨0.45%，报26021点。 恒生科技指数主连夜盘收涨0.31%，报4832点。",
@@ -252,7 +331,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 21,
+      "match_count": 25,
       "titles": [
         {
           "title": "伊朗称摧毁3架F-35战机，美军回应",
@@ -290,29 +369,31 @@
           "time_info": "[01时18分 ~ 06时06分]"
         },
         {
-          "title": "中国向伊朗提供400枚导弹？外交部回应",
-          "url": "https://www.toutiao.com/trending/7668128346190053385/",
-          "source": "今日头条",
-          "ranks": [
-            12,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时18分 ~ 10时06分]"
-        },
-        {
           "title": "伊朗将接收中国造肩扛式防空导弹发射装置？外交部：不符合事实",
           "url": "https://m.thepaper.cn/newsDetail_forward_33684903",
           "source": "澎湃新闻",
           "ranks": [
             13,
             14,
-            12
+            12,
+            9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时18分 ~ 10时06分]"
+          "appearance_count": 11,
+          "time_info": "[01时18分 ~ 13时59分]"
+        },
+        {
+          "title": "中国向伊朗提供400枚导弹？外交部回应",
+          "url": "https://www.toutiao.com/trending/7668128346190053385/",
+          "source": "今日头条",
+          "ranks": [
+            12,
+            20,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[01时18分 ~ 13时59分]"
         },
         {
           "title": "布油盘中涨超8%！特朗普一再警告“狠狠打击”伊朗，寻求对伊加征关税",
@@ -324,6 +405,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时18分 ~ 03时14分]"
+        },
+        {
+          "title": "伊朗革命卫队一天发表三份声明",
+          "url": "https://v.ifeng.com/c/8vBu9vCGaU5",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时58分 ~ 13时59分]"
         },
         {
           "title": "卡塔尔外交部：卡塔尔谴责伊朗再次袭击约旦和科威特领土，此举侵犯了两国的主权。",
@@ -372,6 +464,28 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时18分 ~ 03时14分]"
+        },
+        {
+          "title": "伊朗称击毁驻约旦美军基地 3 架 F-35，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2066282514805679344",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时58分 ~ 13时59分]"
+        },
+        {
+          "title": "伊朗称摧毁3架美军F35战机",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E6%9C%97%E7%A7%B0%E6%91%A7%E6%AF%813%E6%9E%B6%E7%BE%8E%E5%86%9BF35%E6%88%98%E6%9C%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时58分 ~ 13时59分]"
         },
         {
           "title": "【伊朗军队称打击美军在巴林空军基地，已对其装备和中心造成了重大破坏】当地时间7月30日晚，伊朗军队发布公告称，军队使用无人机袭击了美军位于巴林的谢赫伊萨空军基地的发电机、导航系统以及行政和后勤保障建筑。公告表示，尽管美军基地拥有众多防御系统和装备，但近日针对该地区美军基地的袭击，已对其装备和中心造成了重大破坏。（央视）",
@@ -493,6 +607,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时14分"
+        },
+        {
+          "title": "据日经新闻：印度遇难海员家属分别向美国和伊朗索赔500万美元。",
+          "url": "https://flash.jin10.com/detail/20260731125649919800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时59分"
         }
       ]
     },
@@ -507,7 +632,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时06分"
         },
@@ -518,7 +643,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时06分"
         },
@@ -529,7 +654,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时06分"
         },
@@ -540,7 +665,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时06分"
         },
@@ -551,7 +676,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时06分"
         },
@@ -562,7 +687,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时06分"
         },
@@ -573,7 +698,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时06分"
         }
@@ -581,7 +706,7 @@
     },
     {
       "keyword_group": "消费",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "媒体称三大运营商将于 7 月 31 日前全面取消网络代理渠道，释放了哪些行业信号？对消费者有什么影响？",
@@ -621,6 +746,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时18分 ~ 06时06分]"
+        },
+        {
+          "title": "澎湃漫评｜机票退改别总让消费者“挨宰”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33684912",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时58分 ~ 13时59分]"
         },
         {
           "title": "按克计价金饰重回消费风口",
@@ -678,11 +814,12 @@
           "url": "https://www.cls.cn/detail/2442077",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时05分 ~ 10时06分]"
+          "appearance_count": 4,
+          "time_info": "[10时05分 ~ 13时59分]"
         },
         {
           "title": "如何看待 OpenAI 将 GPT-5.6Luna 和 Terra 价格大幅度下调？大模型会进入价格战时代吗？",
@@ -792,8 +929,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时57分 ~ 10时06分]"
+          "appearance_count": 5,
+          "time_info": "[07时57分 ~ 13时59分]"
         },
         {
           "title": "微软业绩提振AI信心，纳指100创年内第三大涨幅，芯片指数暴涨8%，美元跳水黄金夺回4100",
@@ -919,8 +1056,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时18分 ~ 10时06分]"
+          "appearance_count": 11,
+          "time_info": "[01时18分 ~ 13时59分]"
         }
       ]
     },
@@ -937,8 +1074,25 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时59分 ~ 10时06分]"
+          "appearance_count": 5,
+          "time_info": "[04时59分 ~ 13时59分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "登山",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "8000米高峰雪崩 10人登山队失联",
+          "url": "https://www.baidu.com/s?wd=8000%E7%B1%B3%E9%AB%98%E5%B3%B0%E9%9B%AA%E5%B4%A9+10%E4%BA%BA%E7%99%BB%E5%B1%B1%E9%98%9F%E5%A4%B1%E8%81%94",
+          "source": "百度热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时58分 ~ 13时59分]"
         }
       ]
     },
