@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-31T16:48:12.904190+08:00",
-  "total_titles_processed": 1176,
+  "generated_at": "2026-07-31T19:24:37.277225+08:00",
+  "total_titles_processed": 1349,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "科技",
-      "match_count": 33,
+      "match_count": 35,
       "titles": [
         {
           "title": "宇树科技：8月10日打新",
@@ -19,8 +19,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时18分 ~ 16时48分]"
+          "appearance_count": 14,
+          "time_info": "[01时18分 ~ 19时24分]"
         },
         {
           "title": "【早报】美科技股全线暴涨；苹果、亚马逊业绩公布；油价下行、黄金走强；宇树科技，8月10日申购",
@@ -94,6 +94,17 @@
           "time_info": "13时59分"
         },
         {
+          "title": "长安汽车：因长安科技智能化创新超越预期，决定终止原增资扩股方案",
+          "url": "https://wallstreetcn.com/livenews/3143196",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时24分"
+        },
+        {
           "title": "宇树科技：8月10日打新",
           "url": "https://www.toutiao.com/trending/7667763686765019190/",
           "source": "今日头条",
@@ -119,17 +130,6 @@
           "time_info": "[10时05分 ~ 13时59分]"
         },
         {
-          "title": "宇树科技股票发行安排",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80%E8%82%A1%E7%A5%A8%E5%8F%91%E8%A1%8C%E5%AE%89%E6%8E%92%23&t=31&band_rank=28&Refer=top",
-          "source": "微博",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时18分 ~ 07时57分]"
-        },
-        {
           "title": "事关半导体！特朗普政府再出手：将入股七家科技公司",
           "url": "https://www.cls.cn/detail/2442363",
           "source": "财联社热门",
@@ -137,8 +137,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时47分 ~ 16时48分]"
+          "appearance_count": 3,
+          "time_info": "[16时47分 ~ 19时24分]"
         },
         {
           "title": "7 月 31 日长鑫科技盘中涨超 13%，总市值突破 4 万亿，还会持续上涨吗？",
@@ -148,8 +148,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时47分 ~ 16时48分]"
+          "appearance_count": 3,
+          "time_info": "[16时47分 ~ 19时24分]"
+        },
+        {
+          "title": "宇树科技股票发行安排",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80%E8%82%A1%E7%A5%A8%E5%8F%91%E8%A1%8C%E5%AE%89%E6%8E%92%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时18分 ~ 07时57分]"
         },
         {
           "title": "科技赋能绽放侏罗纪魅力",
@@ -215,7 +226,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时48分"
         },
@@ -262,6 +273,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时06分"
+        },
+        {
+          "title": "国常会：推动医药科技创新，加快形成有利于健康的生产生活方式",
+          "url": "https://flash.jin10.com/detail/20260731190843356800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时24分"
         },
         {
           "title": "标普500指数收涨121.48点，涨幅1.66%，报7437.63点。 道琼斯工业平均指数收涨613.92点，涨幅1.19%，报52208.06点。 纳斯达克综合指数（纳指）收涨679.235点，涨幅2.78%，报25122.177点。 纳斯达克100指数收涨914.04点，涨幅3.36%，报28106.346点。 纳斯达克科技市值加权指数收涨4.34%，报2812.9871点。 费城半导体指数收涨855.499点，涨幅8.19%，报11302.988点。 费城证交所KBW银行指数收涨1.55%，报186.78点。 道琼斯KBW地区银行指数收跌0.08%，报147.14点。 罗素2000指数收涨1.37%，报2946.101点。 纳斯达克生物科技指数收涨0.78%，报6572.12点。 恐慌指数VIX收跌17.33%，报17.08，欧洲股市开盘以来持续下跌。",
@@ -347,7 +369,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时48分"
         },
@@ -380,7 +402,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时48分"
         }
@@ -388,7 +410,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 25,
+      "match_count": 27,
       "titles": [
         {
           "title": "伊朗称摧毁3架F-35战机，美军回应",
@@ -426,6 +448,17 @@
           "time_info": "[01时18分 ~ 06时06分]"
         },
         {
+          "title": "伊朗革命卫队一天发表三份声明",
+          "url": "https://v.ifeng.com/c/8vBu9vCGaU5",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时58分 ~ 19时24分]"
+        },
+        {
           "title": "伊朗将接收中国造肩扛式防空导弹发射装置？外交部：不符合事实",
           "url": "https://m.thepaper.cn/newsDetail_forward_33684903",
           "source": "澎湃新闻",
@@ -453,17 +486,6 @@
           "time_info": "[01时18分 ~ 13时59分]"
         },
         {
-          "title": "伊朗革命卫队一天发表三份声明",
-          "url": "https://v.ifeng.com/c/8vBu9vCGaU5",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时58分 ~ 16时48分]"
-        },
-        {
           "title": "布油盘中涨超8%！特朗普一再警告“狠狠打击”伊朗，寻求对伊加征关税",
           "url": "https://wallstreetcn.com/articles/3778237",
           "source": "华尔街见闻",
@@ -484,6 +506,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时14分"
+        },
+        {
+          "title": "特朗普对伊朗战事失去耐心，傅立民：他对谈判的理解本质上就错了",
+          "url": "https://news.ifeng.com/c/8vDDhdP8jJa",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时24分"
+        },
+        {
+          "title": "伊朗称击毁驻约旦美军基地 3 架 F-35，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2066282514805679344",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时58分 ~ 19时24分]"
         },
         {
           "title": "伊朗称打击约旦美军基地摧毁3架F-35",
@@ -509,17 +553,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时59分 ~ 06时06分]"
-        },
-        {
-          "title": "伊朗称击毁驻约旦美军基地 3 架 F-35，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2066282514805679344",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时58分 ~ 16时48分]"
         },
         {
           "title": "伊朗称袭击科威特的美空军基地",
@@ -554,6 +587,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时14分"
+        },
+        {
+          "title": "伊朗首都德黑兰北部发生4.6级地震。（央视）",
+          "url": "https://wallstreetcn.com/livenews/3143187",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时24分"
         },
         {
           "title": "约旦外交部：约旦外长与阿联酋外长通话，讨论地区局势及降温努力。双方谴责伊朗针对约旦的袭击，阿联酋重申支持约旦维护安全与稳定。",
@@ -675,6 +719,107 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时59分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "消费",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "媒体称三大运营商将于 7 月 31 日前全面取消网络代理渠道，释放了哪些行业信号？对消费者有什么影响？",
+          "url": "https://www.zhihu.com/question/2065771256972932835",
+          "source": "知乎",
+          "ranks": [
+            3,
+            4,
+            8,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时18分 ~ 07时57分]"
+        },
+        {
+          "title": "美国二季度GDP增速不及预期 但消费和AI投资释放积极信号",
+          "url": "https://www.cls.cn/detail/2441830",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时18分 ~ 10时06分]"
+        },
+        {
+          "title": "【每日收评】创业板指放量跌近4%，算力硬件权重集体重挫，大消费方向持续活跃",
+          "url": "https://www.cls.cn/detail/2441445",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时18分 ~ 06时06分]"
+        },
+        {
+          "title": "澎湃漫评｜机票退改别总让消费者“挨宰”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33684912",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时58分 ~ 16时48分]"
+        },
+        {
+          "title": "按克计价金饰重回消费风口",
+          "url": "https://www.toutiao.com/trending/7667748687699820595/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时13分 ~ 03时14分]"
+        },
+        {
+          "title": "亚马逊(AMZN.O)CEO：公司正在追求自有的前沿模型，以控制成本并降低消费者支出。",
+          "url": "https://flash.jin10.com/detail/20260731054215668800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时06分"
+        },
+        {
+          "title": "国产自研GPU厂商首次独立参展ChinaJoy，砺算LX 7G100消费显卡零售版全面开售",
+          "url": "https://wallstreetcn.com/livenews/3143184",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时24分"
+        },
+        {
+          "title": "高通CEO：更高的价格正在改变消费者的行为。",
+          "url": "https://wallstreetcn.com/livenews/3142563",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时19分"
         }
       ]
     },
@@ -805,7 +950,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时48分"
         },
@@ -816,7 +961,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时48分"
         },
@@ -827,7 +972,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时48分"
         },
@@ -838,99 +983,9 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时48分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "消费",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "媒体称三大运营商将于 7 月 31 日前全面取消网络代理渠道，释放了哪些行业信号？对消费者有什么影响？",
-          "url": "https://www.zhihu.com/question/2065771256972932835",
-          "source": "知乎",
-          "ranks": [
-            3,
-            4,
-            8,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时18分 ~ 07时57分]"
-        },
-        {
-          "title": "美国二季度GDP增速不及预期 但消费和AI投资释放积极信号",
-          "url": "https://www.cls.cn/detail/2441830",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时18分 ~ 10时06分]"
-        },
-        {
-          "title": "【每日收评】创业板指放量跌近4%，算力硬件权重集体重挫，大消费方向持续活跃",
-          "url": "https://www.cls.cn/detail/2441445",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时18分 ~ 06时06分]"
-        },
-        {
-          "title": "澎湃漫评｜机票退改别总让消费者“挨宰”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33684912",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时58分 ~ 16时48分]"
-        },
-        {
-          "title": "按克计价金饰重回消费风口",
-          "url": "https://www.toutiao.com/trending/7667748687699820595/",
-          "source": "今日头条",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时13分 ~ 03时14分]"
-        },
-        {
-          "title": "亚马逊(AMZN.O)CEO：公司正在追求自有的前沿模型，以控制成本并降低消费者支出。",
-          "url": "https://flash.jin10.com/detail/20260731054215668800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时06分"
-        },
-        {
-          "title": "高通CEO：更高的价格正在改变消费者的行为。",
-          "url": "https://wallstreetcn.com/livenews/3142563",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时19分"
         }
       ]
     },
@@ -1020,8 +1075,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时57分 ~ 16时48分]"
+          "appearance_count": 8,
+          "time_info": "[07时57分 ~ 19时24分]"
         },
         {
           "title": "微软业绩提振AI信心，纳指100创年内第三大涨幅，芯片指数暴涨8%，美元跳水黄金夺回4100",
@@ -1039,11 +1094,12 @@
           "url": "https://www.zhihu.com/question/2066288437683032785",
           "source": "知乎",
           "ranks": [
-            18
+            18,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时47分 ~ 16时48分]"
+          "appearance_count": 3,
+          "time_info": "[16时47分 ~ 19时24分]"
         },
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨1%，暂报2073点。 MarketVectorTM数字资产100中盘指数涨1.83%，报2381.55点，北京时间05:05刷新日低至2311.71点以来持续反弹。 MarketVector数字资产100指数涨1.68%，报12847.19点。 目前，Solana涨1.78%，狗狗币涨0.80%，XRP涨1.47%。 比特币涨1.54%，暂报64763.94美元，北京时间05:08跌至63269.29美元，随后持续上扬；以太坊涨1.18%，暂报1917.18美元。",
@@ -1121,7 +1177,7 @@
     },
     {
       "keyword_group": "深圳",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "60岁男子坚持广州深圳往返通勤14年",
@@ -1151,12 +1207,23 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时18分 ~ 07时57分]"
+        },
+        {
+          "title": "深圳人开始付费外包扔垃圾了",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B3%E4%BA%BA%E5%BC%80%E5%A7%8B%E4%BB%98%E8%B4%B9%E5%A4%96%E5%8C%85%E6%89%94%E5%9E%83%E5%9C%BE%E4%BA%86%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时24分"
         }
       ]
     },
     {
       "keyword_group": "资源",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "刘国洪任自然资源部党组书记",
@@ -1166,11 +1233,23 @@
             18,
             20,
             16,
-            19
+            19,
+            17
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时18分 ~ 16时48分]"
+          "appearance_count": 14,
+          "time_info": "[01时18分 ~ 19时24分]"
+        },
+        {
+          "title": "盛达资源：2026年上半年净利润3.9亿元，同比增长456.46%",
+          "url": "https://wallstreetcn.com/livenews/3143168",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时24分"
         }
       ]
     },
