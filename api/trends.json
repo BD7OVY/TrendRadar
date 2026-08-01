@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-01T22:54:41.456364+08:00",
-  "total_titles_processed": 1438,
+  "generated_at": "2026-08-01T23:55:41.891965+08:00",
+  "total_titles_processed": 1488,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 54,
+      "match_count": 55,
       "titles": [
         {
           "title": "伊朗“波斯湾海峡管理局”宣布霍尔木兹海峡暂停通行",
@@ -32,6 +32,19 @@
           "time_info": "[01时25分 ~ 07时02分]"
         },
         {
+          "title": "特朗普称对伊朗协议“失去信心”、据称下令新袭击，美以被曝酝酿周末轰炸伊能源设施",
+          "url": "https://wallstreetcn.com/articles/3778460",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[13时48分 ~ 23时55分]"
+        },
+        {
           "title": "美以计划对伊朗能源设施发动迄今最猛烈轰炸",
           "url": "https://news.ifeng.com/c/8vE4QnKuvOF",
           "source": "凤凰网",
@@ -43,19 +56,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[10时04分 ~ 19时58分]"
-        },
-        {
-          "title": "特朗普称对伊朗协议“失去信心”、据称下令新袭击，美以被曝酝酿周末轰炸伊能源设施",
-          "url": "https://wallstreetcn.com/articles/3778460",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时48分 ~ 22时54分]"
         },
         {
           "title": "伊朗“波斯湾海峡管理局”宣布霍尔木兹海峡暂停通行",
@@ -80,8 +80,24 @@
             8
           ],
           "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[13时48分 ~ 23时55分]"
+        },
+        {
+          "title": "美官员称特朗普已下令对伊朗发动新袭击：可能本周末启动",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33692652",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            14,
+            12,
+            10,
+            7,
+            6
+          ],
+          "is_new": false,
           "appearance_count": 8,
-          "time_info": "[13时48分 ~ 22时54分]"
+          "time_info": "[16时08分 ~ 23时55分]"
         },
         {
           "title": "美官员：特朗普已下令对伊朗发动新一轮袭击",
@@ -116,21 +132,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时25分 ~ 03时13分]"
-        },
-        {
-          "title": "美官员称特朗普已下令对伊朗发动新袭击：可能本周末启动",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33692652",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            14,
-            12,
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时08分 ~ 22时54分]"
         },
         {
           "title": "伊朗在霍尔木兹击中并扣留2艘油轮",
@@ -171,6 +172,17 @@
           "time_info": "[06时00分 ~ 07时02分]"
         },
         {
+          "title": "特朗普：伊朗确实挺硬气",
+          "url": "https://news.ifeng.com/c/8vErXsygJc0",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时57分 ~ 23时55分]"
+        },
+        {
           "title": "据伊朗媒体Fars News：伊朗最高国家安全委员会秘书表示，美国政权持续实施海上封锁和煽动战火，不仅会进一步封锁霍尔木兹海峡，还会关闭其他海峡和交通要道。全球经济、能源市场和美国选民都将为此付出代价。",
           "url": "https://flash.jin10.com/detail/20260801055438503800",
           "source": "金十数据",
@@ -204,6 +216,18 @@
           "time_info": "07时02分"
         },
         {
+          "title": "美国媒体披露美军向伊朗居民区投重磅炸弹",
+          "url": "https://wallstreetcn.com/livenews/3143616",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时11分 ~ 23时55分]"
+        },
+        {
           "title": "据伊朗法尔斯通讯社：伊朗军方发言人称，我们近期已投入使用新型无人机，相关细节将在未来几天内公布。我们的无人机航程足以覆盖以色列领土。",
           "url": "https://flash.jin10.com/detail/20260801153027574800",
           "source": "金十数据",
@@ -213,28 +237,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时08分"
-        },
-        {
-          "title": "美财长称正在全球范围内追查伊朗资产",
-          "url": "https://flash.jin10.com/detail/20260801222142745800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时54分"
-        },
-        {
-          "title": "特朗普：伊朗确实挺硬气",
-          "url": "https://news.ifeng.com/c/8vErXsygJc0",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时57分 ~ 22时54分]"
         },
         {
           "title": "伊朗打击美军空中任务后勤保障枢纽",
@@ -274,6 +276,19 @@
           "time_info": "[07时02分 ~ 10时05分]"
         },
         {
+          "title": "据卡塔尔通讯社：海湾合作委员会秘书长谴责伊朗对科威特平民设施的攻击。",
+          "url": "https://flash.jin10.com/detail/20260801202347340800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            15,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时11分 ~ 23时55分]"
+        },
+        {
           "title": "伊朗最高国家安全委员会秘书：全球经济、能源市场和美国选民将为持续的海上封锁和美国的局势升级付出代价。",
           "url": "https://wallstreetcn.com/livenews/3143491",
           "source": "华尔街见闻-快讯",
@@ -284,18 +299,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时00分 ~ 07时02分]"
-        },
-        {
-          "title": "美国媒体披露美军向伊朗居民区投重磅炸弹",
-          "url": "https://wallstreetcn.com/livenews/3143616",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时11分 ~ 22时54分]"
         },
         {
           "title": "美国无力消除霍尔木兹海峡的伊朗威胁",
@@ -310,16 +313,29 @@
           "time_info": "[18时29分 ~ 19时58分]"
         },
         {
-          "title": "据卡塔尔通讯社：海湾合作委员会秘书长谴责伊朗对科威特平民设施的攻击。",
-          "url": "https://flash.jin10.com/detail/20260801202347340800",
+          "title": "美财长称正在全球范围内追查伊朗资产",
+          "url": "https://flash.jin10.com/detail/20260801222142745800",
           "source": "金十数据",
           "ranks": [
-            4,
-            15
+            5,
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[21时11分 ~ 22时54分]"
+          "time_info": "[22时54分 ~ 23时55分]"
+        },
+        {
+          "title": "伊朗称，伊斯兰阿巴德西吉尔的爆炸是由旧炮弹引起的。",
+          "url": "https://wallstreetcn.com/livenews/3143596",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            20,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时58分 ~ 23时55分]"
         },
         {
           "title": "伊朗军方称近期使用新型无人机",
@@ -333,19 +349,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[18时29分 ~ 21时11分]"
-        },
-        {
-          "title": "伊朗称，伊斯兰阿巴德西吉尔的爆炸是由旧炮弹引起的。",
-          "url": "https://wallstreetcn.com/livenews/3143596",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            20,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时58分 ~ 22时54分]"
         },
         {
           "title": "美官员称特朗普已下令对伊朗发动新一轮袭击，最早可能周末开始行动",
@@ -394,6 +397,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时58分 ~ 21时11分]"
+        },
+        {
+          "title": "美财长称正在全球范围内追查伊朗资产",
+          "url": "https://wallstreetcn.com/livenews/3143618",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时54分 ~ 23时55分]"
         },
         {
           "title": "据CBS：美国和以色列正准备最早于本周末轰炸伊朗的能源相关目标。",
@@ -465,17 +479,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时25分"
-        },
-        {
-          "title": "美财长称正在全球范围内追查伊朗资产",
-          "url": "https://wallstreetcn.com/livenews/3143618",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时54分"
         },
         {
           "title": "伊朗称已关闭霍尔木兹海峡，美中央司令部否认",
@@ -641,6 +644,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时25分"
+        },
+        {
+          "title": "特朗普说伊朗确实挺硬气",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%AF%B4%E4%BC%8A%E6%9C%97%E7%A1%AE%E5%AE%9E%E6%8C%BA%E7%A1%AC%E6%B0%94%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时55分"
         }
       ]
     },
@@ -671,8 +685,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时08分 ~ 22时54分]"
+          "appearance_count": 8,
+          "time_info": "[16时08分 ~ 23时55分]"
         },
         {
           "title": "南向资金追踪｜7月净流入约629亿港元 大举回流资讯科技业抛售硬件板块",
@@ -690,11 +704,12 @@
           "url": "https://flash.jin10.com/detail/20260801222340904800",
           "source": "金十数据",
           "ranks": [
-            4
+            4,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时54分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时54分 ~ 23时55分]"
         },
         {
           "title": "周五（7月31日），美股存储芯片与硬件供应链指数跌1.58%，报189.63点，本周累跌5.30%，7月份累计下跌29.25%、整体持续下挫。 2026年1-7月，成分股闪迪累积上涨411.77%，西部数据涨216.5%，希捷科技涨211.64%，美光科技涨188.53%，应用材料涨98.04%，泰瑞达涨90.11%，拉姆研究涨71.50%，Rambus跌0.94%。此外，最近美国IPO的SK海力士ADR跌14.45%。",
@@ -837,7 +852,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "OpenAI：我们黑了不止一家公司，Anthropic：我也是",
@@ -980,6 +995,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时57分"
+        },
+        {
+          "title": "OpenAI 价格战",
+          "url": "https://s.weibo.com/weibo?q=OpenAI%20%E4%BB%B7%E6%A0%BC%E6%88%98&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时55分"
         }
       ]
     },
@@ -1070,8 +1096,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时08分 ~ 22时54分]"
+          "appearance_count": 8,
+          "time_info": "[16时08分 ~ 23时55分]"
         },
         {
           "title": "海南将增设7家岛内居民日用消费品免税店，2家今日开业",
@@ -1082,8 +1108,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时11分 ~ 22时54分]"
+          "appearance_count": 3,
+          "time_info": "[21时11分 ~ 23时55分]"
         },
         {
           "title": "石破茂批高市政府强推消费税降税：极其不负责任",
@@ -1164,6 +1190,45 @@
       ]
     },
     {
+      "keyword_group": "房价",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "中指研究院：7月百城二手房价格环比下跌0.44%",
+          "url": "https://flash.jin10.com/detail/20260801094025095800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时05分"
+        },
+        {
+          "title": "中指研究院：7月百城二手房价格环比下跌0.44%",
+          "url": "https://wallstreetcn.com/livenews/3143527",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时05分"
+        },
+        {
+          "title": "房价还能重新上涨吗",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%88%BF%E4%BB%B7%E8%BF%98%E8%83%BD%E9%87%8D%E6%96%B0%E4%B8%8A%E6%B6%A8%E5%90%97%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时55分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 3,
       "titles": [
@@ -1205,34 +1270,6 @@
       ]
     },
     {
-      "keyword_group": "房价",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "中指研究院：7月百城二手房价格环比下跌0.44%",
-          "url": "https://flash.jin10.com/detail/20260801094025095800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时05分"
-        },
-        {
-          "title": "中指研究院：7月百城二手房价格环比下跌0.44%",
-          "url": "https://wallstreetcn.com/livenews/3143527",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时05分"
-        }
-      ]
-    },
-    {
       "keyword_group": "医药",
       "match_count": 2,
       "titles": [
@@ -1246,11 +1283,12 @@
             8,
             7,
             5,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时48分 ~ 22时54分]"
+          "appearance_count": 9,
+          "time_info": "[13时48分 ~ 23时55分]"
         },
         {
           "title": "新规落地，医药代表站在转型十字路口",
@@ -1311,6 +1349,23 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[03时12分 ~ 07时02分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "登山",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "8000米高峰雪崩 中国登山家仍失联",
+          "url": "https://www.baidu.com/s?wd=8000%E7%B1%B3%E9%AB%98%E5%B3%B0%E9%9B%AA%E5%B4%A9+%E4%B8%AD%E5%9B%BD%E7%99%BB%E5%B1%B1%E5%AE%B6%E4%BB%8D%E5%A4%B1%E8%81%94",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时55分"
         }
       ]
     },
