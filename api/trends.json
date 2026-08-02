@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-02T16:10:04.951730+08:00",
-  "total_titles_processed": 879,
+  "generated_at": "2026-08-02T18:28:22.903029+08:00",
+  "total_titles_processed": 1003,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 48,
+      "match_count": 53,
       "titles": [
         {
           "title": "以媒：特朗普接近批准袭击伊朗能源设施",
@@ -69,6 +69,17 @@
           "time_info": "[00时53分 ~ 05时47分]"
         },
         {
+          "title": "特朗普：已同意取消对伊朗的打击",
+          "url": "https://v.ifeng.com/c/8vG3old8I3A",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时33分 ~ 18时28分]"
+        },
+        {
           "title": "美财长称正在全球范围内追查伊朗资产",
           "url": "https://wallstreetcn.com/livenews/3143618",
           "source": "华尔街见闻-快讯",
@@ -83,15 +94,26 @@
           "time_info": "[00时53分 ~ 13时33分]"
         },
         {
-          "title": "特朗普：已同意取消对伊朗的打击",
-          "url": "https://v.ifeng.com/c/8vG3old8I3A",
+          "title": "伊朗军方：特朗普撒谎",
+          "url": "https://news.ifeng.com/c/8vG71UIAJN7",
           "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时33分 ~ 18时28分]"
+        },
+        {
+          "title": "TACO！特朗普“取消对伊朗打击”，伊朗否认曾要求停火，沙特王储曾致电美方“敦促缓和局势”",
+          "url": "https://wallstreetcn.com/articles/3778504",
+          "source": "华尔街见闻",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[13时33分 ~ 16时10分]"
+          "time_info": "[16时09分 ~ 18时28分]"
         },
         {
           "title": "美国媒体披露美军向伊朗居民区投重磅炸弹",
@@ -122,28 +144,6 @@
           "time_info": "[02时58分 ~ 07时51分]"
         },
         {
-          "title": "伊朗军方：特朗普撒谎",
-          "url": "https://news.ifeng.com/c/8vG71UIAJN7",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时33分 ~ 16时10分]"
-        },
-        {
-          "title": "TACO！特朗普“取消对伊朗打击”，伊朗否认曾要求停火，沙特王储曾致电美方“敦促缓和局势”",
-          "url": "https://wallstreetcn.com/articles/3778504",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时09分 ~ 16时10分]"
-        },
-        {
           "title": "美国总统特朗普：我正在摧毁伊朗货币，伊朗面临严重通胀。",
           "url": "https://flash.jin10.com/detail/20260802022303381800",
           "source": "金十数据",
@@ -169,6 +169,17 @@
           "time_info": "13时33分"
         },
         {
+          "title": "伊朗称重开霍尔木兹海峡计划纯属谣言",
+          "url": "https://flash.jin10.com/detail/20260802182144119800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时28分"
+        },
+        {
           "title": "伊朗称，伊斯兰阿巴德西吉尔的爆炸是由旧炮弹引起的。",
           "url": "https://wallstreetcn.com/livenews/3143596",
           "source": "华尔街见闻-快讯",
@@ -180,15 +191,17 @@
           "time_info": "[00时53分 ~ 06时47分]"
         },
         {
-          "title": "以色列第12频道援引外交人士消息报道称，卡塔尔外交人士正在与伊朗谈判，以确保伊朗革命卫队支持有关霍尔木兹海峡的相关安排。",
-          "url": "https://flash.jin10.com/detail/20260802154122308800",
-          "source": "金十数据",
+          "title": "美以拟周末对伊朗能源基础设施实施“猛烈轰炸” ，瞄准发电厂、炼油厂，伊朗：全面反击方案已就绪",
+          "url": "https://wallstreetcn.com/articles/3778501",
+          "source": "华尔街见闻",
           "ranks": [
-            2
+            7,
+            5,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时10分"
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时33分 ~ 18时28分]"
         },
         {
           "title": "阿拉格齐警告美方：伊朗将坚决回应任何侵犯行为",
@@ -228,27 +241,15 @@
           "time_info": "04时10分"
         },
         {
-          "title": "以色列第12频道援引外交人士消息报道称，伊朗外长阿拉格齐已同意由卡塔尔和美国共同提出的、旨在重新开放霍尔木兹海峡的解决方案。这促使特朗普取消了对伊朗发动袭击的计划。",
-          "url": "https://flash.jin10.com/detail/20260802154046201800",
+          "title": "伊朗铜业公司2026年实现约90万亿里亚尔设备和零部件国产化",
+          "url": "https://flash.jin10.com/detail/20260802175108455800",
           "source": "金十数据",
           "ranks": [
-            3
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时10分"
-        },
-        {
-          "title": "美以拟周末对伊朗能源基础设施实施“猛烈轰炸” ，瞄准发电厂、炼油厂，伊朗：全面反击方案已就绪",
-          "url": "https://wallstreetcn.com/articles/3778501",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时33分 ~ 16时10分]"
+          "time_info": "18时28分"
         },
         {
           "title": "伊朗外交部声明： 在美国继续违背6月28日停战协议的情况下，持续对伊朗的港口和商业航运实施海上封锁，针对全国各地进行野蛮攻击，加大经济压力和非法威胁，实施对伊朗的侵略行为，我国武装力量的防御打击将全力以赴继续进行。",
@@ -301,6 +302,19 @@
           "time_info": "[07时51分 ~ 16时10分]"
         },
         {
+          "title": "伊朗军方：特朗普称伊朗要求停止攻击是“谎言”",
+          "url": "https://wallstreetcn.com/livenews/3143651",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            12,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时33分 ~ 18时28分]"
+        },
+        {
           "title": "据以色列第13频道：白宫表示，伊朗将付出巨大的代价，直到它回到谈判桌上。",
           "url": "https://flash.jin10.com/detail/20260802010749771800",
           "source": "金十数据",
@@ -326,16 +340,16 @@
           "time_info": "[13时33分 ~ 16时10分]"
         },
         {
-          "title": "伊朗军方：特朗普称伊朗要求停止攻击是“谎言”",
-          "url": "https://wallstreetcn.com/livenews/3143651",
-          "source": "华尔街见闻-快讯",
+          "title": "以色列第12频道援引外交人士消息报道称，卡塔尔外交人士正在与伊朗谈判，以确保伊朗革命卫队支持有关霍尔木兹海峡的相关安排。",
+          "url": "https://flash.jin10.com/detail/20260802154122308800",
+          "source": "金十数据",
           "ranks": [
             2,
-            12
+            20
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时33分 ~ 16时10分]"
+          "time_info": "[16时10分 ~ 18时28分]"
         },
         {
           "title": "8 月 1 日特朗普称同意取消军事打击伊朗，这次军事打击行动终于要结束了吗？",
@@ -346,8 +360,33 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时33分 ~ 16时10分]"
+          "appearance_count": 4,
+          "time_info": "[13时33分 ~ 18时28分]"
+        },
+        {
+          "title": "以色列第12频道援引外交人士消息报道称，伊朗外长阿拉格齐已同意由卡塔尔和美国共同提出的、旨在重新开放霍尔木兹海峡的解决方案。这促使特朗普取消了对伊朗发动袭击的计划。",
+          "url": "https://flash.jin10.com/detail/20260802154046201800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时10分 ~ 18时28分]"
+        },
+        {
+          "title": "特朗普：同意取消对伊朗的打击",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33696747",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            13,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时33分 ~ 18时28分]"
         },
         {
           "title": "约旦官方消息人士：伊拉克已告知我们，如果亲伊朗的民兵袭击约旦，伊拉克将对其进行打击。我们期待伊拉克将采取措施遏制民兵组织。",
@@ -361,6 +400,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时56分 ~ 04时10分]"
+        },
+        {
+          "title": "特朗普称同意取消军事打击伊朗",
+          "url": "https://wallstreetcn.com/livenews/3143647",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            16,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时33分 ~ 18时28分]"
         },
         {
           "title": "阿联酋外交部：伊朗的侵略性攻击公然违反了科威特的主权，并对其安全与稳定构成威胁。",
@@ -413,18 +465,6 @@
           "time_info": "[13时33分 ~ 16时10分]"
         },
         {
-          "title": "特朗普：同意取消对伊朗的打击",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33696747",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时33分 ~ 16时10分]"
-        },
-        {
           "title": "阿拉格齐警告美方：伊朗将坚决回应任何侵犯行为",
           "url": "https://wallstreetcn.com/livenews/3143633",
           "source": "华尔街见闻-快讯",
@@ -438,16 +478,16 @@
           "time_info": "[10时02分 ~ 16时10分]"
         },
         {
-          "title": "特朗普称同意取消军事打击伊朗",
-          "url": "https://wallstreetcn.com/livenews/3143647",
+          "title": "伊朗外长与沙特外交大臣通电话，讨论地区局势",
+          "url": "https://wallstreetcn.com/livenews/3143655",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6,
-            16
+            8,
+            15
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时33分 ~ 16时10分]"
+          "time_info": "[16时10分 ~ 18时28分]"
         },
         {
           "title": "据沙特媒体哈达斯（alhadath）：约旦方面称，他们已通知伊拉克，如果亲伊朗的民兵攻击约旦，约旦将进行打击。",
@@ -486,15 +526,37 @@
           "time_info": "[10时02分 ~ 13时33分]"
         },
         {
-          "title": "伊朗外长与沙特外交大臣通电话，讨论地区局势",
-          "url": "https://wallstreetcn.com/livenews/3143655",
-          "source": "华尔街见闻-快讯",
+          "title": "伊媒：伊朗已同意重新开放霍尔木兹海峡的报道为假消息",
+          "url": "https://flash.jin10.com/detail/20260802173731395800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时28分"
+        },
+        {
+          "title": "以色列N12频道首席政治分析师表示，伊朗方面声称没有达成重新开放霍尔木兹海峡的协议，并称已公布的报道不实。",
+          "url": "https://flash.jin10.com/detail/20260802172909028800",
+          "source": "金十数据",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时10分"
+          "time_info": "18时28分"
+        },
+        {
+          "title": "特朗普称应伊方要求同意取消打击 伊朗反驳：并未要求停战！",
+          "url": "https://www.cls.cn/detail/2443463",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时28分"
         },
         {
           "title": "专家：美国威胁轰炸伊朗能源基础设施或将加剧紧张局势",
@@ -580,80 +642,15 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时10分"
         }
       ]
     },
     {
-      "keyword_group": "登山",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "8000米高峰雪崩 中国登山家仍失联",
-          "url": "https://www.baidu.com/s?wd=8000%E7%B1%B3%E9%AB%98%E5%B3%B0%E9%9B%AA%E5%B4%A9+%E4%B8%AD%E5%9B%BD%E7%99%BB%E5%B1%B1%E5%AE%B6%E4%BB%8D%E5%A4%B1%E8%81%94",
-          "source": "百度热搜",
-          "ranks": [
-            14,
-            9,
-            18,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时53分 ~ 07时51分]"
-        },
-        {
-          "title": "8000米高峰雪崩 登山公司称10人遇难",
-          "url": "https://www.toutiao.com/trending/7669209405941992987/",
-          "source": "今日头条",
-          "ranks": [
-            20,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时33分 ~ 16时10分]"
-        },
-        {
-          "title": "8000米高峰雪崩 中国登山家仍失联",
-          "url": "https://www.toutiao.com/trending/7669209405941992987/",
-          "source": "今日头条",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时01分 ~ 10时02分]"
-        },
-        {
-          "title": "登山公司称10人探险队全部遇难",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%99%BB%E5%B1%B1%E5%85%AC%E5%8F%B8%E7%A7%B010%E4%BA%BA%E6%8E%A2%E9%99%A9%E9%98%9F%E5%85%A8%E9%83%A8%E9%81%87%E9%9A%BE%23&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时09分 ~ 16时10分]"
-        },
-        {
-          "title": "著名登山家遇难 曾登56座8000米山峰",
-          "url": "https://www.baidu.com/s?wd=%E8%91%97%E5%90%8D%E7%99%BB%E5%B1%B1%E5%AE%B6%E9%81%87%E9%9A%BE+%E6%9B%BE%E7%99%BB56%E5%BA%A78000%E7%B1%B3%E5%B1%B1%E5%B3%B0",
-          "source": "百度热搜",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时09分 ~ 16时10分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "科技",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "中国“科技游”圈粉外国游客",
@@ -701,6 +698,83 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
+        },
+        {
+          "title": "一博科技：2026年上半年营收7.09亿元 净利润同比增1561.55%",
+          "url": "https://flash.jin10.com/detail/20260802155911642800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时28分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "登山",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "8000米高峰雪崩 中国登山家仍失联",
+          "url": "https://www.baidu.com/s?wd=8000%E7%B1%B3%E9%AB%98%E5%B3%B0%E9%9B%AA%E5%B4%A9+%E4%B8%AD%E5%9B%BD%E7%99%BB%E5%B1%B1%E5%AE%B6%E4%BB%8D%E5%A4%B1%E8%81%94",
+          "source": "百度热搜",
+          "ranks": [
+            14,
+            9,
+            18,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时53分 ~ 07时51分]"
+        },
+        {
+          "title": "著名登山家遇难 曾登56座8000米山峰",
+          "url": "https://www.baidu.com/s?wd=%E8%91%97%E5%90%8D%E7%99%BB%E5%B1%B1%E5%AE%B6%E9%81%87%E9%9A%BE+%E6%9B%BE%E7%99%BB56%E5%BA%A78000%E7%B1%B3%E5%B1%B1%E5%B3%B0",
+          "source": "百度热搜",
+          "ranks": [
+            24,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时09分 ~ 18时28分]"
+        },
+        {
+          "title": "8000米高峰雪崩 登山公司称10人遇难",
+          "url": "https://www.toutiao.com/trending/7669209405941992987/",
+          "source": "今日头条",
+          "ranks": [
+            20,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时33分 ~ 16时10分]"
+        },
+        {
+          "title": "8000米高峰雪崩 中国登山家仍失联",
+          "url": "https://www.toutiao.com/trending/7669209405941992987/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时01分 ~ 10时02分]"
+        },
+        {
+          "title": "登山公司称10人探险队全部遇难",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%99%BB%E5%B1%B1%E5%85%AC%E5%8F%B8%E7%A7%B010%E4%BA%BA%E6%8E%A2%E9%99%A9%E9%98%9F%E5%85%A8%E9%83%A8%E9%81%87%E9%9A%BE%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时09分 ~ 16时10分]"
         }
       ]
     },
@@ -713,44 +787,48 @@
           "url": "https://flash.jin10.com/detail/20260802150712820800",
           "source": "金十数据",
           "ranks": [
-            8
+            8,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时10分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时10分 ~ 18时28分]"
         },
         {
           "title": "央行：金融高水平开放稳步推进",
           "url": "https://flash.jin10.com/detail/20260802150527914800",
           "source": "金十数据",
           "ranks": [
-            9
+            9,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时10分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时10分 ~ 18时28分]"
         },
         {
           "title": "央行：重点领域金融风险持续化解",
           "url": "https://flash.jin10.com/detail/20260802150458267800",
           "source": "金十数据",
           "ranks": [
-            10
+            10,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时10分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时10分 ~ 18时28分]"
         },
         {
           "title": "央行：金融服务重点领域和薄弱环节质效提升",
           "url": "https://flash.jin10.com/detail/20260802150427196800",
           "source": "金十数据",
           "ranks": [
-            11
+            11,
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时10分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时10分 ~ 18时28分]"
         }
       ]
     },
@@ -814,11 +892,12 @@
           "ranks": [
             4,
             9,
-            12
+            12,
+            15
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时53分 ~ 16时10分]"
+          "appearance_count": 16,
+          "time_info": "[00时53分 ~ 18时28分]"
         },
         {
           "title": "OpenAI确认下一代模型Astra存在，以2000美元算力成本破解十项数学未解难题，正向监管层展示",
@@ -829,8 +908,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时51分 ~ 16时10分]"
+          "appearance_count": 7,
+          "time_info": "[07时51分 ~ 18时28分]"
         },
         {
           "title": "OpenAI的10项数学突破含金量多高",
@@ -966,11 +1045,12 @@
           "url": "https://www.baidu.com/s?wd=%E2%80%9C%E9%BB%91%E8%89%B2%E9%BB%84%E9%87%91%E2%80%9D%E4%BB%B7%E6%A0%BC%E6%89%93%E4%B8%8B%E6%9D%A5%E4%BA%86",
           "source": "百度热搜",
           "ranks": [
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时09分 ~ 16时10分]"
+          "appearance_count": 3,
+          "time_info": "[16时09分 ~ 18时28分]"
         }
       ]
     }
