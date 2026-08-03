@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-03T10:04:00.122083+08:00",
-  "total_titles_processed": 752,
+  "generated_at": "2026-08-03T14:14:01.799379+08:00",
+  "total_titles_processed": 963,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 61,
+      "match_count": 63,
       "titles": [
         {
           "title": "TACO！特朗普“取消对伊朗打击”，伊朗否认曾要求停火，沙特王储曾致电美方“敦促缓和局势”",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时52分 ~ 10时04分]"
+          "appearance_count": 12,
+          "time_info": "[00时52分 ~ 14时14分]"
         },
         {
           "title": "特朗普：同意取消对伊朗的打击",
@@ -62,8 +62,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时03分 ~ 10时04分]"
+          "appearance_count": 4,
+          "time_info": "[10时03分 ~ 14时14分]"
+        },
+        {
+          "title": "【早报】特朗普称取消打击伊朗，原油大跌、黄金上涨；央行定调下半年货币政策",
+          "url": "https://www.cls.cn/detail/2443662",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时03分 ~ 14时14分]"
         },
         {
           "title": "沙特外交大臣与伊朗外长讨论如何缓和地区局势。（沙特官方媒体SPA）",
@@ -106,17 +117,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时52分 ~ 06时48分]"
-        },
-        {
-          "title": "【早报】特朗普称取消打击伊朗，原油大跌、黄金上涨；央行定调下半年货币政策",
-          "url": "https://www.cls.cn/detail/2443662",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时03分 ~ 10时04分]"
         },
         {
           "title": "涉及霍尔木兹海峡，伊朗外交部再发声",
@@ -394,6 +394,17 @@
           "time_info": "[02时59分 ~ 05时48分]"
         },
         {
+          "title": "事关霍尔木兹！特朗普称今日举行谈判，伊朗重申“不会恢复至战前”！",
+          "url": "https://www.cls.cn/detail/2443690",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时13分 ~ 14时14分]"
+        },
+        {
           "title": "伊朗外交部发言人：与巴基斯坦和土耳其官员的对话中涉及到针对美国威胁的警告和回应，如果伊朗受到攻击，将进行报复。",
           "url": "https://flash.jin10.com/detail/20260803010226366800",
           "source": "金十数据",
@@ -512,6 +523,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时11分 ~ 05时48分]"
+        },
+        {
+          "title": "伊朗袭击乌军基地？实为纽约大火",
+          "url": "https://www.toutiao.com/trending/7669212085427339283/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时13分 ~ 14时14分]"
         },
         {
           "title": "伊朗外交部发言人：我们接到了来自英国、乌克兰和保加利亚的电话，他们表示不会参与这场战争。",
@@ -752,7 +774,7 @@
     },
     {
       "keyword_group": "科技",
-      "match_count": 12,
+      "match_count": 17,
       "titles": [
         {
           "title": "A股8月修复可期？科技仍为中长期主线？十大券商策略来了",
@@ -765,8 +787,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时52分 ~ 10时04分]"
+          "appearance_count": 12,
+          "time_info": "[00时52分 ~ 14时14分]"
         },
         {
           "title": "AI能否回本？科技巨头本周的股价走势，市场给出了答案",
@@ -774,11 +796,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时52分 ~ 10时04分]"
+          "appearance_count": 12,
+          "time_info": "[00时52分 ~ 14时14分]"
         },
         {
           "title": "A股券商、金融科技股早盘下挫，湘财股份、国盛证券逼近跌停，广发证券、指南针、同花顺、中银证券跟跌。",
@@ -787,7 +810,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时04分"
         },
@@ -798,7 +821,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时04分"
         },
@@ -809,9 +832,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时04分"
+        },
+        {
+          "title": "A股存储芯片概念股午后持续走弱，兆易创新逼近跌停，普冉股份跌超10%，德明利、佰维存储、香农芯创、江波龙、澜起科技等跌幅靠前。",
+          "url": "https://wallstreetcn.com/livenews/3143917",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时14分"
         },
         {
           "title": "A股燃气轮机概念表现活跃，飞沃科技涨超10%，汽轮科技、东方电气、万泽股份、常宝股份、应流股份跟涨。",
@@ -820,9 +854,31 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时04分"
+        },
+        {
+          "title": "券商晨会精华：科技行情交易底初现 拥挤度是市场的核心锚点",
+          "url": "https://www.cls.cn/detail/2443674",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时13分 ~ 14时14分]"
+        },
+        {
+          "title": "A股存储芯片概念午后持续走弱，兆易创新逼近跌停，普冉股份跌超10%，德明利、佰维存储、香农芯创、江波龙、澜起科技等跌幅靠前。",
+          "url": "https://flash.jin10.com/detail/20260803134941332800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时14分"
         },
         {
           "title": "港股半导体概念股走低，兆易创新(03986.HK)、澜起科技(06809.HK)均跌超6%，圣邦股份(03661.HK)跌超3%，中芯国际(00981.HK)跌超2%。",
@@ -831,7 +887,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时04分"
         },
@@ -842,7 +898,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时04分"
         },
@@ -853,7 +909,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时04分"
         },
@@ -864,7 +920,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时04分"
         },
@@ -875,9 +931,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时04分"
+        },
+        {
+          "title": "恒生指数午后转跌，恒生科技指数涨幅收窄至0.44%，智谱(02513.HK)跌8%，中芯国际(00981.HK)、理想汽车(02015.HK)跌超2%。",
+          "url": "https://flash.jin10.com/detail/20260803132516722800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时14分"
         },
         {
           "title": "A股光通信概念震荡反弹，宿迁联盛涨停，联特科技、仕佳光子、云南锗业、长光华芯、兴业科技、源杰科技涨幅靠前。",
@@ -886,15 +953,26 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时04分"
+        },
+        {
+          "title": "A股PEEK材料概念震荡反弹，百合花涨停，恒勃股份、崇德科技、国恩股份、新瀚新材、中研股份、超捷股份等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260803130916307800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时14分"
         }
       ]
     },
     {
       "keyword_group": "制造业",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "提醒：北京时间09:45将公布中国7月RatingDog制造业PMI。",
@@ -903,7 +981,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时04分"
         },
@@ -919,13 +997,24 @@
           "time_info": "07时53分"
         },
         {
+          "title": "印度7月制造业PMI终值 53.5，初值 53.9。",
+          "url": "https://wallstreetcn.com/livenews/3143900",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时14分"
+        },
+        {
           "title": "7月RatingDog中国制造业PMl录得50.9 连续第八个月处于扩张区间",
           "url": "https://flash.jin10.com/detail/20260803095035785800",
           "source": "金十数据",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时04分"
         },
@@ -936,7 +1025,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时04分"
         },
@@ -947,7 +1036,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时04分"
         },
@@ -958,7 +1047,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时04分"
         },
@@ -969,7 +1058,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时04分"
         }
@@ -977,7 +1066,7 @@
     },
     {
       "keyword_group": "消费",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "小米多款手机今起涨价，其市场策略和消费者选择将受何影响？",
@@ -1012,11 +1101,23 @@
           "source": "澎湃新闻",
           "ranks": [
             13,
-            14
+            14,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时53分 ~ 10时04分]"
+          "appearance_count": 5,
+          "time_info": "[07时53分 ~ 14时14分]"
+        },
+        {
+          "title": "盒马、山姆等顶流商超接连布局县城，如何看待头部商超集体「下乡」这一趋势？县城消费力能否支撑其野心？",
+          "url": "https://www.zhihu.com/question/2066600913112753139",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时13分 ~ 14时14分]"
         },
         {
           "title": "银鹭给维权消费者转账却附言敲诈",
@@ -1110,7 +1211,7 @@
     },
     {
       "keyword_group": "旅游",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "赛里木湖景区工作人员殴打旅游车司机处理情况：7人被拘，优化自驾服务费",
@@ -1124,6 +1225,17 @@
           "time_info": "[10时03分 ~ 10时04分]"
         },
         {
+          "title": "赛里木湖景区工作人员殴打旅游车司机处理情况：7人被行政拘留 优化自驾服务费",
+          "url": "https://www.cls.cn/detail/2443672",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时13分 ~ 14时14分]"
+        },
+        {
           "title": "长春这场泰国旅游推介带游客玩嗨了",
           "url": "https://www.toutiao.com/trending/7669296822742368282/",
           "source": "今日头条",
@@ -1133,6 +1245,37 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时03分 ~ 10时04分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "deepseek 定价按 10 个月回本算都这么便宜了，为什么谷歌投资 ai 还会现金流转负？",
+          "url": "https://www.zhihu.com/question/2065010626171293829",
+          "source": "知乎",
+          "ranks": [
+            17,
+            11,
+            9,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[04时11分 ~ 07时53分]"
+        },
+        {
+          "title": "如何评价 OpenAI 、 Anthropic 、谷歌等巨头联名呼吁控制前沿自动化 AI 研发？",
+          "url": "https://www.zhihu.com/question/2065724643378570793",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时13分 ~ 14时14分]"
         }
       ]
     },
@@ -1192,26 +1335,6 @@
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "deepseek 定价按 10 个月回本算都这么便宜了，为什么谷歌投资 ai 还会现金流转负？",
-          "url": "https://www.zhihu.com/question/2065010626171293829",
-          "source": "知乎",
-          "ranks": [
-            17,
-            11,
-            9,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时11分 ~ 07时53分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "chatgpt openai",
       "match_count": 1,
       "titles": [
@@ -1221,11 +1344,12 @@
           "source": "贴吧",
           "ranks": [
             18,
-            19
+            19,
+            29
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时52分 ~ 10时04分]"
+          "appearance_count": 12,
+          "time_info": "[00时52分 ~ 14时14分]"
         }
       ]
     }
