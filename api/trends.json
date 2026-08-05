@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-05T21:50:34.275610+08:00",
-  "total_titles_processed": 1467,
+  "generated_at": "2026-08-05T23:56:48.925396+08:00",
+  "total_titles_processed": 1599,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 33,
+      "match_count": 43,
       "titles": [
         {
           "title": "美财长透露与伊朗达成协议的时间",
@@ -53,6 +53,17 @@
           "time_info": "[13时40分 ~ 16时23分]"
         },
         {
+          "title": "伊朗的最后一张牌",
+          "url": "https://news.ifeng.com/c/8vLNKMOtVmN",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时14分 ~ 23时56分]"
+        },
+        {
           "title": "释新闻｜特朗普再次叫停袭击背后：伊朗“有选择地扩大冲突”如何捆住美国手脚",
           "url": "https://m.thepaper.cn/newsDetail_forward_33710926",
           "source": "澎湃新闻",
@@ -65,15 +76,15 @@
           "time_info": "[01时38分 ~ 07时58分]"
         },
         {
-          "title": "伊朗的最后一张牌",
-          "url": "https://news.ifeng.com/c/8vLNKMOtVmN",
-          "source": "凤凰网",
+          "title": "巴林国王媒体顾问表示，巴林防空部队正在抵御伊朗空中攻击。据他称，最近数小时内已击退多次伊朗空中袭击。此前，巴林因空袭威胁拉响了防空警报。",
+          "url": "https://flash.jin10.com/detail/20260805234743581800",
+          "source": "金十数据",
           "ranks": [
-            3
+            1
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时14分 ~ 21时50分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
         },
         {
           "title": "英媒：伊朗考虑向欧洲国家收取霍尔木兹海峡维护费用",
@@ -93,7 +104,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时50分"
         },
@@ -203,13 +214,24 @@
           "time_info": "06时55分"
         },
         {
+          "title": "伊朗称与阿曼的联合声明正处于终审阶段 双方就航运路线达成一致",
+          "url": "https://flash.jin10.com/detail/20260805231327490800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
+        },
+        {
           "title": "伊朗和意大利外长讨论霍尔木兹海峡谈判。（伊朗塔斯尼姆通讯社）",
           "url": "https://wallstreetcn.com/livenews/3145416",
           "source": "华尔街见闻-快讯",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时50分"
         },
@@ -225,6 +247,17 @@
           "time_info": "03时21分"
         },
         {
+          "title": "伊朗称和阿曼就霍尔木兹海峡拟定航道坐标达成一致",
+          "url": "https://flash.jin10.com/detail/20260805231117427800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
+        },
+        {
           "title": "伊朗国家广播电视台（IRIB）: 伊朗外交部发言人宣布，伊朗与阿曼旨在保障霍尔木兹海峡航运安全通行的谈判仍在继续。",
           "url": "https://wallstreetcn.com/livenews/3144874",
           "source": "华尔街见闻-快讯",
@@ -234,6 +267,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时38分"
+        },
+        {
+          "title": "伊朗称和阿曼就霍尔木兹海峡拟定航道坐标达成一致",
+          "url": "https://wallstreetcn.com/livenews/3145479",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
+        },
+        {
+          "title": "伊朗外交部发言人：我们研究了与阿曼就霍尔木兹海峡问题进行会谈的各种技术、法律、安全和环境层面。",
+          "url": "https://flash.jin10.com/detail/20260805230926333800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
+        },
+        {
+          "title": "伊朗：与阿曼围绕航运路线达成共识",
+          "url": "https://wallstreetcn.com/livenews/3145478",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
         },
         {
           "title": "伊朗称与阿曼就霍尔木兹海峡的谈判进展“积极”",
@@ -280,6 +346,17 @@
           "time_info": "01时38分"
         },
         {
+          "title": "伊朗外交部发言人：与阿曼的谈判专业且进展顺利。",
+          "url": "https://flash.jin10.com/detail/20260805230516483800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
+        },
+        {
           "title": "卡塔尔埃米尔：与特朗普的通话内容涉及最新的地区发展，特别是缓解美国与伊朗之间紧张局势的努力，以及弥合双方立场的差距，从而增强危机可持续外交解决的前景。",
           "url": "https://flash.jin10.com/detail/20260805020906830800",
           "source": "金十数据",
@@ -291,15 +368,37 @@
           "time_info": "03时21分"
         },
         {
+          "title": "伊朗外交部发言人：外交部长或议长暂无出访巴基斯坦或卡塔尔的计划。",
+          "url": "https://flash.jin10.com/detail/20260805230441113800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
+        },
+        {
           "title": "伊朗官员：“抵抗阵线”协调行动增强对美威慑",
           "url": "https://wallstreetcn.com/livenews/3145405",
           "source": "华尔街见闻-快讯",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时50分"
+        },
+        {
+          "title": "伊朗外交部发言人：伊朗-阿曼协议本身并不意味着霍尔木兹海峡（通行）是安全的。联合声明正处于最终起草阶段。",
+          "url": "https://flash.jin10.com/detail/20260805230343292800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
         },
         {
           "title": "美官员：霍尔木兹海峡临时航线免许可免收费，特朗普对伊朗谈判大门仍敞开",
@@ -333,6 +432,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时14分"
+        },
+        {
+          "title": "报道：官员称美财政部移除伊朗相关制裁措施并不代表政策转变",
+          "url": "https://wallstreetcn.com/livenews/3145467",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
         },
         {
           "title": "美民主党议员致信赫格塞思 质疑五角大楼对伊朗战争的伤亡统计",
@@ -374,7 +484,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时50分"
         }
@@ -382,7 +492,7 @@
     },
     {
       "keyword_group": "科技",
-      "match_count": 27,
+      "match_count": 28,
       "titles": [
         {
           "title": "外媒称美国拟禁止进口中国新型号的光收发模块，此举将对中美科技竞争及全球数据产业带来哪些影响？",
@@ -442,7 +552,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时50分"
         },
@@ -577,7 +687,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时50分"
         },
@@ -690,6 +800,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时07分"
+        },
+        {
+          "title": "美国半导体板块冲高回落，跌超1%刷新日低。 Tower半导体ADR跌7.6%，莱迪斯半导体、AMD至少跌6%，日月光半导体跌4%，安森美半导体跌3.6%，泰瑞达跌2.8%，拉姆研究跌2.7%，高通、英特尔跌2.4%，SK海力士ADR跌1.6%，阿斯麦ADR跌1.3%。 新思科技目前涨0.4%，Rambus、安费诺、博通、西部数据至多涨1.3%，美光涨2.5%，希捷科技涨2.9%，高意公司Coherent涨4%，英伟达涨4.2%。",
+          "url": "https://wallstreetcn.com/livenews/3145466",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
         }
       ]
     },
@@ -724,11 +845,12 @@
           "url": "https://www.zhihu.com/question/2068265537105302957",
           "source": "知乎",
           "ranks": [
-            6
+            6,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时50分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时50分 ~ 23时56分]"
         },
         {
           "title": "英国机构报告AI安全事件 涉Anthropic和OpenAI模型",
@@ -767,7 +889,7 @@
     },
     {
       "keyword_group": "金融",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "金融博客零对冲：各位注意，倒计时开始。美国政府债务将在两周内达到40万亿美元。",
@@ -776,7 +898,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时50分"
         },
@@ -790,6 +912,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时55分"
+        },
+        {
+          "title": "保德信金融(PRU)股价短线跳水，整体转而跌2.7%刷新日低。 该公司希望从新兴市场收割30亿美元，并退出。 该公司CEO沙利文（Andy Sullivan）对彭博表示，目前其保险业务覆盖10个国家，公司正积极寻求出售业务，将这一数量削减约一半，以集中发力美国、欧洲和日本市场。他表示，该战略预计将在未来24至36个月内逐步推进。",
+          "url": "https://wallstreetcn.com/livenews/3145474",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
         },
         {
           "title": "金融博客零对冲此前发贴表示：“SpaceX财报前出现大规模卖空：可借出的SpaceX股票中有95%已被借出，占流通股比例的空头仓位达到34%。”马斯克回复该帖称：“我试图提醒他们，但他们只是进一步加码押注。”（SpaceX(SPCX.O)将于今日美股盘后公布Q2业绩）",
@@ -833,6 +966,18 @@
           "time_info": "[06时55分 ~ 21时50分]"
         },
         {
+          "title": "兰州拉面纷纷改名青海拉面，背后有哪些商业博弈？会影响你的消费选择吗？",
+          "url": "https://www.zhihu.com/question/2068309576659595271",
+          "source": "知乎",
+          "ranks": [
+            18,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时50分 ~ 23时56分]"
+        },
+        {
           "title": "日本内阁批准削减食品消费税。（日本共同社）",
           "url": "https://wallstreetcn.com/livenews/3145232",
           "source": "华尔街见闻-快讯",
@@ -842,17 +987,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时23分"
-        },
-        {
-          "title": "兰州拉面纷纷改名青海拉面，背后有哪些商业博弈？会影响你的消费选择吗？",
-          "url": "https://www.zhihu.com/question/2068309576659595271",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时50分"
         }
       ]
     },
@@ -867,9 +1001,9 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时50分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时50分 ~ 23时56分]"
         },
         {
           "title": "港股铜矿股集体走强，中国黄金国际(02099.HK)涨超6%，万国黄金(03939.HK)、五矿资源(01208.HK)、洛阳钼业(03993.HK)涨超3%，紫金矿业(02899.HK)涨超2%。",
@@ -895,11 +1029,12 @@
           "ranks": [
             1,
             8,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时40分 ~ 21时50分]"
+          "appearance_count": 6,
+          "time_info": "[13时40分 ~ 23时56分]"
         },
         {
           "title": "澳大利亚7月AIG/PWC制造业表现指数 -19.6，前值-16.8。",
@@ -956,7 +1091,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时50分"
         },
@@ -970,6 +1105,51 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时04分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "旅游",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "这世界大得让你很难不旅游",
+          "url": "https://www.douyin.com/hot/2598897",
+          "source": "抖音",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时50分 ~ 23时56分]"
+        },
+        {
+          "title": "女子旅游错把丧葬品当纪念品买下",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%97%85%E6%B8%B8%E9%94%99%E6%8A%8A%E4%B8%A7%E8%91%AC%E5%93%81%E5%BD%93%E7%BA%AA%E5%BF%B5%E5%93%81%E4%B9%B0%E4%B8%8B",
+          "source": "百度热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "房价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "【上交所行动之后深交所也将切换交易线路，周边机房已“供应紧张”】从业内反馈来看，沪深交易所均在推动将交易行情接入方式变更为广域网线路，但实施节奏有所不同。多位业内人士称，上交所将交易行情接入方式统一由局域网变更为广域网线路已于7月31日完成。尽管线路切换还未完成，但“近深交所”的机房争夺战已经悄然升温。一位在从事机房租赁业务的人士表示，深交所附近的机房目前供应也已“比较紧张”。据此前报道，上交所附近的机房价格已有明显上涨，且处于一柜难求的状态。(一财)",
+          "url": "https://wallstreetcn.com/livenews/3145481",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时56分"
         }
       ]
     },
@@ -1001,7 +1181,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时50分"
         }
@@ -1039,23 +1219,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时38分 ~ 13时41分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "旅游",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "这世界大得让你很难不旅游",
-          "url": "https://www.douyin.com/hot/2598897",
-          "source": "抖音",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时50分"
         }
       ]
     }
