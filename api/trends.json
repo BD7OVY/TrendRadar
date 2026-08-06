@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-06T09:52:00.080082+08:00",
-  "total_titles_processed": 748,
+  "generated_at": "2026-08-06T13:02:00.993087+08:00",
+  "total_titles_processed": 942,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 48,
+      "match_count": 49,
       "titles": [
         {
           "title": "伊朗的最后一张牌",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时53分 ~ 09时52分]"
+          "appearance_count": 5,
+          "time_info": "[07时53分 ~ 13时02分]"
         },
         {
           "title": "伊朗总统佩泽希齐扬在国家电视台发表讲话：联系最高领袖“非常困难”。",
@@ -96,6 +96,30 @@
           "time_info": "01时24分"
         },
         {
+          "title": "伊朗与阿曼会谈最新细节曝光",
+          "url": "https://news.ifeng.com/c/8vM5VvMgc8P",
+          "source": "凤凰网",
+          "ranks": [
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时53分 ~ 13时02分]"
+        },
+        {
+          "title": "伊朗称与阿曼接近达成协议，海峡现有两条航道将关闭，“收费标准”仍是核心分歧",
+          "url": "https://wallstreetcn.com/articles/3778783",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时51分 ~ 13时02分]"
+        },
+        {
           "title": "伊朗称与阿曼接近达成协议，海峡现有两条航道将关闭",
           "url": "https://wallstreetcn.com/livenews/3145607",
           "source": "华尔街见闻-快讯",
@@ -156,27 +180,16 @@
           "time_info": "[06时14分 ~ 07时53分]"
         },
         {
-          "title": "伊朗与阿曼会谈最新细节曝光",
-          "url": "https://news.ifeng.com/c/8vM5VvMgc8P",
-          "source": "凤凰网",
+          "title": "国际金价大幅飙升 伊朗称与阿曼接近达成协议 | 环球市场",
+          "url": "https://www.cls.cn/detail/2446838",
+          "source": "财联社热门",
           "ranks": [
-            11,
-            8
+            13,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时53分 ~ 09时52分]"
-        },
-        {
-          "title": "伊朗称与阿曼接近达成协议，海峡现有两条航道将关闭，“收费标准”仍是核心分歧",
-          "url": "https://wallstreetcn.com/articles/3778783",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时51分 ~ 09时52分]"
+          "appearance_count": 4,
+          "time_info": "[09时51分 ~ 13时02分]"
         },
         {
           "title": "美国总统特朗普：我们正在与伊朗进行对话，将看看会发生什么。",
@@ -215,15 +228,15 @@
           "time_info": "[06时14分 ~ 07时53分]"
         },
         {
-          "title": "国际金价大幅飙升 伊朗称与阿曼接近达成协议 | 环球市场",
-          "url": "https://www.cls.cn/detail/2446838",
+          "title": "特朗普“一厢情愿”？伊朗：与阿曼就霍尔木兹航线接近达成协议！",
+          "url": "https://www.cls.cn/detail/2446884",
           "source": "财联社热门",
           "ranks": [
-            13
+            11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时51分 ~ 09时52分]"
+          "time_info": "[13时01分 ~ 13时02分]"
         },
         {
           "title": "机构：霍尔木兹海峡重开后，伊朗仍将建立机制“确保维持和平”",
@@ -408,7 +421,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时52分"
         },
@@ -507,7 +520,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时52分"
         },
@@ -548,7 +561,7 @@
     },
     {
       "keyword_group": "科技",
-      "match_count": 12,
+      "match_count": 17,
       "titles": [
         {
           "title": "SpaceX暴跌13%拖累科技板块，标普纳指高位回调，黄金飙涨4%，原油冲高回落",
@@ -558,8 +571,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时14分 ~ 09时52分]"
+          "appearance_count": 6,
+          "time_info": "[06时14分 ~ 13时02分]"
         },
         {
           "title": "数字货币概念快速拉升，飞天诚信、恒宝股份、新北洋涨停，楚天龙、天融信、优博讯、创识科技涨超5%。",
@@ -568,7 +581,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时52分"
         },
@@ -637,9 +650,42 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时52分"
+        },
+        {
+          "title": "扬电科技在互动平台表示，公司已正常开展相关算力业务，目前业务规模在陆续提升。",
+          "url": "https://flash.jin10.com/detail/20260806120349632800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
+        },
+        {
+          "title": "港股午评：恒生指数跌1.75%，恒生科技指数跌1.87%",
+          "url": "https://flash.jin10.com/detail/20260806120322622800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
+        },
+        {
+          "title": "恒生科技指数日内跌幅扩大至2.1%。中芯国际跌4%。",
+          "url": "https://wallstreetcn.com/livenews/3145788",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
         },
         {
           "title": "恒指低开0.96%，报25667.14点；恒生科技指数跌0.99%。华虹宏力跌超3%，智谱跌近3%，中芯国际、联想集团、蔚来、百度等跌超2%。",
@@ -648,9 +694,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时52分"
+        },
+        {
+          "title": "CPO概念股震荡拉升，联特科技、光力科技涨超10%，中富电路、长芯博创、汇绿生态、工业富联涨超5%。",
+          "url": "https://wallstreetcn.com/livenews/3145776",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
         },
         {
           "title": "A股CPO板块今日调整，联讯仪器跌超5%，锐捷网络、中际旭创、国瓷材料跌超4%，光库科技、立讯精密跟跌。",
@@ -659,7 +716,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时52分"
         },
@@ -673,6 +730,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
+        },
+        {
+          "title": "星展银行首席执行官：中国台湾科技、媒体、电信行业及半导体生态系统被视为推动股市的因素。关注印度可再生能源增长和人工智能基础设施增长的机会。",
+          "url": "https://flash.jin10.com/detail/20260806114306480800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
         },
         {
           "title": "摩根大通：科技股交易在经历惨烈抛售后，散户影响力或将加大",
@@ -825,7 +893,7 @@
     },
     {
       "keyword_group": "消费",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "兰州拉面纷纷改名青海拉面，背后有哪些商业博弈？会影响你的消费选择吗？",
@@ -848,7 +916,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时52分"
         },
@@ -862,12 +930,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
+        },
+        {
+          "title": "日本首相高市早苗：两年后将食品消费税恢复至8%并不属于加税。 为获得市场信任，食品消费税有必要恢复至8%。 新税收抵免制度的效益将超过减税。",
+          "url": "https://wallstreetcn.com/livenews/3145764",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
         }
       ]
     },
     {
       "keyword_group": "金价",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "黄金价格是否已经出现底部信号",
@@ -890,6 +969,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时14分"
+        },
+        {
+          "title": "多重利好同时发力，金价一口气创下半年最强表现！",
+          "url": "https://flash.jin10.com/detail/20260806115414724800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
         }
       ]
     },
@@ -980,11 +1070,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356781&amp;topic_name=211%E7%A1%95%E5%A3%AB%E5%B9%B2%E6%99%AE%E5%B7%A5%2C%E5%88%B6%E9%80%A0%E4%B8%9A%E5%A4%AA%E7%9C%9F%E5%AE%9E",
           "source": "贴吧",
           "ranks": [
-            14
+            14,
+            23
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时23分 ~ 09时52分]"
+          "appearance_count": 11,
+          "time_info": "[01时23分 ~ 13时02分]"
         }
       ]
     },
@@ -1001,8 +1092,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时53分 ~ 09时52分]"
+          "appearance_count": 5,
+          "time_info": "[07时53分 ~ 13时02分]"
         }
       ]
     }
