@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-06T13:02:00.993087+08:00",
-  "total_titles_processed": 942,
+  "generated_at": "2026-08-06T15:42:25.727862+08:00",
+  "total_titles_processed": 1099,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 49,
+      "match_count": 51,
       "titles": [
         {
           "title": "伊朗的最后一张牌",
@@ -28,6 +28,28 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[07时53分 ~ 13时02分]"
+        },
+        {
+          "title": "伊朗总统：最高领袖决策过程遭人利用",
+          "url": "https://news.ifeng.com/c/8vMnd0UIy30",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时42分"
+        },
+        {
+          "title": "伊朗总统：最高领袖决策过程遭人利用",
+          "url": "https://www.toutiao.com/trending/7670008339098750483/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时42分"
         },
         {
           "title": "伊朗总统佩泽希齐扬在国家电视台发表讲话：联系最高领袖“非常困难”。",
@@ -74,6 +96,18 @@
           "time_info": "03时19分"
         },
         {
+          "title": "伊朗称与阿曼接近达成协议，海峡现有两条航道将关闭，“收费标准”仍是核心分歧",
+          "url": "https://wallstreetcn.com/articles/3778783",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时51分 ~ 15时42分]"
+        },
+        {
           "title": "伊朗总统回应此前伊朗最高领袖关于停火谅解备忘录消息引发的争议。伊朗总统称：“他们发布了一条消息，称‘原则上，我并不赞成’，但最终，他们允许这一进程继续进行。一些试图制造分裂、利用现有分歧并实现自身派系目标的人夸大了这一问题。”",
           "url": "https://flash.jin10.com/detail/20260806025420387800",
           "source": "金十数据",
@@ -108,16 +142,17 @@
           "time_info": "[07时53分 ~ 13时02分]"
         },
         {
-          "title": "伊朗称与阿曼接近达成协议，海峡现有两条航道将关闭，“收费标准”仍是核心分歧",
-          "url": "https://wallstreetcn.com/articles/3778783",
-          "source": "华尔街见闻",
+          "title": "国际金价大幅飙升 伊朗称与阿曼接近达成协议 | 环球市场",
+          "url": "https://www.cls.cn/detail/2446838",
+          "source": "财联社热门",
           "ranks": [
-            7,
-            6
+            13,
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时51分 ~ 13时02分]"
+          "appearance_count": 5,
+          "time_info": "[09时51分 ~ 15时42分]"
         },
         {
           "title": "伊朗称与阿曼接近达成协议，海峡现有两条航道将关闭",
@@ -180,16 +215,16 @@
           "time_info": "[06时14分 ~ 07时53分]"
         },
         {
-          "title": "国际金价大幅飙升 伊朗称与阿曼接近达成协议 | 环球市场",
-          "url": "https://www.cls.cn/detail/2446838",
+          "title": "特朗普“一厢情愿”？伊朗：与阿曼就霍尔木兹航线接近达成协议！",
+          "url": "https://www.cls.cn/detail/2446884",
           "source": "财联社热门",
           "ranks": [
-            13,
-            10
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时51分 ~ 13时02分]"
+          "appearance_count": 3,
+          "time_info": "[13时01分 ~ 15时42分]"
         },
         {
           "title": "美国总统特朗普：我们正在与伊朗进行对话，将看看会发生什么。",
@@ -226,17 +261,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时14分 ~ 07时53分]"
-        },
-        {
-          "title": "特朗普“一厢情愿”？伊朗：与阿曼就霍尔木兹航线接近达成协议！",
-          "url": "https://www.cls.cn/detail/2446884",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时01分 ~ 13时02分]"
         },
         {
           "title": "机构：霍尔木兹海峡重开后，伊朗仍将建立机制“确保维持和平”",
@@ -571,8 +595,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时14分 ~ 13时02分]"
+          "appearance_count": 7,
+          "time_info": "[06时14分 ~ 15时42分]"
         },
         {
           "title": "数字货币概念快速拉升，飞天诚信、恒宝股份、新北洋涨停，楚天龙、天融信、优博讯、创识科技涨超5%。",
@@ -661,7 +685,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时02分"
         },
@@ -672,7 +696,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时02分"
         },
@@ -683,7 +707,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时02分"
         },
@@ -705,7 +729,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时02分"
         },
@@ -738,7 +762,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时02分"
         },
@@ -757,7 +781,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "怎么看 OpenAI 提到下一代 Harness 将脱离 PC，两三个月后现在的 Codex 工作方式会淘汰？",
@@ -795,6 +819,17 @@
           "time_info": "06时14分"
         },
         {
+          "title": "软银集团：于2026年8月安排了等值17.5亿美元的杠杆收购（LBO）融资，用于支付收购ABB Ltd机器人业务的部分款项。 于2026年8月以OpenAI股份为抵押，签订了100亿美元的贷款协议。",
+          "url": "https://wallstreetcn.com/livenews/3145865",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时42分"
+        },
+        {
           "title": "微软AI收入过半来自OpenAI 显示对合作伙伴依赖仍较高",
           "url": "https://flash.jin10.com/detail/20260806021844852800",
           "source": "金十数据",
@@ -826,6 +861,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时19分"
+        },
+        {
+          "title": "软银集团：截至三月底OpenAI持股估值未发生变化。",
+          "url": "https://flash.jin10.com/detail/20260806145401696800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时42分"
         }
       ]
     },
@@ -938,7 +984,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时02分"
         }
@@ -977,9 +1023,81 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "旅游",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "这世界大得让你很难不旅游",
+          "url": "https://www.douyin.com/hot/2598897",
+          "source": "抖音",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时23分 ~ 07时53分]"
+        },
+        {
+          "title": "女子旅游错把丧葬品当纪念品买下",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%97%85%E6%B8%B8%E9%94%99%E6%8A%8A%E4%B8%A7%E8%91%AC%E5%93%81%E5%BD%93%E7%BA%AA%E5%BF%B5%E5%93%81%E4%B9%B0%E4%B8%8B",
+          "source": "百度热搜",
+          "ranks": [
+            12,
+            6,
+            7,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时23分 ~ 09时52分]"
+        },
+        {
+          "title": "广州奶奶东北旅游羽绒服搭配凉鞋",
+          "url": "https://www.toutiao.com/trending/7670748111834923071/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时42分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金融",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "沃什面前只有两条路：要么引爆“金融危机2.0”，要么点燃“美元危机1.0”？",
+          "url": "https://wallstreetcn.com/articles/3778736",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时53分 ~ 15时42分]"
+        },
+        {
+          "title": "金融学者、山东财大教授刘海明逝世，终年38岁",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33727611",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时42分"
         }
       ]
     },
@@ -1013,38 +1131,6 @@
       ]
     },
     {
-      "keyword_group": "旅游",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "这世界大得让你很难不旅游",
-          "url": "https://www.douyin.com/hot/2598897",
-          "source": "抖音",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时23分 ~ 07时53分]"
-        },
-        {
-          "title": "女子旅游错把丧葬品当纪念品买下",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%97%85%E6%B8%B8%E9%94%99%E6%8A%8A%E4%B8%A7%E8%91%AC%E5%93%81%E5%BD%93%E7%BA%AA%E5%BF%B5%E5%93%81%E4%B9%B0%E4%B8%8B",
-          "source": "百度热搜",
-          "ranks": [
-            12,
-            6,
-            7,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时23分 ~ 09时52分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "资源",
       "match_count": 1,
       "titles": [
@@ -1071,29 +1157,12 @@
           "source": "贴吧",
           "ranks": [
             14,
-            23
+            23,
+            27
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时23分 ~ 13时02分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金融",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "沃什面前只有两条路：要么引爆“金融危机2.0”，要么点燃“美元危机1.0”？",
-          "url": "https://wallstreetcn.com/articles/3778736",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时53分 ~ 13时02分]"
+          "appearance_count": 12,
+          "time_info": "[01时23分 ~ 15时42分]"
         }
       ]
     }
