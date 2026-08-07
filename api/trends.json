@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-07T22:07:45.725322+08:00",
-  "total_titles_processed": 1546,
+  "generated_at": "2026-08-07T23:48:23.807380+08:00",
+  "total_titles_processed": 1674,
   "failed_sources": [],
   "trends": [
     {
@@ -43,8 +43,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时44分 ~ 22时07分]"
+          "appearance_count": 7,
+          "time_info": "[18时44分 ~ 23时48分]"
         },
         {
           "title": "宇树科技8月10日开启网上申购",
@@ -202,7 +202,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时07分"
         },
@@ -216,6 +216,20 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时54分"
+        },
+        {
+          "title": "宇树科技中一签需缴款7.54万元",
+          "url": "https://www.baidu.com/s?wd=%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80%E4%B8%AD%E4%B8%80%E7%AD%BE%E9%9C%80%E7%BC%B4%E6%AC%BE7.54%E4%B8%87%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            17,
+            16,
+            20,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时40分 ~ 23时48分]"
         },
         {
           "title": "王兴兴回应DeepSeek参与宇树科技IPO战略配售",
@@ -252,19 +266,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时40分 ~ 20时45分]"
-        },
-        {
-          "title": "宇树科技中一签需缴款7.54万元",
-          "url": "https://www.baidu.com/s?wd=%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80%E4%B8%AD%E4%B8%80%E7%AD%BE%E9%9C%80%E7%BC%B4%E6%AC%BE7.54%E4%B8%87%E5%85%83",
-          "source": "百度热搜",
-          "ranks": [
-            17,
-            16,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时40分 ~ 22时07分]"
         },
         {
           "title": "宇树科技IPO 一批90后千万富豪或诞生",
@@ -616,7 +617,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时07分"
         },
@@ -723,7 +724,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
         {
           "title": "以情报高官疑因伊朗行动失败被解职",
@@ -734,8 +735,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时54分 ~ 22时07分]"
+          "appearance_count": 8,
+          "time_info": "[17时54分 ~ 23时48分]"
+        },
+        {
+          "title": "伊朗最高领袖给总统下了“最后警告”？",
+          "url": "https://news.ifeng.com/c/8vOzr19CfFi",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时07分 ~ 23时48分]"
         },
         {
           "title": "伊朗公布霍尔木兹海峡管理草案 国际油价大幅走高",
@@ -749,17 +761,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[07时53分 ~ 14时07分]"
-        },
-        {
-          "title": "伊朗最高领袖给总统下了“最后警告”？",
-          "url": "https://news.ifeng.com/c/8vOzr19CfFi",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时07分"
         },
         {
           "title": "特朗普称伊朗谈判取得进展 市场等待就业数据之际美指期货上涨",
@@ -840,13 +841,24 @@
           "time_info": "07时53分"
         },
         {
+          "title": "伊朗敦促海湾国家说服特朗普停止军事行动",
+          "url": "https://wallstreetcn.com/livenews/3146814",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时48分"
+        },
+        {
           "title": "以媒：未落实更迭伊朗政权计划 摩萨德高官被解职",
           "url": "https://wallstreetcn.com/livenews/3146751",
           "source": "华尔街见闻-快讯",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时07分"
         },
@@ -904,6 +916,132 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时53分"
+        },
+        {
+          "title": "伊朗就霍尔木兹海峡协议措辞展开辩论",
+          "url": "https://wallstreetcn.com/livenews/3146793",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时48分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "消费",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "泸溪河发布“桃酥现金属牙冠”调查结论，称消费者已澄清所发视频不属实",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33736078",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            8,
+            4,
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[12时50分 ~ 23时48分]"
+        },
+        {
+          "title": "泸溪河发布「桃酥出现金属牙冠」调查结论，排除生产带入可能性，消费者已澄清视频情况不属实，如何看待此事？",
+          "url": "https://www.zhihu.com/question/2069020073851983605",
+          "source": "知乎",
+          "ranks": [
+            12,
+            8,
+            5,
+            6,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[12时50分 ~ 23时48分]"
+        },
+        {
+          "title": "专家建议落实双休、增加假期，称「剪头发看电影等消费需要时间」，如何看待此建议？增加假期能带动消费吗？",
+          "url": "https://www.zhihu.com/question/2068732573711329057",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[12时50分 ~ 22时07分]"
+        },
+        {
+          "title": "泸溪河牙冠事件消费者已致歉",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%B3%B8%E6%BA%AA%E6%B2%B3%E7%89%99%E5%86%A0%E4%BA%8B%E4%BB%B6%E6%B6%88%E8%B4%B9%E8%80%85%E5%B7%B2%E8%87%B4%E6%AD%89%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时50分 ~ 16时09分]"
+        },
+        {
+          "title": "泸溪河牙冠事件消费者道歉",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B3%B8%E6%BA%AA%E6%B2%B3%E7%89%99%E5%86%A0%E4%BA%8B%E4%BB%B6%E6%B6%88%E8%B4%B9%E8%80%85%E9%81%93%E6%AD%89",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时06分 ~ 14时07分]"
+        },
+        {
+          "title": "纽约联储调查：美国消费者对就业和通胀的前景变得更加乐观",
+          "url": "https://flash.jin10.com/detail/20260807232056747800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时48分"
+        },
+        {
+          "title": "匈牙利总理毛焦尔：电力消费无需自愿削减，能源供应稳定。",
+          "url": "https://flash.jin10.com/detail/20260807182015294800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时45分"
+        },
+        {
+          "title": "美联储：美国7月短期通胀预期降温，消费者对就业变得更加乐观",
+          "url": "https://wallstreetcn.com/livenews/3146813",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时48分"
+        },
+        {
+          "title": "美联储巴尔金：看到企业间有定价权，但企业对消费者定价能力有限。",
+          "url": "https://flash.jin10.com/detail/20260807223147782800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时48分"
         }
       ]
     },
@@ -1002,89 +1140,8 @@
       ]
     },
     {
-      "keyword_group": "消费",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "泸溪河发布“桃酥现金属牙冠”调查结论，称消费者已澄清所发视频不属实",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33736078",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            8,
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时50分 ~ 22时07分]"
-        },
-        {
-          "title": "泸溪河发布「桃酥出现金属牙冠」调查结论，排除生产带入可能性，消费者已澄清视频情况不属实，如何看待此事？",
-          "url": "https://www.zhihu.com/question/2069020073851983605",
-          "source": "知乎",
-          "ranks": [
-            12,
-            8,
-            5,
-            6,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时50分 ~ 22时07分]"
-        },
-        {
-          "title": "专家建议落实双休、增加假期，称「剪头发看电影等消费需要时间」，如何看待此建议？增加假期能带动消费吗？",
-          "url": "https://www.zhihu.com/question/2068732573711329057",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时50分 ~ 22时07分]"
-        },
-        {
-          "title": "泸溪河牙冠事件消费者已致歉",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%B3%B8%E6%BA%AA%E6%B2%B3%E7%89%99%E5%86%A0%E4%BA%8B%E4%BB%B6%E6%B6%88%E8%B4%B9%E8%80%85%E5%B7%B2%E8%87%B4%E6%AD%89%23&t=31&band_rank=1&Refer=top",
-          "source": "微博",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时50分 ~ 16时09分]"
-        },
-        {
-          "title": "泸溪河牙冠事件消费者道歉",
-          "url": "https://search.bilibili.com/all?keyword=%E6%B3%B8%E6%BA%AA%E6%B2%B3%E7%89%99%E5%86%A0%E4%BA%8B%E4%BB%B6%E6%B6%88%E8%B4%B9%E8%80%85%E9%81%93%E6%AD%89",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时06分 ~ 14时07分]"
-        },
-        {
-          "title": "匈牙利总理毛焦尔：电力消费无需自愿削减，能源供应稳定。",
-          "url": "https://flash.jin10.com/detail/20260807182015294800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时45分"
-        }
-      ]
-    },
-    {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "为什么 Jeff Dean 从 Google 离职引起这么大的轰动？",
@@ -1098,6 +1155,29 @@
           "time_info": "07时53分"
         },
         {
+          "title": "奥士康：与AMD合作尚处送样阶段，未与英伟达、谷歌开展订单合作",
+          "url": "https://flash.jin10.com/detail/20260807231253787800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时48分"
+        },
+        {
+          "title": "核心团队跑路,Gemini陷大危机",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356949&amp;topic_name=%E6%A0%B8%E5%BF%83%E5%9B%A2%E9%98%9F%E8%B7%91%E8%B7%AF%2CGemini%E9%99%B7%E5%A4%A7%E5%8D%B1%E6%9C%BA",
+          "source": "贴吧",
+          "ranks": [
+            15,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时07分 ~ 23时48分]"
+        },
+        {
           "title": "新闻蒸馏器丨谷歌AI大改组：诺奖得主卸任日常管理，元老率核心人员出走创业",
           "url": "https://m.thepaper.cn/newsDetail_forward_33727851",
           "source": "澎湃新闻",
@@ -1108,17 +1188,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时53分 ~ 10时14分]"
-        },
-        {
-          "title": "核心团队跑路,Gemini陷大危机",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356949&amp;topic_name=%E6%A0%B8%E5%BF%83%E5%9B%A2%E9%98%9F%E8%B7%91%E8%B7%AF%2CGemini%E9%99%B7%E5%A4%A7%E5%8D%B1%E6%9C%BA",
-          "source": "贴吧",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时07分"
         },
         {
           "title": "谷歌将人工智能管理重心迁至加州 全力迎战Anthropic与OpenAI",
@@ -1214,6 +1283,84 @@
       ]
     },
     {
+      "keyword_group": "金价",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "金十图示：2026年08月07日（周五）上海金午盘价为932.83元/克，较国际金价(929.4元/克)，高3.43元/克",
+          "url": "https://flash.jin10.com/detail/20260807155143219800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时09分"
+        },
+        {
+          "title": "金价完成首轮仓位修复，4300附近进入新碰撞区！",
+          "url": "https://flash.jin10.com/detail/20260807120847851800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时50分"
+        },
+        {
+          "title": "瑞银：黄金上涨行情具备支撑，金价明年有望向5000美元迈进",
+          "url": "https://wallstreetcn.com/livenews/3146816",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时48分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "旅游",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "美国将严厉打击“生育旅游” 特朗普承认某些弹药供应紧张 | 环球市场",
+          "url": "https://www.cls.cn/detail/2447932",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时50分 ~ 14时07分]"
+        },
+        {
+          "title": "特朗普再签行政令，禁止“生育旅游”收紧“出生公民权”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33734678",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时48分"
+        },
+        {
+          "title": "市场消息：美国正在将部分空中加油机从本·古里安机场迁移，以腾出空间缓解旅游旺季对商业民航运输的压力。",
+          "url": "https://flash.jin10.com/detail/20260807151658663800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时09分"
+        }
+      ]
+    },
+    {
       "keyword_group": "资源",
       "match_count": 2,
       "titles": [
@@ -1266,62 +1413,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时14分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "金十图示：2026年08月07日（周五）上海金午盘价为932.83元/克，较国际金价(929.4元/克)，高3.43元/克",
-          "url": "https://flash.jin10.com/detail/20260807155143219800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时09分"
-        },
-        {
-          "title": "金价完成首轮仓位修复，4300附近进入新碰撞区！",
-          "url": "https://flash.jin10.com/detail/20260807120847851800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时50分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "旅游",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美国将严厉打击“生育旅游” 特朗普承认某些弹药供应紧张 | 环球市场",
-          "url": "https://www.cls.cn/detail/2447932",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时50分 ~ 14时07分]"
-        },
-        {
-          "title": "市场消息：美国正在将部分空中加油机从本·古里安机场迁移，以腾出空间缓解旅游旺季对商业民航运输的压力。",
-          "url": "https://flash.jin10.com/detail/20260807151658663800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时09分"
         }
       ]
     },
