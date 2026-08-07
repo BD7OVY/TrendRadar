@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-08T00:44:56.255703+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-08-08T01:43:04.880617+08:00",
+  "total_titles_processed": 379,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "伊朗最高领袖给总统下了“最后警告”？",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时44分"
+          "appearance_count": 3,
+          "time_info": "[00时44分 ~ 01时43分]"
         },
         {
           "title": "以情报高官疑因伊朗行动失败被解职",
@@ -26,30 +26,66 @@
             3
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时44分 ~ 01时43分]"
+        },
+        {
+          "title": "美国财政部制裁伊朗所使用的两家大型数字资产交易所。",
+          "url": "https://wallstreetcn.com/livenews/3146860",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时44分"
+          "time_info": "01时43分"
+        },
+        {
+          "title": "据某斡旋国一名外交官透露，伊朗谈判代表正等待伊朗最高国家安全委员会就伊朗与阿曼、美国达成的协议作出最终批准。 该外交官称：“我们预计很快就能拿到这项批准。”（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3146859",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时43分"
         },
         {
           "title": "美国财长贝森特谈及霍尔木兹海峡：该海峡再也回不到过去的状态，因为伊朗已经将其用作，或试图将其用作咽喉要道。 未来两年我们将看到，这条海峡的重要性将会不复存在。 它将仅仅成为一片普通水域。 我认为，目前经由该海峡运输的能源中，超过50%至70%将会转由地下管道输送。",
           "url": "https://wallstreetcn.com/livenews/3146838",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            19
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时44分"
+          "appearance_count": 2,
+          "time_info": "[00时44分 ~ 01时43分]"
         },
         {
           "title": "伊朗副外长：波斯湾地区安全应由本地区国家共同维护",
           "url": "https://wallstreetcn.com/livenews/3146833",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            23
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时44分"
+          "appearance_count": 2,
+          "time_info": "[00时44分 ~ 01时43分]"
+        },
+        {
+          "title": "伊朗学生通讯社（IRNA）：伊朗副外长加里巴巴迪表示，海湾安全必须由地区国家自行保障，不得有外部势力介入。",
+          "url": "https://wallstreetcn.com/livenews/3146828",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时44分 ~ 01时43分]"
         },
         {
           "title": "伊朗副外长：波斯湾地区安全应由本地区国家共同维护",
@@ -77,17 +113,6 @@
           "title": "伊朗德黑兰市长扎卡尼：想通过霍尔木兹海峡，必须取消制裁并支付赔偿。",
           "url": "https://flash.jin10.com/detail/20260807234805603800",
           "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时44分"
-        },
-        {
-          "title": "伊朗学生通讯社（IRNA）：伊朗副外长加里巴巴迪表示，海湾安全必须由地区国家自行保障，不得有外部势力介入。",
-          "url": "https://wallstreetcn.com/livenews/3146828",
-          "source": "华尔街见闻-快讯",
           "ranks": [
             12
           ],
@@ -142,8 +167,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时44分"
+          "appearance_count": 3,
+          "time_info": "[00时44分 ~ 01时43分]"
         },
         {
           "title": "市场消息：苹果(AAPL.O)、亚马逊(AMZN.O)、耐克(NKE.N)在特朗普政府关税退款问题上遭到美国民主党参议员沃伦的质询。沃伦在信函中敦促企业向消费者退还关税款项。",
@@ -161,11 +186,12 @@
           "url": "https://wallstreetcn.com/livenews/3146836",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            21
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时44分"
+          "appearance_count": 2,
+          "time_info": "[00时44分 ~ 01时43分]"
         },
         {
           "title": "泸溪河发布「桃酥出现金属牙冠」调查结论，排除生产带入可能性，消费者已澄清视频情况不属实，如何看待此事？",
@@ -175,8 +201,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时44分"
+          "appearance_count": 3,
+          "time_info": "[00时44分 ~ 01时43分]"
         },
         {
           "title": "纽约联储调查：美国消费者对就业和通胀的前景变得更加乐观",
@@ -214,8 +240,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时44分"
+          "appearance_count": 3,
+          "time_info": "[00时44分 ~ 01时43分]"
         },
         {
           "title": "“创系列”指数产品扩容，16只ETF集中申报，瞄准算力与金融科技",
@@ -225,8 +251,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时44分"
+          "appearance_count": 3,
+          "time_info": "[00时44分 ~ 01时43分]"
         }
       ]
     },
@@ -239,11 +265,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356949&amp;topic_name=%E6%A0%B8%E5%BF%83%E5%9B%A2%E9%98%9F%E8%B7%91%E8%B7%AF%2CGemini%E9%99%B7%E5%A4%A7%E5%8D%B1%E6%9C%BA",
           "source": "贴吧",
           "ranks": [
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时44分"
+          "appearance_count": 3,
+          "time_info": "[00时44分 ~ 01时43分]"
         },
         {
           "title": "奥士康：与AMD合作尚处送样阶段，未与英伟达、谷歌开展订单合作",
@@ -255,6 +282,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时44分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "OpenAI：为高性能模型及相关业务落实更严格的安全管控，其中包括隔离测试环境",
+          "url": "https://wallstreetcn.com/livenews/3146841",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时44分"
+        },
+        {
+          "title": "OpenAI：Astra是一款尚未发布的模型，无法排除Astra模型具备关键网络攻击能力",
+          "url": "https://wallstreetcn.com/livenews/3146841",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时43分"
         }
       ]
     },
@@ -276,19 +331,19 @@
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
+      "keyword_group": "深圳",
       "match_count": 1,
       "titles": [
         {
-          "title": "OpenAI：为高性能模型及相关业务落实更严格的安全管控，其中包括隔离测试环境",
-          "url": "https://wallstreetcn.com/livenews/3146841",
-          "source": "华尔街见闻-快讯",
+          "title": "被深圳街头大爷吹奏谋生戳中了",
+          "url": "https://www.baidu.com/s?wd=%E8%A2%AB%E6%B7%B1%E5%9C%B3%E8%A1%97%E5%A4%B4%E5%A4%A7%E7%88%B7%E5%90%B9%E5%A5%8F%E8%B0%8B%E7%94%9F%E6%88%B3%E4%B8%AD%E4%BA%86",
+          "source": "百度热搜",
           "ranks": [
-            1
+            27
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时44分"
+          "appearance_count": 2,
+          "time_info": "[01时42分 ~ 01时43分]"
         }
       ]
     },
