@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-08T20:32:24.257716+08:00",
-  "total_titles_processed": 1430,
+  "generated_at": "2026-08-08T21:40:14.333685+08:00",
+  "total_titles_processed": 1502,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 57,
+      "match_count": 60,
       "titles": [
         {
           "title": "伊朗最高领袖给总统下了“最后警告”？",
@@ -52,8 +52,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时31分 ~ 20时32分]"
+          "appearance_count": 7,
+          "time_info": "[16时31分 ~ 21时40分]"
         },
         {
           "title": "伊朗媒体发布“被击落美以战机残骸”画面",
@@ -64,8 +64,30 @@
             3
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时24分 ~ 21时40分]"
+        },
+        {
+          "title": "伊媒发布伊朗最高领袖视频",
+          "url": "https://news.ifeng.com/c/8vQYDcdSi9T",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时22分 ~ 21时40分]"
+        },
+        {
+          "title": "伊媒发布伊朗最高领袖视频",
+          "url": "https://www.toutiao.com/trending/7671613890689502783/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[18时24分 ~ 20时32分]"
+          "time_info": "[20时32分 ~ 21时40分]"
         },
         {
           "title": "美官员：预计伊朗与阿曼将很快就霍尔木兹海峡问题达成协议",
@@ -78,17 +100,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时46分 ~ 07时27分]"
-        },
-        {
-          "title": "伊媒发布伊朗最高领袖视频",
-          "url": "https://news.ifeng.com/c/8vQYDcdSi9T",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时22分 ~ 20时32分]"
         },
         {
           "title": "伊朗官员称防务协议无法保障沙特安全",
@@ -104,6 +115,28 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[07时27分 ~ 14时39分]"
+        },
+        {
+          "title": "深度探访伊朗遇袭女子学校",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E6%8E%A2%E8%AE%BF%E4%BC%8A%E6%9C%97%E9%81%87%E8%A2%AD%E5%A5%B3%E5%AD%90%E5%AD%A6%E6%A0%A1",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时39分 ~ 21时40分]"
+        },
+        {
+          "title": "伊总统：伊朗要学中国做好自己的事",
+          "url": "https://www.toutiao.com/trending/7670977056377618495/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时39分 ~ 21时40分]"
         },
         {
           "title": "美国财政部制裁伊朗所使用的两家大型数字资产交易所。",
@@ -143,6 +176,18 @@
           "time_info": "[16时31分 ~ 20时32分]"
         },
         {
+          "title": "如何评价沙特、巴基斯坦、土耳其三国签的防务协定，也门胡塞和伊朗的联动封锁能否持续，对油价有何影响？",
+          "url": "https://www.zhihu.com/question/2069252730074485781",
+          "source": "知乎",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时31分 ~ 21时40分]"
+        },
+        {
           "title": "曝美军高层寻找摆脱伊朗战事的途径",
           "url": "https://www.toutiao.com/trending/7671436241469538350/",
           "source": "今日头条",
@@ -156,28 +201,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[16时31分 ~ 20时32分]"
-        },
-        {
-          "title": "伊媒发布伊朗最高领袖视频",
-          "url": "https://www.toutiao.com/trending/7671613890689502783/",
-          "source": "今日头条",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时32分"
-        },
-        {
-          "title": "伊官员：有证据显示美军使用磷弹轰炸伊朗多地",
-          "url": "https://wallstreetcn.com/livenews/3147008",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时32分"
         },
         {
           "title": "伊朗总统：伊方未在涉谅解备忘录的谈判中作任何让步",
@@ -217,6 +240,18 @@
           "time_info": "[04时33分 ~ 09时02分]"
         },
         {
+          "title": "伊官员：有证据显示美军使用磷弹轰炸伊朗多地",
+          "url": "https://wallstreetcn.com/livenews/3147008",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时32分 ~ 21时40分]"
+        },
+        {
           "title": "伊朗革命卫队发言人：霍尔木兹海峡的重新开放取决于美国完全接受伊朗的条件；与伊朗和阿曼之间的谈判无关。",
           "url": "https://flash.jin10.com/detail/20260808181945934800",
           "source": "金十数据",
@@ -243,6 +278,19 @@
           "time_info": "[03时46分 ~ 05时32分]"
         },
         {
+          "title": "伊朗媒体发布伊朗最高领袖视频",
+          "url": "https://wallstreetcn.com/livenews/3146994",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            15,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时22分 ~ 21时40分]"
+        },
+        {
           "title": "美国财长贝森特谈及霍尔木兹海峡：该海峡再也回不到过去的状态，因为伊朗已经将其用作，或试图将其用作咽喉要道。 未来两年我们将看到，这条海峡的重要性将会不复存在。 它将仅仅成为一片普通水域。 我认为，目前经由该海峡运输的能源中，超过50%至70%将会转由地下管道输送。",
           "url": "https://wallstreetcn.com/livenews/3146838",
           "source": "华尔街见闻-快讯",
@@ -256,16 +304,17 @@
           "time_info": "[00时44分 ~ 02时44分]"
         },
         {
-          "title": "伊朗媒体发布伊朗最高领袖视频",
-          "url": "https://wallstreetcn.com/livenews/3146994",
+          "title": "伊朗革命卫队：重开海峡需美国接受伊朗条件",
+          "url": "https://wallstreetcn.com/livenews/3146991",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1,
-            15
+            4,
+            18,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时22分 ~ 20时32分]"
+          "appearance_count": 3,
+          "time_info": "[19时22分 ~ 21时40分]"
         },
         {
           "title": "据某斡旋国一名外交官透露，伊朗谈判代表正等待伊朗最高国家安全委员会就伊朗与阿曼、美国达成的协议作出最终批准。 该外交官称：“我们预计很快就能拿到这项批准。”（Axios）",
@@ -298,18 +347,6 @@
           "ranks": [
             4,
             19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时22分 ~ 20时32分]"
-        },
-        {
-          "title": "伊朗革命卫队：重开海峡需美国接受伊朗条件",
-          "url": "https://wallstreetcn.com/livenews/3146991",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            18
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -356,16 +393,28 @@
           "time_info": "[03时46分 ~ 07时27分]"
         },
         {
-          "title": "如何评价沙特、巴基斯坦、土耳其三国签的防务协定，也门胡塞和伊朗的联动封锁能否持续，对油价有何影响？",
-          "url": "https://www.zhihu.com/question/2069252730074485781",
+          "title": "以媒称伊朗最高领袖被紧急送医，真实性如何？会怎样影响当前局势？",
+          "url": "https://www.zhihu.com/question/2069421184177763676",
           "source": "知乎",
           "ranks": [
-            11,
-            12
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时31分 ~ 20时32分]"
+          "appearance_count": 3,
+          "time_info": "[20时32分 ~ 21时40分]"
+        },
+        {
+          "title": "伊拉克石油部长：伊拉克正与伊朗谈判以允许伊拉克石油出口，但相关安排尚未生效。 新建巴士拉-菲什哈布尔输油管道预计耗资不超过150亿美元。 该管道将包括从哈迪塞到巴尼亚斯的支线，以及泵站和储存设施。",
+          "url": "https://wallstreetcn.com/livenews/3146989",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            20,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时22分 ~ 21时40分]"
         },
         {
           "title": "伊朗总统：伊方未在涉谅解备忘录的谈判中作任何让步",
@@ -379,6 +428,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时46分 ~ 05时32分]"
+        },
+        {
+          "title": "伊朗媒体发布伊朗最高领袖视频",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%AA%92%E4%BD%93%E5%8F%91%E5%B8%83%E4%BC%8A%E6%9C%97%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E8%A7%86%E9%A2%91",
+          "source": "百度热搜",
+          "ranks": [
+            17,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时32分 ~ 21时40分]"
         },
         {
           "title": "以媒称伊朗最高领袖被紧急送医",
@@ -405,18 +466,6 @@
           "time_info": "[18时24分 ~ 19时22分]"
         },
         {
-          "title": "伊拉克石油部长：伊拉克正与伊朗谈判以允许伊拉克石油出口，但相关安排尚未生效。 新建巴士拉-菲什哈布尔输油管道预计耗资不超过150亿美元。 该管道将包括从哈迪塞到巴尼亚斯的支线，以及泵站和储存设施。",
-          "url": "https://wallstreetcn.com/livenews/3146989",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时22分 ~ 20时32分]"
-        },
-        {
           "title": "伊朗副外长：波斯湾地区安全应由本地区国家共同维护",
           "url": "https://wallstreetcn.com/livenews/3146833",
           "source": "华尔街见闻-快讯",
@@ -429,6 +478,18 @@
           "time_info": "[00时44分 ~ 01时43分]"
         },
         {
+          "title": "伊朗接近与阿曼达成管理海峡协议",
+          "url": "https://wallstreetcn.com/livenews/3146999",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时32分 ~ 21时40分]"
+        },
+        {
           "title": "伊朗学生通讯社（IRNA）：伊朗副外长加里巴巴迪表示，海湾安全必须由地区国家自行保障，不得有外部势力介入。",
           "url": "https://wallstreetcn.com/livenews/3146828",
           "source": "华尔街见闻-快讯",
@@ -439,6 +500,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时44分 ~ 01时43分]"
+        },
+        {
+          "title": "伊朗外长：伊朗与阿曼就霍尔木兹海峡管理达成协议已非常接近",
+          "url": "https://wallstreetcn.com/livenews/3146996",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时32分 ~ 21时40分]"
         },
         {
           "title": "报道：伊朗与阿曼宣布达成协议后，美国将解除对伊朗的封锁",
@@ -499,17 +572,6 @@
           "time_info": "00时44分"
         },
         {
-          "title": "以媒称伊朗最高领袖被紧急送医，真实性如何？会怎样影响当前局势？",
-          "url": "https://www.zhihu.com/question/2069421184177763676",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时32分"
-        },
-        {
           "title": "伊朗外长阿拉格齐：面对世界上最昂贵的军事力量，伊朗强大的武装部队已经展示了自身的战备状态、能力和实力。",
           "url": "https://flash.jin10.com/detail/20260808021411874800",
           "source": "金十数据",
@@ -532,15 +594,15 @@
           "time_info": "13时37分"
         },
         {
-          "title": "伊朗接近与阿曼达成管理海峡协议",
-          "url": "https://wallstreetcn.com/livenews/3146999",
-          "source": "华尔街见闻-快讯",
+          "title": "据沙特媒体哈达斯：伊朗总统表示，停止或继续战争的决定掌握在伊朗军事领导人手中。",
+          "url": "https://flash.jin10.com/detail/20260808204142320800",
+          "source": "金十数据",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时32分"
+          "time_info": "21时40分"
         },
         {
           "title": "伊朗德黑兰市长扎卡尼：伊朗不会放弃追求正义，直到对罪犯实施最终惩罚。",
@@ -582,18 +644,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时32分"
-        },
-        {
-          "title": "伊朗外长：伊朗与阿曼就霍尔木兹海峡管理达成协议已非常接近",
-          "url": "https://wallstreetcn.com/livenews/3146996",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时32分"
         },
@@ -618,17 +669,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时44分"
-        },
-        {
-          "title": "伊朗媒体发布伊朗最高领袖视频",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%AA%92%E4%BD%93%E5%8F%91%E5%B8%83%E4%BC%8A%E6%9C%97%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E8%A7%86%E9%A2%91",
-          "source": "百度热搜",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时32分"
         },
         {
           "title": "阿根廷总统办公室：阿根廷总统米莱与以色列外长举行会议，米莱重申阿根廷坚定支持以色列根据国际法行使合法自卫的权利，并谴责伊朗及其附属组织对以色列领土的攻击，认为这对该地区的安全与稳定构成严重威胁。",
@@ -715,8 +755,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时44分 ~ 20时32分]"
+          "appearance_count": 26,
+          "time_info": "[00时44分 ~ 21时40分]"
         },
         {
           "title": "宇树科技发行价 150.80 元 / 股，总市值突破 600 亿，中一签需缴款 7.54 万元，如何看待这个估值？",
@@ -941,7 +981,7 @@
     },
     {
       "keyword_group": "消费",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "泸溪河发布“桃酥现金属牙冠”调查结论，称消费者已澄清所发视频不属实",
@@ -980,6 +1020,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时44分"
+        },
+        {
+          "title": "IMF驻华首席代表：中国服务消费增长强劲，且“后劲十足”",
+          "url": "https://wallstreetcn.com/livenews/3147010",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时40分"
         },
         {
           "title": "美国加州州长纽森：加州正在为首次购买电动汽车的消费者提供数千美元的购车优惠。现在，购买一辆新的电动汽车最高可节省3500美元，购买二手电动汽车最高可节省1750美元。",
@@ -1143,6 +1194,61 @@
       ]
     },
     {
+      "keyword_group": "chatgpt openai",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "OpenAI首席执行官Altman称：正推进Astra全面开放使用。",
+          "url": "https://wallstreetcn.com/livenews/3146942",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            5,
+            18,
+            23,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时27分 ~ 14时39分]"
+        },
+        {
+          "title": "OpenAI：为高性能模型及相关业务落实更严格的安全管控，其中包括隔离测试环境",
+          "url": "https://wallstreetcn.com/livenews/3146841",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时44分"
+        },
+        {
+          "title": "英伟达盯上OpenAI“星际之门”背后的电力商，30亿美元直接入股",
+          "url": "https://wallstreetcn.com/articles/3778988",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时39分 ~ 21时40分]"
+        },
+        {
+          "title": "OpenAI：Astra是一款尚未发布的模型，无法排除Astra模型具备关键网络攻击能力",
+          "url": "https://wallstreetcn.com/livenews/3146841",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时43分 ~ 02时44分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "金融",
       "match_count": 3,
       "titles": [
@@ -1260,11 +1366,12 @@
           "url": "https://wallstreetcn.com/livenews/3147006",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时32分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时32分 ~ 21时40分]"
         },
         {
           "title": "奥士康：与AMD合作尚处送样阶段，未与英伟达、谷歌开展订单合作",
@@ -1276,50 +1383,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时44分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "OpenAI首席执行官Altman称：正推进Astra全面开放使用。",
-          "url": "https://wallstreetcn.com/livenews/3146942",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            5,
-            18,
-            23,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时27分 ~ 14时39分]"
-        },
-        {
-          "title": "OpenAI：为高性能模型及相关业务落实更严格的安全管控，其中包括隔离测试环境",
-          "url": "https://wallstreetcn.com/livenews/3146841",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时44分"
-        },
-        {
-          "title": "OpenAI：Astra是一款尚未发布的模型，无法排除Astra模型具备关键网络攻击能力",
-          "url": "https://wallstreetcn.com/livenews/3146841",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时43分 ~ 02时44分]"
         }
       ]
     },
@@ -1405,11 +1468,12 @@
             16,
             12,
             17,
-            20
+            20,
+            30
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时37分 ~ 20时32分]"
+          "appearance_count": 12,
+          "time_info": "[13时37分 ~ 21时40分]"
         }
       ]
     },
