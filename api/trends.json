@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-09T05:23:08.434487+08:00",
-  "total_titles_processed": 431,
+  "generated_at": "2026-08-09T06:21:01.482224+08:00",
+  "total_titles_processed": 453,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 27,
+      "match_count": 29,
       "titles": [
         {
           "title": "伊媒发布伊朗最高领袖视频",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时24分 ~ 05时23分]"
+          "appearance_count": 8,
+          "time_info": "[00时24分 ~ 06时21分]"
         },
         {
           "title": "伊媒发布伊朗最高领袖视频",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时24分 ~ 05时23分]"
+          "appearance_count": 8,
+          "time_info": "[00时24分 ~ 06时21分]"
         },
         {
           "title": "伊朗战事打不下去了？美军参联会主席力主“翻篇”",
@@ -37,8 +37,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时24分 ~ 05时23分]"
+          "appearance_count": 8,
+          "time_info": "[00时24分 ~ 06时21分]"
         },
         {
           "title": "伊朗媒体发布“被击落美以战机残骸”画面",
@@ -48,8 +48,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时24分 ~ 05时23分]"
+          "appearance_count": 8,
+          "time_info": "[00时24分 ~ 06时21分]"
         },
         {
           "title": "伊总统：伊朗要学中国做好自己的事",
@@ -59,8 +59,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时24分 ~ 05时23分]"
+          "appearance_count": 8,
+          "time_info": "[00时24分 ~ 06时21分]"
         },
         {
           "title": "以媒称伊朗最高领袖被紧急送医，真实性如何？会怎样影响当前局势？",
@@ -70,8 +70,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时24分 ~ 05时23分]"
+          "appearance_count": 8,
+          "time_info": "[00时24分 ~ 06时21分]"
         },
         {
           "title": "伊朗媒体发布伊朗最高领袖视频",
@@ -83,8 +83,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时24分 ~ 05时23分]"
+          "appearance_count": 8,
+          "time_info": "[00时24分 ~ 06时21分]"
         },
         {
           "title": "万斯：过去几天在伊朗谈判方面取得了一些进展，对方不会征收海峡过境费",
@@ -92,11 +92,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时24分 ~ 05时23分]"
+          "appearance_count": 6,
+          "time_info": "[00时24分 ~ 06时21分]"
         },
         {
           "title": "伊官员：有证据显示美军使用磷弹轰炸伊朗多地",
@@ -104,11 +105,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             16,
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时24分 ~ 05时23分]"
+          "appearance_count": 6,
+          "time_info": "[00时24分 ~ 06时21分]"
         },
         {
           "title": "伊朗：与阿曼“接近”达成协议，但并不意味重开海峡",
@@ -116,11 +118,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             24,
-            25
+            25,
+            26
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时24分 ~ 05时23分]"
+          "appearance_count": 6,
+          "time_info": "[00时24分 ~ 06时21分]"
         },
         {
           "title": "伊朗外长：伊朗与阿曼就霍尔木兹海峡管理达成协议已非常接近",
@@ -128,11 +131,23 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             27,
-            28
+            28,
+            29
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时24分 ~ 05时23分]"
+          "appearance_count": 6,
+          "time_info": "[00时24分 ~ 06时21分]"
+        },
+        {
+          "title": "美媒：伊朗战争导致国防库存锐减，五角大楼敦促国防企业加快武器生产",
+          "url": "https://flash.jin10.com/detail/20260809051320025800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时21分"
         },
         {
           "title": "伊朗媒体发布伊朗最高领袖视频",
@@ -207,6 +222,18 @@
           "time_info": "[00时24分 ~ 01时23分]"
         },
         {
+          "title": "海湾国家担忧伊朗“以钱换通航”，但应对空间极为有限",
+          "url": "https://flash.jin10.com/detail/20260809040308516800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时23分 ~ 06时21分]"
+        },
+        {
           "title": "美国副总统万斯：已经大幅削弱了伊朗的非对称军事能力。",
           "url": "https://flash.jin10.com/detail/20260808224916124800",
           "source": "金十数据",
@@ -279,15 +306,15 @@
           "time_info": "[04时20分 ~ 05时23分]"
         },
         {
-          "title": "海湾国家担忧伊朗“以钱换通航”，但应对空间极为有限",
-          "url": "https://flash.jin10.com/detail/20260809040308516800",
+          "title": "据伊朗法尔斯通讯社：保加利亚方面声称，今天上午一架乌克兰无人机向跨巴尔干天然气管道发动袭击，该管道经由土耳其将俄罗斯天然气输送至欧洲。",
+          "url": "https://flash.jin10.com/detail/20260809045339955800",
           "source": "金十数据",
           "ranks": [
-            6
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时23分"
+          "time_info": "06时21分"
         },
         {
           "title": "分析师：美国在伊朗战争中付出的代价之一是自身信誉的流失，或导致......",
@@ -334,11 +361,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时24分 ~ 05时23分]"
+          "appearance_count": 6,
+          "time_info": "[00时24分 ~ 06时21分]"
         },
         {
           "title": "年轻人不喜欢白酒，为什么白酒却是消费主流？",
@@ -348,11 +376,12 @@
             16,
             15,
             12,
-            17
+            17,
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时24分 ~ 05时23分]"
+          "appearance_count": 8,
+          "time_info": "[00时24分 ~ 06时21分]"
         },
         {
           "title": "IMF驻华首席代表：中国服务消费增长强劲，且“后劲十足”",
@@ -360,11 +389,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             14,
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时24分 ~ 05时23分]"
+          "appearance_count": 6,
+          "time_info": "[00时24分 ~ 06时21分]"
         }
       ]
     },
@@ -381,19 +411,20 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时24分 ~ 05时23分]"
+          "appearance_count": 8,
+          "time_info": "[00时24分 ~ 06时21分]"
         },
         {
           "title": "央媒：用Token还是词元事关科技话语权",
           "url": "https://www.toutiao.com/trending/7671123642835566598/",
           "source": "今日头条",
           "ranks": [
-            25
+            25,
+            30
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时20分"
+          "appearance_count": 3,
+          "time_info": "[04时20分 ~ 06时21分]"
         }
       ]
     },
@@ -407,11 +438,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时24分 ~ 05时23分]"
+          "appearance_count": 8,
+          "time_info": "[00时24分 ~ 06时21分]"
         },
         {
           "title": "伯克希尔哈撒韦：截至6月30日，股权投资总公允价值中有66%集中在美国运通、苹果、美国银行、阿尔phabet（谷歌母公司）和可口可乐这五家企业。 2025年全年末持有的固定收益证券投资公允价值达170.34亿美元，其中，对美债、外国债券、企业债券的投资公允价值分别为30.02亿美元、126.68亿美元、13.64亿美元。",
@@ -419,11 +451,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             18,
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时24分 ~ 05时23分]"
+          "appearance_count": 6,
+          "time_info": "[00时24分 ~ 06时21分]"
         }
       ]
     },
@@ -438,11 +471,12 @@
           "ranks": [
             10,
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时24分 ~ 05时23分]"
+          "appearance_count": 8,
+          "time_info": "[00时24分 ~ 06时21分]"
         }
       ]
     },
@@ -460,8 +494,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时24分 ~ 05时23分]"
+          "appearance_count": 8,
+          "time_info": "[00时24分 ~ 06时21分]"
         }
       ]
     }
