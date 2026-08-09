@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-09T15:48:08.001077+08:00",
-  "total_titles_processed": 950,
+  "generated_at": "2026-08-09T17:32:36.144335+08:00",
+  "total_titles_processed": 1042,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 40,
+      "match_count": 45,
       "titles": [
         {
           "title": "伊媒发布伊朗最高领袖视频",
@@ -73,8 +73,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时27分 ~ 15时48分]"
+          "appearance_count": 7,
+          "time_info": "[11时27分 ~ 17时32分]"
         },
         {
           "title": "以媒称伊朗最高领袖被紧急送医，真实性如何？会怎样影响当前局势？",
@@ -99,11 +99,12 @@
             19,
             22,
             23,
-            27
+            27,
+            29
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时24分 ~ 15时48分]"
+          "appearance_count": 14,
+          "time_info": "[00时24分 ~ 17时32分]"
         },
         {
           "title": "伊朗媒体发布伊朗最高领袖视频",
@@ -118,8 +119,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时24分 ~ 15时48分]"
+          "appearance_count": 17,
+          "time_info": "[00时24分 ~ 17时32分]"
         },
         {
           "title": "伊官员：有证据显示美军使用磷弹轰炸伊朗多地",
@@ -155,11 +156,12 @@
             1,
             4,
             5,
-            9
+            9,
+            11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时27分 ~ 15时48分]"
+          "appearance_count": 6,
+          "time_info": "[11时27分 ~ 17时32分]"
         },
         {
           "title": "伊朗：与阿曼“接近”达成协议，但并不意味重开海峡",
@@ -174,6 +176,30 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时24分 ~ 09时06分]"
+        },
+        {
+          "title": "万斯称美伊冲突仍处于“博弈中段”，美军“寻找出口”，伊朗开出“重开海峡6大条件”",
+          "url": "https://wallstreetcn.com/articles/3778994",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时27分 ~ 17时32分]"
+        },
+        {
+          "title": "美国乡村小镇突发停水，FBI：可能是伊朗黑客干的",
+          "url": "https://news.ifeng.com/c/8vQiHqeUsfl",
+          "source": "凤凰网",
+          "ranks": [
+            12,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时27分 ~ 17时32分]"
         },
         {
           "title": "伊朗外长：伊朗与阿曼就霍尔木兹海峡管理达成协议已非常接近",
@@ -194,35 +220,23 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时42分 ~ 15时48分]"
+          "appearance_count": 3,
+          "time_info": "[14时42分 ~ 17时32分]"
         },
         {
-          "title": "万斯称美伊冲突仍处于“博弈中段”，美军“寻找出口”，伊朗开出“重开海峡6大条件”",
-          "url": "https://wallstreetcn.com/articles/3778994",
-          "source": "华尔街见闻",
+          "title": "伊朗外长再重申目前未与美国谈判",
+          "url": "https://wallstreetcn.com/livenews/3147062",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10,
-            6
+            1
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时27分 ~ 15时48分]"
-        },
-        {
-          "title": "美国乡村小镇突发停水，FBI：可能是伊朗黑客干的",
-          "url": "https://news.ifeng.com/c/8vQiHqeUsfl",
-          "source": "凤凰网",
-          "ranks": [
-            12,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时27分 ~ 15时48分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时32分"
         },
         {
           "title": "伊朗媒体发布伊朗最高领袖视频",
@@ -395,6 +409,18 @@
           "time_info": "[01时23分 ~ 02时26分]"
         },
         {
+          "title": "伊朗外长称将继续坚持抵抗立场",
+          "url": "https://flash.jin10.com/detail/20260809145146414800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时48分 ~ 17时32分]"
+        },
+        {
           "title": "据福克斯新闻：美国副总统万斯表示，伊朗已通知美国，尽管政权内部人士发表了将对霍尔木兹海峡征收过境费的声明，但伊朗不会征收此类费用。",
           "url": "https://flash.jin10.com/detail/20260808224359664800",
           "source": "金十数据",
@@ -443,15 +469,48 @@
           "time_info": "[04时20分 ~ 05时23分]"
         },
         {
-          "title": "伊朗外长称将继续坚持抵抗立场",
-          "url": "https://flash.jin10.com/detail/20260809145146414800",
+          "title": "伊朗外长强调霍尔木兹海峡未重新开放",
+          "url": "https://flash.jin10.com/detail/20260809163624666800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时32分"
+        },
+        {
+          "title": "伊朗外长阿拉格齐：一些中介国家仍在努力为重新谈判创造条件。在我们看来，只要美国未结束对《伊斯兰堡备忘录》的违反，且未对此做出弥补，就不可能重新开始谈判。",
+          "url": "https://flash.jin10.com/detail/20260809162616053800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时32分"
+        },
+        {
+          "title": "伊朗外长阿拉格齐：只要美国违反临时协议，就不会进行谈判。",
+          "url": "https://flash.jin10.com/detail/20260809161610479800",
           "source": "金十数据",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时48分"
+          "time_info": "17时32分"
+        },
+        {
+          "title": "据伊朗迈赫尔通讯社：伊朗外长阿拉格齐表示，与美国没有谈判，只通过中介交换信息。",
+          "url": "https://flash.jin10.com/detail/20260809161412221800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时32分"
         },
         {
           "title": "分析师：美国在伊朗战争中付出的代价之一是自身信誉的流失，或导致......",
@@ -500,6 +559,132 @@
       ]
     },
     {
+      "keyword_group": "科技",
+      "match_count": 10,
+      "titles": [
+        {
+          "title": "“创系列”指数产品扩容，16只ETF集中申报，瞄准算力与金融科技",
+          "url": "https://www.cls.cn/detail/2448863",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时24分 ~ 09时06分]"
+        },
+        {
+          "title": "央媒：用Token还是词元事关科技话语权",
+          "url": "https://www.toutiao.com/trending/7671123642835566598/",
+          "source": "今日头条",
+          "ranks": [
+            25,
+            30,
+            18,
+            23,
+            14,
+            24,
+            17,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[04时20分 ~ 14时42分]"
+        },
+        {
+          "title": "方正证券：市场超跌反弹进入攻坚期，科技与景气赛道分化演绎",
+          "url": "https://flash.jin10.com/detail/20260809165833532800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时32分"
+        },
+        {
+          "title": "宇树科技明日打新，注意四大事项",
+          "url": "https://www.cls.cn/detail/2449251",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时47分 ~ 17时32分]"
+        },
+        {
+          "title": "灵巧手赛道重磅选手+1！蓝思科技+中科慧灵，要推出37个关节自由度",
+          "url": "https://www.cls.cn/detail/2449229",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时47分 ~ 15时48分]"
+        },
+        {
+          "title": "周末要闻汇总：北京购房政策调整，宇树科技10日开启IPO申购",
+          "url": "https://www.cls.cn/detail/2449266",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时32分"
+        },
+        {
+          "title": "金十数据整理：每日科技要闻速递（8月9日）",
+          "url": "https://flash.jin10.com/detail/20260809091613424800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时27分"
+        },
+        {
+          "title": "宇树科技上市",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80%E4%B8%8A%E5%B8%82%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时06分"
+        },
+        {
+          "title": "宇树科技明日申购",
+          "url": "https://www.toutiao.com/trending/7670840910796881962/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时32分"
+        },
+        {
+          "title": "宇树科技中一签需缴7.54万元",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80%E4%B8%AD%E4%B8%80%E7%AD%BE%E9%9C%80%E7%BC%B47.54%E4%B8%87%E5%85%83%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时32分"
+        }
+      ]
+    },
+    {
       "keyword_group": "消费",
       "match_count": 7,
       "titles": [
@@ -515,11 +700,12 @@
             14,
             17,
             18,
-            22
+            22,
+            24
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时24分 ~ 15时48分]"
+          "appearance_count": 14,
+          "time_info": "[00时24分 ~ 17时32分]"
         },
         {
           "title": "年轻人不喜欢白酒，为什么白酒却是消费主流？",
@@ -561,11 +747,12 @@
             3,
             6,
             7,
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时27分 ~ 15时48分]"
+          "appearance_count": 6,
+          "time_info": "[11时27分 ~ 17时32分]"
         },
         {
           "title": "国家统计局：7月份居民消费价格同比上涨0.5%",
@@ -575,11 +762,24 @@
             6,
             9,
             10,
-            14
+            14,
+            16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时27分 ~ 15时48分]"
+          "appearance_count": 6,
+          "time_info": "[11时27分 ~ 17时32分]"
+        },
+        {
+          "title": "消费者称被“弹窗投保”续费超千元：元保保险称过程合规，已退款",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33743326",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时47分 ~ 17时32分]"
         },
         {
           "title": "2026年7月份居民消费价格同比上涨0.5%",
@@ -593,98 +793,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时27分 ~ 13时44分]"
-        },
-        {
-          "title": "消费者称被“弹窗投保”续费超千元：元保保险称过程合规，已退款",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33743326",
-          "source": "澎湃新闻",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时47分 ~ 15时48分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "科技",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "“创系列”指数产品扩容，16只ETF集中申报，瞄准算力与金融科技",
-          "url": "https://www.cls.cn/detail/2448863",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时24分 ~ 09时06分]"
-        },
-        {
-          "title": "央媒：用Token还是词元事关科技话语权",
-          "url": "https://www.toutiao.com/trending/7671123642835566598/",
-          "source": "今日头条",
-          "ranks": [
-            25,
-            30,
-            18,
-            23,
-            14,
-            24,
-            17,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[04时20分 ~ 14时42分]"
-        },
-        {
-          "title": "宇树科技明日打新，注意四大事项",
-          "url": "https://www.cls.cn/detail/2449251",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时47分 ~ 15时48分]"
-        },
-        {
-          "title": "灵巧手赛道重磅选手+1！蓝思科技+中科慧灵，要推出37个关节自由度",
-          "url": "https://www.cls.cn/detail/2449229",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时47分 ~ 15时48分]"
-        },
-        {
-          "title": "金十数据整理：每日科技要闻速递（8月9日）",
-          "url": "https://flash.jin10.com/detail/20260809091613424800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时27分"
-        },
-        {
-          "title": "宇树科技上市",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80%E4%B8%8A%E5%B8%82%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时06分"
         }
       ]
     },
@@ -706,8 +814,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时24分 ~ 15时48分]"
+          "appearance_count": 17,
+          "time_info": "[00时24分 ~ 17时32分]"
         },
         {
           "title": "伯克希尔哈撒韦：截至6月30日，股权投资总公允价值中有66%集中在美国运通、苹果、美国银行、阿尔phabet（谷歌母公司）和可口可乐这五家企业。 2025年全年末持有的固定收益证券投资公允价值达170.34亿美元，其中，对美债、外国债券、企业债券的投资公允价值分别为30.02亿美元、126.68亿美元、13.64亿美元。",
@@ -752,8 +860,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时42分 ~ 15时48分]"
+          "appearance_count": 4,
+          "time_info": "[14时42分 ~ 17时32分]"
         }
       ]
     },
