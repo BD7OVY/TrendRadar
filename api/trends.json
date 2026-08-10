@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-11T04:34:11.933509+08:00",
-  "total_titles_processed": 502,
+  "generated_at": "2026-08-11T05:35:04.187013+08:00",
+  "total_titles_processed": 547,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 30,
+      "match_count": 32,
       "titles": [
         {
           "title": "还剩85天，特朗普全面收缩，伊朗左冲右突",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时45分 ~ 04时34分]"
+          "appearance_count": 9,
+          "time_info": "[00时45分 ~ 05时35分]"
         },
         {
           "title": "伊朗最高安全官员换人，雷扎伊何许人也？",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时45分 ~ 04时34分]"
+          "appearance_count": 9,
+          "time_info": "[00时45分 ~ 05时35分]"
         },
         {
           "title": "伊朗回应特朗普“棋局”比喻：伊朗人是“专业棋手”",
@@ -37,8 +37,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时45分 ~ 04时34分]"
+          "appearance_count": 9,
+          "time_info": "[00时45分 ~ 05时35分]"
         },
         {
           "title": "伊朗的5个条件，美国是否会照单全收？",
@@ -59,8 +59,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时45分 ~ 04时34分]"
+          "appearance_count": 9,
+          "time_info": "[00时45分 ~ 05时35分]"
         },
         {
           "title": "特朗普称要向伊朗索赔",
@@ -70,30 +70,32 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时33分 ~ 04时34分]"
+          "appearance_count": 4,
+          "time_info": "[04时33分 ~ 05时35分]"
         },
         {
-          "title": "德国外长瓦德富尔：在与伊朗外长阿拉格奇的通话中，我敦促伊朗与地区邻国和美国进行建设性谈判，以结束冲突。霍尔木兹海峡必须无条件开放，确保所有船只自由安全地航行。",
-          "url": "https://flash.jin10.com/detail/20260811041240333800",
+          "title": "伊朗“圣城旅”指挥官到访巴格达 同伊拉克多方会晤",
+          "url": "https://flash.jin10.com/detail/20260811045926051800",
           "source": "金十数据",
           "ranks": [
-            3
+            5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时34分"
+          "time_info": "05时35分"
         },
         {
-          "title": "伊朗总统称与最高领袖会谈七八个小时，其健康状况很好",
-          "url": "https://wallstreetcn.com/livenews/3147684",
-          "source": "华尔街见闻-快讯",
+          "title": "伊朗最高领袖将任命数名高级指挥官",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E5%B0%86%E4%BB%BB%E5%91%BD%E6%95%B0%E5%90%8D%E9%AB%98%E7%BA%A7%E6%8C%87%E6%8C%A5%E5%AE%98",
+          "source": "百度热搜",
           "ranks": [
-            3
+            26,
+            19,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时34分"
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时45分 ~ 05时35分]"
         },
         {
           "title": "市场消息：伊朗革命卫队海军司令表示，任何外国船只通过霍尔木兹海峡都会受到伊朗军队的识别、跟踪和监控。",
@@ -120,16 +122,28 @@
           "time_info": "[01时46分 ~ 02时45分]"
         },
         {
-          "title": "伊朗最高领袖将任命数名高级指挥官",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E5%B0%86%E4%BB%BB%E5%91%BD%E6%95%B0%E5%90%8D%E9%AB%98%E7%BA%A7%E6%8C%87%E6%8C%A5%E5%AE%98",
-          "source": "百度热搜",
+          "title": "德国外长瓦德富尔：在与伊朗外长阿拉格奇的通话中，我敦促伊朗与地区邻国和美国进行建设性谈判，以结束冲突。霍尔木兹海峡必须无条件开放，确保所有船只自由安全地航行。",
+          "url": "https://flash.jin10.com/detail/20260811041240333800",
+          "source": "金十数据",
           "ranks": [
-            26,
-            19
+            3,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时45分 ~ 04时34分]"
+          "appearance_count": 2,
+          "time_info": "[04时34分 ~ 05时35分]"
+        },
+        {
+          "title": "伊朗总统称与最高领袖会谈七八个小时，其健康状况很好",
+          "url": "https://wallstreetcn.com/livenews/3147684",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时34分 ~ 05时35分]"
         },
         {
           "title": "伊朗与巴基斯坦外长通电话，讨论霍尔木兹海峡谈判与防务协议。",
@@ -190,6 +204,17 @@
           "time_info": "00时46分"
         },
         {
+          "title": "伊朗“圣城旅”指挥官到访巴格达，同伊拉克多方会晤",
+          "url": "https://wallstreetcn.com/livenews/3147698",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时35分"
+        },
+        {
           "title": "市场消息：伊朗外长阿拉格齐与德国外交部长讨论了双边、地区和国际局势。",
           "url": "https://flash.jin10.com/detail/20260810234432760800",
           "source": "金十数据",
@@ -229,7 +254,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时34分"
         },
@@ -262,7 +287,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时34分"
         },
@@ -339,15 +364,204 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时34分"
         }
       ]
     },
     {
+      "keyword_group": "科技",
+      "match_count": 16,
+      "titles": [
+        {
+          "title": "中签率0.0181%！宇树科技今天打新，机器人产业链迎来估值锚点",
+          "url": "https://www.cls.cn/detail/2450388",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时45分 ~ 05时35分]"
+        },
+        {
+          "title": "中国黑科技圈粉老外",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%BB%91%E7%A7%91%E6%8A%80%E5%9C%88%E7%B2%89%E8%80%81%E5%A4%96%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时45分 ~ 02时45分]"
+        },
+        {
+          "title": "宇树科技科创板申购火爆，中签率仅0.018%，首日盈利或逾20万元",
+          "url": "https://wallstreetcn.com/articles/3779085",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时45分 ~ 05时35分]"
+        },
+        {
+          "title": "硅基vs碳基、光vs存储、开源vs闭源--这是高盛顶级科技交易员最关注的10张图表",
+          "url": "https://wallstreetcn.com/articles/3779037",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时45分 ~ 05时35分]"
+        },
+        {
+          "title": "宇树科技：回拨机制启动后，网上发行最终中签率为0.01809759%",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33754082",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时45分 ~ 05时35分]"
+        },
+        {
+          "title": "IPO周报｜本周4只新股申购，“人形机器人第一股”宇树科技今日打新",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33750281",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            13,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时45分 ~ 05时35分]"
+        },
+        {
+          "title": "周一（8月10日），美股行业ETF普遍收跌，全球航空业ETF跌3.38%，半导体ETF跌2.28%，全球科技股指数ETF、科技行业ETF至多跌1.03%，网络股指数ETF涨1.29%，能源业ETF涨4.68%。 标普500指数的11个板块中，房地产板块收跌1.23%，公用事业、信息技术/科技板块至多跌1.11%，能源板块涨4.63%。",
+          "url": "https://wallstreetcn.com/livenews/3147681",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时34分 ~ 05时35分]"
+        },
+        {
+          "title": "宇树科技：网上发行最终中签率0.0181%",
+          "url": "https://www.toutiao.com/trending/7672361613353029174/",
+          "source": "今日头条",
+          "ranks": [
+            23,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时45分 ~ 04时34分]"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收涨1.65%，报6730.14点。 热门中概股里，陆控初步收涨14.3%，BOSS直聘涨5.4%，小马智行涨4.2%，阿里巴巴涨2.9%，新东方涨2.6%，世纪互联涨2.5%，比亚迪涨2%，携程涨1.9%，拼多多涨1.1%，日月光半导体、B站、百胜中国、中通快递、再鼎医药、亚朵至少涨0.7%，腾讯跌0.7%，理想跌0.9%，小鹏跌1.2%。 ETF中，中概互联网指数ETF（KWEB）收涨1.61%，中国科技指数ETF（CQQQ）收跌0.40%。 XtrackersHarvest中证50（ASHS）收跌0.19%，德银嘉实沪深300指数ETF（ASHR）收跌0.46%，MSCI新兴市场ex中国ETF（EMXC）收跌1.01%。",
+          "url": "https://wallstreetcn.com/livenews/3147676",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时34分 ~ 05时35分]"
+        },
+        {
+          "title": "标普500指数初步收跌0.1%，房地产、公用事业、科技板块至少跌1%，能源板块涨4.4%。 纳斯达克100指数初步收跌0.4%，半导体指数跌2.9%。",
+          "url": "https://wallstreetcn.com/livenews/3147679",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时34分"
+        },
+        {
+          "title": "特朗普媒体科技集团(DJT.O)第二季度营收170万美元，第二季度净亏损2.381亿美元，调整后EBITDA亏损2.235亿美元。",
+          "url": "https://flash.jin10.com/detail/20260811042521507800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时35分"
+        },
+        {
+          "title": "周一（8月10日），美股存储芯片与硬件供应链指数跌1.22%，报184.13点，美股盘初冲高回落，结束交易前30分钟内（再次）开启一波显著下跌的行情。 成分股Rambus收跌5.55%，泰瑞达跌3.75%，应用材料跌3.16%，美光科技、拉姆研究、希捷科技至少跌1.45%，西部数据收涨0.93%，闪迪涨2.12%。 此外，铠侠ADR跌4.01%，SK海力士ADR跌1.9%。",
+          "url": "https://wallstreetcn.com/livenews/3147690",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时35分"
+        },
+        {
+          "title": "北美科技软件股指数ETF收涨2.26%，报105.01美元，逼近6月1日收盘位107.68美元和2025年9月份顶部117.97美元。",
+          "url": "https://wallstreetcn.com/livenews/3147689",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时35分"
+        },
+        {
+          "title": "特朗普媒体科技集团二季度净利润2.38亿美元，上年同期亏损0.2亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3147687",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时35分"
+        },
+        {
+          "title": "恒生指数主连夜盘收涨0.07%，报25966点。 恒生科技指数主连夜盘收涨0.18%，报4937点。",
+          "url": "https://wallstreetcn.com/livenews/3147656",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时34分"
+        },
+        {
+          "title": "道指在非农次日收跌0.1%、成分股英伟达领跌，生物科技指数创历史新高",
+          "url": "https://wallstreetcn.com/livenews/3147679",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时35分"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "OpenAI曝光GPT-6！传10万亿参数，8月强行发布",
@@ -358,8 +572,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时45分 ~ 04时34分]"
+          "appearance_count": 9,
+          "time_info": "[00时45分 ~ 05时35分]"
         },
         {
           "title": "OpenAI：我们正在扩展网络安全计划Daybreak，并推出新模型GPT-5.6-Cyber，用于开展先进且经过授权的网络安全工作。",
@@ -441,6 +655,17 @@
           "time_info": "01时46分"
         },
         {
+          "title": "OpenAI回购70亿美元员工股份",
+          "url": "https://wallstreetcn.com/livenews/3147697",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时35分"
+        },
+        {
           "title": "OpenAI：限时期间，符合条件的工作区管理员每增加一个高级席位（Premium Seat），将获得价值100美元的额度奖励，最多可为5个席位获得总计500美元的额度。",
           "url": "https://flash.jin10.com/detail/20260811005211685800",
           "source": "金十数据",
@@ -450,6 +675,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时46分"
+        },
+        {
+          "title": "据悉OpenAI回购70亿美元员工股份",
+          "url": "https://flash.jin10.com/detail/20260811044344828800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时35分"
         },
         {
           "title": "OpenAI：高级席位（Premium Seats）价格为每位用户每月125美元，按年付费则为每位用户每月100美元。",
@@ -487,138 +723,6 @@
       ]
     },
     {
-      "keyword_group": "科技",
-      "match_count": 11,
-      "titles": [
-        {
-          "title": "中签率0.0181%！宇树科技今天打新，机器人产业链迎来估值锚点",
-          "url": "https://www.cls.cn/detail/2450388",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时45分 ~ 04时34分]"
-        },
-        {
-          "title": "中国黑科技圈粉老外",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%BB%91%E7%A7%91%E6%8A%80%E5%9C%88%E7%B2%89%E8%80%81%E5%A4%96%23&t=31&band_rank=3&Refer=top",
-          "source": "微博",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时45分 ~ 02时45分]"
-        },
-        {
-          "title": "宇树科技科创板申购火爆，中签率仅0.018%，首日盈利或逾20万元",
-          "url": "https://wallstreetcn.com/articles/3779085",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时45分 ~ 04时34分]"
-        },
-        {
-          "title": "硅基vs碳基、光vs存储、开源vs闭源--这是高盛顶级科技交易员最关注的10张图表",
-          "url": "https://wallstreetcn.com/articles/3779037",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时45分 ~ 04时34分]"
-        },
-        {
-          "title": "宇树科技：回拨机制启动后，网上发行最终中签率为0.01809759%",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33754082",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时45分 ~ 04时34分]"
-        },
-        {
-          "title": "IPO周报｜本周4只新股申购，“人形机器人第一股”宇树科技今日打新",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33750281",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            13,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时45分 ~ 04时34分]"
-        },
-        {
-          "title": "周一（8月10日），美股行业ETF普遍收跌，全球航空业ETF跌3.38%，半导体ETF跌2.28%，全球科技股指数ETF、科技行业ETF至多跌1.03%，网络股指数ETF涨1.29%，能源业ETF涨4.68%。 标普500指数的11个板块中，房地产板块收跌1.23%，公用事业、信息技术/科技板块至多跌1.11%，能源板块涨4.63%。",
-          "url": "https://wallstreetcn.com/livenews/3147681",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时34分"
-        },
-        {
-          "title": "宇树科技：网上发行最终中签率0.0181%",
-          "url": "https://www.toutiao.com/trending/7672361613353029174/",
-          "source": "今日头条",
-          "ranks": [
-            23,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时45分 ~ 04时34分]"
-        },
-        {
-          "title": "标普500指数初步收跌0.1%，房地产、公用事业、科技板块至少跌1%，能源板块涨4.4%。 纳斯达克100指数初步收跌0.4%，半导体指数跌2.9%。",
-          "url": "https://wallstreetcn.com/livenews/3147679",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时34分"
-        },
-        {
-          "title": "纳斯达克金龙中国指数收涨1.65%，报6730.14点。 热门中概股里，陆控初步收涨14.3%，BOSS直聘涨5.4%，小马智行涨4.2%，阿里巴巴涨2.9%，新东方涨2.6%，世纪互联涨2.5%，比亚迪涨2%，携程涨1.9%，拼多多涨1.1%，日月光半导体、B站、百胜中国、中通快递、再鼎医药、亚朵至少涨0.7%，腾讯跌0.7%，理想跌0.9%，小鹏跌1.2%。 ETF中，中概互联网指数ETF（KWEB）收涨1.61%，中国科技指数ETF（CQQQ）收跌0.40%。 XtrackersHarvest中证50（ASHS）收跌0.19%，德银嘉实沪深300指数ETF（ASHR）收跌0.46%，MSCI新兴市场ex中国ETF（EMXC）收跌1.01%。",
-          "url": "https://wallstreetcn.com/livenews/3147676",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时34分"
-        },
-        {
-          "title": "恒生指数主连夜盘收涨0.07%，报25966点。 恒生科技指数主连夜盘收涨0.18%，报4937点。",
-          "url": "https://wallstreetcn.com/livenews/3147656",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时34分"
-        }
-      ]
-    },
-    {
       "keyword_group": "旅游",
       "match_count": 3,
       "titles": [
@@ -629,11 +733,12 @@
           "ranks": [
             8,
             7,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时45分 ~ 04时34分]"
+          "appearance_count": 9,
+          "time_info": "[00时45分 ~ 05时35分]"
         },
         {
           "title": "经常旅游的人都有一个共性",
@@ -671,11 +776,12 @@
           "url": "https://flash.jin10.com/detail/20260811041811135800",
           "source": "金十数据",
           "ranks": [
-            1
+            1,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时34分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时34分 ~ 05时35分]"
         },
         {
           "title": "明晟公司MSCI北欧国家指数大致持平，报398.84点。 在十个板块中，北欧金融板块跌幅最大。 Investment AB Latour跌3.4%，在一众北欧个股里表现最差。",
@@ -702,8 +808,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时45分 ~ 04时34分]"
+          "appearance_count": 9,
+          "time_info": "[00时45分 ~ 05时35分]"
         },
         {
           "title": "创业板触底回升跌0.7%，医药、消费大涨，芯片算力集体下挫、寒武纪跌超6%，港股老铺黄金大涨12%",
@@ -713,8 +819,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时45分 ~ 04时34分]"
+          "appearance_count": 9,
+          "time_info": "[00时45分 ~ 05时35分]"
         }
       ]
     },
@@ -729,7 +835,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时34分"
         },
@@ -740,7 +846,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时34分"
         }
@@ -761,6 +867,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时46分 ~ 02时45分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "国际金价周一涨1.1%，现货白银涨3.2%",
+          "url": "https://wallstreetcn.com/livenews/3147700",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时35分"
         }
       ]
     }
