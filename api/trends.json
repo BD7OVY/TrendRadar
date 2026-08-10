@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-10T09:08:32.487186+08:00",
-  "total_titles_processed": 644,
+  "generated_at": "2026-08-10T11:47:32.443016+08:00",
+  "total_titles_processed": 821,
   "failed_sources": [],
   "trends": [
     {
@@ -31,6 +31,19 @@
           "time_info": "[00时25分 ~ 09时08分]"
         },
         {
+          "title": "伊朗最高领袖与总统会谈，重点讨论了这几个问题",
+          "url": "https://news.ifeng.com/c/8vS3pS8BvYm",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时25分 ~ 11时47分]"
+        },
+        {
           "title": "伊朗最高领袖与总统会谈",
           "url": "https://www.toutiao.com/trending/7670941843498287158/",
           "source": "今日头条",
@@ -38,23 +51,12 @@
             5,
             2,
             4,
-            25
+            25,
+            16
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时25分 ~ 09时08分]"
-        },
-        {
-          "title": "伊朗最高领袖与总统会谈，重点讨论了这几个问题",
-          "url": "https://news.ifeng.com/c/8vS3pS8BvYm",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时25分 ~ 09时08分]"
+          "appearance_count": 12,
+          "time_info": "[00时25分 ~ 11时47分]"
         },
         {
           "title": "伊朗最高领袖与总统会谈",
@@ -80,6 +82,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时26分 ~ 07时24分]"
+        },
+        {
+          "title": "伊朗高层变动，最高领袖发出新任命",
+          "url": "https://news.ifeng.com/c/8vSqCKLbBLT",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时08分 ~ 11时47分]"
         },
         {
           "title": "美媒：特朗普暂缓对伊动武，称正“低调处理”伊朗问题",
@@ -110,24 +123,13 @@
           "time_info": "[05时24分 ~ 07时24分]"
         },
         {
-          "title": "伊朗高层变动，最高领袖发出新任命",
-          "url": "https://news.ifeng.com/c/8vSqCKLbBLT",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时08分"
-        },
-        {
           "title": "伊朗议会批准霍尔木兹海峡安全纲要",
           "url": "https://news.ifeng.com/c/8vSazQ4m4p1",
           "source": "凤凰网",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时08分"
         },
@@ -299,6 +301,17 @@
           "time_info": "[00时26分 ~ 02时29分]"
         },
         {
+          "title": "美军基地遭袭，伊朗公布最新卫星对比图",
+          "url": "https://news.ifeng.com/c/8vT6dxUIQom",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时08分 ~ 11时47分]"
+        },
+        {
           "title": "据伊朗学生通讯社：伊朗举行经济关系协调委员会会议，重点讨论北部港口在保障基本商品供应中的作用。",
           "url": "https://flash.jin10.com/detail/20260810032232973800",
           "source": "金十数据",
@@ -334,24 +347,13 @@
           "time_info": "[05时24分 ~ 06时22分]"
         },
         {
-          "title": "美军基地遭袭，伊朗公布最新卫星对比图",
-          "url": "https://news.ifeng.com/c/8vT6dxUIQom",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时08分"
-        },
-        {
           "title": "战略专家警告：伊朗袭击暴露美军漏洞，美军海外资产面临毁灭风险！",
           "url": "https://flash.jin10.com/detail/20260810081200980800",
           "source": "金十数据",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时08分"
         },
@@ -384,7 +386,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时08分"
         }
@@ -392,7 +394,7 @@
     },
     {
       "keyword_group": "科技",
-      "match_count": 19,
+      "match_count": 26,
       "titles": [
         {
           "title": "周末要闻汇总：北京购房政策调整，宇树科技10日开启IPO申购",
@@ -403,8 +405,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时25分 ~ 09时08分]"
+          "appearance_count": 12,
+          "time_info": "[00时25分 ~ 11时47分]"
         },
         {
           "title": "宇树科技明日打新，注意四大事项",
@@ -415,8 +417,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时25分 ~ 09时08分]"
+          "appearance_count": 12,
+          "time_info": "[00时25分 ~ 11时47分]"
         },
         {
           "title": "A股科技反弹是否一蹴而就？投资主线有哪些？十大券商策略来了",
@@ -429,8 +431,22 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时25分 ~ 09时08分]"
+          "appearance_count": 12,
+          "time_info": "[00时25分 ~ 11时47分]"
+        },
+        {
+          "title": "宇树科技明日申购，中一签能赚多少？",
+          "url": "https://wallstreetcn.com/articles/3779007",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            7,
+            8,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时25分 ~ 11时47分]"
         },
         {
           "title": "宇树科技中签率远低于长鑫科技",
@@ -459,29 +475,17 @@
           "time_info": "[00时25分 ~ 07时24分]"
         },
         {
-          "title": "宇树科技明日申购，中一签能赚多少？",
-          "url": "https://wallstreetcn.com/articles/3779007",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时25分 ~ 09时08分]"
-        },
-        {
           "title": "灵巧手赛道重磅选手+1！蓝思科技+中科慧灵，要推出37个关节自由度",
           "url": "https://www.cls.cn/detail/2449229",
           "source": "财联社热门",
           "ranks": [
             13,
-            12
+            12,
+            9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时25分 ~ 09时08分]"
+          "appearance_count": 12,
+          "time_info": "[00时25分 ~ 11时47分]"
         },
         {
           "title": "券商综合测算：宇树科技中一签或赚20万元",
@@ -498,6 +502,17 @@
           "time_info": "[00时26分 ~ 07时24分]"
         },
         {
+          "title": "【早报】宇树科技，今日申购；伊方批准霍尔木兹海峡安全纲要；寒武纪、江波龙、药明康德发布重要公告",
+          "url": "https://www.cls.cn/detail/2449482",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时08分 ~ 11时47分]"
+        },
+        {
           "title": "报道：苹果测试长鑫科技存储芯片，用于iPhone和MacBook",
           "url": "https://wallstreetcn.com/livenews/3147106",
           "source": "华尔街见闻-快讯",
@@ -511,15 +526,15 @@
           "time_info": "[00时26分 ~ 06时22分]"
         },
         {
-          "title": "【早报】宇树科技，今日申购；伊方批准霍尔木兹海峡安全纲要；寒武纪、江波龙、药明康德发布重要公告",
-          "url": "https://www.cls.cn/detail/2449482",
-          "source": "财联社热门",
+          "title": "宇树科技 8 月 10 日申购，中一签需缴 7.54 万，打新性价比如何？高预期背后哪些风险值得警惕？",
+          "url": "https://www.zhihu.com/question/2069822063146004694",
+          "source": "知乎",
           "ranks": [
-            1
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时08分"
+          "time_info": "11时47分"
         },
         {
           "title": "本周重磅日程：美国CPI，宇树科技打新，腾讯、京东、茅台、中芯国际财报",
@@ -528,9 +543,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时08分"
+        },
+        {
+          "title": "宇树科技今日申购",
+          "url": "https://search.bilibili.com/all?keyword=%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80%E4%BB%8A%E6%97%A5%E7%94%B3%E8%B4%AD",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时47分"
         },
         {
           "title": "宇树科技上市后或冲刺1000亿估值",
@@ -551,11 +577,24 @@
           "source": "bilibili 热搜",
           "ranks": [
             26,
-            28
+            28,
+            20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时25分 ~ 03时28分]"
+          "appearance_count": 5,
+          "time_info": "[00时25分 ~ 11时47分]"
+        },
+        {
+          "title": "宇树科技今日申购",
+          "url": "https://www.douyin.com/hot/2603801",
+          "source": "抖音",
+          "ranks": [
+            10,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时08分 ~ 11时47分]"
         },
         {
           "title": "宇树科技明日申购",
@@ -580,15 +619,15 @@
           "time_info": "07时24分"
         },
         {
-          "title": "宇树科技今日申购",
-          "url": "https://www.douyin.com/hot/2603801",
-          "source": "抖音",
+          "title": "【数读IPO】宇树科技今日申购",
+          "url": "https://www.cls.cn/detail/2449470",
+          "source": "财联社热门",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时08分"
+          "time_info": "11时47分"
         },
         {
           "title": "社保基金接连出手，助力量子科技加速从实验室走向产业化",
@@ -608,7 +647,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时08分"
         },
@@ -619,15 +658,59 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时08分"
+        },
+        {
+          "title": "大疆错失宇树科技数十亿市值",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%A7%E7%96%86%E9%94%99%E5%A4%B1%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80%E6%95%B0%E5%8D%81%E4%BA%BF%E5%B8%82%E5%80%BC%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时47分"
+        },
+        {
+          "title": "A股算力硬件股震荡下挫，泰金新能跌超10%，炬光科技、光迅科技、东威科技、迅捷兴、东山精密、天承科技跌超7%。",
+          "url": "https://wallstreetcn.com/livenews/3147230",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时47分"
+        },
+        {
+          "title": "A股存储芯片板块震荡走低，朗科科技跌超13%，普冉股份、托伦斯、圣邦股份、北京君正、佰维存储跟跌。",
+          "url": "https://wallstreetcn.com/livenews/3147211",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时47分"
+        },
+        {
+          "title": "A股CPO概念盘中持续走弱，光迅科技逼近跌停，中际旭创跌超7%，东山精密、新易盛、长芯博创、联讯仪器等均跌超5%。",
+          "url": "https://flash.jin10.com/detail/20260810105948122800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时47分"
         }
       ]
     },
     {
       "keyword_group": "金融",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "据英国金融时报：前美国安全官员警告，美国总统特朗普正在拆除美国的防护屏障。",
@@ -661,7 +744,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时08分"
         },
@@ -672,7 +755,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时08分"
         },
@@ -683,15 +766,37 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时08分"
+        },
+        {
+          "title": "广东省新型政策性金融工具培训视频会议（民营企业专场）在广州召开",
+          "url": "https://flash.jin10.com/detail/20260810110218820800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时47分"
+        },
+        {
+          "title": "A股房地产板块早盘活跃，京投发展涨停，城建发展、我爱我家、金融街、三湘印象、大悦城跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3147198",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时47分"
         }
       ]
     },
     {
       "keyword_group": "消费",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "消费者称被“弹窗投保”续费超千元：元保保险称过程合规，已退款",
@@ -702,8 +807,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时25分 ~ 09时08分]"
+          "appearance_count": 12,
+          "time_info": "[00时25分 ~ 11时47分]"
         },
         {
           "title": "4.2平卫生间补漏注胶花1.55万，消费者称陷“天价注胶补漏”套路",
@@ -715,8 +820,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时25分 ~ 09时08分]"
+          "appearance_count": 12,
+          "time_info": "[00时25分 ~ 11时47分]"
         },
         {
           "title": "五粮液：公司持续关注低度酒、轻饮酒类的市场消费趋势",
@@ -732,6 +837,28 @@
           "time_info": "[00时26分 ~ 06时22分]"
         },
         {
+          "title": "港股新消费概念走势分化，老铺黄金(06181.HK)涨超7%，蜜雪集团(02097.HK)涨超4%，沪上阿姨(02589.HK)跌超20%。",
+          "url": "https://flash.jin10.com/detail/20260810111142358800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时47分"
+        },
+        {
+          "title": "A股食品、白酒等消费股震荡上扬，一鸣食品、香飘飘双双涨停，金达威此前封板，品渥食品涨超10%，东鹏饮料涨超7%，迎驾贡酒、立高食品、会稽山等跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3147228",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时47分"
+        },
+        {
           "title": "五粮液：公司持续关注低度酒、轻饮酒类的市场消费趋势",
           "url": "https://flash.jin10.com/detail/20260809210319951800",
           "source": "金十数据",
@@ -741,6 +868,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时26分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "资源",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "A股有色板块震荡拉升，鹏欣资源涨停，寒锐钴业、腾远钴业涨超10%，华友钴业、东方锆业、金钼股份涨幅居前。",
+          "url": "https://wallstreetcn.com/livenews/3147203",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时47分"
+        },
+        {
+          "title": "自然资源部与中国气象局联合发布橙色地质灾害气象风险预警",
+          "url": "https://wallstreetcn.com/livenews/3147196",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时47分"
         }
       ]
     },
@@ -771,9 +926,60 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时08分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "医药",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "公募机构扎堆调研医药生物行业",
+          "url": "https://flash.jin10.com/detail/20260810113041286800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时47分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "OpenAI曝光GPT-6！传10万亿参数，8月强行发布",
+          "url": "https://wallstreetcn.com/articles/3779038",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时47分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金十图示：2026年08月10日（周一）上海金早盘价为938.76元/克，较国际金价(936.92元/克)，高1.84元/克",
+          "url": "https://flash.jin10.com/detail/20260810110224681800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时47分"
         }
       ]
     },
@@ -792,6 +998,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时22分 ~ 07时24分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "旅游",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "A股旅游板块震荡走强，华天酒店触及涨停，西安饮食、三峡旅游、同庆楼、曲江文旅、金马游乐跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3147235",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时47分"
         }
       ]
     }
