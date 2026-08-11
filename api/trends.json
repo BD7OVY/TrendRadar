@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-12T02:52:39.384381+08:00",
-  "total_titles_processed": 401,
+  "generated_at": "2026-08-12T05:39:00.453520+08:00",
+  "total_titles_processed": 470,
   "failed_sources": [],
   "trends": [
     {
@@ -12,22 +12,24 @@
           "url": "https://news.ifeng.com/c/8vVLJAifXPo",
           "source": "凤凰网",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时50分 ~ 02时52分]"
+          "appearance_count": 5,
+          "time_info": "[00时50分 ~ 05时39分]"
         },
         {
           "title": "特朗普称伊朗谈判代表“非常狡猾”，但美有三种策略",
           "url": "https://news.ifeng.com/c/8vVVzg0SEzI",
           "source": "凤凰网",
           "ranks": [
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时50分 ~ 02时52分]"
+          "appearance_count": 5,
+          "time_info": "[00时50分 ~ 05时39分]"
         },
         {
           "title": "伊朗密集换将，特朗普提“索赔”，美伊协议“希望渺茫”？",
@@ -37,8 +39,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时50分 ~ 02时52分]"
+          "appearance_count": 5,
+          "time_info": "[00时50分 ~ 05时39分]"
         },
         {
           "title": "结束会晤后，伊朗总统透露最高领袖身体状况",
@@ -58,7 +60,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时52分"
         },
@@ -69,7 +71,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时52分"
         },
@@ -80,7 +82,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时52分"
         },
@@ -91,7 +93,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时52分"
         },
@@ -101,11 +103,24 @@
           "source": "知乎",
           "ranks": [
             15,
-            14
+            14,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时50分 ~ 05时39分]"
+        },
+        {
+          "title": "伊朗警告乌克兰不赔偿就动手",
+          "url": "https://www.toutiao.com/trending/7671598956682723379/",
+          "source": "今日头条",
+          "ranks": [
+            28,
+            17
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[00时50分 ~ 02时52分]"
+          "time_info": "[02时52分 ~ 05时39分]"
         },
         {
           "title": "伊朗高级官员：美必须接受伊方条件换取霍尔木兹海峡开放",
@@ -136,7 +151,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时52分"
         },
@@ -158,7 +173,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时52分"
         },
@@ -169,7 +184,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时52分"
         },
@@ -191,7 +206,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时52分"
         },
@@ -205,23 +220,12 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时51分"
-        },
-        {
-          "title": "伊朗警告乌克兰不赔偿就动手",
-          "url": "https://www.toutiao.com/trending/7671598956682723379/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时52分"
         }
       ]
     },
     {
       "keyword_group": "科技",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "宇树科技中签号出炉",
@@ -231,8 +235,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时50分 ~ 02时52分]"
+          "appearance_count": 5,
+          "time_info": "[00时50分 ~ 05时39分]"
         },
         {
           "title": "宇树科技网上摇号中签结果出炉，中签号码共有19414个",
@@ -242,19 +246,20 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时50分 ~ 02时52分]"
+          "appearance_count": 5,
+          "time_info": "[00时50分 ~ 05时39分]"
         },
         {
           "title": "宇树科技中签号出炉 共约1.94万个",
           "url": "https://www.baidu.com/s?wd=%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80%E4%B8%AD%E7%AD%BE%E5%8F%B7%E5%87%BA%E7%82%89+%E5%85%B1%E7%BA%A61.94%E4%B8%87%E4%B8%AA",
           "source": "百度热搜",
           "ranks": [
-            28
+            28,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时50分 ~ 00时51分]"
+          "appearance_count": 4,
+          "time_info": "[00时50分 ~ 05时39分]"
         },
         {
           "title": "宇树科技中签者发声",
@@ -266,51 +271,34 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时50分 ~ 00时51分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
-      "titles": [
+        },
         {
-          "title": "谷歌：Gemini月活用户数超过10亿",
-          "url": "https://wallstreetcn.com/livenews/3148199",
+          "title": "周二（8月11日），美股行业ETF涨跌各异，网络股指数ETF收跌0.96%，可选消费ETF跌0.36%，科技行业ETF跌0.12%，半导体ETF涨0.62%，全球航空业ETF涨0.83%，能源业ETF涨1.25%。 标普500指数的11个板块中，电信板块收跌2.12%，房地产板块跌0.86%，信息技术/科技板块跌0.26%，能源板块涨1.06%。",
+          "url": "https://wallstreetcn.com/livenews/3148243",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时52分"
+          "time_info": "05时39分"
         },
         {
-          "title": "谷歌(GOOG.O)：Gemini应用的月活跃用户超过10亿，成为谷歌历史上增长速度最快的产品。",
-          "url": "https://flash.jin10.com/detail/20260812014236644800",
-          "source": "金十数据",
+          "title": "纳斯达克金龙中国指数收跌2.94%，报6532.41点，脱离6月2日以来最高收盘位6730.14点。 热门中概股里，腾讯音乐初步收跌11.9%，B站跌5.2%，新东方跌4.6%，网易跌4.1%，阿特斯涨1.8%，万国数据涨3.9%，再鼎医药涨10.3%。 ETF中，中概互联网指数ETF（KWEB）收跌3.54%，中国科技指数ETF（CQQQ）收跌1.97%。 XtrackersHarvest中证50（ASHS）收1.19%，德银嘉实沪深300指数ETF（ASHR）收跌0.80%，MSCI新兴市场ex中国ETF（EMXC）收涨0.96%。",
+          "url": "https://wallstreetcn.com/livenews/3148229",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            15
+            25
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时52分"
-        },
-        {
-          "title": "谷歌(GOOG.O)：将视频点播服务引入Google TV Freeplay。",
-          "url": "https://flash.jin10.com/detail/20260812012754420800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时52分"
+          "time_info": "05时39分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "据The Information：OpenAI特别项目负责人、前首席运营官Brad Lightcap即将离职。",
@@ -335,13 +323,63 @@
           "time_info": "00时51分"
         },
         {
+          "title": "美国参议院Sanders发函，要求OpenAI、Anthropic、Meta等众多AI公司暂停开发。（纽约时报）",
+          "url": "https://wallstreetcn.com/livenews/3148238",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时39分"
+        },
+        {
           "title": "OpenAI：ChatGPT在英国、日本、墨西哥、巴西、韩国新增广告内容。",
           "url": "https://wallstreetcn.com/livenews/3148176",
           "source": "华尔街见闻-快讯",
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时52分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "谷歌：Gemini月活用户数超过10亿",
+          "url": "https://wallstreetcn.com/livenews/3148199",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时52分"
+        },
+        {
+          "title": "谷歌(GOOG.O)：Gemini应用的月活跃用户超过10亿，成为谷歌历史上增长速度最快的产品。",
+          "url": "https://flash.jin10.com/detail/20260812014236644800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时52分"
+        },
+        {
+          "title": "谷歌(GOOG.O)：将视频点播服务引入Google TV Freeplay。",
+          "url": "https://flash.jin10.com/detail/20260812012754420800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时52分"
         }
@@ -376,6 +414,34 @@
       ]
     },
     {
+      "keyword_group": "美元",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌1.15%，暂报2044.75点。 MarketVectorTM数字资产100中盘指数跌1.71%，报2262.71点。 MarketVector数字资产100指数跌0.45%，报12591.71点。 目前，Solana跌1.60%，狗狗币涨0.92%，XRP跌1.26%。 比特币跌0.75%，暂报63456.64美元；以太坊跌0.69%，暂报1863.05美元。",
+          "url": "https://wallstreetcn.com/livenews/3148179",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时52分"
+        },
+        {
+          "title": "周二（8月11日）纽约尾盘，ICE美元指数涨0.02%，报99.833点，日内交投区间为99.725-99.898点。 彭博美元指数跌0.05%，报1203.02点，日内交投区间为1204.50-1202.56点。",
+          "url": "https://wallstreetcn.com/livenews/3148221",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时39分"
+        }
+      ]
+    },
+    {
       "keyword_group": "金融",
       "match_count": 1,
       "titles": [
@@ -401,28 +467,12 @@
           "url": "https://www.cls.cn/detail/2451276",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时50分 ~ 02时52分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌1.15%，暂报2044.75点。 MarketVectorTM数字资产100中盘指数跌1.71%，报2262.71点。 MarketVector数字资产100指数跌0.45%，报12591.71点。 目前，Solana跌1.60%，狗狗币涨0.92%，XRP跌1.26%。 比特币跌0.75%，暂报63456.64美元；以太坊跌0.69%，暂报1863.05美元。",
-          "url": "https://wallstreetcn.com/livenews/3148179",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时52分"
+          "appearance_count": 5,
+          "time_info": "[00时50分 ~ 05时39分]"
         }
       ]
     }
