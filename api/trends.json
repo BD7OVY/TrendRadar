@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-11T17:54:41.613489+08:00",
-  "total_titles_processed": 1461,
+  "generated_at": "2026-08-11T20:46:17.306049+08:00",
+  "total_titles_processed": 1635,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 61,
+      "match_count": 71,
       "titles": [
         {
           "title": "还剩85天，特朗普全面收缩，伊朗左冲右突",
@@ -46,11 +46,37 @@
           "url": "https://news.ifeng.com/c/8vUfY9eJoTT",
           "source": "凤凰网",
           "ranks": [
-            1
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时07分 ~ 20时46分]"
+        },
+        {
+          "title": "伊朗最高领袖调整6名军方高层，美媒：德黑兰发出了信号",
+          "url": "https://news.ifeng.com/c/8vUtL7Lqyat",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            3
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[09时07分 ~ 17时54分]"
+          "time_info": "[11时29分 ~ 20时46分]"
+        },
+        {
+          "title": "伊朗更强硬的强硬派来了",
+          "url": "https://news.ifeng.com/c/8vUncUovk9A",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时07分 ~ 20时46分]"
         },
         {
           "title": "特朗普称要向伊朗索赔",
@@ -76,15 +102,19 @@
           "time_info": "[00时45分 ~ 07时29分]"
         },
         {
-          "title": "伊朗最高领袖调整6名军方高层，美媒：德黑兰发出了信号",
-          "url": "https://news.ifeng.com/c/8vUtL7Lqyat",
-          "source": "凤凰网",
+          "title": "伊朗密集换将，特朗普提“索赔”，美伊协议“希望渺茫”？",
+          "url": "https://wallstreetcn.com/articles/3779107",
+          "source": "华尔街见闻",
           "ranks": [
-            2
+            8,
+            6,
+            5,
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时29分 ~ 17时54分]"
+          "appearance_count": 7,
+          "time_info": "[11时29分 ~ 20时46分]"
         },
         {
           "title": "伊朗的5个条件，美国是否会照单全收？",
@@ -98,17 +128,15 @@
           "time_info": "[00时45分 ~ 02时45分]"
         },
         {
-          "title": "伊朗更强硬的强硬派来了",
-          "url": "https://news.ifeng.com/c/8vUncUovk9A",
+          "title": "外媒曝出重大消息：特朗普放弃对伊朗的头号要求",
+          "url": "https://news.ifeng.com/c/8vUFosuJumv",
           "source": "凤凰网",
           "ranks": [
-            7,
-            6,
-            5
+            4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时07分 ~ 17时54分]"
+          "appearance_count": 5,
+          "time_info": "[14时54分 ~ 20时46分]"
         },
         {
           "title": "只闻其事不见其人，伊朗最高领袖为何“隐身”？",
@@ -122,29 +150,15 @@
           "time_info": "[09时07分 ~ 11时29分]"
         },
         {
-          "title": "外媒曝出重大消息：特朗普放弃对伊朗的头号要求",
-          "url": "https://news.ifeng.com/c/8vUFosuJumv",
+          "title": "特朗普称伊朗谈判代表“非常狡猾”，但美有三种策略",
+          "url": "https://news.ifeng.com/c/8vVVzg0SEzI",
           "source": "凤凰网",
           "ranks": [
-            4
+            1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时54分 ~ 17时54分]"
-        },
-        {
-          "title": "伊朗密集换将，特朗普提“索赔”，美伊协议“希望渺茫”？",
-          "url": "https://wallstreetcn.com/articles/3779107",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时29分 ~ 17时54分]"
+          "appearance_count": 2,
+          "time_info": "[20时45分 ~ 20时46分]"
         },
         {
           "title": "外媒曝出惊人消息：特朗普放弃对伊朗的头号要求",
@@ -202,6 +216,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时29分"
+        },
+        {
+          "title": "美国向一艘破坏其对伊朗封锁的船只开火。 美国周二早间向一艘悬挂巴拿马旗帜的船只开火。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3148075",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
+        },
+        {
+          "title": "伊朗外长：伊朗让美国幻想破灭",
+          "url": "https://flash.jin10.com/detail/20260811204132873800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
         },
         {
           "title": "伊朗警告乌克兰不赔偿就动手",
@@ -397,6 +433,17 @@
           "time_info": "[01时46分 ~ 02时45分]"
         },
         {
+          "title": "伊朗高层近期密集调整军政核心职位，是出于哪些考虑？向外界传递了怎样的信息？",
+          "url": "https://www.zhihu.com/question/2070450417981469090",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时45分 ~ 20时46分]"
+        },
+        {
           "title": "伊朗更强硬的强硬派来了",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%9B%B4%E5%BC%BA%E7%A1%AC%E7%9A%84%E5%BC%BA%E7%A1%AC%E6%B4%BE%E6%9D%A5%E4%BA%86",
           "source": "百度热搜",
@@ -486,6 +533,17 @@
           "time_info": "00时46分"
         },
         {
+          "title": "伊朗最高国家安全委员会：伊朗处于历史转折点 对威胁“零容忍”",
+          "url": "https://flash.jin10.com/detail/20260811203153885800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
+        },
+        {
           "title": "伊朗最高领袖对武装部队进行新任命",
           "url": "https://wallstreetcn.com/livenews/3147599",
           "source": "华尔街见闻-快讯",
@@ -506,6 +564,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时34分"
+        },
+        {
+          "title": "伊朗最高国家安全委员会秘书雷扎伊：在外交领域，我们将遵循最高领袖的指导方针，采取的原则是加强威慑，抵制敌人的欺凌，对任何侵略行为立即做出果断回应。",
+          "url": "https://flash.jin10.com/detail/20260811202936631800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
         },
         {
           "title": "伊朗总统称与最高领袖会谈七八个小时",
@@ -530,6 +599,17 @@
           "time_info": "00时46分"
         },
         {
+          "title": "伊朗最高国家安全委员会秘书雷扎伊：伊朗绝不会在人民的权利和利益受到任何威胁时退缩。",
+          "url": "https://flash.jin10.com/detail/20260811202905420800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
+        },
+        {
           "title": "美国总统特朗普：关于伊朗谈判，伊朗应对其给黎巴嫩、叙利亚、也门和加沙人民造成的损害及死亡负责。",
           "url": "https://flash.jin10.com/detail/20260811014323156800",
           "source": "金十数据",
@@ -539,6 +619,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时45分"
+        },
+        {
+          "title": "伊朗最高国家安全委员会秘书雷扎伊：我将竭尽全力增强伊朗的实力。",
+          "url": "https://flash.jin10.com/detail/20260811202847518800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
         },
         {
           "title": "伊朗：每当华盛顿发现自己无力开展外交，就会退而诉诸制裁",
@@ -640,6 +731,17 @@
           "time_info": "00时46分"
         },
         {
+          "title": "巴基斯坦内政部长抵达德黑兰进行会谈。（伊朗媒体MEHR）",
+          "url": "https://wallstreetcn.com/livenews/3148049",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
+        },
+        {
           "title": "伊朗外长阿拉格齐：在最近的战争中，伊朗向全世界证明了自己，展现出其作为一支强大且不可战胜的力量的形象。",
           "url": "https://flash.jin10.com/detail/20260811153518529800",
           "source": "金十数据",
@@ -649,6 +751,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时06分"
+        },
+        {
+          "title": "据华尔街日报：美国官员称，美国军队对一艘试图突破伊朗港口封锁的巴拿马籍船只开火。",
+          "url": "https://flash.jin10.com/detail/20260811202252329800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
         },
         {
           "title": "美国总统特朗普：（当被问及伊朗战争接下来会发生什么时）你们很快就会知道了。",
@@ -709,7 +822,7 @@
     },
     {
       "keyword_group": "科技",
-      "match_count": 31,
+      "match_count": 37,
       "titles": [
         {
           "title": "中签率0.0181%！宇树科技今天打新，机器人产业链迎来估值锚点",
@@ -793,6 +906,46 @@
           "time_info": "[00时45分 ~ 02时45分]"
         },
         {
+          "title": "让“科味”更浓，恒生科技指数大调整，这一次有何不同？",
+          "url": "https://www.cls.cn/detail/2450976",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            7,
+            6,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时55分 ~ 20时46分]"
+        },
+        {
+          "title": "非科技板块的春天？医药板块调研热度超越半导体",
+          "url": "https://www.cls.cn/detail/2450966",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11,
+            9,
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时55分 ~ 20时46分]"
+        },
+        {
+          "title": "宇树科技中签号出炉 共约1.94万个",
+          "url": "https://www.baidu.com/s?wd=%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80%E4%B8%AD%E7%AD%BE%E5%8F%B7%E5%87%BA%E7%82%89+%E5%85%B1%E7%BA%A61.94%E4%B8%87%E4%B8%AA",
+          "source": "百度热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时45分 ~ 20时46分]"
+        },
+        {
           "title": "恒生科技指数高开低走，午盘前跌逾1%，恒指现跌0.54%。",
           "url": "https://flash.jin10.com/detail/20260811111227648800",
           "source": "金十数据",
@@ -813,20 +966,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时29分"
-        },
-        {
-          "title": "让“科味”更浓，恒生科技指数大调整，这一次有何不同？",
-          "url": "https://www.cls.cn/detail/2450976",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            7,
-            6,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时55分 ~ 17时54分]"
         },
         {
           "title": "宇树科技：网上发行最终中签率0.0181%",
@@ -854,20 +993,6 @@
           "time_info": "[04时34分 ~ 06时29分]"
         },
         {
-          "title": "非科技板块的春天？医药板块调研热度超越半导体",
-          "url": "https://www.cls.cn/detail/2450966",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时55分 ~ 17时54分]"
-        },
-        {
           "title": "黄晓明再回应靠长鑫科技赚百亿传闻",
           "url": "https://www.toutiao.com/trending/7672605240819089454/",
           "source": "今日头条",
@@ -877,6 +1002,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[13时55分 ~ 17时54分]"
+        },
+        {
+          "title": "宇树科技中签号出炉 共有19414个",
+          "url": "https://www.toutiao.com/trending/7672729077492485651/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时45分 ~ 20时46分]"
         },
         {
           "title": "纳斯达克金龙中国指数收涨1.65%，报6730.14点。 热门中概股里，陆控初步收涨14.3%，BOSS直聘涨5.4%，小马智行涨4.2%，阿里巴巴涨2.9%，新东方涨2.6%，世纪互联涨2.5%，比亚迪涨2%，携程涨1.9%，拼多多涨1.1%，日月光半导体、B站、百胜中国、中通快递、再鼎医药、亚朵至少涨0.7%，腾讯跌0.7%，理想跌0.9%，小鹏跌1.2%。 ETF中，中概互联网指数ETF（KWEB）收涨1.61%，中国科技指数ETF（CQQQ）收跌0.40%。 XtrackersHarvest中证50（ASHS）收跌0.19%，德银嘉实沪深300指数ETF（ASHR）收跌0.46%，MSCI新兴市场ex中国ETF（EMXC）收跌1.01%。",
@@ -889,6 +1025,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时34分 ~ 05时35分]"
+        },
+        {
+          "title": "告别“外卖指数”转向“硬科技”？恒生科技将迎来最大改革",
+          "url": "https://wallstreetcn.com/articles/3779167",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时45分 ~ 20时46分]"
         },
         {
           "title": "周一（8月10日），美股存储芯片与硬件供应链指数跌1.22%，报184.13点，美股盘初冲高回落，结束交易前30分钟内（再次）开启一波显著下跌的行情。 成分股Rambus收跌5.55%，泰瑞达跌3.75%，应用材料跌3.16%，美光科技、拉姆研究、希捷科技至少跌1.45%，西部数据收涨0.93%，闪迪涨2.12%。 此外，铠侠ADR跌4.01%，SK海力士ADR跌1.9%。",
@@ -1004,6 +1151,17 @@
           "time_info": "14时54分"
         },
         {
+          "title": "宇树科技中签号出炉：共有19,414个",
+          "url": "https://wallstreetcn.com/livenews/3148051",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
+        },
+        {
           "title": "A股商业航天概念早盘下挫，中国卫星逼近跌停，超捷股份、斯瑞新材跌超10%，神剑股份、电科蓝天、航天环宇、金风科技跌超7%。",
           "url": "https://wallstreetcn.com/livenews/3147780",
           "source": "华尔街见闻-快讯",
@@ -1026,6 +1184,17 @@
           "time_info": "11时29分"
         },
         {
+          "title": "DeepSeek招土木工程师，科技大厂争锋延伸至传统资源领域",
+          "url": "https://wallstreetcn.com/livenews/3148048",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
+        },
+        {
           "title": "恒生指数主连夜盘收涨0.07%，报25966点。 恒生科技指数主连夜盘收涨0.18%，报4937点。",
           "url": "https://wallstreetcn.com/livenews/3147656",
           "source": "华尔街见闻-快讯",
@@ -1035,6 +1204,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时34分"
+        },
+        {
+          "title": "源杰科技：拟投资约42.68亿元建设半导体科技产业园项目",
+          "url": "https://wallstreetcn.com/livenews/3148047",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
         },
         {
           "title": "道指在非农次日收跌0.1%、成分股英伟达领跌，生物科技指数创历史新高",
@@ -1260,7 +1440,7 @@
     },
     {
       "keyword_group": "金融",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "香港拟将交易公司纳入税改。（英国金融时报）",
@@ -1340,6 +1520,101 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时54分"
+        },
+        {
+          "title": "金融监管总局：保险业对近期重大自然灾害累计已赔付76亿元",
+          "url": "https://wallstreetcn.com/livenews/3148043",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "医药",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "【每日收评】三大指数缩量震荡涨跌不一，医药股持续活跃，机器人概念午后爆发",
+          "url": "https://www.cls.cn/detail/2451276",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时54分 ~ 20时46分]"
+        },
+        {
+          "title": "沪指缩量调整跌0.8%，医药、机器人逆势大涨，半导体新股IPO首日暴涨740%，恒科指跌近2%",
+          "url": "https://wallstreetcn.com/articles/3779141",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时45分 ~ 20时46分]"
+        },
+        {
+          "title": "协和医院护士为患者垫付医药费不实",
+          "url": "https://www.baidu.com/s?wd=%E5%8D%8F%E5%92%8C%E5%8C%BB%E9%99%A2%E6%8A%A4%E5%A3%AB%E4%B8%BA%E6%82%A3%E8%80%85%E5%9E%AB%E4%BB%98%E5%8C%BB%E8%8D%AF%E8%B4%B9%E4%B8%8D%E5%AE%9E",
+          "source": "百度热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时06分 ~ 17时54分]"
+        },
+        {
+          "title": "创业板指涨超1%，沪指跌0.3%，深成指涨0.27%，医药医疗、MLCC、油气、影视等方向涨幅居前，沪深京三市上涨个股近1800只。",
+          "url": "https://wallstreetcn.com/livenews/3147812",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时29分"
+        },
+        {
+          "title": "A股创新药、CRO概念延续涨势，百花医药6连板，甘李药业涨停，长春高新、万邦医药、博瑞医药、亚太药业涨幅居前。",
+          "url": "https://wallstreetcn.com/livenews/3147785",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时29分"
+        },
+        {
+          "title": "雅本化学：拟定增募资不超过8.41亿元，用于年产35吨高端医药中间体中试项目、新建年产2019吨原料药及中间体项目（一期） 、新建年产140吨医药原料药项目、新建年产50吨瑞格列汀、2吨SERD抑制剂项目、研发中心建设项目、补充流动资金。",
+          "url": "https://wallstreetcn.com/livenews/3148045",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
+        },
+        {
+          "title": "A股收盘：沪指缩量调整跌0.82%，医药、影视股逆势走强",
+          "url": "https://wallstreetcn.com/livenews/3147912",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时06分"
         }
       ]
     },
@@ -1409,67 +1684,6 @@
       ]
     },
     {
-      "keyword_group": "医药",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "协和医院护士为患者垫付医药费不实",
-          "url": "https://www.baidu.com/s?wd=%E5%8D%8F%E5%92%8C%E5%8C%BB%E9%99%A2%E6%8A%A4%E5%A3%AB%E4%B8%BA%E6%82%A3%E8%80%85%E5%9E%AB%E4%BB%98%E5%8C%BB%E8%8D%AF%E8%B4%B9%E4%B8%8D%E5%AE%9E",
-          "source": "百度热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时06分 ~ 17时54分]"
-        },
-        {
-          "title": "创业板指涨超1%，沪指跌0.3%，深成指涨0.27%，医药医疗、MLCC、油气、影视等方向涨幅居前，沪深京三市上涨个股近1800只。",
-          "url": "https://wallstreetcn.com/livenews/3147812",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时29分"
-        },
-        {
-          "title": "【每日收评】三大指数缩量震荡涨跌不一，医药股持续活跃，机器人概念午后爆发",
-          "url": "https://www.cls.cn/detail/2451276",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时54分"
-        },
-        {
-          "title": "A股创新药、CRO概念延续涨势，百花医药6连板，甘李药业涨停，长春高新、万邦医药、博瑞医药、亚太药业涨幅居前。",
-          "url": "https://wallstreetcn.com/livenews/3147785",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时29分"
-        },
-        {
-          "title": "A股收盘：沪指缩量调整跌0.82%，医药、影视股逆势走强",
-          "url": "https://wallstreetcn.com/livenews/3147912",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时06分"
-        }
-      ]
-    },
-    {
       "keyword_group": "旅游",
       "match_count": 4,
       "titles": [
@@ -1530,6 +1744,45 @@
       ]
     },
     {
+      "keyword_group": "资源",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "罗马尼亚水资源管理局官员表示，罗马尼亚将因多瑙河水位过低在未来48小时内关闭第二座核反应堆。",
+          "url": "https://flash.jin10.com/detail/20260811154521193800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时06分"
+        },
+        {
+          "title": "上海：创新算力要素市场化改革 持续探索算力作价入股等新型投资方式以及“算力资源+应用场景”新招商模式",
+          "url": "https://wallstreetcn.com/livenews/3147982",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时54分"
+        },
+        {
+          "title": "乌克兰总理：政府将加快履行在‘乌克兰援助基金’框架内的承诺，以确保从合作伙伴处获得尽可能多的资金。这对国家而言是一项至关重要的资源。",
+          "url": "https://flash.jin10.com/detail/20260811203225549800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
+        }
+      ]
+    },
+    {
       "keyword_group": "深圳",
       "match_count": 3,
       "titles": [
@@ -1540,7 +1793,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时54分"
         },
@@ -1636,34 +1889,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时55分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "资源",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "罗马尼亚水资源管理局官员表示，罗马尼亚将因多瑙河水位过低在未来48小时内关闭第二座核反应堆。",
-          "url": "https://flash.jin10.com/detail/20260811154521193800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时06分"
-        },
-        {
-          "title": "上海：创新算力要素市场化改革 持续探索算力作价入股等新型投资方式以及“算力资源+应用场景”新招商模式",
-          "url": "https://wallstreetcn.com/livenews/3147982",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时54分"
         }
       ]
     },
