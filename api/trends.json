@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-12T15:13:17.993898+08:00",
-  "total_titles_processed": 1078,
+  "generated_at": "2026-08-12T19:42:16.028363+08:00",
+  "total_titles_processed": 1290,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 29,
+      "match_count": 32,
       "titles": [
         {
           "title": "特朗普称伊朗谈判代表“非常狡猾”，但美有三种策略",
@@ -203,6 +203,17 @@
           "time_info": "[02时52分 ~ 05时39分]"
         },
         {
+          "title": "美国人吓坏了：伊朗知道特朗普住哪一层，还发现肩扛防空导弹",
+          "url": "https://news.ifeng.com/c/8vX4SqfjB1V",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时41分 ~ 19时42分]"
+        },
+        {
           "title": "特朗普：伊朗局势良好，美国控制着霍尔木兹海峡。",
           "url": "https://wallstreetcn.com/livenews/3148313",
           "source": "华尔街见闻-快讯",
@@ -253,7 +264,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时13分"
         },
@@ -264,7 +275,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时13分"
         },
@@ -291,6 +302,17 @@
           "time_info": "02时52分"
         },
         {
+          "title": "据大西洋月刊：美国财长贝森特曾告诉特朗普，加强制裁可能会迫使伊朗屈服，并声称随着70%的能源运输转移到地下管道，霍尔木兹海峡将在两年内变得无关紧要。",
+          "url": "https://flash.jin10.com/detail/20260812191933612800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时42分"
+        },
+        {
           "title": "据伊朗伊斯兰共和国广播电视台（IRIB）：伊朗总统会见了巴基斯坦内政部长。",
           "url": "https://flash.jin10.com/detail/20260812011949240800",
           "source": "金十数据",
@@ -300,6 +322,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时52分"
+        },
+        {
+          "title": "伊朗总统佩泽希齐扬：（告知日本首相高市早苗）伊朗从未以任何方式违反国际法。",
+          "url": "https://flash.jin10.com/detail/20260812191548705800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时42分"
         },
         {
           "title": "伊朗官员：在伊方条件满足前霍尔木兹海峡不会开放",
@@ -338,7 +371,7 @@
     },
     {
       "keyword_group": "科技",
-      "match_count": 15,
+      "match_count": 20,
       "titles": [
         {
           "title": "中东僵局再撑油价，AI泡沫隐忧打压美科技股，纳指跌0.6%，黄金回落",
@@ -346,11 +379,12 @@
           "source": "华尔街见闻",
           "ranks": [
             4,
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[06时34分 ~ 15时13分]"
+          "appearance_count": 9,
+          "time_info": "[06时34分 ~ 19时42分]"
         },
         {
           "title": "宇树科技中签号出炉",
@@ -389,6 +423,19 @@
           "time_info": "[09时15分 ~ 13时38分]"
         },
         {
+          "title": "135家私募打新宇树科技获配：头部量化扎堆入围 ，梁文锋旗下幻方、九章拿下私募最大份额",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33764096",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时37分 ~ 19时42分]"
+        },
+        {
           "title": "宇树科技中签号出炉 共约1.94万个",
           "url": "https://www.baidu.com/s?wd=%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80%E4%B8%AD%E7%AD%BE%E5%8F%B7%E5%87%BA%E7%82%89+%E5%85%B1%E7%BA%A61.94%E4%B8%87%E4%B8%AA",
           "source": "百度热搜",
@@ -401,16 +448,15 @@
           "time_info": "[00时50分 ~ 05时39分]"
         },
         {
-          "title": "135家私募打新宇树科技获配：头部量化扎堆入围 ，梁文锋旗下幻方、九章拿下私募最大份额",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33764096",
-          "source": "澎湃新闻",
+          "title": "【焦点复盘】科技成长股主导缩量普涨，全市场超4100股飘红，大消费板块午后再度爆发",
+          "url": "https://www.cls.cn/detail/2452438",
+          "source": "财联社热门",
           "ranks": [
-            12,
-            11
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时37分 ~ 15时13分]"
+          "appearance_count": 2,
+          "time_info": "[19时41分 ~ 19时42分]"
         },
         {
           "title": "周二（8月11日），美股行业ETF涨跌各异，网络股指数ETF收跌0.96%，可选消费ETF跌0.36%，科技行业ETF跌0.12%，半导体ETF涨0.62%，全球航空业ETF涨0.83%，能源业ETF涨1.25%。 标普500指数的11个板块中，电信板块收跌2.12%，房地产板块跌0.86%，信息技术/科技板块跌0.26%，能源板块涨1.06%。",
@@ -464,9 +510,31 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时13分"
+        },
+        {
+          "title": "鸿特科技：拟实施配股，股票停牌",
+          "url": "https://flash.jin10.com/detail/20260812192551716800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时42分"
+        },
+        {
+          "title": "中国央行：加强对扩大内需、科技创新、中小微企业等重点领域的金融支持",
+          "url": "https://wallstreetcn.com/livenews/3148581",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时42分"
         },
         {
           "title": "宇树科技科创板 IPO 中签率 0.0181%，对比长鑫科技 0.4714%，差距为什么这么大？",
@@ -475,9 +543,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时13分"
+        },
+        {
+          "title": "条款显示滴普科技拟通过股份配售筹资5亿港元。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3148576",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时42分"
         },
         {
           "title": "纳斯达克金龙中国指数收跌2.94%，报6532.41点，脱离6月2日以来最高收盘位6730.14点。 热门中概股里，腾讯音乐初步收跌11.9%，B站跌5.2%，新东方跌4.6%，网易跌4.1%，阿特斯涨1.8%，万国数据涨3.9%，再鼎医药涨10.3%。 ETF中，中概互联网指数ETF（KWEB）收跌3.54%，中国科技指数ETF（CQQQ）收跌1.97%。 XtrackersHarvest中证50（ASHS）收1.19%，德银嘉实沪深300指数ETF（ASHR）收跌0.80%，MSCI新兴市场ex中国ETF（EMXC）收涨0.96%。",
@@ -502,6 +581,17 @@
           "time_info": "12时00分"
         },
         {
+          "title": "【但斌美股持仓“大换血”】具体操作上，东方港湾海外基金清仓了苹果、三倍做多纳斯达克100ETF、特斯拉、CIRCLE INTERNET GROUP INC等6只标的。同时，其新买入英特尔、闪迪、超威半导体、迈威尔科技、Arm Holdings plc ADR、博通、Lumentum等7只标的，上述标的均为AI硬件相关公司。从整体的持仓情况来看，东方港湾美股第一大重仓股仍为谷歌-C，持仓占其组合的比重约为23%，相比一季度有所减仓。同时，东方港湾还清仓了谷歌-A及二倍做多谷歌ETF。（上证报）",
+          "url": "https://wallstreetcn.com/livenews/3148567",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时42分"
+        },
+        {
           "title": "下半年A股投资图谱浮现：科技为矛、改善为盾，两大核心主线成机构共识",
           "url": "https://wallstreetcn.com/livenews/3148284",
           "source": "华尔街见闻-快讯",
@@ -516,8 +606,30 @@
     },
     {
       "keyword_group": "金融",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
+        {
+          "title": "中国央行：拓展丰富中央银行宏观审慎与金融稳定功能，创新金融工具，维护金融市场平稳运行",
+          "url": "https://wallstreetcn.com/livenews/3148596",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时42分"
+        },
+        {
+          "title": "中国央行：以市场化方式引导地方法人金融机构加大对民营企业的信贷投放",
+          "url": "https://wallstreetcn.com/livenews/3148592",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时42分"
+        },
         {
           "title": "浙江：强化脑机接口企业全生命周期金融支持，推动脑机接口企业选择合适上市方式",
           "url": "https://wallstreetcn.com/livenews/3148381",
@@ -599,7 +711,7 @@
     },
     {
       "keyword_group": "消费",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "体验“上新”点亮文旅消费新空间",
@@ -624,13 +736,24 @@
           "time_info": "[11时59分 ~ 13时38分]"
         },
         {
+          "title": "从消费账单看中国经济新动能",
+          "url": "https://www.toutiao.com/trending/7672657630905155627/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时41分 ~ 19时42分]"
+        },
+        {
           "title": "A股收评：创业板指低开高走手掌1.49% 大消费板块午后异动拉升",
           "url": "https://flash.jin10.com/detail/20260812150440304800",
           "source": "金十数据",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时13分"
         },
@@ -641,7 +764,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时13分"
         },
@@ -657,6 +780,18 @@
           "time_info": "00时51分"
         },
         {
+          "title": "赵一鸣牛肉干 64 元复称仅 17 元，店方称不知道为啥出错，暴露了哪些管理漏洞？消费者如何避免被坑？",
+          "url": "https://www.zhihu.com/question/2070790151454684401",
+          "source": "知乎",
+          "ranks": [
+            10,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时13分 ~ 19时42分]"
+        },
+        {
           "title": "美国芝加哥联储主席Goolsbee（2027年FOMC票委）：指标表明，美国劳动力市场稳定、但情况并不良好。 只要消费者（信心）是健康的，美国经济也会一样。 经济当前面临的最大问题在于通胀。",
           "url": "https://wallstreetcn.com/livenews/3148169",
           "source": "华尔街见闻-快讯",
@@ -666,17 +801,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时51分"
-        },
-        {
-          "title": "赵一鸣牛肉干 64 元复称仅 17 元，店方称不知道为啥出错，暴露了哪些管理漏洞？消费者如何避免被坑？",
-          "url": "https://www.zhihu.com/question/2070790151454684401",
-          "source": "知乎",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时13分"
         }
       ]
     },
@@ -815,6 +939,46 @@
       ]
     },
     {
+      "keyword_group": "医药",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "【每日收评】三大指数缩量震荡涨跌不一，医药股持续活跃，机器人概念午后爆发",
+          "url": "https://www.cls.cn/detail/2451276",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时50分 ~ 06时34分]"
+        },
+        {
+          "title": "美团王莆中：不开线下药店，坚持做医药商家AI转型小帮手",
+          "url": "https://flash.jin10.com/detail/20260812131034656800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时38分"
+        },
+        {
+          "title": "百花医药：公司是以小分子化学仿制药研发为主的CRO企业，不涉及创新药研发",
+          "url": "https://flash.jin10.com/detail/20260812190701155800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时42分"
+        }
+      ]
+    },
+    {
       "keyword_group": "金价",
       "match_count": 3,
       "titles": [
@@ -850,35 +1014,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时00分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "医药",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "【每日收评】三大指数缩量震荡涨跌不一，医药股持续活跃，机器人概念午后爆发",
-          "url": "https://www.cls.cn/detail/2451276",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时50分 ~ 06时34分]"
-        },
-        {
-          "title": "美团王莆中：不开线下药店，坚持做医药商家AI转型小帮手",
-          "url": "https://flash.jin10.com/detail/20260812131034656800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时38分"
         }
       ]
     },
@@ -938,6 +1073,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时39分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "旅游",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "旅游了很多次才知道的事",
+          "url": "https://s.weibo.com/weibo?q=%E6%97%85%E6%B8%B8%E4%BA%86%E5%BE%88%E5%A4%9A%E6%AC%A1%E6%89%8D%E7%9F%A5%E9%81%93%E7%9A%84%E4%BA%8B&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时41分 ~ 19时42分]"
         }
       ]
     }
