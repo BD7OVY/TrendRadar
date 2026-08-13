@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-08-13T12:04:04.658167+08:00",
-  "total_titles_processed": 795,
+  "generated_at": "2026-08-13T14:12:09.547140+08:00",
+  "total_titles_processed": 931,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "科技",
-      "match_count": 15,
+      "match_count": 20,
       "titles": [
+        {
+          "title": "网友爆料科技圈电商圈的大厂拒收阿里系中高层，是真的吗？反映了什么问题？他们为什么被称为互联网藤壶？",
+          "url": "https://www.zhihu.com/question/2070900468931191892",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时03分 ~ 14时12分]"
+        },
         {
           "title": "中东僵局再撑油价，AI泡沫隐忧打压美科技股，纳指跌0.6%，黄金回落",
           "url": "https://wallstreetcn.com/articles/3779161",
@@ -17,17 +28,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时50分 ~ 04时39分]"
-        },
-        {
-          "title": "网友爆料科技圈电商圈的大厂拒收阿里系中高层，是真的吗？反映了什么问题？他们为什么被称为互联网藤壶？",
-          "url": "https://www.zhihu.com/question/2070900468931191892",
-          "source": "知乎",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时03分 ~ 12时04分]"
         },
         {
           "title": "135家私募打新宇树科技获配：头部量化扎堆入围 ，梁文锋旗下幻方、九章拿下私募最大份额",
@@ -52,6 +52,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时50分 ~ 04时39分]"
+        },
+        {
+          "title": "A股黄金概念股午后持续走低，晓程科技跌超8%，招金黄金跌超6%，湖南白银、盛达资源等跟跌。",
+          "url": "https://flash.jin10.com/detail/20260813140302382800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时12分"
         },
         {
           "title": "宇树能否超越长鑫科技",
@@ -98,6 +109,17 @@
           "time_info": "[09时16分 ~ 09时17分]"
         },
         {
+          "title": "“阿里最年轻P10”林俊旸创业：语用科技落户模速空间，估值超百亿元",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33769319",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时11分 ~ 14时12分]"
+        },
+        {
           "title": "AI概念股飙升，存储芯片股方面，SK海力士涨超9%，闪迪涨超5%，西部数据涨超3%，希捷涨超7%，美光科技涨超4%；半导体设备股方面，应用材料涨超4%，泛林集团涨超4%，科磊涨超3%；新一代AI云服务公司方面，Nebius涨超34%，CoreWeave涨超19%；光通信和光子产品公司方面，Lumentum涨超13%，Coherent涨超8%，康宁涨超5%。",
           "url": "https://wallstreetcn.com/livenews/3148753",
           "source": "华尔街见闻-快讯",
@@ -115,7 +137,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时04分"
         },
@@ -126,9 +148,42 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时04分"
+        },
+        {
+          "title": "A股CPO概念股持续活跃，剑桥科技、星网锐捷双双涨停，共进股份此前封板，锐捷网络、天孚通信涨超10%，德科立、炬光科技等涨幅居前。",
+          "url": "https://wallstreetcn.com/livenews/3148925",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时12分"
+        },
+        {
+          "title": "恒生科技指数午后涨超1%。",
+          "url": "https://wallstreetcn.com/livenews/3148922",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时12分"
+        },
+        {
+          "title": "剑桥科技触及涨停，成交额35.41亿元。",
+          "url": "https://wallstreetcn.com/livenews/3148918",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时12分"
         },
         {
           "title": "金十图示：2026年08月13日（周四）全球主要科技与互联网公司市值变化",
@@ -137,7 +192,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时04分"
         },
@@ -159,7 +214,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时04分"
         },
@@ -170,7 +225,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时04分"
         }
@@ -185,11 +240,24 @@
           "url": "https://news.ifeng.com/c/8vXOuaWRIKP",
           "source": "凤凰网",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时16分 ~ 12时04分]"
+          "appearance_count": 6,
+          "time_info": "[09时16分 ~ 14时12分]"
+        },
+        {
+          "title": "伊朗称霍尔木兹海峡仍关闭 美军称已使59艘商船改变航线 | 环球市场",
+          "url": "https://www.cls.cn/detail/2452922",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时16分 ~ 14时12分]"
         },
         {
           "title": "特朗普：我要伊朗赔钱，把过去50年的账还了",
@@ -205,16 +273,16 @@
           "time_info": "[00时50分 ~ 09时17分]"
         },
         {
-          "title": "伊朗称霍尔木兹海峡仍关闭 美军称已使59艘商船改变航线 | 环球市场",
-          "url": "https://www.cls.cn/detail/2452922",
+          "title": "特朗普声称掌控霍尔木兹、伊朗坚决否认 海峡通行量跌至三个月最低",
+          "url": "https://www.cls.cn/detail/2452937",
           "source": "财联社热门",
           "ranks": [
-            10,
-            6
+            13,
+            12
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[09时16分 ~ 12时04分]"
+          "time_info": "[12时03分 ~ 14时12分]"
         },
         {
           "title": "美国人吓坏了：伊朗知道特朗普住哪一层，还发现肩扛防空导弹",
@@ -239,17 +307,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时50分 ~ 04时39分]"
-        },
-        {
-          "title": "特朗普声称掌控霍尔木兹、伊朗坚决否认 海峡通行量跌至三个月最低",
-          "url": "https://www.cls.cn/detail/2452937",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时03分 ~ 12时04分]"
         },
         {
           "title": "伊朗“波斯湾海峡管理局”：霍尔木兹海峡仍关闭",
@@ -343,8 +400,20 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
+        {
+          "title": "但斌美股持仓“大换血”：清仓苹果、特斯拉，减仓谷歌，新进英特尔成第二大持仓、闪迪第四大持仓......",
+          "url": "https://wallstreetcn.com/articles/3779285",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时16分 ~ 14时12分]"
+        },
         {
           "title": "消息人士：谷歌重组部门全力发展Gemini",
           "url": "https://flash.jin10.com/detail/20260813021710644800",
@@ -380,16 +449,15 @@
           "time_info": "[00时50分 ~ 02时54分]"
         },
         {
-          "title": "但斌美股持仓“大换血”：清仓苹果、特斯拉，减仓谷歌，新进英特尔成第二大持仓、闪迪第四大持仓......",
-          "url": "https://wallstreetcn.com/articles/3779285",
-          "source": "华尔街见闻",
+          "title": "谷歌AI健康监测再进化：Pixel Watch 5首推胰岛素抵抗追踪",
+          "url": "https://www.cls.cn/detail/2452850",
+          "source": "财联社热门",
           "ranks": [
-            10,
-            9
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时16分 ~ 12时04分]"
+          "appearance_count": 2,
+          "time_info": "[14时11分 ~ 14时12分]"
         },
         {
           "title": "谷歌高管据悉上周召开“全员”会议，以回应员工关切，解决AI部门重组问题。谷歌联合创始人谢尔盖·布林近几个月来敦促员工专注于将Gemini模型重新带回人工智能前沿。",
@@ -471,8 +539,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时03分 ~ 12时04分]"
+          "appearance_count": 4,
+          "time_info": "[12时03分 ~ 14时12分]"
         },
         {
           "title": "赵一鸣牛肉干 64 元复称仅 17 元，店方称不知道为啥出错，暴露了哪些管理漏洞？消费者如何避免被坑？",
@@ -514,7 +582,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时04分"
         }
@@ -590,11 +658,12 @@
           "url": "https://www.cls.cn/detail/2452988",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时03分 ~ 12时04分]"
+          "appearance_count": 4,
+          "time_info": "[12时03分 ~ 14时12分]"
         },
         {
           "title": "美国银行将以约19亿美元收购Jio金融子公司49.9%的股份。（彭博）",
@@ -637,22 +706,23 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "深圳龙华区人资局回访“因爆单情绪崩溃”炸鸡店员工：持续做好人文关怀和就业帮扶",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33767757",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时03分 ~ 14时12分]"
+        },
+        {
           "title": "高校开始买房了：深圳大学拟5.3亿元购楼作学生宿舍 存量房去化新渠道？",
           "url": "https://www.cls.cn/detail/2452755",
           "source": "财联社热门",
           "ranks": [
             12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时03分 ~ 12时04分]"
-        },
-        {
-          "title": "深圳龙华区人资局回访“因爆单情绪崩溃”炸鸡店员工：持续做好人文关怀和就业帮扶",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33767757",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -706,7 +776,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时04分"
         }
@@ -734,9 +804,37 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时04分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "制造业",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "英国6月制造业产出年率 0.5%，预期1.2%，前值由2.30%修正为2%。",
+          "url": "https://flash.jin10.com/detail/20260813140003176801",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时12分"
+        },
+        {
+          "title": "英国6月制造业产出月率 -0.5%，预期-0.2%，前值由0.10%修正为-0.2%。",
+          "url": "https://flash.jin10.com/detail/20260813140003076800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时12分"
         }
       ]
     },
@@ -807,7 +905,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时04分"
         }
