@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-14T20:47:55.397343+08:00",
-  "total_titles_processed": 1261,
+  "generated_at": "2026-08-14T23:44:23.195940+08:00",
+  "total_titles_processed": 1424,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "伊朗：将以持久战消耗美国",
@@ -97,6 +97,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时53分 ~ 02时53分]"
+        },
+        {
+          "title": "伊朗方面的最新表态传递出哪些信号",
+          "url": "https://www.toutiao.com/trending/7673859930650054186/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时44分"
         },
         {
           "title": "伊朗议会国家安全委员会主席阿齐兹：若有人继续向伊朗的敌人屈服，你们的主权就将持续面临风险，国家地位也会被削弱。但若有人甘当敌人的工具，在地区内轻举妄动，伊朗将作出果断而强硬的回应。",
@@ -204,7 +215,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时47分"
         },
@@ -234,7 +245,7 @@
     },
     {
       "keyword_group": "科技",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "梁文锋打新宇树科技 1.8 亿获配 120 万股，账面浮盈或超 7.04 亿元，怎样解读他的这一布局？",
@@ -269,7 +280,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时47分"
         },
@@ -392,7 +403,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时47分"
         },
@@ -406,6 +417,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时34分"
+        },
+        {
+          "title": "美股盘初，主要行业ETF涨跌不一，生物科技指数ETF跌超1%，医疗业ETF跌近1%，公用事业ETF、能源业ETF微涨。",
+          "url": "https://wallstreetcn.com/livenews/3149790",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时44分"
         },
         {
           "title": "梁文锋打新宇树科技",
@@ -422,7 +444,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "OpenAI首席营收官任职不到一年离职",
@@ -455,8 +477,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时09分 ~ 20时47分]"
+          "appearance_count": 4,
+          "time_info": "[18时09分 ~ 23时44分]"
         },
         {
           "title": "国科投资领投ChatGPT核心贡献者，亮源新创获数亿元Pre-A轮融资",
@@ -479,6 +501,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时34分"
+        },
+        {
+          "title": "OpenAI首席财务官Friar将于今日举行投资者会议。（CNBC）",
+          "url": "https://wallstreetcn.com/livenews/3149812",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时44分"
         },
         {
           "title": "据Axios：OpenAI在IPO前进行高管更换。",
@@ -545,6 +578,116 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时53分"
+        },
+        {
+          "title": "OpenAI首席财务官弗莱尔今日将召开投资者会议。",
+          "url": "https://flash.jin10.com/detail/20260814225245934800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时44分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金融",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "7月金融数据出炉：社融规模存量同比增长7.4% 直接融资对市场支持作用继续加强",
+          "url": "https://www.cls.cn/detail/2454635",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时09分 ~ 23时44分]"
+        },
+        {
+          "title": "为什么认知高的人最终都会走向金融市场？",
+          "url": "https://www.zhihu.com/question/2047298291281422231",
+          "source": "知乎",
+          "ranks": [
+            16,
+            15,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[06时33分 ~ 13时39分]"
+        },
+        {
+          "title": "如何看待 10 年期、 30 年期美债中标利率都达到 2007 年全球金融危机以来最高水平？",
+          "url": "https://www.zhihu.com/question/2071179550575124530",
+          "source": "知乎",
+          "ranks": [
+            16,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时34分 ~ 06时34分]"
+        },
+        {
+          "title": "中行落地全国首个算力“Token贷”，算力金融跨入应用层企业，上下游联动成未来方向",
+          "url": "https://www.cls.cn/detail/2454822",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时44分"
+        },
+        {
+          "title": "美联储：经季节性调整后，美国未偿商业票据余额在8月12日当周增加16亿美元；经非季节性调整后，美国未偿商业票据余额在8月12日当周减少11亿美元，美国未偿外国金融商业票据余额在8月12日当周增加109亿美元。",
+          "url": "https://flash.jin10.com/detail/20260814010315479800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时53分"
+        },
+        {
+          "title": "中国即将发行或正在发行的国债和政策性金融债",
+          "url": "https://wallstreetcn.com/livenews/3149371",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时16分"
+        },
+        {
+          "title": "中信证券：下阶段央行或继续加大金融对于实体经济的支持力度",
+          "url": "https://flash.jin10.com/detail/20260814075957390800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时16分"
+        },
+        {
+          "title": "周四（8月13日），美股行业ETF普遍收涨，房地产ETF涨1.42%，日常消费ETF涨1.07%，半导体ETF涨0.76%，金融精选ETF涨0.56%，太阳能ETF、可选消费ETF、地区银行、公用事业ETF涨0.42%-0.48%不等。医疗保健ETF则微跌0.04%。",
+          "url": "https://wallstreetcn.com/livenews/3149311",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时34分"
         }
       ]
     },
@@ -647,89 +790,85 @@
       ]
     },
     {
-      "keyword_group": "金融",
+      "keyword_group": "消费",
       "match_count": 7,
       "titles": [
         {
-          "title": "7月金融数据出炉：社融规模存量同比增长7.4% 直接融资对市场支持作用继续加强",
-          "url": "https://www.cls.cn/detail/2454635",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时09分 ~ 20时47分]"
-        },
-        {
-          "title": "为什么认知高的人最终都会走向金融市场？",
-          "url": "https://www.zhihu.com/question/2047298291281422231",
-          "source": "知乎",
-          "ranks": [
-            16,
-            15,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时33分 ~ 13时39分]"
-        },
-        {
-          "title": "如何看待 10 年期、 30 年期美债中标利率都达到 2007 年全球金融危机以来最高水平？",
-          "url": "https://www.zhihu.com/question/2071179550575124530",
-          "source": "知乎",
-          "ranks": [
-            16,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时34分 ~ 06时34分]"
-        },
-        {
-          "title": "美联储：经季节性调整后，美国未偿商业票据余额在8月12日当周增加16亿美元；经非季节性调整后，美国未偿商业票据余额在8月12日当周减少11亿美元，美国未偿外国金融商业票据余额在8月12日当周增加109亿美元。",
-          "url": "https://flash.jin10.com/detail/20260814010315479800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时53分"
-        },
-        {
-          "title": "中国即将发行或正在发行的国债和政策性金融债",
-          "url": "https://wallstreetcn.com/livenews/3149371",
+          "title": "美国消费者信心指数三个月来首次下降 对通胀担忧略有升温",
+          "url": "https://wallstreetcn.com/livenews/3149805",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            22
+            16
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时16分"
+          "time_info": "23时44分"
         },
         {
-          "title": "中信证券：下阶段央行或继续加大金融对于实体经济的支持力度",
-          "url": "https://flash.jin10.com/detail/20260814075957390800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时16分"
-        },
-        {
-          "title": "周四（8月13日），美股行业ETF普遍收涨，房地产ETF涨1.42%，日常消费ETF涨1.07%，半导体ETF涨0.76%，金融精选ETF涨0.56%，太阳能ETF、可选消费ETF、地区银行、公用事业ETF涨0.42%-0.48%不等。医疗保健ETF则微跌0.04%。",
-          "url": "https://wallstreetcn.com/livenews/3149311",
+          "title": "美国8月密歇根大学消费者预期指数初值 50.6，预期 55.2，前值 55.4。",
+          "url": "https://wallstreetcn.com/livenews/3149803",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            30
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时44分"
+        },
+        {
+          "title": "花旗集团：花旗美国消费信用卡业务宣布已达成协议收购 Kard Financial, Inc.",
+          "url": "https://wallstreetcn.com/livenews/3149320",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时34分"
+        },
+        {
+          "title": "美国8月密歇根大学消费者信心指数初值 51，预期 55，前值 55.2。",
+          "url": "https://wallstreetcn.com/livenews/3149799",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时44分"
+        },
+        {
+          "title": "美国8月密歇根大学消费者现况指数初值 51.8，预期 54.8，前值 54.8。",
+          "url": "https://wallstreetcn.com/livenews/3149801",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时44分"
+        },
+        {
+          "title": "阿根廷国家统计局：7月消费者价格指数环比上涨2.1%。",
+          "url": "https://flash.jin10.com/detail/20260814030239450800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时34分"
+        },
+        {
+          "title": "提醒：北京时间22:00，将公布美国8月密歇根大学消费者信心指数初值、美国8月密歇根大学1年通胀预期初值、美国8月密歇根大学5年通胀预期初值。",
+          "url": "https://wallstreetcn.com/livenews/3149795",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时44分"
         }
       ]
     },
@@ -744,7 +883,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时47分"
         },
@@ -755,7 +894,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时47分"
         },
@@ -766,7 +905,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时47分"
         },
@@ -777,7 +916,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时47分"
         },
@@ -788,7 +927,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时47分"
         }
@@ -805,7 +944,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时47分"
         },
@@ -816,7 +955,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时47分"
         },
@@ -827,7 +966,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时47分"
         },
@@ -838,7 +977,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时47分"
         },
@@ -849,7 +988,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时47分"
         }
@@ -890,8 +1029,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时09分 ~ 20时47分]"
+          "appearance_count": 4,
+          "time_info": "[18时09分 ~ 23时44分]"
         },
         {
           "title": "8月份医药板块热度抬升，创新药获机构重点关注",
@@ -959,7 +1098,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时47分"
         },
@@ -980,34 +1119,6 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时34分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "消费",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "花旗集团：花旗美国消费信用卡业务宣布已达成协议收购 Kard Financial, Inc.",
-          "url": "https://wallstreetcn.com/livenews/3149320",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时34分"
-        },
-        {
-          "title": "阿根廷国家统计局：7月消费者价格指数环比上涨2.1%。",
-          "url": "https://flash.jin10.com/detail/20260814030239450800",
-          "source": "金十数据",
-          "ranks": [
-            25
           ],
           "is_new": false,
           "appearance_count": 1,
