@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-08-17T02:18:33.572476+08:00",
-  "total_titles_processed": 377,
+  "generated_at": "2026-08-17T08:48:53.228801+08:00",
+  "total_titles_processed": 540,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
+        {
+          "title": "【早报】英伟达缩减对OpenAI数据中心项目提供2500亿美元担保的计划；伊朗称已与阿曼就霍尔木兹海峡通行方案达成协议",
+          "url": "https://www.cls.cn/detail/2455237",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时15分 ~ 08时48分]"
+        },
         {
           "title": "伊朗高层换血，革命卫队更强势了？",
           "url": "https://news.ifeng.com/c/8vdiSOXc8hN",
@@ -30,28 +42,6 @@
           "time_info": "[00时15分 ~ 02时18分]"
         },
         {
-          "title": "【早报】英伟达缩减对OpenAI数据中心项目提供2500亿美元担保的计划；伊朗称已与阿曼就霍尔木兹海峡通行方案达成协议",
-          "url": "https://www.cls.cn/detail/2455237",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时15分 ~ 02时18分]"
-        },
-        {
-          "title": "海峡控制权“各说各话”：特朗普放话“拿下”霍尔木兹，伊朗称已与阿曼就通行方案达成协议",
-          "url": "https://wallstreetcn.com/articles/3779521",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时15分 ~ 02时18分]"
-        },
-        {
           "title": "伊朗称霍尔木兹海峡是结束冲突的筹码。（法尔斯通讯社）",
           "url": "https://wallstreetcn.com/livenews/3150079",
           "source": "华尔街见闻-快讯",
@@ -61,6 +51,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时16分 ~ 02时18分]"
+        },
+        {
+          "title": "海峡控制权“各说各话”：特朗普放话“拿下”霍尔木兹，伊朗称已与阿曼就通行方案达成协议",
+          "url": "https://wallstreetcn.com/articles/3779521",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时15分 ~ 08时48分]"
         },
         {
           "title": "据半岛电视台：伊朗总统表示，在国内制造分歧的人必须意识到，这只会对美国和以色列有利。",
@@ -91,11 +93,12 @@
           "url": "https://www.toutiao.com/trending/7674484727768301577/",
           "source": "今日头条",
           "ranks": [
-            8
+            8,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时15分 ~ 02时18分]"
+          "appearance_count": 4,
+          "time_info": "[00时15分 ~ 08时48分]"
         },
         {
           "title": "伊朗称美军已被驱逐不得进入海峡",
@@ -154,13 +157,24 @@
           "time_info": "[00时15分 ~ 00时16分]"
         },
         {
+          "title": "伊朗悬赏美军：但凡俘虏或击毙一人，奖励三万美元",
+          "url": "https://news.ifeng.com/c/8vdsEgwcxZU",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时48分"
+        },
+        {
           "title": "伊朗第一副总统：物价高涨已达到令人不安的程度，敌人的策略就是利用这一点。",
           "url": "https://flash.jin10.com/detail/20260817010920231800",
           "source": "金十数据",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时18分"
         },
@@ -171,9 +185,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时18分"
+        },
+        {
+          "title": "伊朗总统：伊美谅解备忘录“维护尊严、展现实力”",
+          "url": "https://wallstreetcn.com/livenews/3150110",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时48分"
         },
         {
           "title": "伊朗战争，正在掏空美国弹药库",
@@ -193,7 +218,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时18分"
         }
@@ -201,7 +226,7 @@
     },
     {
       "keyword_group": "科技",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "下周重磅日程：中国7月经济数据，阿里、小米、天孚通信、兆易创新、长飞光纤财报，宇树科技上市在即",
@@ -211,8 +236,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时15分 ~ 02时18分]"
+          "appearance_count": 4,
+          "time_info": "[00时15分 ~ 08时48分]"
         },
         {
           "title": "宇树科技IPO热下的噪音：“暗盘交易”传闻实为捕风捉影 背后风险不容小觑",
@@ -222,8 +247,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时15分 ~ 02时18分]"
+          "appearance_count": 4,
+          "time_info": "[00时15分 ~ 08时48分]"
         },
         {
           "title": "中信建投：当前算力产业链需求仍具韧性，A股科技修复尚未结束",
@@ -246,6 +271,98 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时16分 ~ 02时18分]"
+        },
+        {
+          "title": "壁仞科技在港交所公告：预计2026年上半年收入约为11.50亿元 - 13.00亿元人民币，同比增长率约为1,852%-2,107%之间。 预计2026年上半年亏损约3.2亿至4亿元人民币，减亏75% - 80%； 预计2026年上半年调整后亏损约2.9亿至3.6亿元人民币，减亏35% - 47%。",
+          "url": "https://wallstreetcn.com/livenews/3150108",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时48分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "消费",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "存储超级周期下半场：长协封顶消费承压 2027或现分水岭",
+          "url": "https://www.cls.cn/detail/2455354",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时15分 ~ 08时48分]"
+        },
+        {
+          "title": "手机消费毁了逛街和创造力吗",
+          "url": "https://www.baidu.com/s?wd=%E6%89%8B%E6%9C%BA%E6%B6%88%E8%B4%B9%E6%AF%81%E4%BA%86%E9%80%9B%E8%A1%97%E5%92%8C%E5%88%9B%E9%80%A0%E5%8A%9B%E5%90%97",
+          "source": "百度热搜",
+          "ranks": [
+            29,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时18分 ~ 08时48分]"
+        },
+        {
+          "title": "网文作者文黛黛假死 3 年承认骗局，读者斥责其消费感情，从法律上看，这种行为是否构成欺诈？",
+          "url": "https://www.zhihu.com/question/2071974633394238237",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时48分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "段永平二季度减持英伟达、谷歌，新建阿里巴巴仓位",
+          "url": "https://wallstreetcn.com/articles/3779527",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时15分 ~ 08时48分]"
+        },
+        {
+          "title": "伯克希尔二季度13F持仓变阵：增持谷歌、达美航空，连续两季减持美银",
+          "url": "https://wallstreetcn.com/articles/3779522",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时15分 ~ 02时18分]"
+        },
+        {
+          "title": "段永平最新调仓出炉：减持苹果、英伟达、谷歌，买回阿里",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33794674",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时48分"
         }
       ]
     },
@@ -258,22 +375,24 @@
           "url": "https://www.cls.cn/detail/2455147",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时15分 ~ 02时18分]"
+          "appearance_count": 4,
+          "time_info": "[00时15分 ~ 08时48分]"
         },
         {
           "title": "英伟达悄然缩减OpenAI数据中心担保规模，从2500亿美元降至1200亿美元以下",
           "url": "https://wallstreetcn.com/articles/3779526",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时15分 ~ 02时18分]"
+          "appearance_count": 4,
+          "time_info": "[00时15分 ~ 08时48分]"
         },
         {
           "title": "周末要闻汇总：英伟达缩减对OpenAI数据中心项目担保计划；全国首个算力“Token贷”落地",
@@ -284,36 +403,36 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时15分 ~ 02时18分]"
+          "appearance_count": 4,
+          "time_info": "[00时15分 ~ 08时48分]"
         }
       ]
     },
     {
-      "keyword_group": "消费",
+      "keyword_group": "金融",
       "match_count": 2,
       "titles": [
         {
-          "title": "存储超级周期下半场：长协封顶消费承压 2027或现分水岭",
-          "url": "https://www.cls.cn/detail/2455354",
-          "source": "财联社热门",
+          "title": "据英国金融时报：随着一场外交危机可能将两国关系拖至数十年来最低点，美国政府已就对巴西最高法院一名法官实施新制裁一事进行了讨论。",
+          "url": "https://flash.jin10.com/detail/20260817013044418800",
+          "source": "金十数据",
           "ranks": [
-            3
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时15分 ~ 02时18分]"
+          "appearance_count": 1,
+          "time_info": "02时18分"
         },
         {
-          "title": "手机消费毁了逛街和创造力吗",
-          "url": "https://www.baidu.com/s?wd=%E6%89%8B%E6%9C%BA%E6%B6%88%E8%B4%B9%E6%AF%81%E4%BA%86%E9%80%9B%E8%A1%97%E5%92%8C%E5%88%9B%E9%80%A0%E5%8A%9B%E5%90%97",
-          "source": "百度热搜",
+          "title": "中国即将发行或正在发行的国债和政策性金融债",
+          "url": "https://wallstreetcn.com/livenews/3150117",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            29
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时18分"
+          "time_info": "08时48分"
         }
       ]
     },
@@ -327,11 +446,12 @@
           "source": "抖音",
           "ranks": [
             16,
-            15
+            15,
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时15分 ~ 02时18分]"
+          "appearance_count": 4,
+          "time_info": "[00时15分 ~ 08时48分]"
         },
         {
           "title": "深圳机场暑期通关客流创新高",
@@ -343,51 +463,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时16分 ~ 02时18分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "段永平二季度减持英伟达、谷歌，新建阿里巴巴仓位",
-          "url": "https://wallstreetcn.com/articles/3779527",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时15分 ~ 02时18分]"
-        },
-        {
-          "title": "伯克希尔二季度13F持仓变阵：增持谷歌、达美航空，连续两季减持美银",
-          "url": "https://wallstreetcn.com/articles/3779522",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时15分 ~ 02时18分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金融",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "据英国金融时报：随着一场外交危机可能将两国关系拖至数十年来最低点，美国政府已就对巴西最高法院一名法官实施新制裁一事进行了讨论。",
-          "url": "https://flash.jin10.com/detail/20260817013044418800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时18分"
         }
       ]
     },
