@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-18T08:56:18.252711+08:00",
-  "total_titles_processed": 533,
+  "generated_at": "2026-08-18T19:19:13.438504+08:00",
+  "total_titles_processed": 806,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 28,
+      "match_count": 32,
       "titles": [
         {
           "title": "特朗普要求伊朗举白旗投降",
@@ -17,6 +17,30 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时27分 ~ 08时56分]"
+        },
+        {
+          "title": "伊朗将重拳出击，霍尔木兹海峡上演猫鼠游戏",
+          "url": "https://v.ifeng.com/c/8vfiQsf50xA",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时56分 ~ 19时19分]"
+        },
+        {
+          "title": "特朗普：不着急结束伊朗战争，若阿曼阻碍谈判、将“狠狠轰炸”，伊朗警告转向全面进攻",
+          "url": "https://wallstreetcn.com/articles/3779635",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时56分 ~ 19时19分]"
         },
         {
           "title": "美国屡次“违约”，伊朗强硬派放弃对美幻想，被曝秘密扩军备战“新一轮对抗”",
@@ -40,6 +64,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时27分 ~ 07时28分]"
+        },
+        {
+          "title": "美伊60天谈判期届满，伊朗：已决定从防御转向全面进攻",
+          "url": "https://news.ifeng.com/c/8vgY879Eq1Y",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时18分 ~ 19时19分]"
+        },
+        {
+          "title": "阿曼正和伊朗斡旋，却收到特朗普的轰炸威胁，咋回事？",
+          "url": "https://news.ifeng.com/c/8vgfXfy9cpA",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时18分 ~ 19时19分]"
         },
         {
           "title": "特朗普：美国不寻求延长与伊朗的谅解备忘录",
@@ -75,28 +121,6 @@
           "time_info": "02时27分"
         },
         {
-          "title": "特朗普：不着急结束伊朗战争，若阿曼阻碍谈判、将“狠狠轰炸”，伊朗警告转向全面进攻",
-          "url": "https://wallstreetcn.com/articles/3779635",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时56分"
-        },
-        {
-          "title": "伊朗将重拳出击，霍尔木兹海峡上演猫鼠游戏",
-          "url": "https://v.ifeng.com/c/8vfiQsf50xA",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时56分"
-        },
-        {
           "title": "美国总统特朗普：他们（伊朗）不会达成我认为有必要的协议。 伊朗想要达成协议，但他们不会接受我认为必要的协议。 伊朗不会拥有核武器。 如果韩国不提供协助，我们就无法为其提供保护。",
           "url": "https://wallstreetcn.com/livenews/3150643",
           "source": "华尔街见闻-快讯",
@@ -106,6 +130,29 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时27分"
+        },
+        {
+          "title": "为向伊朗革命卫队传话，美国找了谁？",
+          "url": "https://news.ifeng.com/c/8vfjQXLe7At",
+          "source": "凤凰网",
+          "ranks": [
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时56分 ~ 19时19分]"
+        },
+        {
+          "title": "“美防长要丢工作了，可能要为伊朗战争背锅”",
+          "url": "https://news.ifeng.com/c/8vgcNfOmDFJ",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时18分 ~ 19时19分]"
         },
         {
           "title": "伊朗称美国被驱逐已成事实，今后不得进入波斯湾、阿曼湾和霍尔木兹海峡，如何看待这一表态？",
@@ -126,7 +173,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时56分"
         },
@@ -140,17 +187,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时27分"
-        },
-        {
-          "title": "为向伊朗革命卫队传话，美国找了谁？",
-          "url": "https://news.ifeng.com/c/8vfjQXLe7At",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时56分"
         },
         {
           "title": "美国总统特朗普：我们的主要目标是阻止伊朗获得核武器。",
@@ -307,13 +343,24 @@
           "time_info": "07时28分"
         },
         {
+          "title": "卡塔尔外交部发言人：我们拒绝伊朗将卡塔尔卷入其内部问题。",
+          "url": "https://flash.jin10.com/detail/20260818182648304800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时19分"
+        },
+        {
           "title": "伊朗对美将从防御转向全面进攻",
           "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%AF%B9%E7%BE%8E%E5%B0%86%E4%BB%8E%E9%98%B2%E5%BE%A1%E8%BD%AC%E5%90%91%E5%85%A8%E9%9D%A2%E8%BF%9B%E6%94%BB%23&t=31&band_rank=30&Refer=top",
           "source": "微博",
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时56分"
         }
@@ -321,8 +368,52 @@
     },
     {
       "keyword_group": "消费",
-      "match_count": 11,
+      "match_count": 16,
       "titles": [
+        {
+          "title": "激发下沉市场活力 活跃县域消费",
+          "url": "https://www.toutiao.com/trending/7674608437979926057/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时18分 ~ 19时19分]"
+        },
+        {
+          "title": "9部门发布活跃县域消费意见",
+          "url": "https://www.douyin.com/hot/2613786",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时18分 ~ 19时19分]"
+        },
+        {
+          "title": "汽车促消费政策“升级” 多地将二手车纳入补贴范围、单台至高4000元",
+          "url": "https://www.cls.cn/detail/2456833",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时18分 ~ 19时19分]"
+        },
+        {
+          "title": "印度斯坦锌业：将可再生能源电力消费占比提高至22%。",
+          "url": "https://flash.jin10.com/detail/20260818185106105800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时19分"
+        },
         {
           "title": "商务部等9部门发文活跃县域消费",
           "url": "https://wallstreetcn.com/livenews/3150743",
@@ -330,7 +421,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时56分"
         },
@@ -341,7 +432,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时56分"
         },
@@ -352,7 +443,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时56分"
         },
@@ -363,9 +454,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时56分"
+        },
+        {
+          "title": "9部门发文活跃县域消费",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33803518",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时18分 ~ 19时19分]"
         },
         {
           "title": "9部门：鼓励有条件的地方发展虚拟现实、沉浸式体验、“人工智能+消费”等",
@@ -374,7 +476,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时56分"
         },
@@ -385,7 +487,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时56分"
         },
@@ -396,7 +498,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时56分"
         },
@@ -407,7 +509,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时56分"
         },
@@ -418,7 +520,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时56分"
         },
@@ -429,7 +531,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时56分"
         },
@@ -440,7 +542,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时56分"
         }
@@ -448,8 +550,19 @@
     },
     {
       "keyword_group": "科技",
-      "match_count": 5,
+      "match_count": 11,
       "titles": [
+        {
+          "title": "宇树科技发布机器人「超人」，腿长 0.85 米，超越人类原地跳高和奔跑速度纪录，有哪些技术亮点？",
+          "url": "https://www.zhihu.com/question/2072693901802958901",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时18分 ~ 19时19分]"
+        },
         {
           "title": "宇树科技发布新品机器人“超人”：超人类原地跳高和奔跑速度纪录",
           "url": "https://m.thepaper.cn/newsDetail_forward_33798806",
@@ -487,6 +600,28 @@
           "time_info": "[02时27分 ~ 08时56分]"
         },
         {
+          "title": "全球股债齐挫！30年期美债收益率创07年以来新高，美股盘前科技股普跌，闪迪跌约4%，油价上行、金银走弱",
+          "url": "https://wallstreetcn.com/articles/3779677",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时18分 ~ 19时19分]"
+        },
+        {
+          "title": "宇树科技宣布将于 8 月 19 日科创板上市，有哪些值得关注的信息？对行业意味着什么？",
+          "url": "https://www.zhihu.com/question/2072783792616338089",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时18分 ~ 19时19分]"
+        },
+        {
           "title": "宇树科技：8月19日上市",
           "url": "https://m.thepaper.cn/newsDetail_forward_33800029",
           "source": "澎湃新闻",
@@ -505,9 +640,42 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时56分"
+        },
+        {
+          "title": "新里程：拟以自有资金及自筹资金4.37亿元人民币通过股权转让及增资扩股形式取得山东泽普医疗科技有限公司51%的股权。",
+          "url": "https://wallstreetcn.com/livenews/3151057",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时19分"
+        },
+        {
+          "title": "芯源微：拟在北京产权交易所公开挂牌转让所持有的广州芯知科技有限公司50%股权，挂牌底价以经国资备案的评估值为基础确定。",
+          "url": "https://wallstreetcn.com/livenews/3151056",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时19分"
+        },
+        {
+          "title": "三连板中石科技：控股股东拟协议转让股份，与中际旭创业务合作尚处验证期",
+          "url": "https://flash.jin10.com/detail/20260818182739343800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时19分"
         }
       ]
     },
@@ -515,6 +683,19 @@
       "keyword_group": "房价",
       "match_count": 4,
       "titles": [
+        {
+          "title": "一线城市二手房价格连续5个月环比上涨",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33799536",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            3,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时27分 ~ 19时19分]"
+        },
         {
           "title": "一线城市二手房价格连续5个月上涨 广州涨幅居首、上海紧随",
           "url": "https://www.cls.cn/detail/2456299",
@@ -534,21 +715,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时56分"
-        },
-        {
-          "title": "一线城市二手房价格连续5个月环比上涨",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33799536",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时27分 ~ 08时56分]"
         },
         {
           "title": "7月70城房价：一线城市二手房价环比涨幅继续回落至0.2%，各线城市房价同比降幅再收窄",
@@ -560,6 +729,48 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时27分 ~ 07时28分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "旅游",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "公司组织无人岛旅游被罚11万元",
+          "url": "https://www.baidu.com/s?wd=%E5%85%AC%E5%8F%B8%E7%BB%84%E7%BB%87%E6%97%A0%E4%BA%BA%E5%B2%9B%E6%97%85%E6%B8%B8%E8%A2%AB%E7%BD%9A11%E4%B8%87%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            26,
+            16,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时27分 ~ 08时56分]"
+        },
+        {
+          "title": "曝时代少年团工作人员公费旅游",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9D%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E5%85%AC%E8%B4%B9%E6%97%85%E6%B8%B8%23&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时28分 ~ 08时56分]"
+        },
+        {
+          "title": "我国将构建约6万公里精品自驾旅游公路",
+          "url": "https://wallstreetcn.com/livenews/3151075",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时19分"
         }
       ]
     },
@@ -587,40 +798,37 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时56分"
         }
       ]
     },
     {
-      "keyword_group": "旅游",
+      "keyword_group": "金融",
       "match_count": 2,
       "titles": [
         {
-          "title": "公司组织无人岛旅游被罚11万元",
-          "url": "https://www.baidu.com/s?wd=%E5%85%AC%E5%8F%B8%E7%BB%84%E7%BB%87%E6%97%A0%E4%BA%BA%E5%B2%9B%E6%97%85%E6%B8%B8%E8%A2%AB%E7%BD%9A11%E4%B8%87%E5%85%83",
-          "source": "百度热搜",
+          "title": "美国金融史上最明目张胆的一次？特朗普家族持股加密公司获批银行牌照",
+          "url": "https://www.cls.cn/detail/2456722",
+          "source": "财联社热门",
           "ranks": [
-            26,
-            16,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时27分 ~ 08时56分]"
-        },
-        {
-          "title": "曝时代少年团工作人员公费旅游",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9D%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E5%85%AC%E8%B4%B9%E6%97%85%E6%B8%B8%23&t=31&band_rank=14&Refer=top",
-          "source": "微博",
-          "ranks": [
-            14,
-            12
+            13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时28分 ~ 08时56分]"
+          "time_info": "[19时18分 ~ 19时19分]"
+        },
+        {
+          "title": "中国即将发行或正在发行的国债和政策性金融债",
+          "url": "https://wallstreetcn.com/livenews/3150731",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时56分"
         }
       ]
     },
@@ -643,19 +851,19 @@
       ]
     },
     {
-      "keyword_group": "金融",
+      "keyword_group": "深圳",
       "match_count": 1,
       "titles": [
         {
-          "title": "中国即将发行或正在发行的国债和政策性金融债",
-          "url": "https://wallstreetcn.com/livenews/3150731",
-          "source": "华尔街见闻-快讯",
+          "title": "深圳新星：拟投资4亿元建设年产2万吨铝基高端新材料项目",
+          "url": "https://flash.jin10.com/detail/20260818183411237800",
+          "source": "金十数据",
           "ranks": [
-            13
+            17
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时56分"
+          "time_info": "19时19分"
         }
       ]
     },
@@ -703,11 +911,12 @@
           "source": "抖音",
           "ranks": [
             10,
-            11
+            11,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时27分 ~ 08时56分]"
+          "appearance_count": 5,
+          "time_info": "[02时27分 ~ 19时19分]"
         }
       ]
     }
