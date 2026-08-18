@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-08-18T07:28:59.896421+08:00",
-  "total_titles_processed": 422,
+  "generated_at": "2026-08-18T08:56:18.252711+08:00",
+  "total_titles_processed": 533,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 23,
+      "match_count": 28,
       "titles": [
-        {
-          "title": "强撑颜面：美国派出第三艘航母，伊朗威胁升级冲突",
-          "url": "https://news.ifeng.com/c/8vfLF9nDBak",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时27分 ~ 07时28分]"
-        },
         {
           "title": "特朗普要求伊朗举白旗投降",
           "url": "https://news.ifeng.com/c/8vfb7aoIQAb",
@@ -26,15 +15,27 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时27分 ~ 07时28分]"
+          "appearance_count": 3,
+          "time_info": "[02时27分 ~ 08时56分]"
         },
         {
           "title": "美国屡次“违约”，伊朗强硬派放弃对美幻想，被曝秘密扩军备战“新一轮对抗”",
           "url": "https://wallstreetcn.com/articles/3779592",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时27分 ~ 08时56分]"
+        },
+        {
+          "title": "强撑颜面：美国派出第三艘航母，伊朗威胁升级冲突",
+          "url": "https://news.ifeng.com/c/8vfLF9nDBak",
+          "source": "凤凰网",
+          "ranks": [
+            1
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -74,6 +75,28 @@
           "time_info": "02时27分"
         },
         {
+          "title": "特朗普：不着急结束伊朗战争，若阿曼阻碍谈判、将“狠狠轰炸”，伊朗警告转向全面进攻",
+          "url": "https://wallstreetcn.com/articles/3779635",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时56分"
+        },
+        {
+          "title": "伊朗将重拳出击，霍尔木兹海峡上演猫鼠游戏",
+          "url": "https://v.ifeng.com/c/8vfiQsf50xA",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时56分"
+        },
+        {
           "title": "美国总统特朗普：他们（伊朗）不会达成我认为有必要的协议。 伊朗想要达成协议，但他们不会接受我认为必要的协议。 伊朗不会拥有核武器。 如果韩国不提供协助，我们就无法为其提供保护。",
           "url": "https://wallstreetcn.com/livenews/3150643",
           "source": "华尔街见闻-快讯",
@@ -97,6 +120,17 @@
           "time_info": "[02时27分 ~ 07时28分]"
         },
         {
+          "title": "60天期限已到，特朗普威胁阿曼，伊朗称将“全面进攻”",
+          "url": "https://news.ifeng.com/c/8vgLjEXesPE",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时56分"
+        },
+        {
           "title": "美国总统特朗普：伊朗正面临重大危机。",
           "url": "https://flash.jin10.com/detail/20260818021305016800",
           "source": "金十数据",
@@ -106,6 +140,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时27分"
+        },
+        {
+          "title": "为向伊朗革命卫队传话，美国找了谁？",
+          "url": "https://news.ifeng.com/c/8vfjQXLe7At",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时56分"
         },
         {
           "title": "美国总统特朗普：我们的主要目标是阻止伊朗获得核武器。",
@@ -147,7 +192,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
         },
@@ -202,7 +247,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
         },
@@ -224,7 +269,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
         },
@@ -235,7 +280,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
         },
@@ -257,16 +302,167 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
+        },
+        {
+          "title": "伊朗对美将从防御转向全面进攻",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%AF%B9%E7%BE%8E%E5%B0%86%E4%BB%8E%E9%98%B2%E5%BE%A1%E8%BD%AC%E5%90%91%E5%85%A8%E9%9D%A2%E8%BF%9B%E6%94%BB%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时56分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "消费",
+      "match_count": 11,
+      "titles": [
+        {
+          "title": "商务部等9部门发文活跃县域消费",
+          "url": "https://wallstreetcn.com/livenews/3150743",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时56分"
+        },
+        {
+          "title": "澳大利亚8月西太平洋消费者信心指数 88.9，前值 83.9。",
+          "url": "https://wallstreetcn.com/livenews/3150742",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时56分"
+        },
+        {
+          "title": "9部门：支持符合条件的批发零售和服务消费企业发行债券和上市融资",
+          "url": "https://flash.jin10.com/detail/20260818084227369800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时56分"
+        },
+        {
+          "title": "澳大利亚8月西太平洋消费者信心指数环比 6%，前值 4.1%。",
+          "url": "https://wallstreetcn.com/livenews/3150741",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时56分"
+        },
+        {
+          "title": "9部门：鼓励有条件的地方发展虚拟现实、沉浸式体验、“人工智能+消费”等",
+          "url": "https://flash.jin10.com/detail/20260818083539814800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时56分"
+        },
+        {
+          "title": "9部门发文活跃县域消费 支持个人消费贷款、服务业经营主体贷款享受财政贴息支持",
+          "url": "https://flash.jin10.com/detail/20260818083408563800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时56分"
+        },
+        {
+          "title": "9部门发文活跃县域消费",
+          "url": "https://flash.jin10.com/detail/20260818083022861800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时56分"
+        },
+        {
+          "title": "澳大利亚8月西太平洋/墨尔本消费者信心指数 88.9，前值83.9。",
+          "url": "https://flash.jin10.com/detail/20260818083016312800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时56分"
+        },
+        {
+          "title": "澳大利亚8月西太平洋/墨尔本消费者信心指数月率 6%，前值4.10%。",
+          "url": "https://flash.jin10.com/detail/20260818083002125800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时56分"
+        },
+        {
+          "title": "分析｜7月消费、投资数据放缓，下阶段如何走？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33800389",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时56分"
+        },
+        {
+          "title": "商务部等9部门发布关于进一步激发下沉市场活力，活跃县域消费的意见。",
+          "url": "https://flash.jin10.com/detail/20260818082823175800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时56分"
         }
       ]
     },
     {
       "keyword_group": "科技",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "宇树科技发布新品机器人“超人”：超人类原地跳高和奔跑速度纪录",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33798806",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时27分 ~ 08时56分]"
+        },
         {
           "title": "宇树科技8月19日上市",
           "url": "https://www.douyin.com/hot/2613555",
@@ -276,20 +472,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时27分 ~ 07时28分]"
-        },
-        {
-          "title": "宇树科技发布新品机器人“超人”：超人类原地跳高和奔跑速度纪录",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33798806",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时27分 ~ 07时28分]"
+          "appearance_count": 3,
+          "time_info": "[02时27分 ~ 08时56分]"
         },
         {
           "title": "宇树科技，8月19日上市",
@@ -299,25 +483,37 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时27分 ~ 07时28分]"
+          "appearance_count": 3,
+          "time_info": "[02时27分 ~ 08时56分]"
         },
         {
           "title": "宇树科技：8月19日上市",
           "url": "https://m.thepaper.cn/newsDetail_forward_33800029",
           "source": "澎湃新闻",
           "ranks": [
-            20
+            20,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时28分 ~ 08时56分]"
+        },
+        {
+          "title": "微软、Salesforce与ADP意向收购人力资源科技公司Darwinbox。（Mint）",
+          "url": "https://wallstreetcn.com/livenews/3150735",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时28分"
+          "time_info": "08时56分"
         }
       ]
     },
     {
       "keyword_group": "房价",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "一线城市二手房价格连续5个月上涨 广州涨幅居首、上海紧随",
@@ -328,8 +524,31 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时27分 ~ 07时28分]"
+          "appearance_count": 3,
+          "time_info": "[02时27分 ~ 08时56分]"
+        },
+        {
+          "title": "【早报】美股AI板块逆势走强；原油、黄金双双上行；一线城市二手房价格连续5个月上涨",
+          "url": "https://www.cls.cn/detail/2456585",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时56分"
+        },
+        {
+          "title": "一线城市二手房价格连续5个月环比上涨",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33799536",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时27分 ~ 08时56分]"
         },
         {
           "title": "7月70城房价：一线城市二手房价环比涨幅继续回落至0.2%，各线城市房价同比降幅再收窄",
@@ -341,17 +560,36 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时27分 ~ 07时28分]"
-        },
+        }
+      ]
+    },
+    {
+      "keyword_group": "资源",
+      "match_count": 2,
+      "titles": [
         {
-          "title": "一线城市二手房价格连续5个月环比上涨",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33799536",
-          "source": "澎湃新闻",
+          "title": "“极少数巨婴碰瓷了大量公共资源”",
+          "url": "https://www.toutiao.com/trending/7674795397122113572/",
+          "source": "今日头条",
           "ranks": [
-            17
+            8,
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时27分 ~ 07时28分]"
+          "appearance_count": 3,
+          "time_info": "[02时27分 ~ 08时56分]"
+        },
+        {
+          "title": "9部门：盘活闲置资源资产 推进存量土地改造开发",
+          "url": "https://flash.jin10.com/detail/20260818083140794800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时56分"
         }
       ]
     },
@@ -365,40 +603,24 @@
           "source": "百度热搜",
           "ranks": [
             26,
-            16
+            16,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时27分 ~ 07时28分]"
+          "appearance_count": 3,
+          "time_info": "[02时27分 ~ 08时56分]"
         },
         {
           "title": "曝时代少年团工作人员公费旅游",
           "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9D%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E5%85%AC%E8%B4%B9%E6%97%85%E6%B8%B8%23&t=31&band_rank=14&Refer=top",
           "source": "微博",
           "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时28分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "资源",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "“极少数巨婴碰瓷了大量公共资源”",
-          "url": "https://www.toutiao.com/trending/7674795397122113572/",
-          "source": "今日头条",
-          "ranks": [
-            8,
-            9
+            14,
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时27分 ~ 07时28分]"
+          "time_info": "[07时28分 ~ 08时56分]"
         }
       ]
     },
@@ -411,11 +633,29 @@
           "url": "https://wallstreetcn.com/articles/3779594",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时27分 ~ 07时28分]"
+          "appearance_count": 3,
+          "time_info": "[02时27分 ~ 08时56分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金融",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "中国即将发行或正在发行的国债和政策性金融债",
+          "url": "https://wallstreetcn.com/livenews/3150731",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时56分"
         }
       ]
     },
@@ -430,7 +670,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
         }
@@ -466,8 +706,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时27分 ~ 07时28分]"
+          "appearance_count": 3,
+          "time_info": "[02时27分 ~ 08时56分]"
         }
       ]
     }
